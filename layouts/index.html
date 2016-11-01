@@ -13,12 +13,17 @@
     <div class="project-grid">
 
       {{- range first 100 .Data.Pages }}
-        <div class="project" style="background-color: #aa4444;">
-          <div class="project-name">
-            Project Name 1
+        <div class="project">
+          <div class="project-thumb"
+            style="background-image: url('/images/{{ .Params.thumb }}');">
           </div>
-          <div class="project-tags">
-            tag1, tag2, tag3
+          <div class="project-info">
+            <div class="project-name">
+              {{ .Title }}
+            </div>
+            <div class="project-tags">
+              {{ delimit .Params.tags ", " }}
+            </div>
           </div>
         </div>
       {{- end }}
