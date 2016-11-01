@@ -1,4 +1,4 @@
-
+{{ partial "header-meta" . }}
 
 <div class="topstuff">
   <topstuff style="color:#0bf;font-weight:500">blue</style><topstuff style="color:#bbb;font-weight:100">visual</style><topstuff style="color:#555">.tv</style>
@@ -11,6 +11,17 @@
       <h1>Personal Projects</h1>
     </div>
     <div class="project-grid">
+
+      {{- range first 100 .Data.Pages }}
+        <div class="project" style="background-color: #aa4444;">
+          <div class="project-name">
+            Project Name 1
+          </div>
+          <div class="project-tags">
+            tag1, tag2, tag3
+          </div>
+        </div>
+      {{- end }}
 
       <div class="project" style="background-color: #aa4444;">
         <div class="project-name">
@@ -75,6 +86,4 @@
   </div>
 </div>
 
-  </body>
-</html>
-
+{{ partial "footer-meta" . }}
