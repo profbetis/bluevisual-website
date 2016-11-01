@@ -11,47 +11,19 @@
       <h1>Personal Projects</h1>
     </div>
     <div class="project-grid">
-
-      {{- range first 100 .Data.Pages }}
+      {{- range where .Data.Pages "Params.category" "==" "personal"}}
         <div class="project">
           <div class="project-thumb"
-            style="background-image: url('/images/{{ .Params.thumb }}');">
+            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
           </div>
-          <div class="project-info">
-            <div class="project-name">
-              {{ .Title }}
-            </div>
-            <div class="project-tags">
-              {{ delimit .Params.tags ", " }}
-            </div>
+          <div class="project-info project-name">
+            {{ .Title }}
+          </div>
+          <div class="project-info project-tags">
+            {{ delimit .Params.tags " // " }}
           </div>
         </div>
       {{- end }}
-
-      <div class="project" style="background-color: #aa4444;">
-        <div class="project-name">
-          Project Name 1
-        </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
-      <div class="project" style="background-color: #884444;">
-        <div class="project-name">
-          Project Name 2
-        </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
-      <div class="project" style="background-color: #664444;">
-        <div class="project-name">
-          Project Name 3
-        </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
     </div>
 
     <div class="side-footer"></div>
@@ -62,31 +34,21 @@
       <h1>Client Work</h1>
     </div>
     <div class="project-grid">
-      <div class="project" style="background-color: #4444aa;">
-        <div class="project-name">
-          Project Name 4
+      {{- range where .Data.Pages "Params.category" "==" "work"}}
+        <div class="project">
+          <div class="project-thumb"
+            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
+          </div>
+          <div class="project-info project-name">
+            {{ .Title }}
+          </div>
+          <div class="project-info project-tags">
+            {{ delimit .Params.tags " // " }}
+          </div>
         </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
-      <div class="project" style="background-color: #444488;">
-        <div class="project-name">
-          Project Name 5
-        </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
-      <div class="project" style="background-color: #444466;">
-        <div class="project-name">
-          Project Name 6
-        </div>
-         <div class="project-tags">
-           tag1, tag2, tag3
-         </div>
-       </div>
+      {{- end }}
     </div>
+
     <div class="side-footer"></div>
   </div>
 </div>
