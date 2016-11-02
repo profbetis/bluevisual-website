@@ -1,9 +1,6 @@
 {{ partial "header-meta" . }}
 
-<div class="topstuff">
-  <topstuff style="color:#0bf;font-weight:500">blue</style><topstuff style="color:#bbb;font-weight:100">visual</style><topstuff style="color:#555">.tv</style>
-</div>
-<div class="topstuff2">motion graphics &nbsp;&nbsp;/&nbsp;&nbsp; visualization &nbsp;&nbsp;/&nbsp;&nbsp; digital art</div>
+{{ partial "header" . }}
 
 <div id="structure">
   <div class="side" id="personal">
@@ -11,11 +8,13 @@
       <h1>Personal Projects</h1>
     </div>
     <div class="project-grid">
-      {{- range where .Data.Pages "Params.category" "==" "personal"}}
+      {{ range where .Data.Pages "Params.category" "==" "personal" }}
         <div class="project">
-          <div class="project-thumb"
+          <a href="{{ .Permalink }}">
+            <div class="project-thumb"
             style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
-          </div>
+            </div>
+          </a>
           <div class="project-info project-name">
             {{ .Title }}
           </div>
@@ -23,7 +22,7 @@
             {{ delimit .Params.tags " // " }}
           </div>
         </div>
-      {{- end }}
+      {{ end }}
     </div>
 
     <div class="side-footer"></div>
@@ -36,9 +35,11 @@
     <div class="project-grid">
       {{- range where .Data.Pages "Params.category" "==" "work"}}
         <div class="project">
-          <div class="project-thumb"
+          <a href="{{ .Permalink }}">
+            <div class="project-thumb"
             style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
-          </div>
+            </div>
+          </a>
           <div class="project-info project-name">
             {{ .Title }}
           </div>

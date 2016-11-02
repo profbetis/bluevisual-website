@@ -1,0 +1,12 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+{{ .Title }}
+
+<a href="{{ $.Site.BaseURL }}">
+  <div class="return">
+    <div class="return-text">Return</div>
+  </div>
+</a>
+
+{{ partial "footer-meta" . }}
