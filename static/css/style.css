@@ -15,7 +15,7 @@ body{
   color: #fff;
   text-align: center;
   overflow: auto;
-  perspective: 4000px;
+  perspective: 3000px;
   font-family: 'Raleway';
   animation: FADEIN 2s 1;
 }
