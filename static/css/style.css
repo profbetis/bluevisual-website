@@ -20,7 +20,13 @@ body{
   overflow-x: hidden;
   animation: FADEIN 2s 1;
 }
-
+h1{
+  font-size: 3em;
+  font-weight: 200;
+  margin: 0;
+  letter-spacing: 0.05em;
+  color: #c0c0c0;
+}
 
 
 /*******/
@@ -84,46 +90,50 @@ body{
 #structure{
   width: 100vw;
   transform-style:preserve-3d;
+  transform-origin: center center -50vw;
   position: relative;
-  margin-top: 4em;
+  margin-top: 6em;
   padding: 0;
-  animation: RISE 2.5s 1;
-  animation-timing-function: cubic-bezier(0.15, 1.300, 0.300, 1.000);
-}
-.rotPersonal{
-  transform: rotateZ( 45deg );
-}
-h1{
-  font-size: 3em;
-  font-weight: 200;
-  margin: 0;
-  letter-spacing: 0.05em;
-  color: #c0c0c0;
+  /*animation: RISE 2.5s 1;
+  animation-timing-function: cubic-bezier(0.15, 1.300, 0.300, 1.000);*/
 }
 
 .side{
   /*outline: 1px solid #444;*/
+  width: 100%;
   position: absolute;
   transform-style:preserve-3d;
+  transform-origin: center center -50vw;
 }
 .side-title, .side-footer{
   background: #282828;
   padding: 1em;
 }
+.side-content{
+  padding: 2em;
+}
 
 #personal{
-  width: 70%;
-  left: -20%;
-  transform-origin: 100% 50%;
   transform: rotateY(-45deg);
 }
+
 #work{
-  width: 70%;
-  left: 50%;
-  transform-origin: 0% 50%;
   transform: rotateY(45deg);
 }
 #work .side-title, #work .side-footer{
+  background: #202020;
+}
+
+#about{
+  transform: rotateY(135deg);
+  background-color: #202020;
+}
+
+#contact{
+  transform: rotateY(-135deg);
+  background-color: #181818;
+}
+#contact .side-title, #contact .side-footer{
   background: #202020;
 }
 
@@ -146,39 +156,40 @@ h1{
   position: relative;
   background-size: cover;
   background-position: center;
-  width: 70vw;
-  height: 70vw;
+  width: 100vw;
+  height: 100vw;
   transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  backface-visibility: visible;
 }
 .project:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
-@media (min-width: 800px){
+@media (min-width: 1000px){
   .project{
-    width: 35vw;
-    height: 35vw;
+    width: 50vw;
+    height: 50vw;
   }
 }
-@media (min-width: 1200px){
+@media (min-width: 1500px){
   .project{
-    width: 23.333vw;
-    height: 23.333vw;
-  }
-}
-@media (min-width: 1600px){
-  .project{
-    width: 17.5vw;
-    height: 17.5vw;
+    width: 33.333vw;
+    height: 33.333vw;
   }
 }
 @media (min-width: 2000px){
   .project{
-    width: 14vw;
-    height: 14vw;
+    width: 25vw;
+    height: 25vw;
   }
 }
-@media (min-width: 2400px){
+@media (min-width: 2500px){
   .project{
-    width: 11.666vw;
-    height: 11.666vw;
+    width: 20vw;
+    height: 20vw;
+  }
+}
+@media (min-width: 3000px){
+  .project{
+    width: 16.666vw;
+    height: 16.666vw;
   }
 }
 
@@ -257,6 +268,21 @@ h1{
 
 
 /*******/
+/***  TOGGLE  ***/
+/*******/
+#toggle:checked ~ #structure{
+  animation: ROTATE2BACK 2.5s 1;
+  transform: rotateY(180deg);
+  animation-timing-function: cubic-bezier(0.3, -0.2, 0.200, 1.000);
+}
+#toggle:not(:checked) ~ #structure{
+  transform: rotateY(0deg);
+  animation: ROTATE2FRONT 2.5s 1;
+  animation-timing-function: cubic-bezier(0.3, -0.2, 0.200, 1.000);
+}
+
+
+/*******/
 /***  ANIMATIONS  ***/
 /*******/
 
@@ -271,6 +297,16 @@ h1{
 }
 
 @-webkit-keyframes FADEIN {
-  0%{ background-position:50% 150% }
-  100%{ background-position:50% 50% }
+  0%{ background-position:50% 150%; }
+  100%{ background-position:50% 50%; }
+}
+
+@-webkit-keyframes ROTATE2BACK {
+  0%{ transform: rotateY(0deg); }
+  100%{ transform: rotateY(180deg); }
+}
+
+@-webkit-keyframes ROTATE2FRONT {
+  0%{ transform: rotateY(180deg);}
+  100%{ transform: rotateY(360deg); }
 }
