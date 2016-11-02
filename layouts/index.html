@@ -8,11 +8,11 @@
       <h1>Personal Projects</h1>
     </div>
     <div class="project-grid">
-      {{ range where .Data.Pages "Params.category" "==" "personal" }}
+      {{ range where .Data.Pages "Section" "==" "personal" }}
         <div class="project">
           <a href="{{ .Permalink }}">
             <div class="project-thumb"
-            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
+            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Section }}/{{ .Params.thumb }}');">
             </div>
           </a>
           <div class="project-info project-name">
@@ -33,11 +33,11 @@
       <h1>Client Work</h1>
     </div>
     <div class="project-grid">
-      {{- range where .Data.Pages "Params.category" "==" "work"}}
+      {{- range where .Data.Pages "Section" "==" "work"}}
         <div class="project">
           <a href="{{ .Permalink }}">
             <div class="project-thumb"
-            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Params.thumb }}');">
+            style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Section }}/{{ .Params.thumb }}');">
             </div>
           </a>
           <div class="project-info project-name">
