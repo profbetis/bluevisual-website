@@ -15,9 +15,8 @@ body{
   color: #fff;
   text-align: center;
   overflow: auto;
-  perspective: 3000px;
+  perspective: 4000px;
   font-family: 'Raleway';
-  overflow-x: hidden;
   animation: FADEIN 2s 1;
 }
 h1{
@@ -26,6 +25,10 @@ h1{
   margin: 0;
   letter-spacing: 0.05em;
   color: #c0c0c0;
+}
+img{
+  float: left;
+  padding: 0 3em;
 }
 
 
@@ -88,14 +91,18 @@ h1{
 /*******/
 
 #structure{
-  width: 100vw;
+  width: 60vw;
   transform-style:preserve-3d;
-  transform-origin: center center -50vw;
+  transform-origin: center center -30vw;
+  left: 20%;
   position: relative;
-  margin-top: 6em;
+  margin-top: 5em;
   padding: 0;
-  /*animation: RISE 2.5s 1;
-  animation-timing-function: cubic-bezier(0.15, 1.300, 0.300, 1.000);*/
+  animation: RISE 2.5s 1;
+  animation-timing-function: cubic-bezier(0.15, 1.300, 0.300, 1.000);
+}
+#structure *{
+  backface-visibility: hidden;
 }
 
 .side{
@@ -103,13 +110,14 @@ h1{
   width: 100%;
   position: absolute;
   transform-style:preserve-3d;
-  transform-origin: center center -50vw;
+  transform-origin: center center -30vw;
 }
 .side-title, .side-footer{
   background: #282828;
   padding: 1em;
 }
 .side-content{
+  font-size: 1.5em;
   padding: 2em;
 }
 
@@ -128,6 +136,9 @@ h1{
   transform: rotateY(135deg);
   background-color: #202020;
 }
+#about .side-content{
+  padding-bottom: 100vh;
+}
 
 #contact{
   transform: rotateY(-135deg);
@@ -135,6 +146,9 @@ h1{
 }
 #contact .side-title, #contact .side-footer{
   background: #202020;
+}
+#contact .side-content{
+  padding-bottom: 100vh;
 }
 
 
@@ -156,40 +170,40 @@ h1{
   position: relative;
   background-size: cover;
   background-position: center;
-  width: 100vw;
-  height: 100vw;
+  width: 60vw;
+  height: 60vw;
   transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
   backface-visibility: visible;
 }
 .project:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
 @media (min-width: 1000px){
   .project{
-    width: 50vw;
-    height: 50vw;
+    width: 30vw;
+    height: 30vw;
   }
 }
 @media (min-width: 1500px){
-  .project{
-    width: 33.333vw;
-    height: 33.333vw;
-  }
-}
-@media (min-width: 2000px){
-  .project{
-    width: 25vw;
-    height: 25vw;
-  }
-}
-@media (min-width: 2500px){
   .project{
     width: 20vw;
     height: 20vw;
   }
 }
+@media (min-width: 2000px){
+  .project{
+    width: 15vw;
+    height: 15vw;
+  }
+}
+@media (min-width: 2500px){
+  .project{
+    width: 12vw;
+    height: 12vw;
+  }
+}
 @media (min-width: 3000px){
   .project{
-    width: 16.666vw;
-    height: 16.666vw;
+    width: 10vw;
+    height: 10vw;
   }
 }
 
@@ -201,8 +215,8 @@ h1{
 
 .project-thumb{
   background-size: cover;
-  min-width: 100%;
-  min-height: 100%;
+  width: 100%;
+  height: 100%;
   filter: grayscale(100%) contrast(33%) brightness(50%);
   transition: filter 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
