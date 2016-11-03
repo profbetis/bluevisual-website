@@ -1,11 +1,17 @@
 {{ partial "header-meta" . }}
 {{ partial "header" . }}
 
-{{ .Title }}
+<div class="project-title">
+  {{ .Title }}
+</div>
+
+<div class="project-content">
+  {{ .Content }}
+</div>
 
 <a href="{{ $.Site.BaseURL }}">
   <div class="return">
-    <div class="return-text">Return</div>
+    <div class="return-text">Return to Projects</div>
   </div>
 </a>
 

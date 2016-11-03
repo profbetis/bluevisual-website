@@ -2,17 +2,24 @@
 
 {{ partial "header" . }}
 
-<input type="checkbox" name="toggle" id="toggle" />
+<input type="checkbox" name="reel-toggle" id="reel-toggle" />
 
+<div id="reel">
+  <iframe src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<input type="checkbox" name="rotate" id="toggle" />
 
 <div id="structure">
   <div class="side" id="personal">
+    <label for="reel-toggle">Reel</label>
     <div class="side-title">
       <h1>Personal Projects</h1>
     </div>
     <div class="project-grid">
       {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
-        <div class="project" style="z-index:{{sub 100 $index}}">
+        <div class="project"
+        style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
           <a href="{{ .Permalink }}">
             <div class="project-thumb"
             style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Section }}/{{ .Params.thumb }}');">
@@ -32,13 +39,14 @@
   </div>
 
   <div class="side" id="work">
-    <label for="toggle">About Me // Contact</label>
+    <label for="toggle">Me // Contact</label>
     <div class="side-title">
       <h1>Client Work</h1>
     </div>
     <div class="project-grid">
       {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
-        <div class="project" style="z-index:{{sub 100 $index}}">
+        <div class="project"
+        style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
           <a href="{{ .Permalink }}">
             <div class="project-thumb"
             style="background-image: url('{{ $.Site.BaseURL }}/images/{{ .Section }}/{{ .Params.thumb }}');">
@@ -60,7 +68,7 @@
   <div class="side" id="about">
     <div class="side-title">
       <label for="toggle">Portfolio // Work</label>
-      <h1>Kevin Weber</h1>
+      <h1>Me</h1>
     </div>
     <div class="side-content">
       {{ partial "about" . }}
@@ -73,7 +81,7 @@
       <h1>Get in Touch</h1>
     </div>
     <div class="side-content">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      {{ partial "contact" . }}
     </div>
     <div class="side-footer"></div>
   </div>

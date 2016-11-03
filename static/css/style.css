@@ -12,12 +12,25 @@ html, body{
 
 body{
   background: linear-gradient(60deg, #282828, #484848);
-  color: #fff;
+  color: #c0c0c0;
   text-align: center;
   overflow: auto;
   perspective: 3000px;
   font-family: 'Raleway';
   animation: FADEIN 2s 1;
+  transition: all 0.2s ease;
+}
+
+a{
+  color: #0bf;
+	text-decoration: none;
+  transition: all 0.2s ease;
+  text-shadow: 0px 0px 0em #000;
+}
+a:hover{
+  color: #6ef;
+  text-shadow: 0px 0px 0.25em #0bf;
+  transition: all 0.2s ease;
 }
 
 h1{
@@ -46,9 +59,7 @@ img{
 /*******/
 
 .topstuff {
-  /*position: fixed;*/
   color: #bbb;
-  /*background: #333;*/
 
   font-size: 4em;
   letter-spacing: 7px;
@@ -67,7 +78,8 @@ img{
 -ms-user-select: none; /* IE10+ */
 
   z-index: 10;
-  animation: FALL 2.0s 1;
+  animation: FALL 1.5s 1;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
 .topstuff.a {
 	text-decoration: none;
@@ -85,12 +97,32 @@ img{
   z-index: 11;
 	overflow: visible;
   white-space: nowrap;
-  animation: FALL 2.0s 1;
+  animation: FALL 1.0s 1;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
 .topstuff2.a{
 	text-decoration: none;
 }
 
+
+
+/*******/
+/***  REEL  ***/
+/*******/
+
+#reel{
+  left: 25%;
+  top: 25%;
+  width: 50vw;
+  position: absolute;
+  animation: RISE 2.5s 1;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
+  outline: 2em solid #282828;
+
+}
+#reel *{
+  position: relative;
+}
 
 
 /*******/
@@ -105,15 +137,14 @@ img{
   position: relative;
   margin-top: 5%;
   padding: 0;
-  animation: RISE 2.5s 1;
-  animation-timing-function: cubic-bezier(0.15, 1.300, 0.300, 1.000);
+  animation: RISE 2.0s 1;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
 #structure *{
   backface-visibility: hidden;
 }
 
 .side{
-  /*outline: 1px solid #444;*/
   width: 100%;
   position: absolute;
   transform-style:preserve-3d;
@@ -124,44 +155,46 @@ img{
   padding: 1em;
 }
 .side-content{
-  font-size: 1.5em;
+  pointer-events: none;
+  color: #c0c0c0;
+  font-size: 1.6em;
   padding: 1em;
-  padding-bottom: 100vh;
+  height: 50em;
   text-align: left;
   transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-
-#personal{
-  transform: rotateY(-45deg);
+.side-content *{
+  pointer-events: initial;
 }
 
-#work{
-  transform: rotateY(45deg);
-}
-#work .side-title, #work .side-footer{
-  background: #202020;
-}
 
+
+/*******/
+/***  ABOUT & CONTACT  ***/
+/*******/
 
 #about{
   transform: rotateY(135deg);
   background-color: #202020;
 }
-#about .side-content img{
-  transform-origin: right;
-  z-index: 200;
-}
-#about .side-content img:hover{
-  transform: rotateY(45deg);
+#email{
+  font-size: 4em;
+  font-weight: 200;
 }
 
 #kev{
-  margin: 0 auto;
-  width: 50%;
-  transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  position: static;
+  width: 500px;
+  height: 500px;
+  margin: 2em auto;
+  background-size: cover;
+  outline: 0.5em solid #181818;
+  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #kev:hover{
-  transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+  transform: translateZ(4em) rotateY(45deg);
+  outline: 3em solid #181818;
+  transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
 
@@ -173,13 +206,25 @@ img{
   background: #202020;
 }
 #contact .side-content{
+  text-align: center;
 }
 
 
 
 /*******/
-/***  PROJECTS  ***/
+/***  PROJECT THUMBNAILS  ***/
 /*******/
+
+#personal{
+  transform: rotateY(-45deg);
+}
+
+#work{
+  transform: rotateY(45deg);
+}
+#work .side-title, #work .side-footer{
+  background: #202020;
+}
 
 .project-grid{
   display: flex;
@@ -196,8 +241,6 @@ img{
   background-position: center;
   width: 60vw;
   height: 60vw;
-  transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-  backface-visibility: visible;
 }
 .project:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
 @media (min-width: 500px){
@@ -231,10 +274,24 @@ img{
   }
 }
 
-#personal .project{ transform-origin: 100% 0%; }
+#personal .project{
+  animation-fill-mode: forwards;
+  opacity: 1;
+  transform: translateZ(0px);
+  transform-origin: 100% 0%;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
+  /*animation: PROJINTRO_A 0.5s 1;*/
+}
 #personal .project:hover{ transform: rotateY(10deg) translateZ(20px); }
 
-#work .project{ transform-origin: 0% 0%; }
+#work .project{
+  animation-fill-mode: forwards;
+  opacity: 1;
+  transform: translateZ(0px);
+  transform-origin: 0% 0%;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
+  /*animation: PROJINTRO_B 0.5s 1;*/
+}
 #work .project:hover{ transform:rotateY(-10deg) translateZ(20px); }
 
 .project-thumb{
@@ -274,7 +331,7 @@ img{
   bottom: 0%;
   width: calc(100% - 1em);
   opacity: 0.4;
-  font-size: 1.0em;
+  font-size: 0.85em;
   font-weight: 300;
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
@@ -290,17 +347,39 @@ img{
 /***  SINGLE  ***/
 /*******/
 
+.project-title{
+  font-size: 2em;
+  margin: 1em auto;
+  color: #f0f0f0;
+  font-weight: 200;
+}
+
+.project-content{
+  max-width: 960px;
+  margin: auto;
+}
+
 .return{
   height: 75vh;
+  width: 5em;
   background-color: #181818;
   position: fixed;
   top: 12.5vh;
+  left: -2em;
+  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+.return:hover{
+  left: -1em;
+  transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 .return-text{
   transform: rotate(-90deg);
-  margin-top: 100%;
-  color: #aaa;
-  text-align: center;
+  top: 5em;
+  left: -0.75em;
+  color: #a0a0a0;
+  text-align: right;
+  position: absolute;
+  white-space: nowrap;
 }
 
 
@@ -309,15 +388,29 @@ img{
 /***  TOGGLE  ***/
 /*******/
 #toggle:checked ~ #structure{
-  animation: ROTATE2BACK 2.5s 1;
   transform: rotateY(180deg);
-  animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  /*animation: ROTATE2BACK 2.5s 1;*/
+  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
 }
 #toggle:not(:checked) ~ #structure{
-  transform: rotateY(0deg);
-  animation: ROTATE2FRONT 2.5s 1;
-  animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  transform: rotateY(360deg);
+  /*animation: ROTATE2FRONT 2.5s 1;*/
+  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
 }
+#reel-toggle:checked ~ #structure{
+  transform: translateY(60vh);
+}
+#reel-toggle:checked ~ #reel{
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  transform: translateY(-7vh);
+}
+#reel-toggle:not(:checked) ~ #reel{
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  transform: translateY(10vh);
+}
+
 label{
   font-size: 1.5em;
   position: absolute;
@@ -327,7 +420,7 @@ label{
   top: -2em;
 }
 #work label{  right: 0; }
-#about label{ left: 0; }
+#about label, #personal label{ left: 0; }
 label:hover{
   background: #202020;
   color: #d0d0d0;
@@ -337,7 +430,7 @@ label:hover{
 label:active{
   background: #101010;
   color: #0bf;
-  transform: translateZ(30px);
+  transform: translateZ(20px);
 }
 
 input{
@@ -347,6 +440,20 @@ input{
 /*******/
 /***  ANIMATIONS  ***/
 /*******/
+@-webkit-keyframes PROJINTRO_A {
+  from{
+    opacity: 0;
+    /*transform: rotateY( 90deg );*/
+    transform: translateZ( 200px );
+  }
+}
+@-webkit-keyframes PROJINTRO_B {
+  from{
+    opacity: 0;
+    /*transform: rotateY( -90deg );*/
+    transform: translateZ( 200px );
+  }
+}
 
 @-webkit-keyframes RISE {
   0%{ transform: translateY(100vh); }
