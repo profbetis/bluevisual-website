@@ -19,6 +19,7 @@ body{
   font-family: 'Raleway';
   animation: FADEIN 2s 1;
 }
+
 h1{
   font-size: 3em;
   font-weight: 200;
@@ -26,9 +27,17 @@ h1{
   letter-spacing: 0.05em;
   color: #c0c0c0;
 }
+
+p{
+  margin-left: 1em;
+  margin-right: 1em;
+}
+p:first-of-type{
+  margin-top: -0.25em;
+}
+
 img{
-  float: left;
-  padding: 0 3em;
+
 }
 
 
@@ -46,8 +55,6 @@ img{
   text-align: center;
   line-height: 1.8em;
 
-  /*box-shadow: 0px 50px 80px #333;*/
-
   top: 0px;
   margin: auto;
   width: 100%;
@@ -60,7 +67,7 @@ img{
 -ms-user-select: none; /* IE10+ */
 
   z-index: 10;
-  animation: FALL 2.5s 1;
+  animation: FALL 2.0s 1;
 }
 .topstuff.a {
 	text-decoration: none;
@@ -118,7 +125,10 @@ img{
 }
 .side-content{
   font-size: 1.5em;
-  padding: 2em;
+  padding: 1em;
+  padding-bottom: 100vh;
+  text-align: left;
+  transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
 #personal{
@@ -132,14 +142,28 @@ img{
   background: #202020;
 }
 
+
 #about{
   transform: rotateY(135deg);
   background-color: #202020;
 }
-#about .side-content{
-  text-align: left;
-  padding-bottom: 100vh;
+#about .side-content img{
+  transform-origin: right;
+  z-index: 200;
 }
+#about .side-content img:hover{
+  transform: rotateY(45deg);
+}
+
+#kev{
+  margin: 0 auto;
+  width: 50%;
+  transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+#kev:hover{
+  transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+}
+
 
 #contact{
   transform: rotateY(-135deg);
@@ -149,8 +173,6 @@ img{
   background: #202020;
 }
 #contact .side-content{
-  text-align: left;
-  padding-bottom: 100vh;
 }
 
 
@@ -178,31 +200,31 @@ img{
   backface-visibility: visible;
 }
 .project:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
-@media (min-width: 1000px){
+@media (min-width: 500px){
   .project{
     width: 30vw;
     height: 30vw;
   }
 }
-@media (min-width: 1500px){
+@media (min-width: 1000px){
   .project{
     width: 20vw;
     height: 20vw;
   }
 }
-@media (min-width: 2000px){
+@media (min-width: 1500px){
   .project{
     width: 15vw;
     height: 15vw;
   }
 }
-@media (min-width: 2500px){
+@media (min-width: 2000px){
   .project{
     width: 12vw;
     height: 12vw;
   }
 }
-@media (min-width: 3000px){
+@media (min-width: 2500px){
   .project{
     width: 10vw;
     height: 10vw;
