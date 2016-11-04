@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blue Visual v03</title>
+    <link>http://bluevisual.tv/post/</link>
+    <description>Recent content in Posts on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Aug 2016 15:46:55 -0400</lastBuildDate>
+    <atom:link href="http://bluevisual.tv/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Googbye World</title>
+      <link>http://bluevisual.tv/post/hello-world/</link>
+      <pubDate>Wed, 24 Aug 2016 15:46:55 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/post/hello-world/</guid>
+      <description>&lt;p&gt;##Can&amp;rsquo;t wait to Die##
+LOL&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
