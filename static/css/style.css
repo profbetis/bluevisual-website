@@ -135,7 +135,8 @@ img{
   transform-origin: center center -30vw;
   left: 20%;
   position: relative;
-  margin-top: 5%;
+  margin-top: 7%;
+  margin-bottom: 10%;
   padding: 0;
   animation: RISE 2.0s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
@@ -159,7 +160,6 @@ img{
   color: #c0c0c0;
   font-size: 1.6em;
   padding: 1em;
-  height: 50em;
   text-align: left;
   transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
@@ -178,14 +178,16 @@ img{
   background-color: #202020;
 }
 #email{
-  font-size: 4em;
+  font-size: 5vw;
   font-weight: 200;
 }
 
 #kev{
   position: static;
-  width: 500px;
-  height: 500px;
+  width: 35vw;
+  height: 35vw;
+  max-width: 500px;
+  max-height: 500px;
   margin: 2em auto;
   background-size: cover;
   outline: 0.5em solid #181818;
@@ -403,12 +405,14 @@ img{
   transform: translateY(60vh);
 }
 #reel-toggle:checked ~ #reel{
-  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   transform: translateY(-7vh);
+  opacity: 1.0;
 }
 #reel-toggle:not(:checked) ~ #reel{
-  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   transform: translateY(10vh);
+  opacity: 0.0;
 }
 
 label{

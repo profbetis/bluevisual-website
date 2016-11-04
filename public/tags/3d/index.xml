@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/3d/</link>
+    <description>Recent content in 3d on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2016 10:37:22 -0400</lastBuildDate>
+    <atom:link href="http://bluevisual.tv/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Destiny</title>
+      <link>http://bluevisual.tv/personal/destiny/</link>
+      <pubDate>Wed, 02 Nov 2016 10:37:22 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/destiny/</guid>
+      <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Onyx Cinema</title>
+      <link>http://bluevisual.tv/work/onyxcinema/</link>
+      <pubDate>Tue, 01 Nov 2016 21:06:41 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/onyxcinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alumiq</title>
+      <link>http://bluevisual.tv/work/alumiq/</link>
+      <pubDate>Tue, 01 Nov 2016 21:06:33 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/alumiq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Me &#43; Her</title>
+      <link>http://bluevisual.tv/work/me&#43;her/</link>
+      <pubDate>Tue, 01 Nov 2016 21:06:17 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/me&#43;her/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Landscape Flythroughs</title>
+      <link>http://bluevisual.tv/work/landscape-flythroughs/</link>
+      <pubDate>Tue, 01 Nov 2016 21:06:02 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoli Speedmodel</title>
+      <link>http://bluevisual.tv/work/zoli-speedmodel/</link>
+      <pubDate>Tue, 01 Nov 2016 21:05:39 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AminoCat Logo Animation</title>
+      <link>http://bluevisual.tv/work/acla/</link>
+      <pubDate>Tue, 01 Nov 2016 17:50:45 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/acla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vape Traze Logo Animation</title>
+      <link>http://bluevisual.tv/work/vtla/</link>
+      <pubDate>Tue, 01 Nov 2016 17:41:15 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/vtla/</guid>
+      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;
+
+&lt;p&gt;Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer.&lt;/p&gt;
+
+&lt;p&gt;Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.&lt;/p&gt;
+
+&lt;p&gt;The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
