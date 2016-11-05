@@ -1,3 +1,5 @@
 baseurl = "http://dev.bluevisual.tv/"
 languageCode = "en-us"
 title = "Blue Visual v03"
+
+publishdir = "docs"
