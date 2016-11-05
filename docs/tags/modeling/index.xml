@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modeling on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/modeling/</link>
+    <link>http://dev.bluevisual.tv/tags/modeling/</link>
     <description>Recent content in Modeling on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2016 10:37:14 -0400</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dev.bluevisual.tv/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Exion49 Model</title>
-      <link>http://bluevisual.tv/personal/exion49/</link>
+      <link>http://dev.bluevisual.tv/personal/exion49/</link>
       <pubDate>Wed, 02 Nov 2016 10:37:14 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/exion49/</guid>
+      <guid>http://dev.bluevisual.tv/personal/exion49/</guid>
       <description>&lt;p&gt;This project&amp;rsquo;s goal was to recreate M-Audio&amp;rsquo;s Axiom49. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bungee Chair Models</title>
-      <link>http://bluevisual.tv/personal/bungeechairs/</link>
+      <link>http://dev.bluevisual.tv/personal/bungeechairs/</link>
       <pubDate>Wed, 02 Nov 2016 10:36:45 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
+      <guid>http://dev.bluevisual.tv/personal/bungeechairs/</guid>
       <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Zoli Speedmodel</title>
-      <link>http://bluevisual.tv/work/zoli-speedmodel/</link>
+      <link>http://dev.bluevisual.tv/work/zoli-speedmodel/</link>
       <pubDate>Tue, 01 Nov 2016 21:05:39 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
+      <guid>http://dev.bluevisual.tv/work/zoli-speedmodel/</guid>
       <description></description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lowpoly on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/lowpoly/</link>
+    <link>http://dev.bluevisual.tv/tags/lowpoly/</link>
     <description>Recent content in Lowpoly on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2016 10:37:52 -0400</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/tags/lowpoly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dev.bluevisual.tv/tags/lowpoly/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Polygatures</title>
-      <link>http://bluevisual.tv/personal/polygatures/</link>
+      <link>http://dev.bluevisual.tv/personal/polygatures/</link>
       <pubDate>Wed, 02 Nov 2016 10:37:52 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/polygatures/</guid>
+      <guid>http://dev.bluevisual.tv/personal/polygatures/</guid>
       <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;
 </description>
     </item>

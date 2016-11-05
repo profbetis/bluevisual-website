@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concept on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/concept/</link>
+    <link>http://dev.bluevisual.tv/tags/concept/</link>
     <description>Recent content in Concept on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2016 10:38:46 -0400</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/tags/concept/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dev.bluevisual.tv/tags/concept/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Miscellaneous</title>
-      <link>http://bluevisual.tv/personal/misc/</link>
+      <link>http://dev.bluevisual.tv/personal/misc/</link>
       <pubDate>Wed, 02 Nov 2016 10:38:46 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/misc/</guid>
+      <guid>http://dev.bluevisual.tv/personal/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyramid Fractal</title>
-      <link>http://bluevisual.tv/personal/pyramidfractal/</link>
+      <link>http://dev.bluevisual.tv/personal/pyramidfractal/</link>
       <pubDate>Wed, 02 Nov 2016 10:38:25 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/pyramidfractal/</guid>
+      <guid>http://dev.bluevisual.tv/personal/pyramidfractal/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always been interested in mathematics, which led to an early interest in fractals, which are mathematical self-similar shapes and formulas. A well-known one is the Mandelbrot fractal. A key characteristic of fractals is that if you look at a smaller part of the whole, you will see the same same structures on vastly different scales.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Polygatures</title>
-      <link>http://bluevisual.tv/personal/polygatures/</link>
+      <link>http://dev.bluevisual.tv/personal/polygatures/</link>
       <pubDate>Wed, 02 Nov 2016 10:37:52 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/polygatures/</guid>
+      <guid>http://dev.bluevisual.tv/personal/polygatures/</guid>
       <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hypercube</title>
-      <link>http://bluevisual.tv/personal/hypercube/</link>
+      <link>http://dev.bluevisual.tv/personal/hypercube/</link>
       <pubDate>Wed, 02 Nov 2016 10:37:44 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/hypercube/</guid>
+      <guid>http://dev.bluevisual.tv/personal/hypercube/</guid>
       <description>&lt;p&gt;Inspired by a project someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did. One of the things that I noticed about the real project was that the imperfections and fluctuations in the mirrors/glass made the infinite hallways seem to warp more and more as it went &amp;ldquo;deeper&amp;rdquo; into the meta reflection. I added these imperfections to my own creation and they brought it to a new level of believability.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Destiny</title>
-      <link>http://bluevisual.tv/personal/destiny/</link>
+      <link>http://dev.bluevisual.tv/personal/destiny/</link>
       <pubDate>Wed, 02 Nov 2016 10:37:22 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/personal/destiny/</guid>
+      <guid>http://dev.bluevisual.tv/personal/destiny/</guid>
       <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;
 </description>
     </item>

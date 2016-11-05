@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projection on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/projection/</link>
+    <link>http://dev.bluevisual.tv/tags/projection/</link>
     <description>Recent content in Projection on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2016 21:06:02 -0400</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/tags/projection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dev.bluevisual.tv/tags/projection/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Landscape Flythroughs</title>
-      <link>http://bluevisual.tv/work/landscape-flythroughs/</link>
+      <link>http://dev.bluevisual.tv/work/landscape-flythroughs/</link>
       <pubDate>Tue, 01 Nov 2016 21:06:02 -0400</pubDate>
       
-      <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
+      <guid>http://dev.bluevisual.tv/work/landscape-flythroughs/</guid>
       <description></description>
     </item>
     
