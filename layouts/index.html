@@ -29,7 +29,10 @@
             {{ .Title }}
           </div>
           <div class="project-info project-tags">
-            {{ delimit .Params.tags " // " }}
+            <!-- {{ delimit .Params.tags " // " }} -->
+            {{ range .Params.tags }}
+              <a href="/tags/{{ . }}">{{ . }}</a>
+            {{ end }}
           </div>
         </div>
       {{ end }}
