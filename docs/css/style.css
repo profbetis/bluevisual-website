@@ -111,9 +111,11 @@ img{
 /*******/
 
 #reel{
-  left: 25%;
-  top: 25%;
-  width: 50vw;
+  transform-origin: center;
+  left: calc(50% - 480px);
+  top: 200px;
+  width: 960px;
+  height: 540px;
   position: absolute;
   animation: RISE 2.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
@@ -165,6 +167,63 @@ img{
 }
 .side-content *{
   pointer-events: initial;
+}
+
+
+
+/*******/
+/***  TOGGLE  ***/
+/*******/
+#toggle:checked ~ #structure{
+  transform: rotateY(180deg);
+  /*animation: ROTATE2BACK 2.5s 1;*/
+  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+}
+#toggle:not(:checked) ~ #structure{
+  transform: rotateY(360deg);
+  /*animation: ROTATE2FRONT 2.5s 1;*/
+  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+}
+#reel-toggle:checked ~ #structure{
+  transform: translateY(650px);
+}
+#reel-toggle:checked ~ #reel{
+  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  top: 250px;
+  opacity: 1.0;
+}
+#reel-toggle:not(:checked) ~ #reel{
+  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
+  top: 500px;
+  opacity: 0.0;
+}
+
+label{
+  font-size: 1.5em;
+  position: absolute;
+  color: #a0a0a0;
+  padding: 0.25em 0.5em;
+  transition: all 0.1s ease;
+  top: -2em;
+}
+#work label{  right: 0; }
+#about label, #personal label{ left: 0; }
+label:hover{
+  background: #202020;
+  color: #d0d0d0;
+  cursor: pointer;
+  transform: translateZ(10px);
+}
+label:active{
+  background: #101010;
+  color: #0bf;
+  transform: translateZ(20px);
+}
+
+input{
+  display: none;
 }
 
 
@@ -243,8 +302,10 @@ img{
   background-position: center;
   width: 60vw;
   height: 60vw;
+  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
+
 @media (min-width: 500px){
   .project{
     width: 30vw;
@@ -277,7 +338,6 @@ img{
 }
 
 #personal .project{
-  animation-fill-mode: forwards;
   opacity: 1;
   transform: translateZ(0px);
   transform-origin: 100% 0%;
@@ -321,27 +381,38 @@ img{
   top: 0%;
   width: calc(100% - 1em);
   text-align: left;
-  font-size: 1.6em;
+  font-size: 1.3em;
   font-weight: 200;
 }
 .project:hover .project-name{
-  letter-spacing: 0.05em;
+  color: #ffffff;
 }
 
 .project-tags{
+  color: #ffffff;
   text-align: right;
   bottom: 0%;
   width: calc(100% - 1em);
-  opacity: 0.4;
+  opacity: 0.2;
   font-size: 0.85em;
   font-weight: 300;
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project:hover .project-tags{
   opacity: 1.0;
-  letter-spacing: 0.05em;
+  /*letter-spacing: 0.05em;*/
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
+.project-tags a{
+  color: inherit;
+  text-shadow: none;
+}
+.project-tags a:hover{
+  text-decoration: underline;
+}
+/*.project-tags a:not(:nth-of-type(last))::before{
+  content: " // ";
+}*/
 
 
 
@@ -385,61 +456,6 @@ img{
 }
 
 
-
-/*******/
-/***  TOGGLE  ***/
-/*******/
-#toggle:checked ~ #structure{
-  transform: rotateY(180deg);
-  /*animation: ROTATE2BACK 2.5s 1;*/
-  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
-  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
-}
-#toggle:not(:checked) ~ #structure{
-  transform: rotateY(360deg);
-  /*animation: ROTATE2FRONT 2.5s 1;*/
-  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
-  transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
-}
-#reel-toggle:checked ~ #structure{
-  transform: translateY(60vh);
-}
-#reel-toggle:checked ~ #reel{
-  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
-  transform: translateY(-7vh);
-  opacity: 1.0;
-}
-#reel-toggle:not(:checked) ~ #reel{
-  transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
-  transform: translateY(10vh);
-  opacity: 0.0;
-}
-
-label{
-  font-size: 1.5em;
-  position: absolute;
-  color: #a0a0a0;
-  padding: 0.25em 0.5em;
-  transition: all 0.1s ease;
-  top: -2em;
-}
-#work label{  right: 0; }
-#about label, #personal label{ left: 0; }
-label:hover{
-  background: #202020;
-  color: #d0d0d0;
-  cursor: pointer;
-  transform: translateZ(10px);
-}
-label:active{
-  background: #101010;
-  color: #0bf;
-  transform: translateZ(20px);
-}
-
-input{
-  display: none;
-}
 
 /*******/
 /***  ANIMATIONS  ***/
