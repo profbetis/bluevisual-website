@@ -1,6 +1,13 @@
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    <source src="/videos/{{ .Section }}/{{ .BaseFileName }}-video-0{{ .Get 0 }}.mp4" />
+    {{ if (.Get 0) lt 9 }}
+      <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-0{{ .Get 0 }}.mp4" />
+    {{ else }}
+      <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-{{ .Get 0 }}.mp4" />
+    {{ end }}
   </video>
-  <span class="caption">{{ .Get 1 }}
+  {{ if len .Params | eq 2 }}
+    <span class="caption">{{ .Get 1 }}</span>
+  {{ end }}
+
 </div>

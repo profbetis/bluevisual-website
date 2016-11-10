@@ -1,4 +1,8 @@
 <div class="project-image">
-  <img src="/images/{{ .Section }}/{{ .BaseFileName }}-0{{ .Get 0 }}.jpg">
+  {{ if (.Get 0) lt 9 }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ .Get 0 }}.jpg">
+  {{ else }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
+  {{ end }}
   <span class="caption">{{ .Get 1 }}
 </div>
