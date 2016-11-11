@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:38:00-04:00"
-images = ["stargaze-01.jpg", "stargaze-02.jpg", "stargaze-03.jpg"]
 tags = ["art", "procedural", "2D"]
-thumb = "stargaze-thumb.jpg"
+tools = ["Filter Forge"]
 time = "2013 May"
 title = "Stargaze"
 

@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:37:52-04:00"
-images = ["polygatures-01.jpg", "polygatures-02.jpg", "polygatures-03.jpg"]
 tags = ["art", "concept", "lowpoly"]
-thumb = "polygatures-thumb.jpg"
+tools = ["3DS Max", "Octane Render"]
 time = "2013 Oct"
 title = "Polygatures"
 

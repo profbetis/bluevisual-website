@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:37:14-04:00"
-images = ["exion49-01.jpg", "exion49-02.jpg", "exion49-03.jpg"]
 tags = ["modeling", "product"]
-thumb = "exion49-thumb.jpg"
+tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 time = "2015 Feb"
 title = "Exion49 Model"
 

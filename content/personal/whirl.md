@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:38:29-04:00"
-images = ["whirl-01.jpg", "whirl-02.jpg", "whirl-03.jpg"]
 tags = ["art", "experiment"]
-thumb = "whirl-thumb.jpg"
+tools = ["3DS Max", "Octane Render"]
 time = "2013 May"
 title = "Whirl"
 

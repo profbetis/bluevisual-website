@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:38:25-04:00"
-images = ["pyramidfractal-01.jpg", "pyramidfractal-02.jpg", "pyramidfractal-03.jpg"]
 tags = ["art", "concept", "mathematics"]
-thumb = "pyramidfractal-thumb.jpg"
+tools = ["3DS Max", "Octane Render"]
 time = "2013 Jan"
 title = "Pyramid Fractal"
 

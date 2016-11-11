@@ -1,9 +1,7 @@
 +++
-client = "N/A"
 date = "2016-11-02T10:37:44-04:00"
-images = ["hypercube-01.jpg", "hypercube-02.jpg", "hypercube-03.jpg"]
 tags = ["concept", "experiment", "art"]
-thumb = "hypercube-thumb.jpg"
+tools = ["3DS Max", "Octane Render"]
 time = "2014 Mar"
 title = "Hypercube"
 
