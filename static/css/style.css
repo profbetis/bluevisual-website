@@ -14,14 +14,24 @@ html, body{
 }
 
 body{
+  height: calc(100% + 150px);
   background: linear-gradient(60deg, #282828, #484848);
   color: #c0c0c0;
   text-align: center;
-  overflow: auto;
-  perspective: 3000px;
   font-family: 'Raleway';
   animation: FADEIN 2s 1;
   transition: all 0.2s ease;
+  overflow: auto;
+}
+
+.persp{
+  position: absolute;
+  perspective: 3000px;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  padding-top: 150px;
+  overflow: auto;
 }
 
 a{
@@ -187,15 +197,17 @@ h1{
   top: 200px;
   /*transform: scale(1);*/
   opacity: 1.0;
+  pointer-events: all;
 }
 #reel-toggle:not(:checked) ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 500px;
   /*transform: scale(0.1);*/
   opacity: 0.0;
+  pointer-events: none;
 }
 
-label{
+.side label{
   font-size: 1.5em;
   position: absolute;
   color: #a0a0a0;
@@ -205,13 +217,13 @@ label{
 }
 #work label{  right: 0; }
 #about label, #personal label{ left: 0; }
-label:hover{
+.side label:hover{
   background: #202020;
   color: #d0d0d0;
   cursor: pointer;
   transform: translateZ(10px);
 }
-label:active{
+.side label:active{
   background: #101010;
   color: #0bf;
   transform: translateZ(20px);
@@ -428,13 +440,14 @@ input{
 }
 
 .project .header{
+  position: relative;
   background: #282828;
   margin-top: 4em;
   height: 160px;
   text-align: left;
 }
 
-.project .image{
+.project .header .image{
   width: 136px;
   height: 136px;
   margin: 12px;
@@ -479,16 +492,8 @@ input{
   background: #0bf;
   color: #fff;
 }
-.project .info .section{
-  float: right;
-  text-align: right;
-  color: #606060;
-  font-size: 1.3em;
-  margin-top: -1.3em;
-}
 
 .project .content{
-  /*margin-top: 3em;*/
 }
 
 .project .content p:not(:empty){
@@ -500,7 +505,6 @@ input{
 
 .project .content .project-image{
   margin: 2em 0;
-  object-fit: cover;
   background-size: cover;
 }
 .project .content .project-image img, .project .content .project-image video{
@@ -522,6 +526,43 @@ input{
   width: 100%;
   line-height: 2em;
   margin-top: -4px;
+}
+
+.project .content label{
+  cursor: zoom-in;
+}
+
+.project .content .lightbox{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0,0,0,0.7);
+}
+.project .content .lightbox img{
+  position: absolute;
+  top: 50%;
+  max-width: 90%;
+  transform: translateX(-50%) translateY(-50%);
+  height: auto;
+  outline: 1px solid #404040;
+  transition: outline 0.2s ease;
+}
+.project .content .lightbox img:hover{
+  outline: 1px solid #0bf;
+  cursor: zoom-out;
+}
+
+input:checked + div.lightbox{
+  opacity: 1.0;
+  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+
+input:not(:checked) + div.lightbox{
+transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+  opacity: 0.0;
+  display: none;
 }
 
 #return{
