@@ -12,89 +12,90 @@
 
 <input type="checkbox" name="rotate" id="toggle" />
 
-<div id="structure">
-  <div class="side" id="personal">
-    <label for="reel-toggle">Reel</label>
-    <div class="side-title">
-      <h1>Personal Projects</h1>
-    </div>
-    <div class="project-grid">
-      {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
-        <div class="project-tile"
-        style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
-          <a href="{{ .Permalink }}">
-            <div class="project-thumb"
-            style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
+  <div id="structure">
+    <div class="side" id="personal">
+      <label for="reel-toggle">Reel</label>
+      <div class="side-title">
+        <h1>Personal Projects</h1>
+      </div>
+      <div class="project-grid">
+        {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
+          <div class="project-tile"
+          style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
+            <a href="{{ .Permalink }}">
+              <div class="project-thumb"
+              style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
+              </div>
+            </a>
+            <div class="project-info project-name">
+              {{ .Title }}
             </div>
-          </a>
-          <div class="project-info project-name">
-            {{ .Title }}
-          </div>
-          <div class="project-info project-tags">
-            {{ range .Params.tags }}
-              <a href="/tags/{{ . }}">{{ . }}</a>
-            {{ end }}
-          </div>
-        </div>
-      {{ end }}
-    </div>
-
-    <div class="side-footer"></div>
-
-    <br>
-    <span style="color: #808080;">
-      Site proudly built with <a href="https://gohugo.io/"  target="_blank">Hugo.</a></span>
-    <div style="height: 5vh;"></div>
-  </div>
-
-  <div class="side" id="work">
-    <label for="toggle">Me // Contact</label>
-    <div class="side-title">
-      <h1>Client Work</h1>
-    </div>
-    <div class="project-grid">
-      {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
-        <div class="project-tile"
-        style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
-          <a href="{{ .Permalink }}">
-            <div class="project-thumb"
-            style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
+            <div class="project-info project-tags">
+              {{ range .Params.tags }}
+                <a href="/tags/{{ . }}">{{ . }}</a>
+              {{ end }}
             </div>
-          </a>
-          <div class="project-info project-name">
-            {{ .Title }}
           </div>
-          <div class="project-info project-tags">
-            {{ delimit .Params.tags " // " }}
+        {{ end }}
+      </div>
+
+      <div class="side-footer"></div>
+
+      <br>
+      <span style="color: #808080;">
+        Site proudly built with <a href="https://gohugo.io/"  target="_blank">Hugo.</a></span>
+      <div style="height: 5vh;"></div>
+    </div>
+
+    <div class="side" id="work">
+      <label for="toggle">Me // Contact</label>
+      <div class="side-title">
+        <h1>Client Work</h1>
+      </div>
+      <div class="project-grid">
+        {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
+          <div class="project-tile"
+          style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
+            <a href="{{ .Permalink }}">
+              <div class="project-thumb"
+              style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
+              </div>
+            </a>
+            <div class="project-info project-name">
+              {{ .Title }}
+            </div>
+            <div class="project-info project-tags">
+              {{ delimit .Params.tags " // " }}
+            </div>
           </div>
-        </div>
-      {{- end }}
+        {{- end }}
+      </div>
+
+      <div class="side-footer"></div>
     </div>
 
-    <div class="side-footer"></div>
-  </div>
+    <div class="side" id="about">
+      <div class="side-title">
+        <label for="toggle">Portfolio // Work</label>
+        <h1>Me</h1>
+      </div>
+      <div class="side-content">
+        {{ partial "about" . }}
+      </div>
+      <div class="side-footer"></div>
+    </div>
 
-  <div class="side" id="about">
-    <div class="side-title">
-      <label for="toggle">Portfolio // Work</label>
-      <h1>Me</h1>
+    <div class="side" id="contact">
+      <div class="side-title">
+        <h1>Get in Touch</h1>
+      </div>
+      <div class="side-content">
+        {{ partial "contact" . }}
+      </div>
+      <div class="side-footer"></div>
     </div>
-    <div class="side-content">
-      {{ partial "about" . }}
-    </div>
-    <div class="side-footer"></div>
-  </div>
 
-  <div class="side" id="contact">
-    <div class="side-title">
-      <h1>Get in Touch</h1>
-    </div>
-    <div class="side-content">
-      {{ partial "contact" . }}
-    </div>
-    <div class="side-footer"></div>
   </div>
-</div>
 
 </div>
 
