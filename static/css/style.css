@@ -42,11 +42,7 @@ h1{
   letter-spacing: 0.05em;
   color: #c0c0c0;
 }
-p{
-  line-height: 1.6em;
-  background: #303030;
-  padding: 1em;
-}
+
 
 
 /*******/
@@ -495,20 +491,26 @@ input{
   margin-top: 3em;
 }
 
-div .project-image{
+.project .content p:not(:empty){
+  line-height: 1.6em;
+  background: #303030;
+  padding: 1em;
+}
+
+.project .content .project-image{
   padding: 1.5em 0;
 }
-div .project-image img, div .project-image video{
+.project .content .project-image img, .project .content .project-image video{
   width: 100%;
   outline: 0px solid #181818;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-div .project-image img:hover, div .project-image video:hover{
+.project .content .project-image img:hover, .project .content .project-image video:hover{
   outline-width: 2em;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
-div .project-image .caption{
+.project .content .project-image .caption{
   font-size: 0.8em;
   font-weight: 200;
   background: #282828;
