@@ -113,7 +113,7 @@ h1{
   animation: RISE 2.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
   outline: 2em solid #282828;
-
+  opacity: 0;
 }
 #reel *{
   position: relative;
@@ -185,14 +185,14 @@ h1{
 #reel-toggle:checked ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 200px;
-  transform: scale(1);
+  /*transform: scale(1);*/
   opacity: 1.0;
 }
 #reel-toggle:not(:checked) ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 500px;
-  transform: scale(0.5);
-  opacity: 1.0;
+  /*transform: scale(0.1);*/
+  opacity: 0.0;
 }
 
 label{
