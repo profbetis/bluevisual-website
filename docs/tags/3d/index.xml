@@ -679,7 +679,8 @@
       <pubDate>Tue, 01 Nov 2016 17:50:45 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/work/aminocat/</guid>
-      <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.
+      <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.&lt;/p&gt;
+
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
@@ -689,8 +690,10 @@
   
 &lt;/div&gt;
 
-The client originally did not have a solid idea on what they were looking for, so together we worked to find an appealing idea. Being a film studio, we of course needed to incorporate a film strip into the animation.
-&lt;div class=&#34;project-image&#34;&gt;
+
+&lt;p&gt;The client originally did not have a solid idea on what they were looking for, so together we worked to find an appealing idea. Being a film studio, we of course needed to incorporate a film strip into the animation.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
     &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
@@ -749,9 +752,11 @@ The client originally did not have a solid idea on what they were looking for, s
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 
-The film melting was a big challenge material-wise. I used a combination of bitmaps and procedural noise to drive a semi-physical heat/melting map. At the same time, I distorted the film strip&amp;rsquo;s polygons to warp and stretch as it melted away. For the logo underneath, I used an occlusion/dirt map to darken the edges of the hot glowing logo to emulate how hot metal cools faster at edges exposed areas.
-&lt;div class=&#34;project-image&#34;&gt;
+&lt;p&gt;The film melting was a big challenge material-wise. I used a combination of bitmaps and procedural noise to drive a semi-physical heat/melting map. At the same time, I distorted the film strip&amp;rsquo;s polygons to warp and stretch as it melted away. For the logo underneath, I used an occlusion/dirt map to darken the edges of the hot glowing logo to emulate how hot metal cools faster at edges exposed areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;
     
     &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
@@ -810,8 +815,9 @@ The film melting was a big challenge material-wise. I used a combination of bitm
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 
-Like most of my projects, I used 3DS Max to create the scene and &lt;a href=&#34;https://home.otoy.com/&#34; target=&#34;_blank&#34;&gt;OTOY&amp;rsquo;s Octane Render&lt;/a&gt; for rendering. Because GPU rendering&amp;rsquo;s main problem is noise, I use &lt;a href=&#34;https://www.neatvideo.com/&#34; target=&#34;_blank&#34;&gt;Neat Video&lt;/a&gt;, a great hardware accelerated denoising plugin that works on render noise and sensor noise alike. It&amp;rsquo;s saved me lots of hours of render refinement. You can see a comparison video I made &lt;a href=&#34;https://vimeo.com/139969530&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Like most of my projects, I used 3DS Max to create the scene and &lt;a href=&#34;https://home.otoy.com/&#34; target=&#34;_blank&#34;&gt;OTOY&amp;rsquo;s Octane Render&lt;/a&gt; for rendering. Because GPU rendering&amp;rsquo;s main problem is noise, I use &lt;a href=&#34;https://www.neatvideo.com/&#34; target=&#34;_blank&#34;&gt;Neat Video&lt;/a&gt;, a great hardware accelerated denoising plugin that works on render noise and sensor noise alike. It&amp;rsquo;s saved me lots of hours of render refinement. You can see a comparison video I made &lt;a href=&#34;https://vimeo.com/139969530&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
