@@ -14,7 +14,7 @@ html, body{
 }
 
 body{
-  height: calc(100% + 150px);
+  height: 100%;
   background: linear-gradient(60deg, #282828, #484848);
   color: #c0c0c0;
   text-align: center;
@@ -140,9 +140,7 @@ h1{
   transform-origin: center center -30vw;
   left: 20%;
   position: relative;
-  margin-top: 7%;
-  margin-bottom: 10%;
-  padding: 0;
+  padding-top: 50px;
   animation: RISE 2.0s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
@@ -159,6 +157,9 @@ h1{
 .side-title, .side-footer{
   background: #282828;
   padding: 1em;
+}
+#work .side-footer, #personal .side-footer{
+  margin-bottom: 200px;
 }
 .side-content{
   pointer-events: none;
