@@ -1,8 +1,23 @@
 <div class="project-image">
-  {{ if (.Get 0) lt 9 }}
+  <label for="lightbox-toggle{{ .Get 0 }}">
+    {{ if (.Get 0) lt 9 }}
     <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ .Get 0 }}.jpg">
-  {{ else }}
+    {{ else }}
     <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
-  {{ end }}
+    {{ end }}
+  </label>
+  <div class="caption">{{ .Get 1 }}</div>
+</div>
+
+<input type="checkbox" name="lightbox-toggle{{ .Get 0 }}" id="lightbox-toggle{{ .Get 0 }}" />
+
+<div class="lightbox">
+  <label for="lightbox-toggle{{ .Get 0 }}">
+    {{ if (.Get 0) lt 9 }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ .Get 0 }}.jpg">
+    {{ else }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
+    {{ end }}
+  </label>
   <div class="caption">{{ .Get 1 }}</div>
 </div>

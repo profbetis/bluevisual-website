@@ -1,16 +1,20 @@
 {{ partial "header-meta" . }}
 {{ partial "header" . }}
 
+<div class="project">
+
 <a href="{{ $.Site.BaseURL }}" id="return">
   <div id="return-text">Return to Projects</div>
 </a>
 
-<div class="project">
   <div class="header">
     <div class="image" style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');"></div>
     <div class="info">
       <div class="title">{{ .Title }}</div>
-      {{ if isset .Params "client" }}<div class="client">for {{ .Params.client }}</div>{{ end }}
+      <div class="subtitle">
+        {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }}
+        {{ if isset .Params "time"}}{{ .Params.time }}{{end}}
+      </div>
       <div class="tags">
         <div>Tags</div>
         {{- range $index, $el := .Params.tags -}}
@@ -23,7 +27,6 @@
             <div>{{ . }}</div>
           {{- end -}}
       </div>
-      <div class="section">{{ .Section }}</div>
     </div>
   </div>
 
