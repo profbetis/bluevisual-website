@@ -6,7 +6,7 @@
     <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
     {{ end }}
   </label>
-  <div class="caption">{{ .Get 1 }}</div>
+  {{ if isset .Get 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
 </div>
 
 <input type="checkbox" name="lightbox-toggle{{ .Get 0 }}" id="lightbox-toggle{{ .Get 0 }}" />
@@ -19,5 +19,5 @@
     <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
     {{ end }}
   </label>
-  <div class="caption">{{ .Get 1 }}</div>
+  {{ if isset .Get 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
 </div>
