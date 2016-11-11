@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motion Graphics on Blue Visual v03</title>
+    <link>http://dev.bluevisual.tv/tags/motion-graphics/</link>
+    <description>Recent content in Motion Graphics on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 21:06:09 -0400</lastBuildDate>
+    <atom:link href="http://dev.bluevisual.tv/tags/motion-graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyber Vice</title>
+      <link>http://dev.bluevisual.tv/work/cybervice/</link>
+      <pubDate>Tue, 01 Nov 2016 21:06:09 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/cybervice/</guid>
+      <description>&lt;p&gt;This is the first project I was hired to do visual effects and compositing all on my own. I designed interfaces, animated them, and composited them into the scene using through a combination of various methods including rotoscoping and color keying.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/cybervice-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;p&gt;Me and the client discussed different ways to do things, and I was given a lot of creative freedom, which was really nice. I really felt in my element too because I love computers and they&amp;rsquo;re an important part of my life. My interest in this allowed to have insightful artistic direction and believeable content.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I also was hired to make the show&amp;rsquo;s intro sequence. This was accomplished with an XBox Kinect hooked up to a DSLR with synchronized recording. I was then able to import the footage to a program that let me manipulate the 3D data in space and make my own camera moves. After this I exported the new rendered footage into Adobe After Effects to add more 3D elements like layers of code and particles, along with some sweet processing like motion blur and glows.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

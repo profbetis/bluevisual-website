@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procedural on Blue Visual v03</title>
+    <link>http://dev.bluevisual.tv/tags/procedural/</link>
+    <description>Recent content in Procedural on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2016 10:38:00 -0400</lastBuildDate>
+    <atom:link href="http://dev.bluevisual.tv/tags/procedural/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Stargaze</title>
+      <link>http://dev.bluevisual.tv/personal/stargaze/</link>
+      <pubDate>Wed, 02 Nov 2016 10:38:00 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/personal/stargaze/</guid>
+      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Giant</title>
+      <link>http://dev.bluevisual.tv/personal/giant/</link>
+      <pubDate>Wed, 02 Nov 2016 10:37:04 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/personal/giant/</guid>
+      <description>&lt;p&gt;A procedural gas giant generator engineered in Filter Forge.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercise on Blue Visual v03</title>
+    <link>http://dev.bluevisual.tv/tags/exercise/</link>
+    <description>Recent content in Exercise on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Nov 2016 04:05:01 -0400</lastBuildDate>
+    <atom:link href="http://dev.bluevisual.tv/tags/exercise/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hexcabin</title>
+      <link>http://dev.bluevisual.tv/personal/hexcabin/</link>
+      <pubDate>Tue, 01 Nov 2016 04:05:01 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/personal/hexcabin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
