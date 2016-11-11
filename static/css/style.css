@@ -493,12 +493,12 @@ input{
 
 .project .content p:not(:empty){
   line-height: 1.6em;
-  background: #303030;
+  background: #282828;
   padding: 1em;
 }
 
 .project .content .project-image{
-  padding: 1.5em 0;
+  margin: 2em 0;
 }
 .project .content .project-image img, .project .content .project-image video{
   width: 100%;
