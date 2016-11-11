@@ -450,19 +450,16 @@ input{
   font-size: 1em;
 }
 .project .info .title{
-  font-size: 2.5rem;
-  line-height: 2.5rem;
+  font-size: 2.2rem;
+  line-height: 2.2rem;
   color: #0bf;
-  margin-top: 0.1rem;
+  margin-top: 0.5rem;
   white-space: nowrap;
 }
-.project .info .client{
+.project .info .subtitle{
   color: #808080;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.75rem;
   font-size: 0.8rem;
-}
-.project .info > div{
-  /*margin-bottom: 0.5em;*/
 }
 .project .info div > div, .project .info div > a{
   display: inline-block;

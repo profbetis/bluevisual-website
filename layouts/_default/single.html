@@ -10,8 +10,8 @@
     <div class="image" style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');"></div>
     <div class="info">
       <div class="title">{{ .Title }}</div>
-      <div class="client">
-        {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }} 
+      <div class="subtitle">
+        {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }}
         {{ if isset .Params "time"}}{{ .Params.time }}{{end}}
       </div>
       <div class="tags">
