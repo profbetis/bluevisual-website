@@ -8,6 +8,8 @@ html, body{
   padding: 0;
   margin: 0;
   overflow: hidden;
+  letter-spacing: 0.05em;
+  font-weight: 300;
 }
 
 body{
@@ -39,18 +41,6 @@ h1{
   margin: 0;
   letter-spacing: 0.05em;
   color: #c0c0c0;
-}
-
-p{
-  margin-left: 1em;
-  margin-right: 1em;
-}
-p:first-of-type{
-  margin-top: -0.25em;
-}
-
-img{
-
 }
 
 
@@ -113,6 +103,7 @@ img{
 #reel{
   transform-origin: center;
   left: calc(50% - 480px);
+  margin: auto;
   top: 200px;
   width: 960px;
   height: 540px;
@@ -187,17 +178,19 @@ img{
   transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
 }
 #reel-toggle:checked ~ #structure{
-  transform: translateY(650px);
+  transform: translateY(675px);
 }
 #reel-toggle:checked ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
-  top: 250px;
+  top: 200px;
+  transform: scale(1);
   opacity: 1.0;
 }
 #reel-toggle:not(:checked) ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 500px;
-  opacity: 0.0;
+  transform: scale(0.5);
+  opacity: 1.0;
 }
 
 label{
@@ -268,6 +261,15 @@ input{
 }
 #contact .side-content{
   text-align: center;
+}
+
+
+#about p, #contact p{
+  margin-left: 1em;
+  margin-right: 1em;
+}
+#about p:first-of-type{
+  margin-top: -0.25em;
 }
 
 
@@ -432,27 +434,68 @@ input{
   margin: auto;
 }
 
-.return{
+div .project-image{
+  padding: 1em 0;
+}
+div .project-image img, div .project-image video{
+  width: 100%;
+  outline: 0px solid #181818;
+  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+div .project-image img:hover, div .project-image video:hover{
+  outline-width: 2em;
+  transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+}
+
+div .project-image .caption{
+  font-size: 0.8em;
+  font-weight: 200;
+  background: #282828;
+  color: #a0a0a0;
+  width: 100%;
+  line-height: 2em;
+  margin-top: -4px;
+}
+
+#return{
+  position: fixed;
   height: 75vh;
   width: 5em;
   background-color: #181818;
-  position: fixed;
   top: 12.5vh;
   left: -2em;
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  outline: 1px solid #181818;
 }
-.return:hover{
+#return:hover{
   left: -1em;
+  outline: 1px solid #0bf;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
-.return-text{
+#return-text{
   transform: rotate(-90deg);
+  position: absolute;
   top: 5em;
   left: -0.75em;
   color: #a0a0a0;
   text-align: right;
-  position: absolute;
   white-space: nowrap;
+}
+#return:hover #return-text{
+  color: #fff;
+}
+
+.bottom-spacer{
+  height: 20vh;
+  background: #282828;
+  line-height: 20vh;
+  font-size: 4vh;
+  margin-top: 10vh;
+}
+.bottom-spacer:hover{
+  color: #aef;
+  background: #202020;
+  transition: all 0.2s ease;
 }
 
 
