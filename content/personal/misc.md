@@ -4,5 +4,5 @@ tags = ["art", "concept"]
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
 time = "2012 - Present"
 title = "Miscellaneous"
-
+draft = true
 +++

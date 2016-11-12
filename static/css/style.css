@@ -465,7 +465,7 @@ input{
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
-.content .project-image .caption{
+.content .caption{
   font-size: 0.8em;
   font-weight: 200;
   background: #282828;
