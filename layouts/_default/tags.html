@@ -1,17 +1,17 @@
 {{ partial "header-meta" . }}
 {{ partial "header" . }}
 
-<div class="project">
-
 <a href="{{ $.Site.BaseURL }}" id="return">
   <span>Return to Projects     &lt;</span>
 </a>
 
-  {{ partial "project-header" . }}
-
-  <div class="content">
-    {{ .Content }}
+<div class="tags">
+  ALL TAGS
+  {{ range .Data.Pages }}
+  <div class="header">
+    {{ .Title }}
   </div>
+  {{ end }}
 </div>
 
 <a href="{{ $.Site.BaseURL }}">
