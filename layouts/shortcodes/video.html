@@ -6,5 +6,5 @@
       <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-{{ .Get 0 }}.mp4" />
     {{ end }}
   </video>
-  {{ if len .Params | eq 2 }}<div class="caption">{{ .Get 1 }}</div>{{ end }}
+  {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{ end }}
 </div>
