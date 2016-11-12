@@ -1,6 +1,6 @@
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    {{ if (.Get 0) lt 9 }}
+    {{ if lt $id 10 }}
       <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-0{{ .Get 0 }}.mp4" />
     {{ else }}
       <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-{{ .Get 0 }}.mp4" />
