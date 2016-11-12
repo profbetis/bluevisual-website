@@ -1,5 +1,5 @@
 +++
-date = "2016-11-02T10:36:45-04:00"
+date = "2016-06-02T10:36:45-04:00"
 tags = ["modeling", "product"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 time = "2016 Jun"

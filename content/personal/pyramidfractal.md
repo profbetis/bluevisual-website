@@ -1,5 +1,5 @@
 +++
-date = "2016-11-02T10:38:25-04:00"
+date = "2013-01-02T10:38:25-04:00"
 tags = ["art", "concept", "mathematics"]
 tools = ["3DS Max", "Octane Render"]
 time = "2013 Jan"

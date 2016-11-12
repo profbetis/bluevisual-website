@@ -1,6 +1,6 @@
 +++
 client = "Vape Traze"
-date = "2016-11-01T17:41:15-04:00"
+date = "2016-03-01T17:41:15-04:00"
 tags = ["logo", "animation", "3D"]
 time = "2016 Mar"
 title = "Vape Traze Logo Animation"
