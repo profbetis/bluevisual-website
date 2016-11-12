@@ -6,13 +6,13 @@
     <description>Recent content in Projection on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2016 21:06:02 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2014 21:06:02 -0400</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/projection/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Landscape Flythroughs</title>
       <link>http://dev.bluevisual.tv/work/landscape-flythroughs/</link>
-      <pubDate>Tue, 01 Nov 2016 21:06:02 -0400</pubDate>
+      <pubDate>Sat, 01 Feb 2014 21:06:02 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/work/landscape-flythroughs/</guid>
       <description>&lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
@@ -39,9 +39,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
@@ -59,9 +57,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;
     
@@ -79,9 +75,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;
     
@@ -99,9 +93,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;
     
@@ -119,9 +111,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;
     
@@ -139,9 +129,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;
     

@@ -6,16 +6,143 @@
     <description>Recent content in Lowpoly on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2016 10:37:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2013 10:37:52 -0400</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/lowpoly/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Polygatures</title>
       <link>http://dev.bluevisual.tv/personal/polygatures/</link>
-      <pubDate>Wed, 02 Nov 2016 10:37:52 -0400</pubDate>
+      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/personal/polygatures/</guid>
       <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Danielle Blanchette&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Danielle Blanchette&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Andrew Brandewie (Polygandrew)&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Andrew Brandewie (Polygandrew)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Francesca Famularo&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Francesca Famularo&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Janie Huang&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Janie Huang&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Samantha Gardner&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Samantha Gardner&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;myself&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;myself&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Sarah Blanchette&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/polygatures-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Sarah Blanchette&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

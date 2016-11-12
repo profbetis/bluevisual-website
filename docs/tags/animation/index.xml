@@ -6,13 +6,487 @@
     <description>Recent content in Animation on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2016 21:06:41 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2016 00:53:46 -0500</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/animation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Onyx Cinema</title>
+      <title>Choice Logo Animation</title>
+      <link>http://dev.bluevisual.tv/work/choice/</link>
+      <pubDate>Wed, 12 Oct 2016 00:53:46 -0500</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/choice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a logo animation for a new logo they designed for their client &lt;a href=&#34;http://www.choicetool.com/&#34;&gt;Choice&lt;/a&gt; as part of their marketing package.&lt;/p&gt;
+
+&lt;p&gt;Choice is a tool and mold company, so an important aspect of their branding is machines and lasers. To communicate this, Space360 decided to go with an almost completely steel environment, except for a deep red lake that matches their identity&amp;rsquo;s primary color.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Because of the highly reflective metal and large resolution, rendering was trickier than usual to optimize and make look clean. One technique I employed is called supersampling, where you render at a larger size than you intend to use and shrink it down to the final size later. This eliminates fireflies and hotspots that can be problematic for clean renders.&lt;/p&gt;
+
+&lt;p&gt;On top of 150% supersampling, I also processed the frames with &lt;a href=&#34;https://www.neatvideo.com/&#34;&gt;Neat Video&lt;/a&gt; which can use temporal sampling and also processes images using a very effective YCrCb colorspace for accurately separating content from noise. This helps keep the real look of the reflections and surface of the metal while eliminating lots of the scattered rays from the render.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vape Traze Logo Animation</title>
+      <link>http://dev.bluevisual.tv/work/vapetraze/</link>
+      <pubDate>Tue, 01 Mar 2016 17:41:15 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/vapetraze/</guid>
+      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/vapetraze-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer.
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Space360 Logo Animation</title>
+      <link>http://dev.bluevisual.tv/work/space360/</link>
+      <pubDate>Tue, 12 Jan 2016 00:40:26 -0500</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/space360/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AminoCat Logo Animation</title>
+      <link>http://dev.bluevisual.tv/work/aminocat/</link>
+      <pubDate>Sun, 01 Nov 2015 17:50:45 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/aminocat/</guid>
+      <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/aminocat-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;p&gt;The client originally did not have a solid idea on what they were looking for, so together we worked to find an appealing idea. Being a film studio, we of course needed to incorporate a film strip into the animation.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The film melting was a big challenge material-wise. I used a combination of bitmaps and procedural noise to drive a semi-physical heat/melting map. At the same time, I distorted the film strip&amp;rsquo;s polygons to warp and stretch as it melted away. For the logo underneath, I used an occlusion/dirt map to darken the edges of the hot glowing logo to emulate how hot metal cools faster at edges exposed areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Like most of my projects, I used 3DS Max to create the scene and &lt;a href=&#34;https://home.otoy.com/&#34; target=&#34;_blank&#34;&gt;OTOY&amp;rsquo;s Octane Render&lt;/a&gt; for rendering. Because GPU rendering&amp;rsquo;s main problem is noise, I use &lt;a href=&#34;https://www.neatvideo.com/&#34; target=&#34;_blank&#34;&gt;Neat Video&lt;/a&gt;, a great hardware accelerated denoising plugin that works on render noise and sensor noise alike. It&amp;rsquo;s saved me lots of hours of render refinement. You can see a comparison video I made &lt;a href=&#34;https://vimeo.com/139969530&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Onyx Cinema Logo Animation</title>
       <link>http://dev.bluevisual.tv/work/onyxcinema/</link>
-      <pubDate>Tue, 01 Nov 2016 21:06:41 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2013 21:06:41 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/work/onyxcinema/</guid>
       <description>
@@ -41,9 +515,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
@@ -61,9 +533,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;
     
@@ -81,9 +551,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;
     
@@ -101,9 +569,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;
     
@@ -121,9 +587,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;
     
@@ -144,9 +608,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;
     
@@ -170,9 +632,9 @@
     </item>
     
     <item>
-      <title>Alumiq</title>
+      <title>Alumiq Logo Animation</title>
       <link>http://dev.bluevisual.tv/work/alumiq/</link>
-      <pubDate>Tue, 01 Nov 2016 21:06:33 -0400</pubDate>
+      <pubDate>Sun, 01 Sep 2013 21:06:33 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/work/alumiq/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://alumiq.com/&#34;&gt;Alumiq&lt;/a&gt; is a wedding videography studio. They film the wedding and edit on the same day, highlighting the day&amp;rsquo;s events in a spectacular composition. Their work is very well captures the high spirits and love the couples and families at the ceremonies have.&lt;/p&gt;
@@ -197,9 +659,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
@@ -217,9 +677,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;
     
@@ -237,9 +695,7 @@
   &lt;/label&gt;
   
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;
     
@@ -255,236 +711,6 @@
   &lt;iframe src=&#34;//player.vimeo.com/video/80160112&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>AminoCat Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/aminocat/</link>
-      <pubDate>Tue, 01 Nov 2016 17:50:45 -0400</pubDate>
-      
-      <guid>http://dev.bluevisual.tv/work/aminocat/</guid>
-      <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/aminocat-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  
-&lt;/div&gt;
-
-
-&lt;p&gt;The client originally did not have a solid idea on what they were looking for, so together we worked to find an appealing idea. Being a film studio, we of course needed to incorporate a film strip into the animation.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The film melting was a big challenge material-wise. I used a combination of bitmaps and procedural noise to drive a semi-physical heat/melting map. At the same time, I distorted the film strip&amp;rsquo;s polygons to warp and stretch as it melted away. For the logo underneath, I used an occlusion/dirt map to darken the edges of the hot glowing logo to emulate how hot metal cools faster at edges exposed areas.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Like most of my projects, I used 3DS Max to create the scene and &lt;a href=&#34;https://home.otoy.com/&#34; target=&#34;_blank&#34;&gt;OTOY&amp;rsquo;s Octane Render&lt;/a&gt; for rendering. Because GPU rendering&amp;rsquo;s main problem is noise, I use &lt;a href=&#34;https://www.neatvideo.com/&#34; target=&#34;_blank&#34;&gt;Neat Video&lt;/a&gt;, a great hardware accelerated denoising plugin that works on render noise and sensor noise alike. It&amp;rsquo;s saved me lots of hours of render refinement. You can see a comparison video I made &lt;a href=&#34;https://vimeo.com/139969530&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vape Traze Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/vapetraze/</link>
-      <pubDate>Tue, 01 Nov 2016 17:41:15 -0400</pubDate>
-      
-      <guid>http://dev.bluevisual.tv/work/vapetraze/</guid>
-      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/vapetraze-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer.
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
 </description>
     </item>
     

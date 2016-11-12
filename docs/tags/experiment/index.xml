@@ -6,36 +6,400 @@
     <description>Recent content in Experiment on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2016 10:38:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2014 10:37:44 -0400</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hypercube</title>
+      <link>http://dev.bluevisual.tv/personal/hypercube/</link>
+      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/personal/hypercube/</guid>
+      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;One of the things that I noticed about the real project was that the imperfections and fluctuations in the mirrors/glass made the infinite hallways seem to warp more and more as it went &amp;ldquo;deeper&amp;rdquo; into the meta reflection. I added these imperfections to my own creation and they brought it to a new level of believability.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Whirl</title>
       <link>http://dev.bluevisual.tv/personal/whirl/</link>
-      <pubDate>Wed, 02 Nov 2016 10:38:29 -0400</pubDate>
+      <pubDate>Thu, 02 May 2013 10:38:29 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/personal/whirl/</guid>
       <description>&lt;p&gt;As I was falling asleep, I imagined a neat sort of kinetic sculpture. I imagine a sort of rod or dowel with thousands of strings all over it, all with tiny orbs of light at the ends. While stationary, these would simply look like random dots hanging down, but as the motor spun up and reached a sustained velocity, the dots would all fan out from centripetal force, and the motion would leave long streaks of light in a trail, turning into a field of stars.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;While I didn&amp;rsquo;t accomplish the physics of the strings, I did manage to generate the strings as thin rods as if they were already in their high-velocity state.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+
+&lt;p&gt;To be able to efficiently create the model, I had to write my own script that generated cylinders and spheres at the correct heights and angles. After I thought I was satisfied with obtaining what I originally had in mind, I decided to try some new values in my script to see what other sort of cool structures I could make. I made a second set of images that were more geometric and calculated, rather than vivid and random like before.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-08.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-08.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-09.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-09.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dust</title>
       <link>http://dev.bluevisual.tv/personal/dust/</link>
-      <pubDate>Wed, 02 Nov 2016 10:38:09 -0400</pubDate>
+      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/personal/dust/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a beautiful and curious way. When you break something down, you can study its parts; the system. When something is destroyed, you see how it was created.&lt;/p&gt;
-</description>
-    </item>
+
+&lt;p&gt;This project is primarily an experiment with slow motion physics simulations of destruction.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
-    <item>
-      <title>Hypercube</title>
-      <link>http://dev.bluevisual.tv/personal/hypercube/</link>
-      <pubDate>Wed, 02 Nov 2016 10:37:44 -0400</pubDate>
-      
-      <guid>http://dev.bluevisual.tv/personal/hypercube/</guid>
-      <description>&lt;p&gt;Inspired by a project someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did. One of the things that I noticed about the real project was that the imperfections and fluctuations in the mirrors/glass made the infinite hallways seem to warp more and more as it went &amp;ldquo;deeper&amp;rdquo; into the meta reflection. I added these imperfections to my own creation and they brought it to a new level of believability.&lt;/p&gt;
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/63070976&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;div class=&#34;caption&#34;&gt;A test silhouette render with reversed time&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

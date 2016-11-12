@@ -6,16 +6,140 @@
     <description>Recent content in Interactive on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2016 10:36:54 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2016 10:36:54 -0400</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/interactive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Transit</title>
       <link>http://dev.bluevisual.tv/personal/transit/</link>
-      <pubDate>Wed, 02 Nov 2016 10:36:54 -0400</pubDate>
+      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/personal/transit/</guid>
-      <description>&lt;p&gt;Transit (name not set in stone) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). It&amp;rsquo;s a project about experiencing beautiful places and things.&lt;/p&gt;
+      <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). It&amp;rsquo;s a project about experiencing beautiful places and things.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/171832381&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;div class=&#34;caption&#34;&gt;Here&amp;#39;s a preview video of it playing inside Unreal Engine&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You are in a cabin gliding along rails through beautiful environments and places. There are hardly any controls, only some gaze-activated menus inside your cabin. This is to let the player not worry about navigating environments, getting stuck somewhere, or needing to interact with anything in the real world.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There will be playlist functionality where you can load up a few different environments in sequence and they will load fairly seamlessly. There will also be looping environments where there is no entrance or exit, only a continuous circuit that you can ride forever. There will also be procedural tracks that go on forever and self-generate, giving you an infinite experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There is no objective to this game besides relaxing and enjoying the worlds you&amp;rsquo;re in, escaping to great places you could never go in real life.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

@@ -6,179 +6,13 @@
     <description>Recent content in Film on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Nov 2016 21:05:46 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 21:05:29 -0400</lastBuildDate>
     <atom:link href="http://dev.bluevisual.tv/tags/film/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Honeyglue</title>
-      <link>http://dev.bluevisual.tv/work/honeyglue/</link>
-      <pubDate>Tue, 01 Nov 2016 21:05:46 -0400</pubDate>
-      
-      <guid>http://dev.bluevisual.tv/work/honeyglue/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.&lt;/p&gt;
-
-&lt;p&gt;For the 3D I used Luxology&amp;rsquo;s Modo 701. It was my first project where I had built my own character, discovering the complexities, frustrations, and satisfaction of building and rigging a character from scratch. While its role was not huge, realism was a top priority. I studied motions and visuals of honeybees from videos across the web (and when I encountered them in real life)&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/honeyglue-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  
-&lt;/div&gt;
-
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;VFX was only half the project. I was also contracted to do storybook animations for certain narrative portions of the film. I was provided with Photoshop assets from an illustrator who drew them. My job was to take the layers/characters and animate them. I decided to go beyond the 2D realm of a book and try a sort of 3D parallaxing style. The clients enjoyed it so I went through with it.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>The Fiancé</title>
       <link>http://dev.bluevisual.tv/work/thefiance/</link>
-      <pubDate>Tue, 01 Nov 2016 21:05:29 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2015 21:05:29 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/work/thefiance/</guid>
       <description>&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie.&lt;/p&gt;
@@ -203,9 +37,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;
     
@@ -223,9 +55,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;
     
@@ -243,9 +73,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;
     
@@ -265,9 +93,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;
     
@@ -287,9 +113,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;
     
@@ -315,9 +139,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;
     
@@ -335,9 +157,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;
 &lt;/div&gt;
-
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-
 &lt;div class=&#34;lightbox&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;
     
@@ -345,6 +165,158 @@
     
   &lt;/label&gt;
   &lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Honeyglue</title>
+      <link>http://dev.bluevisual.tv/work/honeyglue/</link>
+      <pubDate>Tue, 01 Apr 2014 21:05:46 -0400</pubDate>
+      
+      <guid>http://dev.bluevisual.tv/work/honeyglue/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.&lt;/p&gt;
+
+&lt;p&gt;For the 3D I used Luxology&amp;rsquo;s Modo 701. It was my first project where I had built my own character, discovering the complexities, frustrations, and satisfaction of building and rigging a character from scratch. While its role was not huge, realism was a top priority. I studied motions and visuals of honeybees from videos across the web (and when I encountered them in real life)&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/honeyglue-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;VFX was only half the project. I was also contracted to do storybook animations for certain narrative portions of the film. I was provided with Photoshop assets from an illustrator who drew them. My job was to take the layers/characters and animate them. I decided to go beyond the 2D realm of a book and try a sort of 3D parallaxing style. The clients enjoyed it so I went through with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
+&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+    
+    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
+    
+  &lt;/label&gt;
+  &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

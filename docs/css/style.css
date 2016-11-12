@@ -433,93 +433,39 @@ input{
 /*******/
 /***  SINGLE  ***/
 /*******/
-
-.project{
+.project, .tag-page{
   max-width: 960px;
   width: calc(100% - 128px);
   margin: auto;
 }
 
-.project .header{
-  position: relative;
-  background: #282828;
-  margin-top: 4em;
-  height: 160px;
-  text-align: left;
+.content{
+  margin-top: 2em;
 }
 
-.project .header .image{
-  width: 136px;
-  height: 136px;
-  margin: 12px;
-  background-size: cover;
-  position: absolute;
-}
-
-.project .info{
-  color: #a0a0a0;
-  margin-left: 160px;
-  margin-right: 1em;
-  padding-top: 6px;
-  font-size: 1em;
-}
-.project .info .title{
-  font-size: 2.2rem;
-  line-height: 2.2rem;
-  color: #0bf;
-  margin-top: 0.5rem;
-  white-space: nowrap;
-}
-.project .info .subtitle{
-  color: #808080;
-  margin-bottom: 0.75rem;
-  font-size: 0.8rem;
-}
-.project .info div > div, .project .info div > a{
-  display: inline-block;
-  background: #202020;
-  margin-right: 0.5em;
-  margin-bottom: 0.25em;
-  padding: 4px 6px;
-  transition: all 0.3s ease;
-}
-.project .info div > div:first-of-type{
-  color: #c0c0c0;
-  background: #181818;
-}
-.project .info .tags a {
-}
-.project .info .tags a:hover{
-  background: #0bf;
-  color: #fff;
-}
-
-.project .content{
-}
-
-.project .content p:not(:empty){
+.content p:not(:empty){
   line-height: 1.6em;
   background: #282828;
   padding: 1em;
   margin: 2em 0;
 }
 
-.project .content .project-image{
+.content .project-image{
   margin: 2em 0;
   background-size: cover;
 }
-.project .content .project-image img, .project .content .project-image video{
+.content .project-image img, .content .project-image video{
   width: 100%;
   height: auto;
   outline: 0px solid #181818;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-.project .content .project-image img:hover, .project .content .project-image video:hover{
+.content .project-image img:hover, .content .project-image video:hover{
   outline-width: 2em;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
-.project .content .project-image .caption{
+.content .caption{
   font-size: 0.8em;
   font-weight: 200;
   background: #282828;
@@ -529,11 +475,11 @@ input{
   margin-top: -4px;
 }
 
-.project .content label{
+.content label{
   cursor: zoom-in;
 }
 
-.project .content .lightbox{
+.content .lightbox{
   position: fixed;
   width: 100%;
   height: 100%;
@@ -541,7 +487,7 @@ input{
   top: 0;
   background: rgba(0,0,0,0.7);
 }
-.project .content .lightbox img{
+.content .lightbox img{
   position: absolute;
   top: 50%;
   max-width: 90%;
@@ -550,17 +496,17 @@ input{
   outline: 1px solid #404040;
   transition: outline 0.2s ease;
 }
-.project .content .lightbox img:hover{
+.content .lightbox img:hover{
   outline: 1px solid #0bf;
   cursor: zoom-out;
 }
 
-input:checked + div.lightbox{
+.content input:checked + div.lightbox{
   opacity: 1.0;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
-input:not(:checked) + div.lightbox{
+.content input:not(:checked) + div.lightbox{
 transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
   opacity: 0.0;
   display: none;
@@ -568,29 +514,28 @@ transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 
 #return{
   position: fixed;
-  height: 75vh;
-  width: 5em;
+  height: 4em;
+  width: 16em;
+  left: -12em;
+  top: 2em;
+  text-align: right;
   background-color: #181818;
-  top: 12.5vh;
-  left: -2em;
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
   outline: 1px solid #181818;
+  transition: all 0.7s cubic-bezier(0.3, -0.500, 0.300, 1.000);
 }
 #return:hover{
-  left: -1em;
+  left: 0em;
   outline: 1px solid #0bf;
-  transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-#return-text{
-  transform: rotate(-90deg);
+#return span{
   position: absolute;
-  top: 5em;
-  left: -0.75em;
+  line-height: 4em;
+  left: 3em;
   color: #a0a0a0;
-  text-align: right;
-  white-space: nowrap;
+  white-space: pre;
 }
-#return:hover #return-text{
+#return:hover span{
   color: #fff;
 }
 
@@ -605,6 +550,112 @@ transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
   color: #aef;
   background: #202020;
   transition: all 0.2s ease;
+}
+
+
+
+/*******/
+/***  List  ***/
+/*******/
+#list-header{
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  font-size: 3em;
+  font-weight: 100;
+  background: #282828;
+}
+
+#other-tags {
+  background: #282828;
+  padding: 0.5em;
+}
+#other-tags h3{
+  font-weight: 300;
+  font-size: 1em;
+  margin: 0;
+  line-height: 3em;
+}
+#other-tags a{
+  color: #a0a0a0;
+  display: inline-block;
+  background: #181818;
+  margin-right: 0.25em;
+  margin-bottom: 0.5em;
+  padding: 4px 6px;
+  transition: all 0.3s ease;
+}
+#other-tags a:hover{
+  background: #0bf;
+  color: #fff;
+}
+
+
+
+/*******/
+/***  Project Header  ***/
+/*******/
+.header{
+  position: relative;
+  background: #282828;
+  margin: 2em 0;
+  height: 160px;
+  text-align: left;
+}
+.header:hover{
+}
+
+.header .image{
+  width: 136px;
+  height: 136px;
+  margin: 12px;
+  background-size: cover;
+  position: absolute;
+  outline: 1px solid #282828;
+  transition: all 0.3s ease;
+}
+.header .image:hover{
+  outline: 1px solid #0bf;
+  transition: all 0.2s ease;
+}
+
+.header .info{
+  color: #a0a0a0;
+  margin-left: 160px;
+  margin-right: 1em;
+  padding-top: 6px;
+  font-size: 0.9em;
+}
+.header .info .title{
+  font-size: 2rem;
+  line-height: 2rem;
+  font-weight: 200;
+  margin-top: 0.5rem;
+  white-space: nowrap;
+}
+.header .info .subtitle{
+  color: #808080;
+  margin-bottom: 0.75rem;
+  font-size: 0.8rem;
+}
+.header .info .tags > div, .header .info .tags > a,
+.header .info .tools > div, .header .info .tools > a {
+  display: inline-block;
+  background: #181818;
+  margin-right: 0.5em;
+  margin-bottom: 0.25em;
+  padding: 4px 6px;
+  transition: all 0.3s ease;
+}
+.header .info div > div:first-of-type{
+  color: #c0c0c0;
+  background: #101010;
+}
+.header .info .tags a {
+}
+.header .info .tags a:hover{
+  background: #0bf;
+  color: #fff;
 }
 
 
