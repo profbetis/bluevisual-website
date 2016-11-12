@@ -1,0 +1,31 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+<a href="{{ $.Site.BaseURL }}" id="return">
+  <span>Return to Projects     &lt;</span>
+</a>
+
+<div class="tag-page">
+  <br><br>
+  <div id="list-header">"{{ .Title | humanize }}" Projects</div>
+
+  {{ range .Data.Pages }}
+    {{ partial "project-header" . }}
+  {{ end }}
+
+  <div id="other-tags">
+    <h3>Other Tags</h3>
+    {{ range $key, $value := .Site.Taxonomies.tags }}
+      <a href="/tags/{{ $key }}">{{ $key }}</a>
+    {{ end }}
+  </div>
+
+</div>
+
+<a href="{{ $.Site.BaseURL }}">
+  <div class="bottom-spacer">
+    Return to Projects
+  </div>
+</a>
+
+{{ partial "footer-meta" . }}

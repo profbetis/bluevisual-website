@@ -4,31 +4,10 @@
 <div class="project">
 
 <a href="{{ $.Site.BaseURL }}" id="return">
-  <div id="return-text">Return to Projects</div>
+  <span>Return to Projects     &lt;</span>
 </a>
 
-  <div class="header">
-    <div class="image" style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');"></div>
-    <div class="info">
-      <div class="title">{{ .Title }}</div>
-      <div class="subtitle">
-        {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }}
-        {{ if isset .Params "time"}}{{ .Params.time }}{{end}}
-      </div>
-      <div class="tags">
-        <div>Tags</div>
-        {{- range $index, $el := .Params.tags -}}
-          <a href="/tags/{{ . }}"><div>{{ . }}</div></a>
-        {{- end -}}
-      </div>
-      <div class="tools">
-        <div>Tools</div>
-          {{- range $index, $el := .Params.tools -}}
-            <div>{{ . }}</div>
-          {{- end -}}
-      </div>
-    </div>
-  </div>
+  {{ partial "project-header" . }}
 
   <div class="content">
     {{ .Content }}

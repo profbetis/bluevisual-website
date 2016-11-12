@@ -1,23 +1,22 @@
+{{- $id := .Get 0 -}}
 <div class="project-image">
-  <label for="lightbox-toggle{{ .Get 0 }}">
-    {{ if (.Get 0) lt 9 }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ .Get 0 }}.jpg">
+  <label for="lightbox-toggle{{ $id }}">
+    {{ if lt $id 10 }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
     {{ else }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
     {{ end }}
   </label>
-  {{ if len .Params | eq 2 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
+  {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
 </div>
-
-<input type="checkbox" name="lightbox-toggle{{ .Get 0 }}" id="lightbox-toggle{{ .Get 0 }}" />
-
+<input type="checkbox" name="lightbox-toggle{{ $id }}" id="lightbox-toggle{{ $id }}" />
 <div class="lightbox">
-  <label for="lightbox-toggle{{ .Get 0 }}">
-    {{ if (.Get 0) lt 9 }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ .Get 0 }}.jpg">
+  <label for="lightbox-toggle{{ $id }}">
+    {{ if lt $id 10 }}
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
     {{ else }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ .Get 0 }}.jpg">
+    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
     {{ end }}
   </label>
-  {{ if len .Params | eq 2 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
+  {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
 </div>
