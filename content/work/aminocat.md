@@ -2,7 +2,7 @@
 client = "AminoCat"
 date = "2015-11-01T17:50:45-04:00"
 tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Adobe Photoshop"]
-tags = ["logo", "animation", "3D"]
+tags = ["logo", "animation", "4k"]
 time = "2015 Nov"
 title = "AminoCat Logo Animation"
 
