@@ -43,4 +43,3 @@ The cabin has been re-designed several times. Never in a completely new way, as 
 {{< image 12 >}}
 {{< image 13 >}}
 {{< image 14 >}}
-{{< image 15 >}}

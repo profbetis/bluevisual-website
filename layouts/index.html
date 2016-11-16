@@ -7,7 +7,8 @@
 <input type="checkbox" name="reel-toggle" id="reel-toggle" />
 
 <div id="reel">
-  <iframe src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe>
 </div>
 
 <input type="checkbox" name="rotate" id="toggle" />
@@ -21,7 +22,7 @@
       <div class="project-grid">
         {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
           <div class="project-tile"
-          style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
+          style="animation-delay: {{ mul 0.125 $index }}s">
             <a href="{{ .Permalink }}">
               <div class="project-thumb"
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
@@ -31,9 +32,10 @@
               {{ .Title }}
             </div>
             <div class="project-info project-tags">
-              {{ range .Params.tags }}
+              {{- range $index, $el := .Params.tags -}}
+                {{- if gt $index 0 -}},&nbsp;{{- end -}}
                 <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{ end }}
+              {{- end -}}
             </div>
           </div>
         {{ end }}
@@ -42,9 +44,10 @@
       <div class="side-footer"></div>
 
       <br>
-      <span style="color: #808080;">
-        Site proudly built with <a href="https://gohugo.io/"  target="_blank">Hugo.</a></span>
-      <div style="height: 5vh;"></div>
+      <span class="subcaption">
+        Site proudly built with <a href="https://gohugo.io/"  target="_blank">Hugo.</a>
+      </span>
+      <div style="height: 250px;"></div>
     </div>
 
     <div class="side" id="work">
@@ -55,7 +58,7 @@
       <div class="project-grid">
         {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
           <div class="project-tile"
-          style="z-index:{{sub 100 $index}}; animation-delay: {{ mul 0.125 $index }}s">
+          style="animation-delay: {{ mul 0.125 $index }}s">
             <a href="{{ .Permalink }}">
               <div class="project-thumb"
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
@@ -65,15 +68,18 @@
               {{ .Title }}
             </div>
             <div class="project-info project-tags">
-              {{ range .Params.tags }}
+              {{- range $index, $el := .Params.tags -}}
+                {{- if gt $index 0 -}},&nbsp;{{- end -}}
                 <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{ end }}
+              {{- end -}}
             </div>
           </div>
         {{- end }}
       </div>
 
       <div class="side-footer"></div>
+
+      <div style="height: 250px;"></div>
     </div>
 
     <div class="side" id="about">
