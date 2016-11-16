@@ -321,7 +321,10 @@ input{
   height: 60vw;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-.project-tile:hover{ transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000); }
+.project-tile:hover{
+  transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+  z-index: 10;
+}
 
 @media (min-width: 500px){
   .project-tile{
@@ -361,17 +364,18 @@ input{
   animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
   /*animation: PROJINTRO_A 0.5s 1;*/
 }
-#personal .project-tile:hover{ transform: rotateY(10deg) translateZ(20px); }
+#personal .project-tile:hover{
+  transform: rotateY(15deg) translateZ(10px);
+}
 
 #work .project-tile{
-  animation-fill-mode: forwards;
   opacity: 1;
   transform: translateZ(0px);
   transform-origin: 0% 0%;
   animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
   /*animation: PROJINTRO_B 0.5s 1;*/
 }
-#work .project-tile:hover{ transform:rotateY(-10deg) translateZ(20px); }
+#work .project-tile:hover{ transform:rotateY(-15deg) translateZ(10px); }
 
 .project-thumb{
   background-size: cover;
@@ -391,7 +395,7 @@ input{
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile:hover .project-info{
-  background-color: rgba(0,0,0,0.6);
+  background-color: #181818;
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-name{
@@ -399,25 +403,28 @@ input{
   width: calc(100% - 1em);
   text-align: left;
   font-size: 1.3em;
+  line-height: 1em;
   font-weight: 200;
 }
 .project-tile:hover .project-name{
   color: #ffffff;
+  top: -1.9em;
 }
 
 .project-tags{
   color: #ffffff;
   text-align: right;
-  bottom: 0%;
+  bottom: 0;
   width: calc(100% - 1em);
-  opacity: 0.2;
+  opacity: 0.3;
   font-size: 0.85em;
+  line-height: 1em;
   font-weight: 300
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile:hover .project-tags{
-  opacity: 1.0;
-  /*letter-spacing: 0.05em;*/
+  opacity: 1;
+  bottom: -1.9em;
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tags a{
