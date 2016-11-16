@@ -7,19 +7,16 @@ html, body{
   height: 100%;
   padding: 0;
   margin: 0;
-  overflow: hidden;
   letter-spacing: 0.05em;
   font-feature-settings: "liga" 0;
   font-weight: 300;
+  overflow: hidden;
 }
 
 body{
-  /*height: 100%;*/
   background: linear-gradient(45deg, #282828, #404040);
   color: #c0c0c0;
-  text-align: center;
-  font-family: 'Raleway';
-  animation: FADEIN 2s 1;
+  font-family: 'Raleway', sans-serif;
   overflow: auto;
 }
 
@@ -28,21 +25,17 @@ body{
   perspective: 3000px;
   width: 100%;
   height: 100%;
-  top: 0px;
   overflow: auto;
 }
 
-a{
+a, a:link{
   color: #0bf;
 	text-decoration: none;
   transition: color 0.2s ease;
-  transition: text-shadow 0.2s ease;
-  text-shadow: 0px 0px 0em #000;
 }
 a:hover{
-  color: #6ef;
-  text-shadow: 0px 0px 0.25em #0bf;
-  transition: all 0.2s ease;
+  color: #6ff;
+  transition: color 0.2s ease;
 }
 
 h1{
@@ -51,6 +44,10 @@ h1{
   margin: 0;
   letter-spacing: 0.05em;
   color: #c0c0c0;
+}
+
+p{
+  text-align: center;
 }
 
 iframe{
@@ -484,6 +481,7 @@ input{
 }
 
 .content .caption{
+  text-align: center;
   font-size: 0.8em;
   font-weight: 200;
   background: #282828;
@@ -529,6 +527,7 @@ input{
 }
 
 .content .lightbox .caption{
+  text-align: center;
   font-weight: 300;
   background: none;
   color: #e0e0e0;
@@ -576,6 +575,7 @@ input{
 }
 
 .bottom-spacer{
+  text-align: center;
   height: 20vh;
   background: #282828;
   line-height: 20vh;
@@ -583,8 +583,6 @@ input{
   margin-top: 10vh;
 }
 .bottom-spacer:hover{
-  color: #aef;
-  background: #202020;
   transition: all 0.2s ease;
 }
 
