@@ -14,13 +14,12 @@ html, body{
 }
 
 body{
-  height: 100%;
-  background: linear-gradient(60deg, #282828, #484848);
+  /*height: 100%;*/
+  background: linear-gradient(45deg, #282828, #404040);
   color: #c0c0c0;
   text-align: center;
   font-family: 'Raleway';
   animation: FADEIN 2s 1;
-  transition: all 0.2s ease;
   overflow: auto;
 }
 
@@ -29,7 +28,7 @@ body{
   perspective: 3000px;
   width: 100%;
   height: 100%;
-  top: 0;
+  top: 0px;
   padding-top: 150px;
   overflow: auto;
 }
@@ -141,7 +140,7 @@ h1{
   left: 20%;
   position: relative;
   padding-top: 50px;
-  animation: RISE 2.0s 1;
+  animation: RISE 1.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
 #structure *{
@@ -158,9 +157,6 @@ h1{
   background: #282828;
   padding: 1em;
 }
-#work .side-footer, #personal .side-footer{
-  margin-bottom: 200px;
-}
 .side-content{
   pointer-events: none;
   color: #c0c0c0;
@@ -171,6 +167,10 @@ h1{
 }
 .side-content *{
   pointer-events: initial;
+}
+
+.side .subcaption{
+  color: #808080;
 }
 
 
@@ -449,6 +449,13 @@ input{
   padding: 1em;
   margin: 2em 0;
 }
+
+.content h1, .content h2, .content h3{
+  font-weight: 200;
+}
+.content h1{ font-size: 5.5em; }
+.content h2{ font-size: 3.5em; }
+.content h3{ font-size: 1.5em; }
 
 .content .project-image{
   margin: 2em 0;
