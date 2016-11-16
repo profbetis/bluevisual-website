@@ -53,6 +53,11 @@ h1{
   color: #c0c0c0;
 }
 
+iframe{
+  border: none;
+  z-index: -1;
+}
+
 
 
 /*******/
@@ -495,24 +500,41 @@ input{
 
 .content .lightbox{
   position: fixed;
+  display: flex;
   width: 100%;
   height: 100%;
   left: 0;
   top: 0;
   background: rgba(0,0,0,0.7);
 }
-.content .lightbox img{
-  position: absolute;
-  top: 50%;
+.lightbox label {
+  cursor: zoom-out;
+}
+.content .lightbox > div{
+  position: relative;
   max-width: 90%;
-  transform: translateX(-50%) translateY(-50%);
+  max-height: 90%;
+  margin: auto;
   height: auto;
   outline: 1px solid #404040;
   transition: outline 0.2s ease;
 }
-.content .lightbox img:hover{
+.content .lightbox > div:hover{
   outline: 1px solid #0bf;
-  cursor: zoom-out;
+}
+
+.content .lightbox img{
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.content .lightbox .caption{
+  font-size: 1.2em;
+  line-height: 2em;
+  bottom: -2em;
 }
 
 .content input:checked + div.lightbox{

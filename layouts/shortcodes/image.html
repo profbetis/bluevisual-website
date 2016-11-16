@@ -11,12 +11,14 @@
 </div>
 <input type="checkbox" name="lightbox-toggle{{ $id }}" id="lightbox-toggle{{ $id }}" />
 <div class="lightbox">
-  <label for="lightbox-toggle{{ $id }}">
-    {{ if lt $id 10 }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
-    {{ else }}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
-    {{ end }}
-  </label>
-  {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
+  <div>
+    <label for="lightbox-toggle{{ $id }}">
+      {{ if lt $id 10 }}
+      <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
+      {{ else }}
+      <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
+      {{ end }}
+    </label>
+    {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{end}}
+  </div>
 </div>
