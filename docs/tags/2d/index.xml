@@ -27,12 +27,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -45,12 +47,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -66,12 +70,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -84,12 +90,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -105,12 +113,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -123,12 +133,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -141,12 +153,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 

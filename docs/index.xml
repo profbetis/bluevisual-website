@@ -29,12 +29,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -47,12 +49,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -65,12 +69,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -83,12 +89,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -101,12 +109,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -119,12 +129,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -137,12 +149,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -172,12 +186,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -190,12 +206,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -208,12 +226,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -226,12 +246,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Graphical representation of the algorithm&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hilbert-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Graphical representation of the algorithm&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -257,12 +279,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Both models in a 3D recreation of my apartment&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Both models in a 3D recreation of my apartment&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -275,12 +299,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;One of the models by itself&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;One of the models by itself&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -296,12 +322,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -314,12 +342,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -332,12 +362,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -350,12 +382,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -368,12 +402,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -386,12 +422,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-08.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-08.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -404,12 +442,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-09.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-09.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -422,12 +462,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle10&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-10.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle10&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-10.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -443,12 +485,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-11.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Screenshot showing the ease of modifcation through Photoshop&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle11&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-11.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Screenshot showing the ease of modifcation through Photoshop&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -461,12 +505,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-12.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Screenshot showing the simple and logical texture files&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle12&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-12.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Screenshot showing the simple and logical texture files&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -498,12 +544,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -516,12 +564,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -534,12 +584,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -556,12 +608,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -574,12 +628,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -592,12 +648,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -610,12 +668,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -628,12 +688,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -651,12 +713,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle9&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -674,12 +738,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle10&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle10&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -697,12 +763,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle11&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -715,12 +783,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle12&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -733,12 +803,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle13&#34; id=&#34;lightbox-toggle13&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle13&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle13&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -751,30 +823,14 @@
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle14&#34; id=&#34;lightbox-toggle14&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle14&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle14&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle15&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-15.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle15&#34; id=&#34;lightbox-toggle15&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle15&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-15.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -803,16 +859,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -821,16 +879,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -842,16 +902,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -860,16 +922,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -881,16 +945,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -899,16 +965,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -941,12 +1009,14 @@ Initially the overall feel and art-style was open and undefined, but after tryin
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -959,12 +1029,14 @@ Initially the overall feel and art-style was open and undefined, but after tryin
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.
@@ -978,12 +1050,14 @@ Luckily in one of my personal projects, I made a procedural circuit generator, w
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
@@ -1008,12 +1082,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1026,12 +1102,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1044,12 +1122,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1062,12 +1142,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1080,12 +1162,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1098,12 +1182,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -1139,12 +1225,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1157,12 +1245,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1175,12 +1265,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1196,12 +1288,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1214,12 +1308,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1232,12 +1328,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1275,12 +1373,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1293,12 +1393,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1311,12 +1413,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1331,12 +1435,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1351,12 +1457,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1377,12 +1485,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1395,12 +1505,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -1428,12 +1540,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1446,12 +1560,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1464,12 +1580,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1482,12 +1600,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1500,12 +1620,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1537,12 +1659,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -1560,12 +1684,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -1581,12 +1707,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 
@@ -1602,12 +1730,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1620,12 +1750,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1638,12 +1770,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1656,12 +1790,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1674,12 +1810,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle8&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-08.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-08.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -1703,12 +1841,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1721,12 +1861,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1739,12 +1881,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1757,12 +1901,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1775,12 +1921,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1793,12 +1941,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1811,12 +1961,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -1840,12 +1992,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1858,12 +2012,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1876,12 +2032,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1894,12 +2052,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/destiny-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -1962,12 +2122,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1980,12 +2142,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -1998,12 +2162,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -2016,12 +2182,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -2037,12 +2205,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -2055,12 +2225,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -2073,12 +2245,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -2102,12 +2276,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -2120,12 +2296,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -2141,12 +2319,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -2159,12 +2339,14 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
     
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

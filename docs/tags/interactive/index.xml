@@ -32,16 +32,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-01.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -50,16 +52,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-02.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -71,16 +75,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-03.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -89,16 +95,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-04.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -110,16 +118,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-05.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
@@ -128,16 +138,18 @@
     &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
     
   &lt;/label&gt;
-  
+  &lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;
 &lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
+  &lt;div&gt;
+    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
+      
+      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/transit-06.jpg&#34;&gt;
+      
+    &lt;/label&gt;
+    &lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
