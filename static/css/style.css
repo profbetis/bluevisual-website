@@ -36,7 +36,8 @@ body{
 a{
   color: #0bf;
 	text-decoration: none;
-  transition: all 0.2s ease;
+  transition: color 0.2s ease;
+  transition: text-shadow 0.2s ease;
   text-shadow: 0px 0px 0em #000;
 }
 a:hover{
@@ -124,8 +125,6 @@ iframe{
   width: 960px;
   height: 540px;
   position: absolute;
-  animation: RISE 2.5s 1;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
   outline: 2em solid #282828;
   opacity: 0;
 }
