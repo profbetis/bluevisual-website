@@ -32,9 +32,10 @@
               {{ .Title }}
             </div>
             <div class="project-info project-tags">
-              {{ range .Params.tags }}
+              {{- range $index, $el := .Params.tags -}}
+                {{- if gt $index 0 -}},&nbsp;{{- end -}}
                 <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{ end }}
+              {{- end -}}
             </div>
           </div>
         {{ end }}
@@ -67,9 +68,10 @@
               {{ .Title }}
             </div>
             <div class="project-info project-tags">
-              {{ range .Params.tags }}
+              {{- range $index, $el := .Params.tags -}}
+                {{- if gt $index 0 -}},&nbsp;{{- end -}}
                 <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{ end }}
+              {{- end -}}
             </div>
           </div>
         {{- end }}
