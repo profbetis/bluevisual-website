@@ -17,144 +17,53 @@
       <guid>http://dev.bluevisual.tv/personal/giant/</guid>
       <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/giant-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -168,150 +77,59 @@
       <guid>http://dev.bluevisual.tv/personal/stargaze/</guid>
       <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle1&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle2&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve never had the time to do them myself and don&amp;rsquo;t have great places to take them even if I did (living in Los Angeles doesn&amp;rsquo;t give you great skies), so I decided to generate them on the computer. &lt;a href=&#34;http://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt; was used to create a dynamic and controllable generator of stars, atmosphere, and a minimalistic terrain.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle3&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle4&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Stars are generated as bright points and then smudged across the sky as they are in real life. The haze model is a custom one that incorporates a customizable atmosphere color, haze color, and rayleigh scattering. I later added auroras which really brought life to some scenes, where as other scenes I decided to leave them out because they competed visually with the beauty of the stars.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle5&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle6&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-    
-    &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;
-    
-  &lt;/label&gt;
-  
-&lt;/div&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34;&gt;
-  &lt;div&gt;
-    &lt;label for=&#34;lightbox-toggle7&#34;&gt;
-      
-      &lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;
-      
-    &lt;/label&gt;
-    
-  &lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/stargaze-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
