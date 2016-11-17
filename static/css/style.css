@@ -28,7 +28,7 @@ body{
   overflow: auto;
 }
 
-a, a:link{
+a, a:link, a:visited{
   color: #0bf;
 	text-decoration: none;
   transition: color 0.2s ease;
