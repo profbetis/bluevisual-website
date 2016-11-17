@@ -47,7 +47,7 @@
       <span class="subcaption">
         Site proudly built with <a href="https://gohugo.io/"  target="_blank">Hugo.</a>
       </span>
-      <div style="height: 100px;"></div>
+      <div class="side-spacer"></div>
     </div>
 
     <div class="side" id="work">
@@ -78,8 +78,7 @@
       </div>
 
       <div class="side-footer"></div>
-
-      <div style="height: 100px;"></div>
+      <div class="side-spacer"></div>
     </div>
 
     <div class="side" id="about">
@@ -89,6 +88,8 @@
       </div>
       <div class="side-content">
         {{ partial "about" . }}
+        <hr>
+        {{ partial "music" . }}
       </div>
       <div class="side-footer"></div>
     </div>
@@ -99,6 +100,8 @@
       </div>
       <div class="side-content">
         {{ partial "contact" . }}
+        <hr>
+        {{ partial "canvases" . }}
       </div>
       <div class="side-footer"></div>
     </div>
