@@ -141,6 +141,8 @@ iframe{
   left: 20%;
   position: relative;
   padding-top: 50px;
+  /*animation: RISE 1.5s 1, FLOAT 5s infinite;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0), cubic-bezier(0.5, .0, 0.5, 1.0);*/
   animation: RISE 1.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
@@ -710,6 +712,12 @@ input{
     /*transform: rotateY( -90deg );*/
     transform: translateZ( 200px );
   }
+}
+
+@-webkit-keyframes FLOAT {
+  0%{ transform: translateY(0px); }
+  50%{ transform: translateY(30px); }
+  100%{ transform: translateY(0px); }
 }
 
 @-webkit-keyframes RISE {
