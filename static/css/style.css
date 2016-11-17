@@ -7,19 +7,16 @@ html, body{
   height: 100%;
   padding: 0;
   margin: 0;
-  overflow: hidden;
   letter-spacing: 0.05em;
   font-feature-settings: "liga" 0;
   font-weight: 300;
+  overflow: hidden;
 }
 
 body{
-  /*height: 100%;*/
   background: linear-gradient(45deg, #282828, #404040);
   color: #c0c0c0;
-  text-align: center;
-  font-family: 'Raleway';
-  animation: FADEIN 2s 1;
+  font-family: 'Raleway', sans-serif;
   overflow: auto;
 }
 
@@ -28,21 +25,17 @@ body{
   perspective: 3000px;
   width: 100%;
   height: 100%;
-  top: 0px;
-  padding-top: 150px;
   overflow: auto;
 }
 
-a{
+a, a:link{
   color: #0bf;
 	text-decoration: none;
-  transition: all 0.2s ease;
-  text-shadow: 0px 0px 0em #000;
+  transition: color 0.2s ease;
 }
 a:hover{
-  color: #6ef;
-  text-shadow: 0px 0px 0.25em #0bf;
-  transition: all 0.2s ease;
+  color: #6ff;
+  transition: color 0.2s ease;
 }
 
 h1{
@@ -51,6 +44,10 @@ h1{
   margin: 0;
   letter-spacing: 0.05em;
   color: #c0c0c0;
+}
+
+p{
+  text-align: center;
 }
 
 iframe{
@@ -99,6 +96,7 @@ iframe{
 
   margin: auto;
   margin-top: -1.5em;
+  margin-bottom: 50px;
 
   z-index: 11;
 	overflow: visible;
@@ -124,8 +122,6 @@ iframe{
   width: 960px;
   height: 540px;
   position: absolute;
-  animation: RISE 2.5s 1;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
   outline: 2em solid #282828;
   opacity: 0;
 }
@@ -145,6 +141,8 @@ iframe{
   left: 20%;
   position: relative;
   padding-top: 50px;
+  /*animation: RISE 1.5s 1, FLOAT 5s infinite;
+  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0), cubic-bezier(0.5, .0, 0.5, 1.0);*/
   animation: RISE 1.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
@@ -159,6 +157,7 @@ iframe{
   transform-origin: center center -30vw;
 }
 .side-title, .side-footer{
+  text-align: center;
   background: #282828;
   padding: 1em;
 }
@@ -485,6 +484,7 @@ input{
 }
 
 .content .caption{
+  text-align: center;
   font-size: 0.8em;
   font-weight: 200;
   background: #282828;
@@ -500,52 +500,54 @@ input{
 
 .content .lightbox{
   position: fixed;
-  display: flex;
   width: 100%;
   height: 100%;
+  display: table;
   left: 0;
   top: 0;
-  background: rgba(0,0,0,0.7);
+  background: rgba(24,24,24,0.8);
 }
 .lightbox label {
-  cursor: zoom-out;
-}
-.content .lightbox > div{
+  cursor: default;
   position: relative;
-  max-width: 90%;
-  max-height: 90%;
-  margin: auto;
-  height: auto;
-  outline: 1px solid #404040;
-  transition: outline 0.2s ease;
+  display: table-cell;
+  vertical-align: middle;
 }
-.content .lightbox > div:hover{
-  outline: 1px solid #0bf;
+.lightbox label ~ .lightbox .caption{
+  top: 1.5em;
 }
 
 .content .lightbox img{
-  width: 100%;
-  height: 100%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
+  max-width: 90vw;
+  max-height: 90vh;
+  position: relative;
+  outline: 1px solid #404040;
+  transition: outline 0.2s ease;
+  cursor: zoom-out;
+}
+.content .lightbox img:hover{
+  outline: 1px solid #0bf;
 }
 
 .content .lightbox .caption{
-  font-size: 1.2em;
-  line-height: 2em;
-  bottom: -2em;
+  text-align: center;
+  font-weight: 300;
+  background: none;
+  color: #e0e0e0;
+  font-size: 1.1em;
+  line-height: 3em;
 }
 
 .content input:checked + div.lightbox{
   opacity: 1.0;
+  pointer-events: all;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
 .content input:not(:checked) + div.lightbox{
-transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
   opacity: 0.0;
-  display: none;
+  pointer-events: none;
+  transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
 #return{
@@ -576,6 +578,7 @@ transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
 .bottom-spacer{
+  text-align: center;
   height: 20vh;
   background: #282828;
   line-height: 20vh;
@@ -583,8 +586,6 @@ transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
   margin-top: 10vh;
 }
 .bottom-spacer:hover{
-  color: #aef;
-  background: #202020;
   transition: all 0.2s ease;
 }
 
@@ -712,6 +713,12 @@ transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
     /*transform: rotateY( -90deg );*/
     transform: translateZ( 200px );
   }
+}
+
+@-webkit-keyframes FLOAT {
+  0%{ transform: translateY(0px); }
+  50%{ transform: translateY(30px); }
+  100%{ transform: translateY(0px); }
 }
 
 @-webkit-keyframes RISE {
