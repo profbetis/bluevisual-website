@@ -157,6 +157,7 @@ iframe{
   transform-origin: center center -30vw;
 }
 .side-title, .side-footer{
+  text-align: center;
   background: #282828;
   padding: 1em;
 }
