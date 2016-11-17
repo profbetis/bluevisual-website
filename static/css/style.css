@@ -560,12 +560,12 @@ input{
   text-align: right;
   background-color: #181818;
   outline: 1px solid #181818;
-  transition: all 0.7s cubic-bezier(0.3, -0.500, 0.300, 1.000);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #return:hover{
-  left: 0em;
+  left: -1em;
   outline: 1px solid #0bf;
-  transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #return span{
   position: absolute;
