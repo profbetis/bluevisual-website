@@ -761,6 +761,7 @@ input{
   background-color: #181818;
   outline: 1px solid #181818;
   transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  z-index: 20;
 }
 #return:hover{
   left: -1em;
