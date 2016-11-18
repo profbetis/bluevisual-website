@@ -308,7 +308,7 @@ input{
 }
 
 #social-array{
-  width: 100%;
+  width: 90%;
   margin: auto;
 }
 #social-array a{
@@ -321,9 +321,9 @@ input{
   transition: all 0.5s ease;
 }
 
-@media (min-width: 400px) { #social-array{ column-count: 1; } }
-@media (min-width: 800px) { #social-array{ column-count: 2; } }
-@media (min-width: 1200px){ #social-array{ column-count: 4; } }
+@media (min-width: 0px) { #social-array{ column-count: 1; } }
+@media (min-width: 900px) { #social-array{ column-count: 2; } }
+@media (min-width: 1400px){ #social-array{ column-count: 4; } }
 
 #social-array a:hover{
   outline: 1px solid #0bf;
