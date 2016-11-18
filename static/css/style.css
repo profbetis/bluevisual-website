@@ -426,8 +426,8 @@ input{
   background-position: center;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 
-  -webkit-animation-fill-mode: both;
-  animation-fill-mode: both;
+  -webkit-animation-fill-mode: backwards;
+  animation-fill-mode: backwards;
 
   animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
   animation-name: PROJINTRO_A;
