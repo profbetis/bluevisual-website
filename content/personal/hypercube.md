@@ -2,7 +2,6 @@
 date = "2014-03-02T10:37:44-04:00"
 tags = ["concept", "experiment", "art"]
 tools = ["3DS Max", "Octane Render"]
-time = "2014 Mar"
 title = "Hypercube"
 
 +++

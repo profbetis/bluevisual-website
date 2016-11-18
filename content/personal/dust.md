@@ -2,7 +2,6 @@
 date = "2013-04-02T10:38:09-04:00"
 tags = ["experiment", "simulation"]
 tools = ["3DS Max", "Octane Render"]
-time = "2013 Apr"
 title = "Dust"
 
 +++
