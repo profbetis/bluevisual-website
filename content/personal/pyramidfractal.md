@@ -1,6 +1,6 @@
 +++
 date = "2013-01-02T10:38:25-04:00"
-tags = ["art", "concept", "mathematics"]
+tags = ["art", "concept", "geometric"]
 tools = ["3DS Max", "Octane Render"]
 title = "Pyramid Fractal"
 

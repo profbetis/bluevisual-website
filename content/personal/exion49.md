@@ -1,6 +1,6 @@
 +++
 date = "2015-02-02T10:37:14-04:00"
-tags = ["modeling", "product"]
+tags = ["modeling", "product", "exercise"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 title = "Exion49 Model"
 

@@ -1,7 +1,7 @@
 +++
 client = "Resound Productions"
 date = "2014-01-01T21:06:09-04:00"
-tags = ["vfx", "compositing", "motion graphics"]
+tags = ["vfx", "compositing", "graphic design"]
 tools = ["Adobe After Effects", "Adobe Photoshop", "3DS Max", "Octane Render"]
 title = "Cyber Vice"
 

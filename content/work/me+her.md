@@ -1,7 +1,7 @@
 +++
 client = "Pastilla Studio"
 date = "2013-12-01T21:06:17-04:00"
-tags = ["vfx", "compositing", "3D"]
+tags = ["compositing", "animation"]
 tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Adobe Photoshop"]
 title = "Me + Her"
 
