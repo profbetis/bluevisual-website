@@ -137,7 +137,17 @@
       <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
       
       <guid>http://dev.bluevisual.tv/personal/dust/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a beautiful and curious way. When you break something down, you can study its parts; the system. When something is destroyed, you see how it was created.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://dev.bluevisual.tv/videos/personal/dust-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
 
 &lt;p&gt;This project is primarily an experiment with slow motion physics simulations of destruction.&lt;/p&gt;
 

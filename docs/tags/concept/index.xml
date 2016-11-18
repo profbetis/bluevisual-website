@@ -76,48 +76,6 @@
     </item>
     
     <item>
-      <title>Hypercube</title>
-      <link>http://dev.bluevisual.tv/personal/hypercube/</link>
-      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
-      
-      <guid>http://dev.bluevisual.tv/personal/hypercube/</guid>
-      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;One of the things that I noticed about the real project was that the imperfections and fluctuations in the mirrors/glass made the infinite hallways seem to warp more and more as it went &amp;ldquo;deeper&amp;rdquo; into the meta reflection. I added these imperfections to my own creation and they brought it to a new level of believability.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Polygatures</title>
       <link>http://dev.bluevisual.tv/personal/polygatures/</link>
       <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
