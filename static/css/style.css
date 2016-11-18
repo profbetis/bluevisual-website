@@ -33,7 +33,7 @@ body{
 }
 
 a, a:link, a:visited{
-  color: #0bf;
+  color: #0cf;
 	text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -247,7 +247,7 @@ hr{
 }
 .side label:active{
   background: #101010;
-  color: #0bf;
+  color: #0cf;
   transform: translateZ(20px);
 }
 
@@ -345,7 +345,7 @@ input{
 @media (min-width: 1400px){ #social-array{ column-count: 4; } }
 
 #social-array a:hover{
-  outline: 1px solid #0bf;
+  outline: 1px solid #0cf;
   transition: all 0.15s ease;
 }
 #social-array img, #social-array svg{
@@ -390,7 +390,7 @@ input{
   transition: outline 0.2s ease;
 }
 #canvases a:hover{
-  outline: 1px solid #0bf;
+  outline: 1px solid #0cf;
 }
 #canvases img{
   width: 100%;
@@ -558,7 +558,7 @@ input{
   color: inherit;
 }
 .project-tags a:hover{
-  color: #0bf;
+  color: #0cf;
 }
 
 .project-tools{
@@ -723,7 +723,7 @@ input{
   cursor: zoom-out;
 }
 .content .lightbox img:hover{
-  outline: 1px solid #0bf;
+  outline: 1px solid #0cf;
 }
 
 .content .lightbox .caption{
@@ -762,7 +762,7 @@ input{
 }
 #return:hover{
   left: -1em;
-  outline: 1px solid #0bf;
+  outline: 1px solid #0cf;
   transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #return span{
@@ -825,7 +825,7 @@ input{
   transition: all 0.3s ease;
 }
 #other-tags a:hover{
-  background: #0bf;
+  background: #0cf;
   color: #fff;
 }
 
@@ -854,7 +854,7 @@ input{
   transition: all 0.3s ease;
 }
 .header .image:hover{
-  outline: 1px solid #0bf;
+  outline: 1px solid #0cf;
   transition: all 0.2s ease;
 }
 
@@ -894,7 +894,7 @@ input{
 .header .info .tags a {
 }
 .header .info .tags a:hover{
-  background: #0bf;
+  background: #0cf;
   color: #fff;
 }
 
