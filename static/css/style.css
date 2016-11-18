@@ -216,14 +216,12 @@ hr{
 #reel-toggle:checked ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 200px;
-  /*transform: scale(1);*/
   opacity: 1.0;
   pointer-events: all;
 }
 #reel-toggle:not(:checked) ~ #reel{
   transition: all 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
   top: 500px;
-  /*transform: scale(0.1);*/
   opacity: 0.0;
   pointer-events: none;
 }
@@ -423,12 +421,18 @@ input{
 }
 
 .project-tile{
+  z-index: 3;
   position: relative;
-  background-size: cover;
   background-position: center;
-  width: 60vw;
-  height: 60vw;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+
+  animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
+  animation-name: PROJINTRO_A;
+  animation-iteration-count: 1;
+  animation-duration: 1s;
 }
 .project-tile:hover{
   transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
@@ -467,22 +471,14 @@ input{
 }
 
 #personal .project-tile{
-  opacity: 1;
-  transform: translateZ(0px);
   transform-origin: 100% 0%;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
-  /*animation: PROJINTRO_A 0.5s 1;*/
 }
 #personal .project-tile:hover{
   transform: rotateY(15deg) translateZ(10px);
 }
 
 #work .project-tile{
-  opacity: 1;
-  transform: translateZ(0px);
   transform-origin: 0% 0%;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
-  /*animation: PROJINTRO_B 0.5s 1;*/
 }
 #work .project-tile:hover{
   transform:rotateY(-15deg) translateZ(10px);
@@ -907,19 +903,25 @@ input{
 /***  ANIMATIONS  ***/
 /*******/
 @-webkit-keyframes PROJINTRO_A {
-  from{
+  from {
     opacity: 0;
-    /*transform: rotateY( 90deg );*/
-    transform: translateZ( 200px );
+    transform: translateZ(200px);
+  }
+  to {
+    opacity: 1;
+    transform: translateZ(0px);
   }
 }
-@-webkit-keyframes PROJINTRO_B {
-  from{
+/*@-webkit-keyframes PROJINTRO_B {
+  0%{
     opacity: 0;
-    /*transform: rotateY( -90deg );*/
-    transform: translateZ( 200px );
+    transform: translateZ(200px);
   }
-}
+  100%{
+    opacity: 1;
+    transform: translateZ(0px);
+  }
+}*/
 
 @-webkit-keyframes FLOAT {
   0%{ transform: translateY(0px); }
