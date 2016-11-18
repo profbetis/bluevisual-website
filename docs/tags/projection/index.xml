@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projection on Blue Visual v03</title>
-    <link>http://dev.bluevisual.tv/tags/projection/</link>
+    <link>http://bluevisual.tv/tags/projection/</link>
     <description>Recent content in Projection on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2014 21:06:02 -0400</lastBuildDate>
-    <atom:link href="http://dev.bluevisual.tv/tags/projection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bluevisual.tv/tags/projection/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Landscape Flythroughs</title>
-      <link>http://dev.bluevisual.tv/work/landscape-flythroughs/</link>
+      <link>http://bluevisual.tv/work/landscape-flythroughs/</link>
       <pubDate>Sat, 01 Feb 2014 21:06:02 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/landscape-flythroughs/</guid>
+      <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
       <description>&lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/landscape-flythroughs-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/landscape-flythroughs-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -32,45 +32,45 @@
 &lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes. The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. I made custom window textures that were warped just subtly enough to give that warped feel that skyscrapers have.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

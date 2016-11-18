@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Blue Visual v03</title>
-    <link>http://dev.bluevisual.tv/tags/architecture/</link>
+    <link>http://bluevisual.tv/tags/architecture/</link>
     <description>Recent content in Architecture on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 May 2016 04:05:01 -0400</lastBuildDate>
-    <atom:link href="http://dev.bluevisual.tv/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bluevisual.tv/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hexcabin</title>
-      <link>http://dev.bluevisual.tv/personal/hexcabin/</link>
+      <link>http://bluevisual.tv/personal/hexcabin/</link>
       <pubDate>Sun, 01 May 2016 04:05:01 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/personal/hexcabin/</guid>
+      <guid>http://bluevisual.tv/personal/hexcabin/</guid>
       <description>
 
 &lt;p&gt;For a while now I&amp;rsquo;ve had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).&lt;/p&gt;
@@ -26,24 +26,24 @@
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -51,38 +51,38 @@
 
 &lt;p&gt;The top floor is the bedroom, study/office, and master bathroom.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -91,10 +91,10 @@
 &lt;p&gt;The second floor is the kitchen and dining room. It currently remains void of layout and furnishings.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 
@@ -103,10 +103,10 @@
 &lt;p&gt;The ground floor will be a general living room and study area with a smaller bathroom. It hasn&amp;rsquo;t been laid out or furnished yet either.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 
@@ -115,31 +115,31 @@
 &lt;p&gt;The cabin has been re-designed several times. Never in a completely new way, as the same three floors are always there, and the rotationally symmetric staircases remain, but the plans do shift from one generation to the next.Here are some older designs from much earlier in the project.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle13&#34; id=&#34;lightbox-toggle13&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle14&#34; id=&#34;lightbox-toggle14&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

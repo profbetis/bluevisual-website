@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Blue Visual v03</title>
-    <link>http://dev.bluevisual.tv/work/</link>
+    <link>http://bluevisual.tv/work/</link>
     <description>Recent content in Works on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Oct 2016 00:53:46 -0500</lastBuildDate>
-    <atom:link href="http://dev.bluevisual.tv/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bluevisual.tv/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Choice Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/choice/</link>
+      <link>http://bluevisual.tv/work/choice/</link>
       <pubDate>Wed, 12 Oct 2016 00:53:46 -0500</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/choice/</guid>
+      <guid>http://bluevisual.tv/work/choice/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a logo animation for a new logo they designed for their client &lt;a href=&#34;http://www.choicetool.com/&#34;&gt;Choice&lt;/a&gt; as part of their marketing package.&lt;/p&gt;
 
 &lt;p&gt;Choice is a tool and mold company, so an important aspect of their branding is machines and lasers. To communicate this, Space360 decided to go with an almost completely steel environment, except for a deep red lake that matches their identity&amp;rsquo;s primary color.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -77,15 +77,15 @@
     
     <item>
       <title>Vape Traze Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/vapetraze/</link>
+      <link>http://bluevisual.tv/work/vapetraze/</link>
       <pubDate>Tue, 01 Mar 2016 17:41:15 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/vapetraze/</guid>
+      <guid>http://bluevisual.tv/work/vapetraze/</guid>
       <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/vapetraze-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/vapetraze-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   &lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;
@@ -93,25 +93,25 @@
 
 Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/vapetraze-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
@@ -120,16 +120,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Space360 Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/space360logoanimation/</link>
+      <link>http://bluevisual.tv/work/space360logoanimation/</link>
       <pubDate>Tue, 12 Jan 2016 00:40:26 -0500</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/space360logoanimation/</guid>
+      <guid>http://bluevisual.tv/work/space360logoanimation/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/space360logoanimation-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/space360logoanimation-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -137,45 +137,45 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts low and parallel to vault wall&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera pulls away and tilts&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera begins aligning perpendicular to wall&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera settles facing vault door straight on&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Vault door rotates and exits&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/space360logoanimation-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/space360logoanimation-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera pushes into door&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -183,16 +183,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>AminoCat Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/aminocat/</link>
+      <link>http://bluevisual.tv/work/aminocat/</link>
       <pubDate>Sun, 01 Nov 2015 17:50:45 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/aminocat/</guid>
+      <guid>http://bluevisual.tv/work/aminocat/</guid>
       <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/aminocat-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/aminocat-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -202,48 +202,48 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;The client originally did not have a solid idea on what they were looking for, so together we worked to find an appealing idea. Being a film studio, we of course needed to incorporate a film strip into the animation.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;The film melting was a big challenge material-wise. I used a combination of bitmaps and procedural noise to drive a semi-physical heat/melting map. At the same time, I distorted the film strip&amp;rsquo;s polygons to warp and stretch as it melted away. For the logo underneath, I used an occlusion/dirt map to darken the edges of the hot glowing logo to emulate how hot metal cools faster at edges exposed areas.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -253,16 +253,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>The Fiancé</title>
-      <link>http://dev.bluevisual.tv/work/thefiance/</link>
+      <link>http://bluevisual.tv/work/thefiance/</link>
       <pubDate>Tue, 01 Sep 2015 21:05:29 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/thefiance/</guid>
+      <guid>http://bluevisual.tv/work/thefiance/</guid>
       <description>&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/thefiance-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/thefiance-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -272,42 +272,42 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;A majority of the shots were placing glowing eyes on various characters via motion tracking.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;One of the more creative and fun scenes to do was adding a projected image into a certain scene.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -319,17 +319,17 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 5. Place the character projections back on using the foreground&amp;rsquo;s alpha matte&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/thefiance-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -337,10 +337,10 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Zoli Speedmodel</title>
-      <link>http://dev.bluevisual.tv/work/zoli-speedmodel/</link>
+      <link>http://bluevisual.tv/work/zoli-speedmodel/</link>
       <pubDate>Wed, 01 Jul 2015 21:05:39 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/zoli-speedmodel/</guid>
+      <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
       <description>
 
 &lt;p&gt;A colleague of mine worked briefly at &lt;a href=&#34;http://zoli-inc.com/&#34;&gt;Zoli&lt;/a&gt; as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a medium-size photograph. We didn&amp;rsquo;t have much time, so I needed to deliver something quickly and at high quality.&lt;/p&gt;
@@ -348,38 +348,38 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;h2 id=&#34;4-total-working-hours&#34;&gt;4 total working hours&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -389,10 +389,10 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Honeyglue</title>
-      <link>http://dev.bluevisual.tv/work/honeyglue/</link>
+      <link>http://bluevisual.tv/work/honeyglue/</link>
       <pubDate>Tue, 01 Apr 2014 21:05:46 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/honeyglue/</guid>
+      <guid>http://bluevisual.tv/work/honeyglue/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.&lt;/p&gt;
 
 &lt;p&gt;For the 3D I used Luxology&amp;rsquo;s Modo 701. It was my first project where I had built my own character, discovering the complexities, frustrations, and satisfaction of building and rigging a character from scratch. While its role was not huge, realism was a top priority. I studied motions and visuals of honeybees from videos across the web (and when I encountered them in real life)&lt;/p&gt;
@@ -400,7 +400,7 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/honeyglue-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/honeyglue-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -408,55 +408,55 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The bee model with an Inverse Kinematics system&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Keyframes of bee animation in Modo&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A closeup of the bee (you never see it this big in the film)&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Motion path of the bee in the first scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;VFX was only half the project. I was also contracted to do storybook animations for certain narrative portions of the film. I was provided with Photoshop assets from an illustrator who drew them. My job was to take the layers/characters and animate them. I decided to go beyond the 2D realm of a book and try a sort of 3D parallaxing style. The clients enjoyed it so I went through with it.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;After Effects layers of one of the storybook scenes&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;How the storybook scenes are set up for 3D using 2D assets inside After Effects&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/honeyglue-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A final frame of one of the storybook animations&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -464,16 +464,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Landscape Flythroughs</title>
-      <link>http://dev.bluevisual.tv/work/landscape-flythroughs/</link>
+      <link>http://bluevisual.tv/work/landscape-flythroughs/</link>
       <pubDate>Sat, 01 Feb 2014 21:06:02 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/landscape-flythroughs/</guid>
+      <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
       <description>&lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/landscape-flythroughs-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/landscape-flythroughs-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -485,45 +485,45 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes. The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. I made custom window textures that were warped just subtly enough to give that warped feel that skyscrapers have.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -531,16 +531,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Cyber Vice</title>
-      <link>http://dev.bluevisual.tv/work/cybervice/</link>
+      <link>http://bluevisual.tv/work/cybervice/</link>
       <pubDate>Wed, 01 Jan 2014 21:06:09 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/cybervice/</guid>
+      <guid>http://bluevisual.tv/work/cybervice/</guid>
       <description>&lt;p&gt;This is the first project I was hired to do visual effects and compositing all on my own. I designed interfaces, animated them, and composited them into the scene using through a combination of various methods including rotoscoping and color keying.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/cybervice-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/cybervice-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -550,69 +550,69 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;Me and the client discussed different ways to do things, and I was given a lot of creative freedom, which was really nice. I really felt in my element too because I love computers and they&amp;rsquo;re an important part of my life. My interest in this allowed to have insightful artistic direction and believeable content.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screen/interface composited onto laptop&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A fake program I designed for the hacker to use&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The screen on the monitor in the background is a fake one composited into the frame using image tracking&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;This is also a composited screen. Here I made the website from scratch&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More screen compositing&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;I also was hired to make the show&amp;rsquo;s intro sequence. This was accomplished with an XBox Kinect hooked up to a DSLR with synchronized recording. I was then able to import the footage to a program that let me manipulate the 3D data in space and make my own camera moves. After this I exported the new rendered footage into Adobe After Effects to add more 3D elements like layers of code and particles, along with some sweet processing like motion blur and glows.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/cybervice-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -620,16 +620,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Me &#43; Her</title>
-      <link>http://dev.bluevisual.tv/work/me&#43;her/</link>
+      <link>http://bluevisual.tv/work/me&#43;her/</link>
       <pubDate>Sun, 01 Dec 2013 21:06:17 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/me&#43;her/</guid>
+      <guid>http://bluevisual.tv/work/me&#43;her/</guid>
       <description>&lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/me&amp;#43;her-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/me&amp;#43;her-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -639,45 +639,45 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;The film is a live-action movie that used puppets and a small-scale set (the cardboard houses were about 4 feet high). They only had about 12 houses because of the limited space they had to work in and the incredible work it takes to make each house. The problem was that for the final end shot they wanted a picture of the whole implied town that the story takes place in. I was hired to create their town in 3D and match a real camera move for the final scene in the movie. The city was massive and was very taxing on my machine to edit and render.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/me&amp;#43;her-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/me&amp;#43;her-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -685,10 +685,10 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Onyx Cinema Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/onyxcinema/</link>
+      <link>http://bluevisual.tv/work/onyxcinema/</link>
       <pubDate>Tue, 01 Oct 2013 21:06:41 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/onyxcinema/</guid>
+      <guid>http://bluevisual.tv/work/onyxcinema/</guid>
       <description>
 
 &lt;h2 id=&#34;revisited-april-2015&#34;&gt;Revisited April 2015&lt;/h2&gt;
@@ -698,7 +698,7 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/onyxcinema-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/onyxcinema-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -708,55 +708,55 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;When I saw the logo, I immediately thought of gyroscopic rings that eventually locked into place. The client also wanted the rings to lock into place at the end like lens elements (as cameras are an integral part of their workflow). The back plate is also a custom dark onyx material that strengthens the feeling of quality and solidarity.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
 &lt;p&gt;About a year an a half after the original contract, the client came back needing a 4k version for his talk at the NAB Show about film-making. There were some things that I had wanted to change since the original version, like the onyx stone backdrop, the lighting, and adding some motion blur (which my rendering program didn&amp;rsquo;t provide at the time of the first version). These changes really upgraded the overall look and prepared it for 4k viewing.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/onyxcinema-video-02.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/onyxcinema-video-02.mp4&#34; /&gt;
     
   &lt;/video&gt;
   &lt;div class=&#34;caption&#34;&gt;The original video which was muddier and flatter&lt;/div&gt;
@@ -767,16 +767,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Alumiq Logo Animation</title>
-      <link>http://dev.bluevisual.tv/work/alumiq/</link>
+      <link>http://bluevisual.tv/work/alumiq/</link>
       <pubDate>Sun, 01 Sep 2013 21:06:33 -0400</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/alumiq/</guid>
+      <guid>http://bluevisual.tv/work/alumiq/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://alumiq.com/&#34;&gt;Alumiq&lt;/a&gt; is a wedding videography studio. They film the wedding and edit on the same day, highlighting the day&amp;rsquo;s events in a spectacular composition. Their work is very well captures the high spirits and love the couples and families at the ceremonies have.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/alumiq-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/alumiq-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -786,24 +786,24 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;I was hired after a colleague of mine designed their new logo during a rebranding, and they needed it animated to show during at the beginning of their videos. Their name means &amp;lsquo;playing with light&amp;rsquo;, so to capture that, I created playfully reflective and translucent glass, which strengthen their identity.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-01.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-02.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/alumiq-03.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/alumiq-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
@@ -817,16 +817,16 @@ The animation of the E provides a nice contrasting color with the rest of the sc
     
     <item>
       <title>Asus Vivobook Touch</title>
-      <link>http://dev.bluevisual.tv/work/asusvivo/</link>
+      <link>http://bluevisual.tv/work/asusvivo/</link>
       <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
       
-      <guid>http://dev.bluevisual.tv/work/asusvivo/</guid>
+      <guid>http://bluevisual.tv/work/asusvivo/</guid>
       <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
-      &lt;source src=&#34;http://dev.bluevisual.tv/videos/work/asusvivo-video-01.mp4&#34; /&gt;
+      &lt;source src=&#34;http://bluevisual.tv/videos/work/asusvivo-video-01.mp4&#34; /&gt;
     
   &lt;/video&gt;
   
@@ -838,31 +838,31 @@ The animation of the E provides a nice contrasting color with the rest of the sc
 &lt;p&gt;Because the video had already been filmed, some of the actor&amp;rsquo;s interactions were not quite right, and I had to adjust the interface to be different than the real Windows 8 so that it matched their motions.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/asusvivo-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/work/asusvivo-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;&lt;/p&gt;
