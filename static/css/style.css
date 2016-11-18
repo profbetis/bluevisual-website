@@ -261,10 +261,6 @@ input{
   transform: rotateY(135deg);
   background-color: #202020;
 }
-#email{
-  font-size: 5vw;
-  font-weight: 200;
-}
 
 #kev{
   position: static;
@@ -296,9 +292,24 @@ input{
 }
 #contact .side-content > svg{
   display: block;
-  width: 5em;
   margin: -0.5em auto;
   fill: #606060;
+}
+#email{
+  display: block;
+  font-size: 5vw;
+  font-weight: 200;
+  margin-top: 112px;
+}
+#contact .side-content > svg{
+  position: absolute;
+  left: calc(50% - 36px);
+  top: 6em;
+  transition: fill 0.3s ease;
+}
+#email:hover ~ svg{
+  fill: #fff;
+  transition: fill 0.15s ease;
 }
 
 #and{
@@ -308,8 +319,9 @@ input{
 }
 
 #social-array{
-  width: 90%;
+  padding: 0 3vw;
   margin: auto;
+  column-gap: 0;
 }
 #social-array a{
   /*position: relative;*/
@@ -317,7 +329,6 @@ input{
   text-align: center;
   display: block;
   outline: 1px solid #181818;
-  outline-offset: -2px;
   transition: all 0.5s ease;
 }
 
@@ -327,7 +338,6 @@ input{
 
 #social-array a:hover{
   outline: 1px solid #0bf;
-  outline-offset: 0px;
   transition: all 0.15s ease;
 }
 #social-array img, #social-array svg{
