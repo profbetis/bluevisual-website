@@ -283,6 +283,10 @@ input{
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
+#about .side-content{
+  font-weight: 300;
+}
+
 
 #contact{
   transform: rotateY(-135deg);
