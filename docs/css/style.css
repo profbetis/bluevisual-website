@@ -8,9 +8,11 @@ html, body{
   padding: 0;
   margin: 0;
   letter-spacing: 0.05em;
+  text-align: center;
   font-feature-settings: "liga" 0;
   font-weight: 300;
   overflow: hidden;
+  color: #c0c0c0;
 }
 
 body{
@@ -259,10 +261,6 @@ input{
   transform: rotateY(135deg);
   background-color: #202020;
 }
-#email{
-  font-size: 5vw;
-  font-weight: 200;
-}
 
 #kev{
   position: static;
@@ -292,41 +290,77 @@ input{
 #contact .side-content{
   text-align: center;
 }
+#contact .side-content > svg{
+  display: block;
+  margin: -0.5em auto;
+  fill: #606060;
+}
+#email{
+  display: block;
+  font-size: 5vw;
+  font-weight: 200;
+  margin-top: 112px;
+}
+#contact .side-content > svg{
+  position: absolute;
+  left: calc(50% - 36px);
+  top: 6em;
+  transition: fill 0.3s ease;
+}
+#email:hover ~ svg{
+  fill: #fff;
+  transition: fill 0.15s ease;
+}
+
+#and{
+  font-size: 2em;
+  margin: 0.5em 0;
+  color: #808080;
+}
+
 #social-array{
-  display: flex;
-  width: 100%;
-}
-#social-array table{
-  width: 100%;
-  text-align: center;
-  padding: 0 10%;
-}
-#social-array td{
-  padding: 0.5em;
-  width: 20%;
-  height: 10vw;
-  text-align: center;
+  padding: 0 3vw;
+  margin: auto;
+  column-gap: 0;
 }
 #social-array a{
+  /*position: relative;*/
+  margin: auto;
+  text-align: center;
+  display: block;
+  outline: 1px solid #181818;
+  transition: all 0.5s ease;
+}
+
+@media (min-width: 0px) { #social-array{ column-count: 1; } }
+@media (min-width: 900px) { #social-array{ column-count: 2; } }
+@media (min-width: 1400px){ #social-array{ column-count: 4; } }
+
+#social-array a:hover{
+  outline: 1px solid #0bf;
+  transition: all 0.15s ease;
+}
+#social-array img, #social-array svg{
+  display: block;
+  margin: auto;
+  fill: #606060;
+  width: 50%;
+  transition: all 0.5s ease;
+}
+#social-array a:hover svg{
+  fill: #fff;
+  transition: all 0.15s ease;
+}
+#social-array a span{
+  display: block;
+  margin: auto;
+  padding-bottom: 1em;
   font-size: 0.7em;
   color: #a0a0a0;
-  height: auto;
-  width: 20vw;
+  transition: all 0.5s ease;
 }
-#social-array a:hover{
-  color: #0bf;
-}
-#social-array td:not(:empty):hover{
-  outline: 1px solid #0bf;
-}
-#social-array img{
-  margin: auto;
-  display: block;
-  /*opacity: 0.2;*/
-  margin-bottom: 0.5em;
-}
-#social-array a:hover img{
-  /*opacity: 1;*/
+#social-array a:hover span{
+  transition: all 0.15s ease;
 }
 
 
@@ -793,7 +827,7 @@ input{
   display: inline-block;
   background: #181818;
   margin-right: 0.5em;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.5em;
   padding: 4px 6px;
   transition: all 0.3s ease;
 }
