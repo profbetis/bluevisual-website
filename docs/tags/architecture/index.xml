@@ -28,21 +28,21 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -53,35 +53,35 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -93,7 +93,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -105,7 +105,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-10.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -117,28 +117,28 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle13&#34; id=&#34;lightbox-toggle13&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle14&#34; id=&#34;lightbox-toggle14&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle14&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hexcabin-14.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;

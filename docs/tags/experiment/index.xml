@@ -20,14 +20,14 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -37,14 +37,14 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/hypercube-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -62,14 +62,14 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -79,7 +79,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -89,42 +89,42 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/whirl-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -154,7 +154,7 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -169,35 +169,35 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/dust-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;

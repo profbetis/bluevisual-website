@@ -22,14 +22,14 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Both models in a 3D recreation of my apartment&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Both models in a 3D recreation of my apartment&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;One of the models by itself&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;One of the models by itself&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -39,56 +39,56 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -98,14 +98,14 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-11.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screenshot showing the ease of modifcation through Photoshop&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-11.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screenshot showing the ease of modifcation through Photoshop&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-12.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Screenshot showing the simple and logical texture files&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/bungeechairs-12.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Screenshot showing the simple and logical texture files&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -127,35 +127,35 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -181,7 +181,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -193,7 +193,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -203,7 +203,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
@@ -213,35 +213,35 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/personal/exion49-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;

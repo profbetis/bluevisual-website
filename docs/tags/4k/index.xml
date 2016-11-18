@@ -22,49 +22,49 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Camera starts out low and at the bottom of their logo&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera follows the arc of their logo, the letters emerge from the floor after a laser slices them out&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Traveling further, more letters are being created&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Finishing the arc, the camera begins to lift into the sky&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera lifts, you see the laser finish its last letter&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;As the camera settles, a bright reflection passes overhead, transforming the letters from steel into their final less literal state&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/choice-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;the materials in the scene transform into the final branding colors&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -98,21 +98,21 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Intro film strip&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Start of film burn&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The film melting, stretching, and tearing&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -122,21 +122,21 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo text being created&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo cooling and lighting fading in&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/aminocat-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final logo settle&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -170,42 +170,42 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -239,35 +239,35 @@
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
@@ -277,7 +277,7 @@
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34;&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://dev.bluevisual.tv/images/work/onyxcinema-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A comparison of the revision versus the original&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
