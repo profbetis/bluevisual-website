@@ -1,13 +1,14 @@
 +++
 date = "2013-04-02T10:38:09-04:00"
-tags = ["experiment", "simulation"]
+tags = ["experiment", "physics", "animation"]
 tools = ["3DS Max", "Octane Render"]
-time = "2013 Apr"
 title = "Dust"
 
 +++
 
-I've always loved the concept of entropy, decay, chaos, destruction... but not in an evil or sinister way, in a beautiful and curious way. When you break something down, you can study its parts; the system. When something is destroyed, you see how it was created.
+I've always loved the concept of entropy, decay, chaos, destruction... but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.
+
+{{< video 1 >}}
 
 This project is primarily an experiment with slow motion physics simulations of destruction.
 

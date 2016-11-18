@@ -1,3 +1,6 @@
+{{ $month := (dateFormat "Jan" .Date) }}
+{{ $year := (dateFormat "2006" .Date) }}
+
 <div class="header">
   <a href="{{ .Permalink }}">
     <div class="image" style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');" ></div>
@@ -7,7 +10,7 @@
     <div class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
     <div class="subtitle">
       {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }}
-      {{ if isset .Params "time"}}{{ .Params.time }}{{end}}
+      {{ if ne $year "0001" }}{{ $month }} {{ $year }}{{end}}
     </div>
     <div class="tags">
       <div>Tags</div>

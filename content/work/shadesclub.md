@@ -2,7 +2,6 @@
 client = "ShadesClub"
 date = "2016-09-12T09:30:30-05:00"
 tags = ["marketing", "product", "animation", "modeling", "rigging"]
-time = "2016 Sep"
 title = "ShadesClub Promotionals"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 draft = true

@@ -1,8 +1,7 @@
 +++
 date = "2016-06-02T10:36:45-04:00"
-tags = ["modeling", "product"]
+tags = ["modeling", "product", "exercise"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
-time = "2016 Jun"
 title = "Bungee Chair Models"
 
 +++

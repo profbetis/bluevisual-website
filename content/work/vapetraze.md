@@ -1,8 +1,7 @@
 +++
 client = "Vape Traze"
 date = "2016-03-01T17:41:15-04:00"
-tags = ["logo", "animation", "3D"]
-time = "2016 Mar"
+tags = ["logo", "animation"]
 title = "Vape Traze Logo Animation"
 tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Filter Forge"]
 

@@ -28,14 +28,24 @@
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
               </div>
             </a>
-            <div class="project-info project-name">
+            <div class="project-name">
               {{ .Title }}
             </div>
-            <div class="project-info project-tags">
-              {{- range $index, $el := .Params.tags -}}
-                {{- if gt $index 0 -}},&nbsp;{{- end -}}
-                <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{- end -}}
+            <div class="project-info">
+              <div class="project-info project-tags">
+                {{- range $index, $el := .Params.tags -}}
+                  {{- if gt $index 0 -}},&nbsp;{{- end -}}
+                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                {{- end -}}
+              </div>
+              <div class="project-info project-tools">
+                {{- range $index, $el := .Params.tools -}}
+                  {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
+                {{- end -}}
+              </div>
+              <div class="project-info project-date">
+                {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
+              </div>
             </div>
           </div>
         {{ end }}
@@ -64,14 +74,24 @@
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
               </div>
             </a>
-            <div class="project-info project-name">
+            <div class="project-name">
               {{ .Title }}
             </div>
-            <div class="project-info project-tags">
-              {{- range $index, $el := .Params.tags -}}
-                {{- if gt $index 0 -}},&nbsp;{{- end -}}
-                <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-              {{- end -}}
+            <div class="project-info">
+              <div class="project-info project-tags">
+                {{- range $index, $el := .Params.tags -}}
+                  {{- if gt $index 0 -}},&nbsp;{{- end -}}
+                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                {{- end -}}
+              </div>
+              <div class="project-info project-tools">
+                {{- range $index, $el := .Params.tools -}}
+                  {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
+                {{- end -}}
+              </div>
+              <div class="project-info project-date">
+                {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
+              </div>
             </div>
           </div>
         {{- end }}
