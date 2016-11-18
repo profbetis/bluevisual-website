@@ -481,7 +481,9 @@ input{
   animation-timing-function: cubic-bezier(0.0, .75, 0.25, 1.0);
   /*animation: PROJINTRO_B 0.5s 1;*/
 }
-#work .project-tile:hover{ transform:rotateY(-15deg) translateZ(10px); }
+#work .project-tile:hover{
+  transform:rotateY(-15deg) translateZ(10px);
+}
 
 .project-thumb{
   background-size: cover;
@@ -492,53 +494,93 @@ input{
 }
 .project-tile:hover .project-thumb{
   filter: grayscale(00%) contrast(100%) brightness(100%);
-  transition: filter 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+  transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-
-.project-info{
-  padding: 0.5em;
-  position: absolute;
-  transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-}
-.project-tile:hover .project-info{
-  background-color: #181818;
+.project-tile:hover > div{
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-name{
-  top: 0%;
+  position: absolute;
+  padding: 0.25em 0.5em;
+  top: 0;
+  left: 0;
   width: calc(100% - 1em);
   text-align: left;
   font-size: 1.3em;
   line-height: 1em;
   font-weight: 200;
+  transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile:hover .project-name{
+  background-color: #181818;
   color: #ffffff;
-  top: -1.9em;
+  transform: translateY(-100%);
+  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+.project-info{
+  width: calc(100% - 0.5em);
+  padding: 0.25em 0.5em;
+  right: 0em;
+  position: absolute;
+  top: calc(100% - 1.75em);
+  transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+.project-tile:hover .project-info{
+  top: calc(100% - 0.25em);
+}
+.project-info > div{
+  position: relative;
+  text-align: right;
+  font-size: 0.8em;
+  font-weight: 500;
+  opacity: 0;
+  outline: 2px solid rgba(0,0,0,0);
 }
 
-.project-tags{
+.project-info .project-tags{
   color: #ffffff;
   text-align: right;
-  bottom: 0;
-  width: calc(100% - 1em);
-  opacity: 0.3;
-  font-size: 0.85em;
-  line-height: 1em;
-  font-weight: 300
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  z-index: 7;
+  opacity: 0.4;
 }
 .project-tile:hover .project-tags{
   opacity: 1;
-  bottom: -1.9em;
+  background: #202020;
+  outline: 2px solid #202020;
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tags a{
   color: inherit;
-  text-shadow: none;
 }
 .project-tags a:hover{
-  text-decoration: underline;
+  color: #0bf;
+}
+
+.project-tools{
+  bottom: 1em;
+  color: #a0a0a0;
+  z-index: 5;
+}
+.project-tile:hover .project-tools{
+  bottom: 0;
+  opacity: 1;
+  background-color: #181818;
+  outline: 2px solid #181818;
+  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000) 0.15s;
+}
+
+.project-date{
+  color: #808080;
+  bottom: 1em;
+  z-index: 4;
+}
+.project-tile:hover .project-date{
+  bottom: 0em;
+  opacity: 1;
+  background-color: #101010;
+  outline: 2px solid #101010;
+  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000) 0.3s;
 }
 
 
