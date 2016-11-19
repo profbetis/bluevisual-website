@@ -6,11 +6,13 @@ tags = ["logo", "animation"]
 title = "Alumiq Logo Animation"
 
 +++
-[Alumiq](http://alumiq.com/) is a wedding videography studio. They film the wedding and edit on the same day, highlighting the day's events in a spectacular composition. Their work is very well captures the high spirits and love the couples and families at the ceremonies have.
+[Alumiq](http://alumiq.com/) is a wedding videography studio that film and edit on the same day, highlighting the day's events in a spectacular composition. Their work very well captures the high spirits and love the couples and families at the ceremonies have.
 
 {{< video 1 >}}
 
-I was hired after a colleague of mine designed their new logo during a rebranding, and they needed it animated to show during at the beginning of their videos. Their name means 'playing with light', so to capture that, I created playfully reflective and translucent glass, which strengthen their identity.
+I was contacted after [a colleague of mine](http://www.thejoylin.com/) designed their new logo for a rebranding, and they needed it animated to show at the beginning of their videos.
+
+Their name means 'playing with light', so to capture that, I created playfully reflective and translucent glass, which strengthens and reaffirms their branding identity.
 
 
 {{< image 1 >}}
