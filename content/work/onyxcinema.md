@@ -8,7 +8,7 @@ title = "Onyx Cinema Logo Animation"
 +++
 ## Revisited April 2015
 
-[Onyx Cinema](http://www.onyxcinema.com/) is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and get a new website. They hired a colleague of mine to design the logo, and she directed them to me for the animation aspect of it.
+[Onyx Cinema](http://www.onyxcinema.com/) is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired [a colleague of mine](http://www.thejoylin.com/) to design the logo, and she directed them to me to animate it.
 
 {{< video 1 >}}
 
@@ -20,8 +20,8 @@ When I saw the logo, I immediately thought of gyroscopic rings that eventually l
 {{< image 4 >}}
 {{< image 5 >}}
 
-About a year an a half after the original contract, the client came back needing a 4k version for his talk at the NAB Show about film-making. There were some things that I had wanted to change since the original version, like the onyx stone backdrop, the lighting, and adding some motion blur (which my rendering program didn't provide at the time of the first version). These changes really upgraded the overall look and prepared it for 4k viewing.
+About a year an a half after the original contract, the client came back requesting a 4k version for his talk at the NAB Show about film-making. There were some things that I had wanted to change since the original version like the onyx stone backdrop, the lighting, and adding some motion blur (which my rendering program didn't provide at the time of the first version). These changes really improved the overall look and prepared it for 4k viewing.
 
-{{< image 6 "A comparison of the revision versus the original" >}}
+{{< image 6 "A comparison of the revision versus the original, two years earlier" >}}
 
 {{< video 2 "The original video which was muddier and flatter" >}}
