@@ -9,7 +9,7 @@ html, body{
   margin: 0;
 
   font-family: 'Source Sans Pro', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
   font-feature-settings: "liga" 0;
   font-weight: 400;
@@ -50,7 +50,14 @@ h1, h2{
   letter-spacing: 0.05em;
   color: #c0c0c0;
 }
-h1{ font-size: 3em; }
+h1{
+  font-size: 4.5vw;
+}
+@media (min-width: 1250px){
+  h1{
+    font-size: 3em;
+  }
+}
 h2{ font-size: 2em; }
 
 p{
@@ -158,7 +165,7 @@ hr{
   animation: RISE 1.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
-#structure *{
+#structure > *{
   backface-visibility: hidden;
 }
 
@@ -421,6 +428,7 @@ input{
 }
 
 .project-tile{
+  font-size: 100%;
   z-index: 3;
   position: relative;
   background-position: center;
@@ -439,31 +447,39 @@ input{
   z-index: 10;
 }
 
-@media (min-width: 500px){
+@media (min-width: 0px){
+  .project-tile{
+    width: 60vw;
+    height: 60vw;
+    font-size: 140%;
+  }
+}
+@media (min-width: 750px){
   .project-tile{
     width: 30vw;
     height: 30vw;
+    font-size: 100%;
   }
 }
-@media (min-width: 1000px){
+@media (min-width: 1250px){
   .project-tile{
     width: 20vw;
     height: 20vw;
   }
 }
-@media (min-width: 1500px){
+@media (min-width: 1750px){
   .project-tile{
     width: 15vw;
     height: 15vw;
   }
 }
-@media (min-width: 2000px){
+@media (min-width: 2250px){
   .project-tile{
     width: 12vw;
     height: 12vw;
   }
 }
-@media (min-width: 2500px){
+@media (min-width: 2750px){
   .project-tile{
     width: 10vw;
     height: 10vw;
@@ -474,14 +490,27 @@ input{
   transform-origin: 100% 0%;
 }
 #personal .project-tile:hover{
-  transform: rotateY(15deg) translateZ(10px);
+  transform: rotateY(15deg) translateZ(20px);
 }
 
 #work .project-tile{
   transform-origin: 0% 0%;
 }
 #work .project-tile:hover{
-  transform:rotateY(-15deg) translateZ(10px);
+  transform:rotateY(-15deg) translateZ(20px);
+}
+@media (min-width: 0px){
+  #work .project-tile:hover, #personal .project-tile:hover{
+    transform: translateZ(20px);
+  }
+}
+@media (min-width: 750px){
+  #work .project-tile:hover{
+    transform: rotateY(-15deg) translateZ(20px);
+  }
+  #personal .project-tile:hover{
+    transform: rotateY(15deg) translateZ(20px);
+  }
 }
 
 .project-thumb{
@@ -491,6 +520,15 @@ input{
   filter: grayscale(100%) contrast(33%) brightness(50%);
   transition: filter 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
+@media (max-width: 750px){
+  .project-thumb{
+    filter: grayscale(00%) contrast(100%) brightness(100%);
+  }
+  .project-tile > .project-name{
+    background-color: rgba(0,0,0,0.8);
+  }
+}
+
 .project-tile:hover .project-thumb{
   filter: grayscale(00%) contrast(100%) brightness(100%);
   transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
@@ -508,10 +546,12 @@ input{
   font-size: 1.3em;
   line-height: 1em;
   font-weight: 200;
+  outline: 2px solid rgba(0,0,0,0);
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile:hover .project-name{
   background-color: #181818;
+  outline: 2px solid #181818;
   color: #ffffff;
   transform: translateY(-100%);
   transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
@@ -547,7 +587,7 @@ input{
   opacity: 1;
   background: #202020;
   outline: 2px solid #202020;
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  transition: all 0.15s ease-out;
 }
 .project-tags a{
   color: inherit;
@@ -566,7 +606,7 @@ input{
   opacity: 1;
   background-color: #181818;
   outline: 2px solid #181818;
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000) 0.15s;
+  transition: all 0.15s ease-out 0.15s;
 }
 
 .project-date{
@@ -579,7 +619,7 @@ input{
   opacity: 1;
   background-color: #101010;
   outline: 2px solid #101010;
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000) 0.3s;
+  transition: all 0.15s ease-out 0.3s;
 }
 
 
