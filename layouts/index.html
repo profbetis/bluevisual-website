@@ -22,7 +22,7 @@
       <div class="project-grid">
         {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
           <div class="project-tile"
-          style="animation-delay: {{ mul 0.1 $index }}s;">
+          style="animation-delay: {{ mul 0.1 $index | add 0.25 }}s;">
             <a href="{{ .Permalink }}">
               <div class="project-thumb"
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
@@ -68,7 +68,7 @@
       <div class="project-grid">
         {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
           <div class="project-tile"
-          style="animation-delay: {{ mul 0.1 $index | add 0.05 }}s;">
+          style="animation-delay: {{ mul 0.1 $index | add 0.25 }}s;">
             <a href="{{ .Permalink }}">
               <div class="project-thumb"
               style="background-image: url('/images/{{ .Section }}/{{ .BaseFileName }}-thumb.jpg');">
@@ -98,6 +98,12 @@
       </div>
 
       <div class="side-footer"></div>
+
+      <br>
+      <span class="subcaption">
+        You can also search projects by <a href="/tags">tag</a>.
+      </span>
+
       <div class="side-spacer"></div>
     </div>
 
