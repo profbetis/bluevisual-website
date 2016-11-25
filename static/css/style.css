@@ -275,17 +275,17 @@ input{
   position: static;
   width: 35vw;
   height: 35vw;
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 600px;
+  max-height: 600px;
   margin: 2em auto;
   background-size: cover;
-  backface-visibility: visible;
+  transform-origin: right;
   outline: 0.5em solid #181818;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #kev:hover{
   transform: translateZ(1em) rotateY(45deg);
-  outline: 3em solid #181818;
+  outline: 1em solid #181818;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
