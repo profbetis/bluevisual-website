@@ -290,7 +290,6 @@ input{
 }
 
 #about .side-content{
-  font-weight: 300;
 }
 
 
@@ -379,6 +378,7 @@ input{
 
 
 #about p, #contact p{
+  font-weight: 300;
   margin-left: 1em;
   margin-right: 1em;
 }
