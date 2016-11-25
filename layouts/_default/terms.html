@@ -1,0 +1,30 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+<a href="{{ $.Site.BaseURL }}" id="return">
+  <span>Return to Projects        &lt;</span>
+</a>
+
+<div class="tag-page">
+  <div id="list-header">Find projects by {{ .Data.Singular }}</div>
+
+  <div id="other-tags">
+    <br>
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}"
+        style="font-size: {{ mul $value.Count 0.5 | add 0.25 }}em;">
+        {{ $value.Name }}
+      </a>
+    {{ end }}
+  </div>
+
+</div>
+
+<a href="{{ $.Site.BaseURL }}">
+  <div class="bottom-spacer">
+    Return to Projects
+  </div>
+</a>
+
+{{ partial "footer-meta" . }}
