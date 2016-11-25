@@ -492,14 +492,14 @@ input{
   transform-origin: 100% 0%;
 }
 #personal .project-tile:hover{
-  transform: rotateY(15deg) translateZ(20px);
+  /*transform: rotateY(45deg) translateZ(20px);*/
 }
 
 #work .project-tile{
   transform-origin: 0% 0%;
 }
 #work .project-tile:hover{
-  transform:rotateY(-15deg) translateZ(20px);
+  transform:rotateY(-45deg) translateZ(20px);
 }
 @media (min-width: 0px){
   #work .project-tile:hover, #personal .project-tile:hover{
@@ -508,10 +508,10 @@ input{
 }
 @media (min-width: 750px){
   #work .project-tile:hover{
-    transform: rotateY(-15deg) translateZ(20px);
+    transform: rotateY(-25deg) translateZ(20px);
   }
   #personal .project-tile:hover{
-    transform: rotateY(15deg) translateZ(20px);
+    transform: rotateY(25deg) translateZ(20px);
   }
 }
 
