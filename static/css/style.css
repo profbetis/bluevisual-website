@@ -342,7 +342,7 @@ input{
   margin: auto;
   text-align: center;
   display: block;
-  outline: 1px solid #181818;
+  border: 1px solid #181818;
   transition: all 0.5s ease;
 }
 
@@ -351,7 +351,7 @@ input{
 @media (min-width: 1400px){ #social-array{ column-count: 4; } }
 
 #social-array a:hover{
-  outline: 1px solid #0cf;
+  border: 1px solid #0cf;
   transition: all 0.15s ease;
 }
 #social-array img, #social-array svg{
