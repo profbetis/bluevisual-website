@@ -161,8 +161,8 @@ hr{
   left: 20%;
   position: relative;
   padding-top: 50px;
-  animation: RISE 1.5s 1;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
+  animation: RISE 2.0s 1 !important;
+  animation-timing-function: cubic-bezier(0.25, .5, 0.5, 1.0);
 }
 #structure > *{
   backface-visibility: hidden;
