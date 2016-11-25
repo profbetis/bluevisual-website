@@ -155,13 +155,12 @@ hr{
 
 #structure{
   width: 60vw;
+  transform: rotateY(0deg);
   transform-style:preserve-3d;
   transform-origin: center center -30vw;
   left: 20%;
   position: relative;
   padding-top: 50px;
-  /*animation: RISE 1.5s 1, FLOAT 5s infinite;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0), cubic-bezier(0.5, .0, 0.5, 1.0);*/
   animation: RISE 1.5s 1;
   animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
 }
@@ -188,7 +187,7 @@ hr{
   text-align: left;
   transition: transform 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
-.side-content *{
+.side-content{
   pointer-events: initial;
 }
 
@@ -207,14 +206,16 @@ hr{
 /*******/
 #toggle:checked ~ #structure{
   transform: rotateY(180deg);
-  /*animation: ROTATE2BACK 2.5s 1;*/
-  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  animation-fill-mode: both;
+  animation: ROTATE2BACK 2s 1;
+  animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);
   transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
 }
 #toggle:not(:checked) ~ #structure{
-  transform: rotateY(360deg);
-  /*animation: ROTATE2FRONT 2.5s 1;*/
-  /*animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);*/
+  transform: rotateY(0deg);
+  animation-fill-mode: both;
+  animation: ROTATE2FRONT 2s 1;
+  animation-timing-function: cubic-bezier(0.4, -0.2, 0.200, 1.000);
   transition: transform 2.5s cubic-bezier(0.4, -0.2, 0.200, 1.000);
 }
 #reel-toggle:checked ~ #structure{
@@ -278,11 +279,12 @@ input{
   max-height: 500px;
   margin: 2em auto;
   background-size: cover;
+  backface-visibility: visible;
   outline: 0.5em solid #181818;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #kev:hover{
-  transform: translateZ(4em) rotateY(45deg);
+  transform: translateZ(1em) rotateY(45deg);
   outline: 3em solid #181818;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
@@ -984,11 +986,11 @@ input{
 }
 
 @-webkit-keyframes ROTATE2BACK {
-  0%{ transform: rotateY(360deg); }
-  100%{ transform: rotateY(180deg); }
+  from{ transform: rotateY(360deg); }
+  to{ transform: rotateY(180deg); }
 }
 
 @-webkit-keyframes ROTATE2FRONT {
-  0%{ transform: rotateY(180deg);}
-  100%{ transform: rotateY(360deg); }
+  from{ transform: rotateY(180deg); }
+  to{ transform: rotateY(0deg); }
 }
