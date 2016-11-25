@@ -860,7 +860,7 @@ input{
   background: #181818;
   margin-right: 0.25em;
   margin-bottom: 0.5em;
-  padding: 4px 6px;
+  padding: 0.25em 0.5em;
   transition: all 0.3s ease;
 }
 #other-tags a:hover{
@@ -901,21 +901,20 @@ input{
   color: #a0a0a0;
   margin-left: 160px;
   margin-right: 1em;
-  padding-top: 6px;
-  font-size: 0.9em;
+  padding-top: 12px;
+  font-size: 0.8em;
 }
 .header .info .title{
   font-family: 'Raleway', sans-serif;
-  font-size: 2rem;
-  line-height: 2rem;
-  font-weight: 300;
-  margin-top: 0.5rem;
+  font-size: 1.8rem;
+  line-height: 1.8rem;
+  font-weight: 100;
   white-space: nowrap;
 }
 .header .info .subtitle{
   color: #808080;
-  margin-bottom: 0.75rem;
-  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.7rem;
 }
 .header .info .tags > div, .header .info .tags > a,
 .header .info .tools > div, .header .info .tools > a {
@@ -923,7 +922,7 @@ input{
   background: #181818;
   margin-right: 0.5em;
   margin-bottom: 0.5em;
-  padding: 4px 6px;
+  padding: 0.25em 0.5em;
   transition: all 0.3s ease;
 }
 .header .info div > div:first-of-type{
