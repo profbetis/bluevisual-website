@@ -637,6 +637,7 @@ input{
 
 .content{
   margin-top: 2em;
+  font-size: 16px;
 }
 
 .content p:not(:empty){
@@ -788,6 +789,7 @@ input{
 }
 
 #return{
+  font-size: 13px;
   position: fixed;
   height: 4em;
   width: 15.5em;
