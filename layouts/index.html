@@ -1,8 +1,8 @@
 {{ partial "header-meta" . }}
 
-<div class="persp">
+{{ partial "header" . }}
 
-  {{ partial "header" . }}
+<div id="null">
 
 <input type="checkbox" name="reel-toggle" id="reel-toggle" />
 
@@ -11,128 +11,127 @@
   </iframe>
 </div>
 
-<input type="checkbox" name="rotate" id="toggle" />
+<input type="checkbox" name="projects" id="toggle" />
+<label for="toggle">Portfolio // Work</label>
+<label for="reel-toggle">Reel</label>
 
-  <div id="structure">
-    <div class="side" id="personal">
-      <label for="reel-toggle">Reel</label>
-      <div class="side-title">
-        <h1>Personal Projects</h1>
-      </div>
-      <div class="project-grid">
-        {{ range $index, $el := (where .Data.Pages "Section" "==" "personal") }}
-          <div class="project-tile"
-          style="animation-delay: {{ mul 0.1 $index | add 0.25 }}s;">
-            <a href="{{ .Permalink }}">
-              <div class="project-thumb"
-              style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
-              </div>
-            </a>
-            <div class="project-name">
-              {{ .Title }}
-            </div>
-            <div class="project-info">
-              <div class="project-info project-tags">
-                {{- range $index, $el := .Params.tags -}}
-                  {{- if gt $index 0 -}},&nbsp;{{- end -}}
-                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-                {{- end -}}
-              </div>
-              <div class="project-info project-tools">
-                {{- range $index, $el := .Params.tools -}}
-                  {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
-                {{- end -}}
-              </div>
-              <div class="project-info project-date">
-                {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
-              </div>
-            </div>
+<form>
+  <div id="projects">
+  <!-- Input Tiles -->
+  <div class="project-group">
+    <input type="radio" name="section" value="animation" id="ps-animation" checked>
+    <label for="ps-animation" class="project-tile selector">
+      <div>Animations</div>
+    </label>
+
+    <input type="radio" name="section" value="vfx" id="ps-vfx">
+    <label for="ps-vfx" class="project-tile selector">
+      <div>VFX</div>
+    </label>
+
+    <input type="radio" name="section" value="product" id="ps-product">
+    <label for="ps-product" class="project-tile selector">
+      <div>Products</div>
+    </label>
+
+    <input type="radio" name="section" value="art" id="ps-art">
+    <label for="ps-art" class="project-tile selector">
+      <div>Art</div>
+    </label>
+  </div>
+  <!-- Project Tiles -->
+
+  <!-- Animation Tiles -->
+  <div class="project-group" value="animation">
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST</div>
+
+    {{ range $index, $el := (where .Data.Pages "Section" "==" "NULL") }}
+      <div class="project-tile"
+      style="animation-delay: {{ mul 0.05 $index | add 0.1 }}s;">
+        <a href="{{ .Permalink }}">
+          <div class="project-thumb"
+          style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
           </div>
-        {{ end }}
-      </div>
-
-      <div class="side-footer"></div>
-
-      <br>
-      <span class="subcaption">
-        Site proudly designed in <a href="https://gohugo.io/"  target="_blank">Hugo</a>.
-      </span>
-      <div class="side-spacer"></div>
-    </div>
-
-    <div class="side" id="work">
-      <label for="toggle">Me // Contact</label>
-      <div class="side-title">
-        <h1>Client Work</h1>
-      </div>
-      <div class="project-grid">
-        {{ range $index, $el := (where .Data.Pages "Section" "==" "work") }}
-          <div class="project-tile"
-          style="animation-delay: {{ mul 0.1 $index | add 0.25 }}s;">
-            <a href="{{ .Permalink }}">
-              <div class="project-thumb"
-              style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
-              </div>
-            </a>
-            <div class="project-name">
-              {{ .Title }}
-            </div>
-            <div class="project-info">
-              <div class="project-info project-tags">
-                {{- range $index, $el := .Params.tags -}}
-                  {{- if gt $index 0 -}},&nbsp;{{- end -}}
-                  <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-                {{- end -}}
-              </div>
-              <div class="project-info project-tools">
-                {{- range $index, $el := .Params.tools -}}
-                  {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
-                {{- end -}}
-              </div>
-              <div class="project-info project-date">
-                {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
-              </div>
-            </div>
+        </a>
+        <div class="project-name">
+          {{ .Title }}
+        </div>
+        <div class="project-info">
+          <div class="project-info project-tags">
+            {{- range $index, $el := .Params.tags -}}
+              {{- if gt $index 0 -}},&nbsp;{{- end -}}
+              <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+            {{- end -}}
           </div>
-        {{- end }}
+          <div class="project-info project-tools">
+            {{- range $index, $el := .Params.tools -}}
+              {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
+            {{- end -}}
+          </div>
+          <div class="project-info project-date">
+            {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
+          </div>
+        </div>
       </div>
+    {{ end }}
+  </div>
+  <!-- -->
 
-      <div class="side-footer"></div>
-
-      <br>
-      <span class="subcaption">
-        You can also search projects by <a href="/tags">tag</a>.
-      </span>
-
-      <div class="side-spacer"></div>
-    </div>
-
-    <div class="side" id="about">
-      <div class="side-title">
-        <label for="toggle">Portfolio // Work</label>
-        <h1>Me</h1>
+  <!-- Animation Tiles -->
+  <!--
+  <div class="project-group" value="vfx">
+    <div class="project-tile shifter" value="vfx"></div>
+    <div class="project-tile shifter" value="vfx"></div>
+    <div class="project-tile shifter" value="vfx"></div>
+    <div class="project-tile shifter" value="vfx"></div>
+    {{ range $index, $el := (where .Data.Pages "Section" "==" "art") }}
+      <div class="project-tile"
+      style="animation-delay: {{ mul 0.05 $index | add 0.1 }}s;">
+        <a href="{{ .Permalink }}">
+          <div class="project-thumb"
+          style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
+          </div>
+        </a>
+        <div class="project-name">
+          {{ .Title }}
+        </div>
+        <div class="project-info">
+          <div class="project-info project-tags">
+            {{- range $index, $el := .Params.tags -}}
+              {{- if gt $index 0 -}},&nbsp;{{- end -}}
+              <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+            {{- end -}}
+          </div>
+          <div class="project-info project-tools">
+            {{- range $index, $el := .Params.tools -}}
+              {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
+            {{- end -}}
+          </div>
+          <div class="project-info project-date">
+            {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
+          </div>
+        </div>
       </div>
-      <div class="side-content">
-        {{ partial "about" . }}
-        <!-- <hr>
-        {{ partial "music" . }} -->
-      </div>
-      <div class="side-footer"></div>
-    </div>
-
-    <div class="side" id="contact">
-      <div class="side-title">
-        <h1>Get in Touch</h1>
-      </div>
-      <div class="side-content">
-        {{ partial "contact" . }}
-        <hr>
-        {{ partial "canvases" . }}
-      </div>
-      <div class="side-footer"></div>
-    </div>
+    {{ end }}
+  </div>
+  -->
+  <!-- -->
 
   </div>
+  <!-- -->
+</form>
 
 </div>
 
