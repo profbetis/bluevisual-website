@@ -17,28 +17,31 @@
 
 <form>
   <div id="projects">
+  <!-- Radio Buttons -->
+  <input type="radio" name="section" value="animation" id="ps-animation" checked>
+  <input type="radio" name="section" value="vfx" id="ps-vfx">
+  <input type="radio" name="section" value="product" id="ps-product">
+  <input type="radio" name="section" value="art" id="ps-art">
+
   <!-- Input Tiles -->
   <div class="project-group">
-    <input type="radio" name="section" value="animation" id="ps-animation" checked>
-    <label for="ps-animation" class="project-tile selector">
-      <div>Animations</div>
+    <label for="ps-animation" class="project-tile selector" value="animation">
+      <div>Animation</div>
     </label>
 
-    <input type="radio" name="section" value="vfx" id="ps-vfx">
-    <label for="ps-vfx" class="project-tile selector">
+    <label for="ps-vfx" class="project-tile selector" value="vfx">
       <div>VFX</div>
     </label>
 
-    <input type="radio" name="section" value="product" id="ps-product">
-    <label for="ps-product" class="project-tile selector">
-      <div>Products</div>
+    <label for="ps-product" class="project-tile selector" value="product">
+      <div>Product</div>
     </label>
 
-    <input type="radio" name="section" value="art" id="ps-art">
-    <label for="ps-art" class="project-tile selector">
+    <label for="ps-art" class="project-tile selector" value="art">
       <div>Art</div>
     </label>
   </div>
+
   <!-- Project Tiles -->
 
   <!-- Animation Tiles -->
@@ -47,18 +50,24 @@
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
 
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
-    <div class="project-tile" value="animation">TEST</div>
+    <div class="project-tile" value="animation">TEST 1</div>
+    <div class="project-tile" value="animation">TEST 2</div>
+    <div class="project-tile" value="animation">TEST 3</div>
+    <div class="project-tile" value="animation">TEST 4</div>
+    <div class="project-tile" value="animation">TEST 5</div>
+    <div class="project-tile" value="animation">TEST 6</div>
+    <div class="project-tile" value="animation">TEST 7</div>
+    <div class="project-tile" value="animation">TEST 8</div>
+    <div class="project-tile" value="animation">TEST 9</div>
+    <div class="project-tile" value="animation">TEST 10</div>
+    <div class="project-tile" value="animation">TEST 11</div>
+    <div class="project-tile" value="animation">TEST 12</div>
+    <div class="project-tile" value="animation">TEST 13</div>
 
     {{ range $index, $el := (where .Data.Pages "Section" "==" "NULL") }}
-      <div class="project-tile"
+      <div class="project-tile" value="animation"
       style="animation-delay: {{ mul 0.05 $index | add 0.1 }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"

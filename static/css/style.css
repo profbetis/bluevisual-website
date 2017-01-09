@@ -153,11 +153,11 @@ input{
 /*******/
 
 #projects{
-  line-height: 0px;
-  margin: auto;
+  line-height: 0;
+  width: 100%;
   position: relative;
   top: 100px;
-  outline: 1px solid green;
+  outline: 2px solid green;
 }
 
 .project-tile{
@@ -169,7 +169,6 @@ input{
   display: inline-block;
   margin-right: 100px;
   margin-bottom: -50px;
-  left: 0;
   position: relative;
   opacity: 1.0;
 }
@@ -179,10 +178,9 @@ input{
   cursor: pointer;
 }
 
-@media (min-width: 1200px){
-  .project-group .project-tile:nth-of-type(8n-3), .project-group .project-tile:nth-of-type(8n-2),
-  .project-group .project-tile:nth-of-type(8n-1), .project-group .project-tile:nth-of-type(8n-0){
-    border: 2px solid cyan;
+@media (min-width: 1500px){
+  .project-tile:nth-of-type(8n-3), .project-tile:nth-of-type(8n-2),
+  .project-tile:nth-of-type(8n-1), .project-tile:nth-of-type(8n-0){
     left: 150px;
   }
 
@@ -190,16 +188,10 @@ input{
     width: 1250px;
   }
 }
-@media (max-width: 1200px) and (min-width: 900px){
-  .project-group .project-tile:nth-of-type(8n-3), .project-group .project-tile:nth-of-type(8n-2),
-  .project-group .project-tile:nth-of-type(8n-1), .project-group .project-tile:nth-of-type(8n-0){
-    border: 2px solid blue;
-    left: 0px;
-  }
+@media (max-width: 1500px) and (min-width: 1200px){
 
-  .project-group .project-tile:nth-of-type(6n-2), .project-group .project-tile:nth-of-type(6n-1),
-  .project-group .project-tile:nth-of-type(6n-0){
-    border: 2px solid cyan;
+  .project-tile:nth-of-type(6n-2), .project-tile:nth-of-type(6n-1),
+  .project-tile:nth-of-type(6n-0){
     left: 150px;
   }
 
@@ -207,18 +199,8 @@ input{
     width: 950px;
   }
 }
-@media (max-width: 900px) and (min-width: 600px){
-  .project-group .project-tile:nth-of-type(8n-3), .project-group .project-tile:nth-of-type(8n-2),
-  .project-group .project-tile:nth-of-type(8n-1), .project-group .project-tile:nth-of-type(8n-0),
-
-  .project-group .project-tile:nth-of-type(6n-2), .project-group .project-tile:nth-of-type(6n-1),
-  .project-group .project-tile:nth-of-type(6n-0){
-    border: 2px solid blue;
-    left: 0px;
-  }
-
-  .project-group .project-tile:nth-of-type(4n-1), .project-group .project-tile:nth-of-type(4n-0){
-    border: 2px solid cyan;
+@media (max-width: 1200px) and (min-width: 900px){
+  .project-tile:nth-of-type(4n-1), .project-tile:nth-of-type(4n-0){
     left: 150px;
   }
 
@@ -227,25 +209,13 @@ input{
   }
 }
 
-@media (max-width: 600px){
-  .project-group .project-tile:nth-of-type(8n-3), .project-group .project-tile:nth-of-type(8n-2),
-  .project-group .project-tile:nth-of-type(8n-1), .project-group .project-tile:nth-of-type(8n-0),
-
-  .project-group .project-tile:nth-of-type(6n-2), .project-group .project-tile:nth-of-type(6n-1),
-  .project-group .project-tile:nth-of-type(6n-0),
-
-  .project-group .project-tile:nth-of-type(4n-1), .project-group .project-tile:nth-of-type(4n-0){
-    border: 2px solid blue;
-    left: 0px;
-  }
-
-  .project-group .project-tile:nth-of-type(even){
-    border: 2px solid cyan;
+@media (max-width: 900px){
+  .project-tile:nth-of-type(2n-0){
     left: 150px;
   }
 
   .project-group{
-    width: 300px;
+    width: 350px;
   }
 }
 
@@ -253,10 +223,12 @@ input{
   background-color: #303030;
   font-size: 1.4em;
   font-weight: 300;
-  z-index: 100;
-  opacity: 0.8;
 }
-input:checked + .project-tile.selector{
+
+input[value="animation"]:checked ~ .project-group .selector[value="animation"],
+input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
+input[value="product"]:checked ~ .project-group .selector[value="product"],
+input[value="art"]:checked ~ .project-group .selector[value="art"]{
   background-color: #202020;
   outline: 2px solid #0cf;
   color: #c0c0c0;
@@ -268,20 +240,16 @@ input:checked + .project-tile.selector{
 }
 
 .project-tile.shifter{
-  opacity: 0.2;
-  z-index: -100;
   background-color: #000;
   outline: 1px solid red;
-  /*visibility: hidden;*/
+  visibility: hidden;
 }
 
 .project-group {
-  outline: 1px solid yellow;
   position: absolute;
-  top: 0;
   left: 50%;
-  transform: translateX(-50%);
-  margin: auto;
+  transform: translateX(-53%);
+  margin-bottom: 250px;
 }
 
 /*
@@ -485,17 +453,6 @@ input{
 /*******/
 /***  PROJECT THUMBNAILS  ***/
 /*******/
-
-#personal{
-  transform: rotateY(-45deg);
-}
-
-#work{
-  transform: rotateY(45deg);
-}
-#work .side-title, #work .side-footer{
-  background: #202020;
-}
 
 .project-tile{
   font-size: 100%;
