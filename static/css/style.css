@@ -154,10 +154,10 @@ input{
 
 #projects{
   line-height: 0;
-  width: 100%;
+  width: 50%;
   position: relative;
   top: 100px;
-  outline: 2px solid green;
+  z-index: 100;
 }
 
 .project-tile{
@@ -171,13 +171,26 @@ input{
   margin-bottom: -50px;
   position: relative;
   opacity: 0.0;
+  visibility: collapse;
+  transition: visibility 0.4s step-end;
+  pointer-events: none;
 }
 
-.project-group[value="selectors"] .project-tile{ opacity: 1.0; }
+.project-group[value="selectors"] .project-tile{
+  line-height: 0.5em;
+  opacity: 1.0;
+  visibility: visible;
+  cursor: pointer;
+  transition: outline 0.2s ease;
+  outline: 1px dashed #383838;
+  pointer-events: all;
+}
+.project-group[value="selectors"] .project-tile:hover{
+  outline: 1px dashed #0cf;
+}
 
 .project-tile:hover{
-  outline: 2px solid #0cf;
-  cursor: pointer;
+  outline: 1px solid #0cf;
 }
 
 @media (min-width: 1500px){
@@ -227,6 +240,14 @@ input{
   font-weight: 300;
 }
 
+input[value="animation"]:checked ~ .project-group[value="animation"],
+input[value="vfx"]:checked ~ .project-group[value="vfx"],
+input[value="product"]:checked ~ .project-group[value="product"],
+input[value="art"]:checked ~ .project-group[value="art"]{
+  visibility: collapse;
+  transition: visibility 0.4s step-end;
+}
+
 input[value="animation"]:checked ~ .project-group .selector[value="animation"],
 input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
 input[value="product"]:checked ~ .project-group .selector[value="product"],
@@ -242,46 +263,35 @@ input[value="art"]:checked ~ .project-group .selector[value="art"]{
 }
 
 .project-tile.shifter{
-  background-color: #000;
-  outline: 1px solid red;
-  visibility: hidden;
+  visibility: hidden !important;
+}
+
+.project-tile.extra{
+  background: #383838;
+  outline: 2px dashed #505050;
 }
 
 .project-group {
   position: absolute;
-  left: 50%;
-  transform: translateX(-53%);
+  left: 31.25%;
   margin-bottom: 250px;
-  /*opacity: 0.0;*/
-  transition: opacity 0.5s ease;
+  visibility: collapse;
+  transition: visibility 0.4s step-start;
 }
-.project-group[value="selectors"]{ opacity: 1.0; }
+.project-group[value="selectors"]{
+  opacity: 1.0;
+  visibility: visible;
+}
 
 
-/*input[value="animation"]:checked ~ .project-group[value="animation"]{
-  opacity: 1.0;
-}
-input[value="vfx"]:checked ~ .project-group[value="vfx"]{
-  opacity: 1.0;
-}
-input[value="product"]:checked ~ .project-group[value="product"]{
-  opacity: 1.0;
-}
-input[value="art"]:checked ~ .project-group[value="art"]{
-  opacity: 1.0;
-}*/
-
-input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile{
-  opacity: 1.0;
-}
-input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile{
-  opacity: 1.0;
-}
-input[value="product"]:checked ~ .project-group[value="product"] .project-tile{
-  opacity: 1.0;
-}
+input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
+input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
+input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
 input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
   opacity: 1.0;
+  visibility: visible;
+  transition: visibility 0.4s step-start;
+  pointer-events: all;
 }
 
 
@@ -474,6 +484,7 @@ input{
 
 .project-tile{
   font-size: 100%;
+  line-height: normal;
   position: relative;
   background-position: center;
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
@@ -492,9 +503,9 @@ input{
 }
 
 .project-thumb{
-  background-size: cover;
   width: 100%;
   height: 100%;
+  background-size: cover;
   filter: grayscale(100%) contrast(33%) brightness(50%);
   transition: filter 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
@@ -543,7 +554,7 @@ input{
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile:hover .project-info{
-  top: calc(100% - 0.25em);
+  top: calc(100% - 0.0em);
 }
 .project-info > div{
   position: relative;
@@ -921,7 +932,7 @@ input{
 /*******/
 /***  ANIMATIONS  ***/
 /*******/
-@-webkit-keyframes PROJINTRO_A {
+@-webkit-keyframes PROJINTRO {
   from {
     opacity: 0;
     transform: translateZ(200px);
@@ -931,16 +942,6 @@ input{
     transform: translateZ(0px);
   }
 }
-/*@-webkit-keyframes PROJINTRO_B {
-  0%{
-    opacity: 0;
-    transform: translateZ(200px);
-  }
-  100%{
-    opacity: 1;
-    transform: translateZ(0px);
-  }
-}*/
 
 @-webkit-keyframes FLOAT {
   0%{ transform: translateY(0px); }

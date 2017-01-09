@@ -11,14 +11,14 @@
   </iframe>
 </div>
 
-<input type="checkbox" name="projects" id="toggle" />
+<!-- <input type="checkbox" name="projects" id="toggle" />
 <label for="toggle">Portfolio // Work</label>
-<label for="reel-toggle">Reel</label>
+<label for="reel-toggle">Reel</label> -->
 
 <form>
   <div id="projects">
   <!-- Radio Buttons -->
-  <input type="radio" name="section" value="animation" id="ps-animation" checked>
+  <input type="radio" name="section" value="animation" id="ps-animation">
   <input type="radio" name="section" value="vfx" id="ps-vfx">
   <input type="radio" name="section" value="product" id="ps-product">
   <input type="radio" name="section" value="art" id="ps-art">
@@ -53,23 +53,9 @@
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
 
-    <!-- <div class="project-tile" value="animation">TEST 1</div>
-    <div class="project-tile" value="animation">TEST 2</div>
-    <div class="project-tile" value="animation">TEST 3</div>
-    <div class="project-tile" value="animation">TEST 4</div>
-    <div class="project-tile" value="animation">TEST 5</div>
-    <div class="project-tile" value="animation">TEST 6</div>
-    <div class="project-tile" value="animation">TEST 7</div>
-    <div class="project-tile" value="animation">TEST 8</div>
-    <div class="project-tile" value="animation">TEST 9</div>
-    <div class="project-tile" value="animation">TEST 10</div>
-    <div class="project-tile" value="animation">TEST 11</div>
-    <div class="project-tile" value="animation">TEST 12</div>
-    <div class="project-tile" value="animation">TEST 13</div> -->
-
     {{ range $index, $el := (where .Data.Pages "Section" "==" "vfx") }}
       <div class="project-tile" value="animation"
-      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.04 $index }}s;">
+      style="transition: opacity 0.4s ease {{ mul 0.05 $index }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -96,6 +82,11 @@
         </div>
       </div>
     {{ end }}
+
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
   </div>
   <!-- -->
 
@@ -110,7 +101,7 @@
 
     {{ range $index, $el := (where .Data.Pages "Section" "==" "art") }}
       <div class="project-tile"
-      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.04 $index }}s;">
+      style="transition: opacity 0.4s ease {{ mul 0.05 $index }}s;" value="vfx">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -137,6 +128,11 @@
         </div>
       </div>
     {{ end }}
+
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
+    <div class="project-tile extra" value="animation"></div>
   </div>
 
   <!-- -->
