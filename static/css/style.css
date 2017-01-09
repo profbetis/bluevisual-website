@@ -170,8 +170,10 @@ input{
   margin-right: 100px;
   margin-bottom: -50px;
   position: relative;
-  opacity: 1.0;
+  opacity: 0.0;
 }
+
+.project-group[value="selectors"] .project-tile{ opacity: 1.0; }
 
 .project-tile:hover{
   outline: 2px solid #0cf;
@@ -250,22 +252,38 @@ input[value="art"]:checked ~ .project-group .selector[value="art"]{
   left: 50%;
   transform: translateX(-53%);
   margin-bottom: 250px;
+  /*opacity: 0.0;*/
+  transition: opacity 0.5s ease;
+}
+.project-group[value="selectors"]{ opacity: 1.0; }
+
+
+/*input[value="animation"]:checked ~ .project-group[value="animation"]{
+  opacity: 1.0;
+}
+input[value="vfx"]:checked ~ .project-group[value="vfx"]{
+  opacity: 1.0;
+}
+input[value="product"]:checked ~ .project-group[value="product"]{
+  opacity: 1.0;
+}
+input[value="art"]:checked ~ .project-group[value="art"]{
+  opacity: 1.0;
+}*/
+
+input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile{
+  opacity: 1.0;
+}
+input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile{
+  opacity: 1.0;
+}
+input[value="product"]:checked ~ .project-group[value="product"] .project-tile{
+  opacity: 1.0;
+}
+input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
+  opacity: 1.0;
 }
 
-/*
-input[value="animation"]:checked ~ div .project-group[value="animation"]{
-  opacity: 1.0;
-}
-input[value="vfx"]:checked ~ div .project-group[value="vfx"]{
-  opacity: 1.0;
-}
-input[value="product"]:checked ~ div .project-group[value="product"]{
-  opacity: 1.0;
-}
-input[value="art"]:checked ~ div .project-group[value="art"]{
-  opacity: 1.0;
-}
-*/
 
 
 /*******/

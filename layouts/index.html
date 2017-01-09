@@ -24,7 +24,7 @@
   <input type="radio" name="section" value="art" id="ps-art">
 
   <!-- Input Tiles -->
-  <div class="project-group">
+  <div class="project-group" value="selectors">
     <label for="ps-animation" class="project-tile selector" value="animation">
       <div>Animation</div>
     </label>
@@ -46,13 +46,14 @@
 
   <!-- Animation Tiles -->
   <div class="project-group" value="animation">
+
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
     <div class="project-tile shifter" value="animation"></div>
 
-    <div class="project-tile" value="animation">TEST 1</div>
+    <!-- <div class="project-tile" value="animation">TEST 1</div>
     <div class="project-tile" value="animation">TEST 2</div>
     <div class="project-tile" value="animation">TEST 3</div>
     <div class="project-tile" value="animation">TEST 4</div>
@@ -64,11 +65,11 @@
     <div class="project-tile" value="animation">TEST 10</div>
     <div class="project-tile" value="animation">TEST 11</div>
     <div class="project-tile" value="animation">TEST 12</div>
-    <div class="project-tile" value="animation">TEST 13</div>
+    <div class="project-tile" value="animation">TEST 13</div> -->
 
-    {{ range $index, $el := (where .Data.Pages "Section" "==" "NULL") }}
+    {{ range $index, $el := (where .Data.Pages "Section" "==" "vfx") }}
       <div class="project-tile" value="animation"
-      style="animation-delay: {{ mul 0.05 $index | add 0.1 }}s;">
+      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.03 $index }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -99,15 +100,17 @@
   <!-- -->
 
   <!-- Animation Tiles -->
-  <!--
   <div class="project-group" value="vfx">
-    <div class="project-tile shifter" value="vfx"></div>
-    <div class="project-tile shifter" value="vfx"></div>
-    <div class="project-tile shifter" value="vfx"></div>
-    <div class="project-tile shifter" value="vfx"></div>
+
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+    <div class="project-tile shifter" value="animation"></div>
+
     {{ range $index, $el := (where .Data.Pages "Section" "==" "art") }}
       <div class="project-tile"
-      style="animation-delay: {{ mul 0.05 $index | add 0.1 }}s;">
+      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.03 $index }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -135,7 +138,7 @@
       </div>
     {{ end }}
   </div>
-  -->
+
   <!-- -->
 
   </div>
