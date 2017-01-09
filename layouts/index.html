@@ -69,7 +69,7 @@
 
     {{ range $index, $el := (where .Data.Pages "Section" "==" "vfx") }}
       <div class="project-tile" value="animation"
-      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.03 $index }}s;">
+      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.04 $index }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -110,7 +110,7 @@
 
     {{ range $index, $el := (where .Data.Pages "Section" "==" "art") }}
       <div class="project-tile"
-      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.03 $index }}s;">
+      style="animation-delay: {{ mul 0.1 $index | add 0.1 }}s; transition: opacity 0.4s ease {{ mul 0.04 $index }}s;">
         <a href="{{ .Permalink }}">
           <div class="project-thumb"
           style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
