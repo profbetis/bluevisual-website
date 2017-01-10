@@ -2,7 +2,7 @@
 client = "Space360"
 date = "2016-01-12T00:40:26-05:00"
 tags = ["logo", "animation"]
-title = "Space360 Logo Animation"
+title = "Space360"
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
 
 +++

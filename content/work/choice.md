@@ -2,7 +2,7 @@
 client = "Space360"
 date = "2016-10-12T00:53:46-05:00"
 tags = ["logo", "animation", "4k"]
-title = "Choice Logo Animation"
+title = "Choice"
 tools = ["3DS Max", "Octane Render", "Neat Video Denoiser"]
 
 +++
