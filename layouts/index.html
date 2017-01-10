@@ -42,103 +42,12 @@
     </label>
   </div>
 
-  <!-- Project Tiles -->
-
-  <!-- Animation Tiles -->
-  <div class="project-group" value="animation">
-
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-
-    {{ range $index, $el := (where .Data.Pages "Section" "==" "vfx") }}
-      <div class="project-tile" value="animation"
-      style="transition: opacity 0.4s ease {{ mul 0.05 $index }}s;">
-        <a href="{{ .Permalink }}">
-          <div class="project-thumb"
-          style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
-          </div>
-        </a>
-        <div class="project-name">
-          {{ .Title }}
-        </div>
-        <div class="project-info">
-          <div class="project-info project-tags">
-            {{- range $index, $el := .Params.tags -}}
-              {{- if gt $index 0 -}},&nbsp;{{- end -}}
-              <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-            {{- end -}}
-          </div>
-          <div class="project-info project-tools">
-            {{- range $index, $el := .Params.tools -}}
-              {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
-            {{- end -}}
-          </div>
-          <div class="project-info project-date">
-            {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
-          </div>
-        </div>
-      </div>
-    {{ end }}
-
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-  </div>
-  <!-- -->
-
-  <!-- Animation Tiles -->
-  <div class="project-group" value="vfx">
-
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-    <div class="project-tile shifter" value="animation"></div>
-
-    {{ range $index, $el := (where .Data.Pages "Section" "==" "art") }}
-      <div class="project-tile"
-      style="transition: opacity 0.4s ease {{ mul 0.05 $index }}s;" value="vfx">
-        <a href="{{ .Permalink }}">
-          <div class="project-thumb"
-          style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
-          </div>
-        </a>
-        <div class="project-name">
-          {{ .Title }}
-        </div>
-        <div class="project-info">
-          <div class="project-info project-tags">
-            {{- range $index, $el := .Params.tags -}}
-              {{- if gt $index 0 -}},&nbsp;{{- end -}}
-              <a href="/tags/{{ . | urlize }}">{{ . }}</a>
-            {{- end -}}
-          </div>
-          <div class="project-info project-tools">
-            {{- range $index, $el := .Params.tools -}}
-              {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
-            {{- end -}}
-          </div>
-          <div class="project-info project-date">
-            {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
-          </div>
-        </div>
-      </div>
-    {{ end }}
-
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-    <div class="project-tile extra" value="animation"></div>
-  </div>
-
+  <!-- Project Tile Groups -->
+  {{ partial "project-group" (dict "meta" . "group" "animation") }}
+  {{ partial "project-group" (dict "meta" . "group" "art") }}
   <!-- -->
 
   </div>
-  <!-- -->
 </form>
 
 </div>
