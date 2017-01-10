@@ -393,15 +393,24 @@ input{
     left: 150px;
   }
 
+  .project-tile.selector:nth-of-type(16n-7), .project-tile.selector:nth-of-type(16n-6),
+  .project-tile.selector:nth-of-type(16n-5), .project-tile.selector:nth-of-type(16n-4){
+    left: -150px !important;
+  }
+
   .project-group{
     width: 1250px;
   }
 }
 @media (max-width: 1500px) and (min-width: 1201px){
-
   .project-tile:nth-of-type(6n-2), .project-tile:nth-of-type(6n-1),
   .project-tile:nth-of-type(6n-0){
     left: 150px;
+  }
+
+  .project-tile.selector:nth-of-type(12n-5), .project-tile.selector:nth-of-type(12n-4),
+  .project-tile.selector:nth-of-type(12n-3){
+    left: -150px !important;
   }
 
   .project-group{
@@ -411,6 +420,9 @@ input{
 @media (max-width: 1200px) and (min-width: 901px){
   .project-tile:nth-of-type(4n-1), .project-tile:nth-of-type(4n-0){
     left: 150px;
+  }
+  .project-tile.selector:nth-of-type(8n-3), .project-tile.selector:nth-of-type(8n-2){
+    left: -150px !important;
   }
 
   .project-group{
@@ -463,6 +475,16 @@ input[value="art"]:checked ~ .project-group .selector[value="art"]{
 .project-tile.extra{
   background: #383838;
   outline: 2px dashed #505050;
+}
+
+.project-tile.extra-small{
+  background: #383838;
+  outline: 2px dashed #505050;
+  width: 100px;
+  height: 100px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  transform: rotate(45deg) translateX(75%);
 }
 
 .project-group {
