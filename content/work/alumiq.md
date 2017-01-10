@@ -2,7 +2,7 @@
 client = "Alumiq"
 date = "2013-09-01T21:06:33-04:00"
 tools = ["3DS Max", "Octane Render", "Adobe Premiere"]
-tags = ["logo", "animation"]
+tags = ["animation", "logo"]
 title = "Alumiq"
 
 +++
