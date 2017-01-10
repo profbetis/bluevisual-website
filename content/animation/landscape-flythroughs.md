@@ -3,7 +3,7 @@ client = "Steam Productions"
 date = "2014-02-01T21:06:02-04:00"
 tags = ["animation", "projection", "4k"]
 tools = ["3DS Max", "Octane Render", "Adobe Premiere", "Adobe Photoshop"]
-title = "Landscape Flythroughs"
+title = "Bell Flythroughs"
 
 +++
 This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.
