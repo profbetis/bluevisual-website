@@ -16,21 +16,12 @@
       </a>
       <div class="project-name">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </div>
-      <div class="project-info">
-        <div class="project-info project-tags">
+
+        <div class="project-tags">
           {{- range $index, $el := .Params.tags -}}
             {{- if gt $index 0 -}},&nbsp;{{- end -}}
             <a href="/tags/{{ . | urlize }}">{{ . }}</a>
           {{- end -}}
-        </div>
-        <!-- <div class="project-info project-tools">
-          {{- range $index, $el := .Params.tools -}}
-            {{- if gt $index 0 -}},&nbsp;{{- end -}}{{ . }}
-          {{- end -}}
-        </div> -->
-        <div class="project-info project-date">
-          {{ dateFormat "Jan" .Date }} {{ dateFormat "2006" .Date }}
         </div>
       </div>
     </div>
