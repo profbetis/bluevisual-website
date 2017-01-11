@@ -2,27 +2,30 @@
 
 {{ partial "header" . }}
 
-<div id="null">
+<input type="checkbox" name="proj-toggle" id="proj-toggle" />
 
-<input type="checkbox" name="reel-toggle" id="reel-toggle" />
+<label for="proj-toggle" class="proj-toggle rotate" value="about">
+  <div class="unrotate">About</div>
+</label>
+<label for="proj-toggle" class="proj-toggle rotate" value="projects">
+  <div class="unrotate">Projects</div>
+</label>
 
-<div id="reel">
-  <iframe src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+<div id="about">
+  {{ partial "bio" }}
+  <h2>Reel</h2><br>
+  <iframe id="reel" src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe>
+  <!-- {{ partial "reel-breakdown" }} -->
 </div>
 
-<!-- <input type="checkbox" name="projects" id="toggle" />
-<label for="toggle">Portfolio // Work</label>
-<label for="reel-toggle">Reel</label> -->
-
-<form>
-  <div id="projects">
+<div id="projects">
+  <form>
   <!-- Radio Buttons -->
   <input type="radio" name="section" value="animation" id="ps-animation">
   <input type="radio" name="section" value="vfx" id="ps-vfx">
   <input type="radio" name="section" value="product" id="ps-product">
   <input type="radio" name="section" value="art" id="ps-art">
-  <!-- <input type="radio" name="section" value="about" id="ps-about"> -->
 
   <!-- Input Tiles -->
   <div class="project-group" value="selectors">
@@ -41,10 +44,6 @@
     <label for="ps-art" class="project-tile selector" value="art">
       <div>Art</div>
     </label>
-
-    <!-- <label for="ps-about" class="project-tile selector" value="about">
-      <div>About</div>
-    </label> -->
   </div>
 
   <!-- Project Tile Groups -->
@@ -54,9 +53,7 @@
   {{ partial "project-group" (dict "meta" . "group" "art") }}
   <!-- -->
 
-  </div>
-</form>
-
+  </form>
 </div>
 
 {{ partial "footer" . }}
