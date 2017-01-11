@@ -201,6 +201,7 @@ label[value="projects"].proj-toggle{
   left: 50%;
   top: 300px;
   transform: translateX(-50%);
+  margin-bottom: 150px;
 }
 #bio{
   position: relative;
@@ -404,7 +405,35 @@ label[value="projects"].proj-toggle{
   max-height: 540px;
   border: 32px solid #282828;
   background: #282828;
-  margin-bottom: 200px;
+}
+
+#reel-breakdown {
+  margin-top: 50px;
+}
+#reel-breakdown table{
+  margin-top: 0.5em;
+  border-collapse: collapse;
+}
+#reel-breakdown thead tr{
+  font-size: 1em;
+  background-color: #202020;
+}
+#reel-breakdown thead th{
+  padding: 0.5em 1em;
+  font-weight: 500;
+}
+#reel-breakdown td{
+  padding: 0.5em 0.5em;
+  font-size: 0.8em;
+}
+#reel-breakdown td:nth-of-type(1){
+  width: 5em;
+}
+#reel-breakdown tr{
+  background-color: #282828;
+}
+#reel-breakdown tr:nth-last-of-type(even) td{
+  background-color: #303030;
 }
 
 
@@ -425,26 +454,23 @@ label[value="projects"].proj-toggle{
 
   width: 200px;
   height: 200px;
+  box-sizing: border-box;
+  display: inline-block;
+  margin-right: 100px;
+  margin-bottom: -50px;
+  position: relative;
 
   line-height: normal;
 
   background-position: center;
   transform: rotate(45deg);
   color: #909090;
-  display: inline-block;
-  margin-right: 100px;
-  margin-bottom: -50px;
-  position: relative;
+  outline: 2px dashed #383838;
 
   opacity: 0.0;
   visibility: collapse;
-  transition: visibility 0.4s step-end;
+  transition: all 0.2s ease;
   pointer-events: none;
-}
-
-.project-tile:hover{
-  transition: transform 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
-  z-index: 10;
 }
 
 .project-group[value="selectors"] .project-tile{
@@ -452,14 +478,15 @@ label[value="projects"].proj-toggle{
   opacity: 1.0;
   visibility: visible;
   cursor: pointer;
-  transition: outline 0.2s ease;
-  outline: 1px dashed #383838;
+  transition: all 0.2s ease;
   pointer-events: all;
 }
 
 .project-group[value="selectors"] .project-tile:hover,
 .project-tile:hover{
-  outline: 1px solid #0cf;
+  outline: 2px solid #0cf;
+  z-index: 10;
+  transition: all 0.2s ease;
 }
 
 @media (min-width: 1501px){
@@ -534,7 +561,7 @@ input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
 input[value="product"]:checked ~ .project-group .selector[value="product"],
 input[value="art"]:checked ~ .project-group .selector[value="art"]{
   background-color: #181818;
-  outline: 2px solid #0cf;
+  outline: 1px solid #0cf;
   color: #c0c0c0;
 }
 
@@ -563,7 +590,6 @@ input[value="art"]:checked ~ .project-group .selector[value="art"]{
 }
 
 .project-group {
-  /*outline: 2px solid yellow;*/
   left: 50%;
   transform: translateX(-53%);
   outline-offset: -2px;
@@ -596,7 +622,6 @@ input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   background-size: cover;
   filter: grayscale(100%) contrast(33%) brightness(50%);
-  transition: filter 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 @media (max-width: 900px){
   .project-thumb{
@@ -610,9 +635,6 @@ input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
 .project-tile:hover .project-thumb{
   filter: grayscale(00%) contrast(100%) brightness(100%);
   transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-}
-.project-tile:hover > div{
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile > div{
   transform: rotate(-45deg);
@@ -630,16 +652,16 @@ input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
   line-height: 1em;
   white-space: nowrap;
   font-weight: 200;
-  transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-  z-index: 50;
+  transition: all 0.5s ease 0s;
+  z-index: 10;
 }
 .project-tile:hover .project-name{
   background-color: rgba(0,0,0,0.7);
-  color: #ffffff;
-  top: calc(50% - 1.22em);
+  color: #fff;
+  top: calc(50% - 1.2125em);
   left: -1.6em;
   clip-path: polygon(13.5% 0%,  86.5% 0%,  98% 50%,  86.5% 100%,  13.5% 100%,  2% 50%);
-  transition: all 0.15s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  transition: all 0.15s ease 0s;
 }
 .project-tile .project-name a{
   color: inherit;
