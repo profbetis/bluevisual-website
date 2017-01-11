@@ -338,10 +338,14 @@ label[value="projects"].proj-toggle{
   position: absolute;
   text-align: center;
   display: block;
-  width: calc(50% - 2px);
-  height: calc(50% - 2px);
-  border: 1px solid #282828;
-  transition: all 0.4s ease;
+  width: 50%;
+  height: 50%;
+  border: 2px solid #383838;
+  outline: 1px dashed #282828;
+  outline-offset: -3px;
+  background: #282828;
+  transition: all 0.3s ease;
+  box-sizing: border-box;
 }
 #social-array a:nth-child(2){
   left: 50%;
@@ -355,8 +359,8 @@ label[value="projects"].proj-toggle{
 }
 
 #social-array a:hover{
-  border: 1px solid #0cf;
-  transition: all 0.1s ease;
+  outline: 1px solid #0cf;
+  transition: all 0.2 s ease;
 }
 #social-array img, #social-array svg{
   display: block;
@@ -366,11 +370,11 @@ label[value="projects"].proj-toggle{
   top: 10%;
   fill: #606060;
   width: 60%;
-  transition: all 0.5s ease;
+  transition: all 0.3s ease;
 }
 #social-array a:hover svg{
   fill: #fff;
-  transition: all 0.15s ease;
+  transition: all 0.2s ease;
 }
 #social-array a span{
   display: block;
@@ -394,13 +398,12 @@ label[value="projects"].proj-toggle{
 /*******/
 
 #reel{
-  width: 70vw;
+  width: calc(70vw - 64px);
   max-width: 960px;
-  height: 41vw;
+  height: calc(39.375vw - 32px);
   max-height: 540px;
-  border: 16px solid #181818;
-  background: #181818;
-  box-sizing: border-box;
+  border: 32px solid #282828;
+  background: #282828;
   margin-bottom: 200px;
 }
 
