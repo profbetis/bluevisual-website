@@ -414,11 +414,13 @@ label[value="projects"].proj-toggle{
   margin-top: 0.5em;
   border-collapse: collapse;
 }
-#reel-breakdown thead tr{
+#reel-breakdown thead tr,
+#reel-breakdown tfoot tr{
   font-size: 1em;
   background-color: #202020;
 }
-#reel-breakdown thead th{
+#reel-breakdown thead th,
+#reel-breakdown tfoot th{
   padding: 0.5em 1em;
   font-weight: 500;
 }
@@ -465,7 +467,7 @@ label[value="projects"].proj-toggle{
   background-position: center;
   transform: rotate(45deg);
   color: #909090;
-  outline: 2px dashed #383838;
+  outline: 1px dashed #383838;
 
   opacity: 0.0;
   visibility: collapse;
@@ -484,7 +486,7 @@ label[value="projects"].proj-toggle{
 
 .project-group[value="selectors"] .project-tile:hover,
 .project-tile:hover{
-  outline: 2px solid #0cf;
+  outline: 1px solid #0cf;
   z-index: 10;
   transition: all 0.2s ease;
 }
