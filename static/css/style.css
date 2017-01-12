@@ -131,7 +131,7 @@ input{
 /*******/
 /***  TOGGLE  ***/
 /*******/
-.proj-toggle{
+/*.proj-toggle{
   width: 100px;
   height: 100px;
   outline: 1px dashed #303030;
@@ -185,7 +185,7 @@ label[value="projects"].proj-toggle{
   pointer-events: all;
   transition: all 0.4s ease;
   z-index: 100;
-}
+}*/
 
 
 
@@ -204,123 +204,90 @@ label[value="projects"].proj-toggle{
   margin-bottom: 150px;
 }
 #bio{
-  position: relative;
-  height: 1320px;
 }
-#bio .tile{
-  position: absolute;
-  font-size: 0.9em;
-  width: 350px;
-  height: 350px;
-  overflow: hidden;
+
+#bio .project-tile.about{
+  font-size: 0.75em;
+  font-size: 0.3em;
+  width: 200px;
+  height: 200px;
+  margin-right: 100px;
+  margin-bottom: -50px;
+  outline: none;
+  /*overflow: hidden;*/
 }
-#bio .tile > div {
-  width: 350px;
-  height: 350px;
+#bio .project-tile > div{
+  width: 283px;
+  height: 283px;
   position: relative;
   text-align: center;
 }
 #bio .tile-content{
-  top: -55px;
-  left: -38px;
-  color: #a0a0a0;
-}
-#bio .tile-content p{
-  text-align: center;
+  top: -40px;
+  left: -40px;
+  color: #c0c0c0;
 }
 
-#bio .tile:nth-child(1){
-  left: calc(50% - 384px);
-}
-#bio .tile:nth-child(2){
-  left: calc(50% + 0px);
-}
-#bio .tile:nth-child(3){
-  left: calc(50% - 192px);
-  top: 191px;
-}
-#bio .tile:nth-child(3) .tile-content{
-  top: -50px;
-  left: -50px;
-  background-size: 286px 286px;
-  background-position: 32px 32px;
-  clip-path: polygon(175px 32px, 318px 175px, 175px 318px, 32px 175px);
-}
-#bio .tile:nth-child(4){
-  left: calc(50% - 384px);
-  top: 384px;
-}
-#bio .tile:nth-child(5){
-  left: calc(50% + 0px);
-  top: 384px;
-}
-#bio .tile:nth-child(6){
-  left: calc(50% - 192px);
-  top: 577px;
-}
-#bio .tile:nth-child(7){
-  left: calc(50% - 384px);
-  top: 770px;
-}
-#bio .tile:nth-child(8){
-  left: calc(50% - 0px);
-  top: 770px;
-}
-#bio .tile:nth-child(9){
-  left: calc(50% - 192px);
-  top: 961px;
+#bio div.about:nth-of-type(9) .tile-content{
+  top: -42px;
+  left: -42px;
+  background-size: 245px 245px;
+  background-position: 20px 20px;
+  clip-path: polygon(141.5px 20px, 263px 141.5px, 141.5px 263px, 20px 141.5px);
 }
 
-#bio div.shape{
-  /*background: rgba(128, 0, 0, 0.2);*/
-  shape-margin: 12px;
-  height: 350px;
-  width: 175px;
+#bio .about div.shape{
+  shape-margin: 0px;
+  height: 283px;
+  width: 141px;
+  background: rgba(128,0,0,0.3);
 }
 #bio .shape.left{
   float: left;
   shape-outside: polygon(0% 0%, 100% 0%, 0% 50%, 100% 100%, 0% 100%);
+  clip-path: polygon(0% 0%, 100% 0%, 0% 50%, 100% 100%, 0% 100%);
 }
 #bio .shape.right{
   float: right;
   shape-outside: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 100% 50%);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 100% 50%);
 }
 
-#bio .tile .plate{
+#bio .project-tile .plate{
   position: absolute;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   top: 0;
   left: 0;
   z-index: -1;
-  background-color: #282828;
+  background-color: #202020;
+  transform: rotate(0deg);
 }
 
 #bio svg{
   display: block;
-  margin: -0.5em auto;
   fill: #606060;
 }
 #email a{
   position: absolute;
   display: block;
   width: 100%;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 200;
-  top: 150px;
-  left: -0.25em;
+  top: 125px;
+  left: 0.6em;
 }
 #email span{
   position: absolute;
   display: block;
   width: 100%;
-  top: calc(50% + 1em);
-  left: -0.5em;
+  top: calc(50% + 1.75em);
+  left: 1.25em;
 }
 #email svg{
   position: absolute;
-  left: calc(25% + 42.5px);
-  top: 23%;
+  left: calc(25% + 60px);
+  top: 24%;
   transition: fill 0.3s ease;
 }
 #email a:hover ~ svg{
@@ -330,10 +297,10 @@ label[value="projects"].proj-toggle{
 
 #social-array{
   position: absolute;
-  width: 250px;
-  height: 250px;
-  top: 56px;
-  left: 38px;
+  width: 200px;
+  height: 200px;
+  top: 42px;
+  left: 42px;
 }
 #social-array a{
   position: absolute;
@@ -342,9 +309,9 @@ label[value="projects"].proj-toggle{
   width: 50%;
   height: 50%;
   border: 2px solid #383838;
-  outline: 1px dashed #282828;
+  outline: 1px dashed #202020;
   outline-offset: -3px;
-  background: #282828;
+  background: #202020;
   transition: all 0.3s ease;
   box-sizing: border-box;
 }
@@ -369,7 +336,7 @@ label[value="projects"].proj-toggle{
   margin: auto;
   left: -10%;
   top: 10%;
-  fill: #606060;
+  fill: #808080;
   width: 60%;
   transition: all 0.3s ease;
 }
@@ -380,11 +347,11 @@ label[value="projects"].proj-toggle{
 #social-array a span{
   display: block;
   position: relative;
-  left: 1.5em;
-  top: -0.375em;
+  left: 1.0em;
+  top: -0.2em;
   margin: auto;
-  font-size: 0.8em;
-  color: #a0a0a0;
+  font-size: 1em;
+  color: #808080;
   transition: all 0.5s ease;
 }
 #social-array a:hover span{
@@ -546,6 +513,7 @@ label[value="projects"].proj-toggle{
   font-weight: 300;
 }
 
+input[value="about"]:checked ~ .project-group[value="about"],
 input[value="animation"]:checked ~ .project-group[value="animation"],
 input[value="vfx"]:checked ~ .project-group[value="vfx"],
 input[value="product"]:checked ~ .project-group[value="product"],
@@ -555,6 +523,7 @@ input[value="experiment"]:checked ~ .project-group[value="experiment"]{
   transition: visibility 0.4s step-end;
 }
 
+input[value="about"]:checked ~ .project-group .selector[value="about"],
 input[value="animation"]:checked ~ .project-group .selector[value="animation"],
 input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
 input[value="product"]:checked ~ .project-group .selector[value="product"],
@@ -604,6 +573,7 @@ input[value="experiment"]:checked ~ .project-group .selector[value="experiment"]
   visibility: visible;
 }
 
+input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
 input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
 input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
 input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
