@@ -26,6 +26,7 @@
   <input type="radio" name="section" value="vfx" id="ps-vfx">
   <input type="radio" name="section" value="product" id="ps-product">
   <input type="radio" name="section" value="art" id="ps-art">
+  <input type="radio" name="section" value="experiment" id="ps-experiment">
 
   <!-- Input Tiles -->
   <div class="project-group" value="selectors">
@@ -54,6 +55,12 @@
       </label>
     </div>
 
+    <div class="project-tile selector" value="experiment">
+      <label for="ps-experiment">
+        <div>Experiment</div>
+      </label>
+    </div>
+
   </div>
 
   <!-- Project Tile Groups -->
@@ -61,6 +68,7 @@
   {{ partial "project-group" (dict "meta" . "group" "product") }}
   {{ partial "project-group" (dict "meta" . "group" "vfx") }}
   {{ partial "project-group" (dict "meta" . "group" "art") }}
+  {{ partial "project-group" (dict "meta" . "group" "experiment") }}
   <!-- -->
 
   </form>

@@ -549,7 +549,8 @@ label[value="projects"].proj-toggle{
 input[value="animation"]:checked ~ .project-group[value="animation"],
 input[value="vfx"]:checked ~ .project-group[value="vfx"],
 input[value="product"]:checked ~ .project-group[value="product"],
-input[value="art"]:checked ~ .project-group[value="art"]{
+input[value="art"]:checked ~ .project-group[value="art"],
+input[value="experiment"]:checked ~ .project-group[value="experiment"]{
   visibility: collapse;
   transition: visibility 0.4s step-end;
 }
@@ -557,7 +558,8 @@ input[value="art"]:checked ~ .project-group[value="art"]{
 input[value="animation"]:checked ~ .project-group .selector[value="animation"],
 input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
 input[value="product"]:checked ~ .project-group .selector[value="product"],
-input[value="art"]:checked ~ .project-group .selector[value="art"]{
+input[value="art"]:checked ~ .project-group .selector[value="art"],
+input[value="experiment"]:checked ~ .project-group .selector[value="experiment"]{
   background-color: #181818;
   outline: 1px solid #0cf;
   color: #c0c0c0;
@@ -605,7 +607,8 @@ input[value="art"]:checked ~ .project-group .selector[value="art"]{
 input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
 input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
 input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
-input[value="art"]:checked ~ .project-group[value="art"] .project-tile{
+input[value="art"]:checked ~ .project-group[value="art"] .project-tile,
+input[value="experiment"]:checked ~ .project-group[value="experiment"] .project-tile{
   opacity: 1.0;
   visibility: visible;
   transition: visibility 0.4s step-start;
