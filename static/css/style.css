@@ -208,13 +208,14 @@ label[value="projects"].proj-toggle{
 
 #bio .project-tile.about{
   font-size: 0.75em;
-  font-size: 0.3em;
-  width: 200px;
-  height: 200px;
-  margin-right: 100px;
-  margin-bottom: -50px;
+  width: 283px;
+  height: 283px;
+  margin-right: 59px;
+  margin-bottom: -151px;
+  margin-left: -46px;
+  margin-top: 18px;
   outline: none;
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
 #bio .project-tile > div{
   width: 283px;
@@ -223,12 +224,11 @@ label[value="projects"].proj-toggle{
   text-align: center;
 }
 #bio .tile-content{
-  top: -40px;
-  left: -40px;
+  top: -46px;
+  left: -30px;
   color: #c0c0c0;
 }
-
-#bio div.about:nth-of-type(9) .tile-content{
+#kev .tile-content{
   top: -42px;
   left: -42px;
   background-size: 245px 245px;
@@ -237,20 +237,17 @@ label[value="projects"].proj-toggle{
 }
 
 #bio .about div.shape{
-  shape-margin: 0px;
+  shape-margin: 8px;
   height: 283px;
-  width: 141px;
-  background: rgba(128,0,0,0.3);
+  width: 141.5px;
 }
 #bio .shape.left{
   float: left;
   shape-outside: polygon(0% 0%, 100% 0%, 0% 50%, 100% 100%, 0% 100%);
-  clip-path: polygon(0% 0%, 100% 0%, 0% 50%, 100% 100%, 0% 100%);
 }
 #bio .shape.right{
   float: right;
   shape-outside: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 100% 50%);
-  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 100% 50%);
 }
 
 #bio .project-tile .plate{
@@ -274,20 +271,20 @@ label[value="projects"].proj-toggle{
   width: 100%;
   font-size: 28px;
   font-weight: 200;
-  top: 125px;
-  left: 0.6em;
+  top: 120px;
+  left: -0.4em;
 }
 #email span{
   position: absolute;
   display: block;
   width: 100%;
-  top: calc(50% + 1.75em);
-  left: 1.25em;
+  top: calc(50% + 1.5em);
+  left: -0.4em;
 }
 #email svg{
   position: absolute;
-  left: calc(25% + 60px);
-  top: 24%;
+  left: calc(25% + 36px);
+  top: 23%;
   transition: fill 0.3s ease;
 }
 #email a:hover ~ svg{
@@ -299,8 +296,8 @@ label[value="projects"].proj-toggle{
   position: absolute;
   width: 200px;
   height: 200px;
-  top: 42px;
-  left: 42px;
+  top: 46px;
+  left: 30px;
 }
 #social-array a{
   position: absolute;
