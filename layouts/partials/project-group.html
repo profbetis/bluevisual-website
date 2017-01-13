@@ -2,15 +2,13 @@
 
 {{ partial "project-group-shifters" .group }}
 
-{{ $.Scratch.Set "offset" 0.1 }}
-{{ $.Scratch.Set "string" "string" }}
-{{ $string := $.Scratch.Get "string" }}
+{{ .meta.Scratch.Set "offset" 0.0 }}
 
 {{ range .meta.Data.Pages }}
 {{ if in .Params.tags $.group }}
-  {{ $offset := $.Scratch.Get "offset" }}
+  {{ $offset := $.meta.Scratch.Get "offset" }}
   <div class="project-tile" value="{{ $.group }}"
-  style="transition: opacity 0.5s ease;">
+  style="transition: opacity 0.4s ease {{ $offset }}s;">
     <a href="{{ .Permalink }}">
       <div class="project-thumb"
       style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
@@ -28,7 +26,7 @@
     </div>
   </div>
 
-{{ .Scratch.Add "offset" 0.05 }}
+{{ $.meta.Scratch.Add "offset" 0.05 }}
 
 {{ end }}
 {{ end }}

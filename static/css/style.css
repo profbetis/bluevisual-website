@@ -131,67 +131,6 @@ input{
 
 
 /*******/
-/***  TOGGLE  ***/
-/*******/
-/*.proj-toggle{
-  width: 100px;
-  height: 100px;
-  outline: 1px dashed #303030;
-  outline-offset: -1px;
-  color: #a0a0a0;
-  background-color: #303030;
-  display: block;
-  position: absolute;
-  line-height: 100px;
-  transition: all 0.2s ease;
-  cursor: pointer;
-}
-label[value="about"].proj-toggle{
-  top: 175px;
-  right: 125px
-}
-label[value="projects"].proj-toggle{
-  top: 250px;
-  right: 50px;
-}
-.proj-toggle div{
-}
-
-#proj-toggle:checked ~ label[value="projects"],
-#proj-toggle:not(:checked) ~ label[value="about"]{
-  outline: 1px solid #0cf;
-  color: #fff;
-  background: #202020;
-  pointer-events: none;
-  cursor: default;
-  transition: all 0.3s ease-out;
-}
-#proj-toggle:not(:checked) ~ label[value="projects"]:hover,
-#proj-toggle:checked ~ label[value="about"]:hover{
-  color: #e0e0e0;
-  outline: 1px solid #606060;
-}
-
-#proj-toggle:not(:checked) ~ #projects,
-#proj-toggle:checked ~ #about{
-  visibility: hidden;
-  opacity: 0.0;
-  pointer-events: none !important;
-  transition: all 0.4s ease;
-  z-index: -100;
-}
-#proj-toggle:checked ~ #projects,
-#proj-toggle:not(:checked) ~ #about{
-  visibility: visible;
-  opacity: 1.0;
-  pointer-events: all;
-  transition: all 0.4s ease;
-  z-index: 100;
-}*/
-
-
-
-/*******/
 /***  ABOUT & CONTACT  ***/
 /*******/
 
@@ -532,8 +471,18 @@ input[value="product"]:checked ~ .project-group[value="product"],
 input[value="art"]:checked ~ .project-group[value="art"],
 input[value="experiment"]:checked ~ .project-group[value="experiment"]{
   visibility: collapse;
-  transition: visibility 0.4s step-end;
+  transition: visibility 0.1s step-end;
 }
+
+input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
+input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
+input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
+input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
+input[value="art"]:checked ~ .project-group[value="art"] .project-tile,
+input[value="experiment"]:checked ~ .project-group[value="experiment"] .project-tile{
+  opacity: 1.0;
+}
+
 
 input[value="about"]:checked ~ .project-group .selector[value="about"],
 input[value="animation"]:checked ~ .project-group .selector[value="animation"],
@@ -630,8 +579,8 @@ input[value="experiment"]:checked ~ .project-group[value="experiment"] .project-
   line-height: 1em;
   white-space: nowrap;
   font-weight: 300;
-  transition: all 0.5s ease 0s;
   z-index: 10;
+  transition: all 0.15s ease;
 }
 .project-tile:hover .project-name{
   background-color: rgba(0,0,0,0.8);
@@ -639,7 +588,7 @@ input[value="experiment"]:checked ~ .project-group[value="experiment"] .project-
   top: calc(50% - 1.2125em);
   left: -1.6em;
   clip-path: polygon(15% 0%,  85% 0%,  96.5% 50%,  85% 100%,  15% 100%,  3.5% 50%);
-  transition: all 0.15s ease 0s;
+  transition: all 0.15s ease;
 }
 .project-tile .project-name a{
   color: inherit;
