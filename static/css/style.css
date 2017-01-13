@@ -81,10 +81,10 @@ input{
   font-family: 'Raleway', sans-serif;
   color: #bbb;
 
-  font-size: 4em;
+  font-size: 3em;
   letter-spacing: 6px;
   text-align: center;
-  line-height: 1.8em;
+  line-height: 1.6em;
 
   top: 0px;
   margin: auto;
@@ -96,19 +96,13 @@ input{
   -webkit-user-select: none; /* Chrome/Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+ */
-
-  animation: FALL 1.5s 1;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
-}
-.topstuff.a {
-	text-decoration: none;
 }
 
 .topstuff2{
   text-align: center;
   color: #aaa;
-  letter-spacing: 3.2px;
-  font-size: 0.825em;
+  letter-spacing: 2.2px;
+  font-size: 0.7em;
 
   margin: auto;
   margin-top: -1.5em;
@@ -117,11 +111,6 @@ input{
   z-index: 11;
 	overflow: visible;
   white-space: nowrap;
-  animation: FALL 1.0s 1;
-  animation-timing-function: cubic-bezier(0.0, .75, 0.15, 1.0);
-}
-.topstuff2.a{
-	text-decoration: none;
 }
 
 .subcaption{
