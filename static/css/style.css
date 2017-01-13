@@ -465,16 +465,19 @@ input{
   font-weight: 300;
 }
 
+/* Active Project Group */
 input[value="about"]:checked ~ .project-group[value="about"],
 input[value="animation"]:checked ~ .project-group[value="animation"],
 input[value="vfx"]:checked ~ .project-group[value="vfx"],
 input[value="product"]:checked ~ .project-group[value="product"],
 input[value="art"]:checked ~ .project-group[value="art"],
 input[value="all"]:checked ~ .project-group[value="all"]{
-  visibility: collapse;
+  visibility: hidden;
+  transform: translateX(-50%) scaleY(1);
   transition: all 0.4s step-start;
 }
 
+/* Active Project Tiles */
 input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
 input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
 input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
@@ -484,7 +487,7 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
   opacity: 1.0;
 }
 
-
+/* Active Selector Tile */
 input[value="about"]:checked ~ .project-group .selector[value="about"],
 input[value="animation"]:checked ~ .project-group .selector[value="animation"],
 input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
@@ -524,7 +527,8 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
 
 .project-group {
   left: calc(50% - 25px);
-  transform: translateX(-50%);
+  transform-origin: 50% 0%;
+  transform: translateX(-50%) scaleY(0);
   margin-right: -200px;
   position: absolute;
   margin-bottom: 150px;
@@ -535,6 +539,7 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
 .project-group[value="selectors"]{
   opacity: 1.0;
   visibility: visible;
+  transform: translateX(-50%) scaleY(1);
 }
 
 input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
@@ -561,7 +566,7 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
 }
 
 .project-tile:hover .project-thumb{
-  filter: grayscale(00%) contrast(100%) brightness(100%);
+  filter: grayscale(0%) contrast(100%) brightness(100%);
   transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile > div{
