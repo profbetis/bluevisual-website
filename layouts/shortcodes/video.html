@@ -2,9 +2,9 @@
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
     {{ if lt $id 10 }}
-      <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-0{{ $id }}.mp4" />
+      <source src="/videos/{{ .Page.BaseFileName }}-video-0{{ $id }}.mp4" />
     {{ else }}
-      <source src="/videos/{{ .Page.Section }}/{{ .Page.BaseFileName }}-video-{{ $id }}.mp4" />
+      <source src="/videos/{{ .Page.BaseFileName }}-video-{{ $id }}.mp4" />
     {{ end }}
   </video>
   {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{ end }}

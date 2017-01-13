@@ -2,8 +2,8 @@
 client = "Alumiq"
 date = "2013-09-01T21:06:33-04:00"
 tools = ["3DS Max", "Octane Render", "Adobe Premiere"]
-tags = ["logo", "animation"]
-title = "Alumiq Logo Animation"
+tags = ["animation", "logo"]
+title = "Alumiq"
 
 +++
 [Alumiq](http://alumiq.com/) is a wedding videography studio that film and edit on the same day, highlighting the day's events in a spectacular composition. Their work very well captures the high spirits and love the couples and families at the ceremonies have.

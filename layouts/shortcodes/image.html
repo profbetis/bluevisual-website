@@ -2,9 +2,9 @@
 <div class="project-image" oncontextmenu="return false;">
   <label for="lightbox-toggle{{ $id }}">
     {{- if lt $id 10 -}}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
+    <img src="/images/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
     {{- else -}}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
+    <img src="/images/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
     {{- end -}}
   </label>
   {{- if gt (len .Params) 1 -}}<div class="caption">{{- .Get 1 -}}</div>{{- end -}}
@@ -13,9 +13,9 @@
 <div class="lightbox" oncontextmenu="return false;">
   <label for="lightbox-toggle{{ $id }}">
     {{- if lt $id 10 -}}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
+    <img src="/images/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
     {{- else -}}
-    <img src="/images/{{ .Page.Section }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
+    <img src="/images/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
     {{- end -}}
     {{- if gt (len .Params) 1 -}}
     <div class="caption">{{- .Get 1 -}}</div>

@@ -1,9 +1,9 @@
 +++
 client = "Onyx Cinema"
 date = "2013-10-01T21:06:41-04:00"
-tags = ["logo", "animation", "4k"]
+tags = ["animation", "logo", "4k"]
 tools = ["3DS Max", "Octane Render", "Filter Forge", "Adobe Premiere"]
-title = "Onyx Cinema Logo Animation"
+title = "Onyx Cinema"
 
 +++
 ## Revisited April 2015

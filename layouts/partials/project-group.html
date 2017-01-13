@@ -1,0 +1,35 @@
+<div class="project-group" value="{{ .group }}">
+
+{{ partial "project-group-shifters" .group }}
+
+{{ .meta.Scratch.Set "offset" 0.0 }}
+
+{{ range .meta.Data.Pages }}
+{{ if in .Params.tags $.group }}
+  {{ $offset := $.meta.Scratch.Get "offset" }}
+  <div class="project-tile" value="{{ $.group }}"
+  style="transition: opacity 0.4s ease {{ $offset }}s;">
+    <a href="{{ .Permalink }}">
+      <div class="project-thumb"
+      style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
+      </div>
+    </a>
+    <div class="project-name">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+
+      <div class="project-tags">
+        {{- range $index, $el := .Params.tags -}}
+          {{- if gt $index 0 -}},&nbsp;{{- end -}}
+          <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+
+{{ $.meta.Scratch.Add "offset" 0.05 }}
+
+{{ end }}
+{{ end }}
+
+<!-- {{ partial "project-group-extras" .group }} -->
+</div>
