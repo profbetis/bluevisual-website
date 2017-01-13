@@ -2,11 +2,17 @@
 
 {{ partial "header" . }}
 
-<div id="about">
-  <!-- <h2>Reel</h2><br>
-  <iframe id="reel" src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-  </iframe> -->
-  <!-- {{ partial "reel-breakdown-2014" }} -->
+<!-- <h2>Reel</h2><br>
+<iframe id="reel" src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe> -->
+<!-- {{ partial "reel-breakdown-2014" }} -->
+
+<input type="checkbox" name="reel-toggle" id="reel-toggle" />
+<div class="lightbox">
+  <label for="reel-toggle">
+    <iframe id="reel-video" src="//player.vimeo.com/video/99593886?title=0&byline=0&portrait=0&color=00bbff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+    </iframe>
+  </label>
 </div>
 
 <div id="projects">

@@ -37,6 +37,15 @@
   </div>
 
   <div class="about project-tile" value="about"
+  style="transition: opacity 0.5s ease;" id="reel">
+    <div class="tile-content unrotate" style="background-image: url('/images/meta/reel-thumb.jpg')">
+      <label for="reel-toggle"></label>
+    </div>
+    <div class="project-name">Reel</div>
+    <div class="plate"></div>
+  </div>
+
+  <div class="about project-tile" value="about"
   style="transition: opacity 0.5s ease;" id="kev">
     <div class="tile-content unrotate" style="background-image: url('/images/meta/kev-01.jpg')">
     </div>
@@ -66,14 +75,6 @@
   </div>
 
   <div class="about project-tile" value="about"
-  style="transition: opacity 0.5s ease;">
-    <div class="tile-content" style="transform: rotate(0);">
-      {{ partial "social-array" }}
-    </div>
-    <!-- <div class="plate"></div> -->
-  </div>
-
-  <div class="about project-tile" value="about"
   style="transition: opacity 0.5s ease;" id="email" >
     <div class="tile-content unrotate">
       <a href="mailto:kevin@bluevisual.tv" target="_blank">kevin@bluevisual.tv</a>
@@ -81,6 +82,14 @@
       <svg width="50" height="50" viewBox="0 0 24 24"><path d="M0 1v16.981h4v5.019l7-5.019h13v-16.981h-24zm13 12h-8v-1h8v1zm6-3h-14v-1h14v1zm0-3h-14v-1h14v1z"/></svg>
     </div>
     <div class="plate"></div>
+  </div>
+
+  <div class="about project-tile" value="about"
+  style="transition: opacity 0.5s ease;">
+    <div class="tile-content" style="transform: rotate(0);">
+      {{ partial "social-array" }}
+    </div>
+    <!-- <div class="plate"></div> -->
   </div>
 
   <!-- {{ partial "project-group-extras" "about" }} -->
