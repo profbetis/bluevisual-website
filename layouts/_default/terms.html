@@ -1,9 +1,7 @@
 {{ partial "header-meta" . }}
 {{ partial "header" . }}
 
-<a href="{{ $.Site.BaseURL }}" id="return">
-  <span>Return to Projects        &lt;</span>
-</a>
+{{ partial "return-top" }}
 
 <div class="tag-page">
   <div id="list-header">Find projects by {{ .Data.Singular }}</div>
@@ -21,10 +19,6 @@
 
 </div>
 
-<a href="{{ $.Site.BaseURL }}">
-  <div class="bottom-spacer">
-    Return to Projects
-  </div>
-</a>
+{{ partial "return-bottom" }}
 
 {{ partial "footer-meta" . }}

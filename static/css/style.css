@@ -821,11 +821,11 @@ input:not(:checked) + div.lightbox{
 }
 
 #return{
-  font-size: 13px;
+  font-size: 15px;
   position: fixed;
   height: 4em;
-  width: 15.5em;
-  left: -11.5em;
+  width: 10.5em;
+  left: -6.5em;
   top: 4em;
   text-align: right;
   font-family: 'Raleway', sans-serif;
@@ -833,7 +833,7 @@ input:not(:checked) + div.lightbox{
   background-color: #181818;
   outline: 1px solid #181818;
   transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-  z-index: 20;
+  z-index: 50;
 }
 #return:hover{
   left: -1em;
