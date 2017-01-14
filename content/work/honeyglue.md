@@ -17,7 +17,7 @@ For the 3D I used Luxology's Modo 701. It was my first project where I had built
 {{< image 6 "A closeup of the bee (you never see it this big in the film)" >}}
 {{< image 4 "Motion path of the bee in the first scene" >}}
 
-VFX was only half the project. I was also contracted to do storybook animations for certain narrative portions of the film. I was provided with Photoshop assets from an illustrator who drew them. My job was to take the layers/characters and animate them. I decided to go beyond the 2D realm of a book and try a sort of 3D parallaxing style. The clients enjoyed it so I went through with it.
+VFX was only half the project, there were also storybook animations for certain narrative portions of the film. I was provided with Photoshop assets from an illustrator who drew them. My job was to take the layers/characters and animate them. I decided to go beyond the 2D realm of a book and try a sort of 3D parallaxing style. The clients enjoyed it so I went through with it.
 
 {{< image 1 "After Effects layers of one of the storybook scenes" >}}
 {{< image 2 "How the storybook scenes are set up for 3D using 2D assets inside After Effects" >}}
