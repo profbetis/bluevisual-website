@@ -9,6 +9,20 @@
 
   <div class="content">
     {{ .Content }}
+
+    <div id="related">
+      <span>Find other</span>
+        {{ range $index, $el := .Params.tags }}
+        <a href="/tags/{{ . | urlize }}">
+          {{ . }}
+        </a>
+      {{- end -}}
+      projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
   </div>
 </div>
 
