@@ -1,7 +1,7 @@
 {{ partial "header-meta" . }}
 {{ partial "header" . }}
 
-{{ partial "return-top" }}
+{{ partial "return-top" . }}
 
 <div class="tag-page">
   <div id="list-header">"{{ .Title | humanize }}" Projects</div>
@@ -18,6 +18,6 @@
 
 </div>
 
-{{ partial "return-bottom" }}
+{{ partial "return-bottom" . }}
 
 {{ partial "footer-meta" . }}
