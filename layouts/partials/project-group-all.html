@@ -9,7 +9,7 @@
   <div class="project-tile" value="{{ $.group }}"
   style="transition: opacity 0.4s ease {{ $offset }}s;">
     <a href="{{ .Permalink }}">
-      <div class="project-thumb"
+      <div class="project-thumb unrotate"
       style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
       </div>
     </a>
@@ -28,6 +28,4 @@
 {{ $.meta.Scratch.Add "offset" 0.05 }}
 
 {{ end }}
-
-<!-- {{ partial "project-group-extras" .group }} -->
 </div>

@@ -128,12 +128,8 @@ input{
 
 #bio .project-tile.about{
   font-size: 0.75em;
-  width: 283px;
-  height: 283px;
-  margin-right: 59px;
-  margin-bottom: -151px;
-  margin-left: -46px;
-  margin-top: 18px;
+  width: 200px;
+  height: 200px;
   outline: none;
   overflow: hidden;
 }
@@ -144,30 +140,27 @@ input{
   text-align: center;
 }
 #bio .tile-content{
-  top: -46px;
-  left: -30px;
+  top: -48px;
+  left: -34px;
   color: #c0c0c0;
 }
+#kev{
+  outline: 1px solid #000 !important;
+}
+#kev.project-tile.about{
+  width: 176px;
+  height: 176px;
+  margin-left: 8px;
+  margin-right: 112px;
+  margin-bottom: -38px;
+  margin-top: 12px;
+  outline: 12px solid #202020 !important;
+}
 #kev .tile-content{
-  top: -42px;
-  left: -42px;
-  background-size: 245px 245px;
-  background-position: 20px 20px;
-  clip-path: polygon(141.5px 20px, 263px 141.5px, 141.5px 263px, 20px 141.5px);
-}
-
-#bio .about div.shape{
-  shape-margin: 8px;
-  height: 283px;
-  width: 141.5px;
-}
-#bio .shape.left{
-  float: left;
-  shape-outside: polygon(0% 0%, 100% 0%, 0% 50%, 100% 100%, 0% 100%);
-}
-#bio .shape.right{
-  float: right;
-  shape-outside: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%, 100% 50%);
+  top: -30px;
+  left: -30px;
+  background-size: cover;
+  background-position: 0;
 }
 
 #bio .project-tile .plate{
@@ -191,14 +184,15 @@ input{
   width: 100%;
   font-size: 28px;
   font-weight: 200;
-  top: 120px;
-  left: -0.45em;
+  top: 122px;
+  left: -0.333em;
 }
 #email span{
   position: absolute;
   display: block;
+  color: #808080;
   width: 100%;
-  top: calc(50% + 1.5em);
+  top: calc(50% + 1.8em);
   left: -0.7em;
 }
 #email svg{
@@ -216,16 +210,17 @@ input{
   position: absolute;
   width: 200px;
   height: 200px;
-  top: 46px;
-  left: 30px;
+  top: 48px;
+  left: 34px;
 }
 #social-array a{
   position: absolute;
   text-align: center;
   display: block;
-  width: calc(50% - 2px);
-  height: calc(50% - 2px);
+  width: 98px;
+  height: 98px;
   outline: 1px dashed #202020;
+  border: none;
   outline-offset: -1px;
   background: #202020;
   transition: all 0.3s ease;
@@ -243,14 +238,15 @@ input{
 
 #social-array a:hover{
   outline: 1px solid #0cf;
-  transition: all 0.2 s ease;
+  transition: all 0.2s ease;
+  overflow: hidden;
 }
-#social-array img, #social-array svg{
+#social-array svg{
   display: block;
-  position: relative;
+  position: absolute;
   margin: auto;
-  left: -10%;
-  top: 10%;
+  left: 8%;
+  top: 8%;
   fill: #808080;
   width: 60%;
   transition: all 0.3s ease;
@@ -261,9 +257,11 @@ input{
 }
 #social-array a span{
   display: block;
-  position: relative;
-  left: 1.0em;
-  top: -0.2em;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  left: 15%;
+  top: 58%;
   margin: auto;
   font-size: 1em;
   color: #808080;
@@ -286,27 +284,28 @@ input{
 #reel .tile-content{
   top: -42px;
   left: -42px;
-  background-size: 245px 245px;
-  background-position: 20px 20px;
-  clip-path: polygon(141.5px 20px, 263px 141.5px, 141.5px 263px, 20px 141.5px);
+  background-size: 283px 283px;
   filter: grayscale(100%) contrast(40%) brightness(50%);
   transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
 #reel:hover .tile-content{
+  color: #0cf;
   filter: grayscale(00%) contrast(100%) brightness(100%);
   transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #reel div.project-name{
   font-size: 1.3rem;
-  line-height: 1.3rem;
-  width: 235px;
-  height: 1em;
+  line-height: 1.8rem;
+  width: 141%;
+  height: 1.5em;
   vertical-align: middle;
   position: absolute;
-  top: 80px;
-  left: -31px;
-  clip-path: polygon(15% 0%, 85% 0%, 92.5% 50%, 85% 100%, 15% 100%, 7.5% 50%);
+  top: 75px;
+  left: -55px;
+}
+#reel:hover div.project-name{
+  color: #0cf;
 }
 
 #reel-video{
@@ -370,6 +369,7 @@ input{
   margin-bottom: -50px;
   margin-left: -4px;
   position: relative;
+  overflow: hidden;
 
   text-align: center;
   line-height: normal;
@@ -515,7 +515,7 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
 }
 
 .project-group {
-  left: calc(50% - 25px);
+  left: calc(50% - 37.5px);
   transform-origin: 50% 0%;
   transform: translateX(-50%) scaleY(0);
   margin-right: -200px;
@@ -545,11 +545,11 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
 
 .project-thumb{
   transform: rotate(-45deg);
-  margin-top: -20.7%;
-  margin-left: -20.7%;
+  position: absolute;
+  top: -20.7%;
+  left: -20.7%;
   width: 141.4%;
   height: 141.4%;
-  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   background-size: cover;
   filter: grayscale(100%) contrast(40%) brightness(45%);
 }
@@ -567,26 +567,26 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
   position: absolute;
   padding: 0.25em 0.5em;
   top: calc(50% - 0.85em);
-  left: -1.3em;
-  width: calc(100% + 2.2em);
-  clip-path: polygon(15% 0%,  85% 0%,  96.5% 50%,  85% 100%,  15% 100%,  3.5% 50%);
+  left: -20.5%;
+  width: 141%;
   font-size: 1.2em;
   line-height: 1em;
   white-space: nowrap;
   font-weight: 300;
   z-index: 10;
+  pointer-events: none;
   transition: all 0.15s ease;
 }
 .project-tile:hover .project-name{
   background-color: rgba(0,0,0,0.8);
   color: #fff;
-  top: calc(50% - 1.2125em);
-  left: -1.6em;
-  clip-path: polygon(15% 0%,  85% 0%,  96.5% 50%,  85% 100%,  15% 100%,  3.5% 50%);
+  top: calc(50% - 1.25em);
+  left: -25.5%;
   transition: all 0.15s ease;
 }
 .project-tile .project-name a{
   color: inherit;
+  pointer-events: auto;
 }
 .project-tile .project-name a:hover{
   color: #0cf;
