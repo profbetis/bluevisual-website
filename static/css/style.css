@@ -348,7 +348,6 @@ input{
 
 #projects{
   line-height: 0;
-  width: 100%;
   position: relative;
   top: 50px;
 }
@@ -515,10 +514,14 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
   transform: translateX(-50%) scaleY(0);
   margin-right: -200px;
   position: absolute;
-  margin-bottom: 150px;
   visibility: hidden;
   text-align: left;
   transition: all 0.4s step-start;
+}
+.project-group:after{
+  content: "";
+  height: 200px;
+  display: block;
 }
 .project-group[value="selectors"]{
   opacity: 1.0;
