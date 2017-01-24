@@ -37,7 +37,7 @@ a:hover{
 }
 
 h1, h2{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 200;
   margin: 0;
   text-align: center;
@@ -81,13 +81,13 @@ input{
 /*******/
 
 .topstuff {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   color: #bbb;
 
   font-size: 3em;
-  letter-spacing: 6px;
+  letter-spacing: 4.5px;
   text-align: center;
-  line-height: 1.6em;
+  line-height: 1.8em;
 
   top: 0px;
   margin: auto;
@@ -99,6 +99,7 @@ input{
   -webkit-user-select: none; /* Chrome/Safari */
   -moz-user-select: none; /* Firefox */
   -ms-user-select: none; /* IE10+ */
+  cursor: default;
 }
 
 .topstuff2{
@@ -114,6 +115,11 @@ input{
   z-index: 11;
 	overflow: visible;
   white-space: nowrap;
+
+  -webkit-user-select: none; /* Chrome/Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+ */
+  cursor: default;
 }
 
 
@@ -140,6 +146,7 @@ input{
   text-align: center;
 }
 #bio .tile-content{
+  font-family: 'Source Sans Pro', sans-serif;
   top: -34px;
   left: -34px;
   color: #c0c0c0;
@@ -369,6 +376,7 @@ input{
   position: relative;
   overflow: hidden;
 
+  font-family: 'Work Sans', sans-serif;
   text-align: center;
   line-height: normal;
 
@@ -633,6 +641,7 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
 }
 
 .project-info .project-tags{
+  font-family: 'Source Sans Pro', sans-serif;
   color: #ffffff;
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
   z-index: 7;
@@ -839,12 +848,12 @@ input:not(:checked) + div.lightbox{
   font-size: 15px;
   position: fixed;
   height: 4em;
-  width: 10.5em;
-  left: -6.5em;
+  width: 11em;
+  left: -7em;
   top: 4em;
   text-align: right;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 200;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
   background-color: #181818;
   outline: 1px solid #181818;
   transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
@@ -868,12 +877,12 @@ input:not(:checked) + div.lightbox{
 
 .bottom-spacer{
   text-align: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-weight: 200;
   height: 20vh;
   background: #282828;
   line-height: 20vh;
-  font-size: 3vh;
+  font-size: 4vh;
   margin-top: 10vh;
 }
 .bottom-spacer:hover{
@@ -889,7 +898,7 @@ input:not(:checked) + div.lightbox{
   width: 100%;
   height: 80px;
   line-height: 80px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 2.5em;
   font-weight: 100;
   background: #282828;
@@ -971,10 +980,10 @@ input:not(:checked) + div.lightbox{
   font-size: 0.8em;
 }
 .header .info .title{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.8rem;
-  font-weight: 100;
+  font-weight: 300;
   white-space: nowrap;
 }
 .header .info .subtitle{
