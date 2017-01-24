@@ -369,6 +369,7 @@ input{
   line-height: normal;
 
   background-position: center;
+  transform-origin: center center;
   transform: rotate(45deg);
   color: #909090;
   outline: 1px dashed #383838;
@@ -403,42 +404,56 @@ input{
 }
 
 @media (min-width: 1651px){
-  .project-group > div:nth-child(8n-3), .project-group > div:nth-child(8n-2),
-  .project-group > div:nth-child(8n-1), .project-group > div:nth-child(8n-0){
+  .project-group > div:nth-child(9n-3), .project-group > div:nth-child(9n-2), .project-group > div:nth-child(9n-1),
+  .project-group > div:nth-child(9n-0){
     left: 150px;
+  }
+
+  .project-group > div:nth-child(9n-0){
+    margin-right: 300px;
+  }
+
+  .project-group{
+    width: 1600px;
+  }
+}
+@media (max-width: 1650px) and (min-width: 1351px){
+  .project-group > div:nth-child(7n-2), .project-group > div:nth-child(7n-1),
+  .project-group > div:nth-child(7n-0){
+    left: 150px;
+  }
+
+  .project-group > div:nth-child(7n-0){
+    margin-right: 300px;
   }
 
   .project-group{
     width: 1200px;
   }
 }
-@media (max-width: 1650px) and (min-width: 1351px){
-  .project-group > div:nth-child(6n-2), .project-group > div:nth-child(6n-1),
-  .project-group > div:nth-child(6n-0){
+@media (max-width: 1350px) and (min-width: 1051px){
+  .project-group > div:nth-child(5n-1),
+  .project-group > div:nth-child(5n-0){
     left: 150px;
+  }
+
+  .project-group > div:nth-child(5n-0){
+    margin-right: 300px;
   }
 
   .project-group{
     width: 900px;
   }
 }
-@media (max-width: 1350px) and (min-width: 1051px){
-  .project-group > div:nth-child(4n-1), .project-group > div:nth-child(4n-0){
+
+@media (max-width: 1050px){
+  .project-group > div:nth-child(3n-0){
     left: 150px;
+    margin-right: 300px;
   }
 
   .project-group{
     width: 600px;
-  }
-}
-
-@media (max-width: 1050px){
-  .project-group > div:nth-child(2n-0){
-    left: 150px;
-  }
-
-  .project-group{
-    width: 300px;
   }
 }
 
@@ -509,10 +524,8 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
 }
 
 .project-group {
-  left: calc(50% - 37.5px);
-  transform-origin: 50% 0%;
+  left: calc(50% + 52px);
   transform: translateX(-50%) scaleY(0);
-  margin-right: -200px;
   position: absolute;
   visibility: hidden;
   text-align: left;
