@@ -1,6 +1,6 @@
 +++
 date = "2016-09-01T18:24:03-04:00"
-tags = ["art", "geometric"]
+tags = ["art", "concept", "study"]
 tools = ["3DS Max", "Octane Render", "Affinity Designer"]
 title = "Hilbert Stairs"
 

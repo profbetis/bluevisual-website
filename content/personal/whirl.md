@@ -1,6 +1,6 @@
 +++
 date = "2013-05-02T10:38:29-04:00"
-tags = ["art", "experiment"]
+tags = ["art", "concept"]
 tools = ["3DS Max", "Octane Render"]
 title = "Whirl"
 
