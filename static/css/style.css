@@ -291,13 +291,13 @@ input{
   left: -42px;
   background-size: 283px 283px;
   filter: grayscale(100%) contrast(25%) brightness(45%);
-  transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  transition: all 0.25s ease;
 }
 
 #reel:hover .tile-content{
   color: #0cf;
   filter: grayscale(0%) contrast(100%) brightness(100%);
-  transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  transition: all 0.15s ease;
 }
 #reel div.project-name{
   font-size: 1.3rem;
@@ -590,21 +590,21 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
   position: absolute;
   padding: 0.25em 0.5em;
   top: calc(50% - 0.85em);
-  left: -20.5%;
+  left: -1.85em;
   width: 141%;
-  font-size: 1.2em;
+  font-size: 1.1em;
   line-height: 1em;
   white-space: nowrap;
   font-weight: 300;
   z-index: 10;
   pointer-events: none;
-  transition: all 0.15s ease;
+  transition: all 0.25s ease;
 }
 .project-tile:hover .project-name{
   background-color: rgba(0,0,0,0.8);
   color: #fff;
-  top: calc(50% - 1.25em);
-  left: -25.5%;
+  top: calc(50% - 1.3em);
+  left: -2.3em;
   transition: all 0.15s ease;
 }
 .project-tile .project-name a{
@@ -620,9 +620,11 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
   font-size: 0.6em;
   font-weight: 500;
   opacity: 0;
+  transition: all 0.25s ease;
 }
 .project-tile:hover .project-tags{
   opacity: 1.0;
+  transition: all 0.15s ease;
 }
 
 .project-info{
