@@ -1,6 +1,6 @@
 +++
 date = "2013-10-02T10:37:52-04:00"
-tags = ["art", "concept", "lowpoly"]
+tags = ["art", "concept", "study"]
 tools = ["3DS Max", "Octane Render"]
 title = "Polygatures"
 
