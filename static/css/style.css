@@ -283,13 +283,13 @@ input{
   top: -42px;
   left: -42px;
   background-size: 283px 283px;
-  filter: grayscale(100%) contrast(40%) brightness(50%);
+  filter: grayscale(100%) contrast(25%) brightness(45%);
   transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
 #reel:hover .tile-content{
   color: #0cf;
-  filter: grayscale(00%) contrast(100%) brightness(100%);
+  filter: grayscale(0%) contrast(100%) brightness(100%);
   transition: all 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 #reel div.project-name{
@@ -566,7 +566,7 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
   width: 141.4%;
   height: 141.4%;
   background-size: cover;
-  filter: grayscale(100%) contrast(40%) brightness(45%);
+  filter: grayscale(100%) contrast(25%) brightness(45%);
 }
 
 .project-tile:hover .project-thumb{
