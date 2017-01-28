@@ -8,7 +8,18 @@
   {{ partial "project-header" . }}
 
   <div class="content">
-    {{ .Content }}
+
+    {{ if .Params.active }}
+
+      <h2>This project is currently active!</h1>
+
+      {{ if .Params.peak }}
+        <p>{{ .Summary }}</p>
+      {{ else }}
+        {{ .Content }}
+      {{ end }}
+
+    {{ end }}
 
     <div id="related">
       <span>Find other</span>

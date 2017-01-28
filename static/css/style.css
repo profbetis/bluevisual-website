@@ -639,6 +639,22 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   transition: all 0.15s ease;
 }
 
+.project-active{
+  position: absolute;
+  top: 40px;
+  left: -25%;
+  font-size: 0.8em;
+  padding: 0.5em;
+  width: 100%;
+  pointer-events: none;
+  transition: all 0.25s ease;
+}
+.project-tile:hover .project-active{
+  color: #0cf;
+  background: rgba(0,0,0,0.7);
+  transition: all 0.15s ease;
+}
+
 .project-info{
   width: 200px;
   position: absolute;
