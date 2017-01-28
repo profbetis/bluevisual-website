@@ -2,7 +2,7 @@
 client = "WagooAR"
 date = "2016-09-12T09:30:44-05:00"
 tags = ["vfx", "product", "animation", "video"]
-title = "WagooAR Promotionals"
+title = "WagooAR"
 tools = ["Adobe After Effects", "3DS Max", "Octane Render", "Squarespace"]
 active = true
 peak = true
