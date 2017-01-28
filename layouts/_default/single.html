@@ -10,15 +10,13 @@
   <div class="content">
 
     {{ if .Params.active }}
-
       <h2>This project is currently active!</h1>
+    {{ end }}
 
-      {{ if .Params.peak }}
-        <p>{{ .Summary }}</p>
-      {{ else }}
-        {{ .Content }}
-      {{ end }}
-
+    {{ if .Params.peak }}
+      <p>{{ .Summary }}</p>
+    {{ else }}
+      {{ .Content }}
     {{ end }}
 
     <div id="related">
