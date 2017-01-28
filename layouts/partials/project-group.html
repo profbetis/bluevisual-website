@@ -1,13 +1,13 @@
-<div class="project-group" value="{{ .group }}">
+<div class="project-group" value="{{ .groupID }}">
 
-{{ partial "project-group-shifters" .group }}
+{{ partial "project-group-shifters" .groupID }}
 
 {{ .meta.Scratch.Set "offset" 0.0 }}
 
 {{ if eq .group "all" }}
 
   {{ range .meta.Data.Pages }}
-    {{ partial "project-tile" (dict "proj" . "group" $.group "delay" ($.meta.Scratch.Get "offset")) }}
+    {{ partial "project-tile" (dict "proj" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
     {{ $.meta.Scratch.Add "offset" 0.05 }}
   {{ end }}
 
@@ -15,7 +15,7 @@
 
   {{ range .meta.Data.Pages }}
     {{ if in .Params.tags $.group }}
-      {{ partial "project-tile" (dict "proj" . "group" $.group "delay" ($.meta.Scratch.Get "offset")) }}
+      {{ partial "project-tile" (dict "proj" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
       {{ $.meta.Scratch.Add "offset" 0.05 }}
     {{ end }}
   {{ end }}

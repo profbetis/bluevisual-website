@@ -13,64 +13,62 @@
 <div id="projects">
   <form>
 
+  <!-- Declare Groups -->
+  {{ $groups := (slice "art" "animation" "product" "vfx") }}
+
+
+
   <!-- Radio Buttons -->
-  <input type="radio" name="section" value="about" id="ps-about" checked>
-  <input type="radio" name="section" value="animation" id="ps-animation">
-  <input type="radio" name="section" value="vfx" id="ps-vfx">
-  <input type="radio" name="section" value="product" id="ps-product">
-  <input type="radio" name="section" value="art" id="ps-art">
-  <input type="radio" name="section" value="all" id="ps-all">
+  <input type="radio" name="section" value="1" id="switch-1" checked>
+
+  {{ range $index, $el := $groups }}
+    <input type="radio" name="section" value="{{ add $index 3 }}" id="switch-{{ add $index 3 }}">
+  {{ end }}
+
+  <input type="radio" name="section" value="2" id="switch-2">
+
+
 
   <!-- Input Tiles -->
   <div class="project-group" value="selectors">
 
-    <div class="project-tile selector" value="about">
-      <label for="ps-about">
+    <div class="project-tile selector" value="1">
+      <label for="switch-1">
         <div>About</div>
       </label>
     </div>
 
-    <div class="project-tile selector" value="animation">
-      <label for="ps-animation">
-        <div>Animation</div>
+    {{ range $index, $el := $groups }}
+
+    <div class="project-tile selector" value="{{ add $index 3 }}">
+      <label for="switch-{{ add $index 3 }}">
+        <div>{{ humanize . }}</div>
       </label>
     </div>
 
-    <div class="project-tile selector" value="vfx">
-      <label for="ps-vfx">
-        <div>VFX</div>
-      </label>
-    </div>
+    {{ end }}
 
-    <div class="project-tile selector" value="product">
-      <label for="ps-product">
-        <div>Product</div>
-      </label>
-    </div>
-
-    <div class="project-tile selector" value="art">
-      <label for="ps-art">
-        <div>Art</div>
-      </label>
-    </div>
-
-    <div class="project-tile selector" value="all">
-      <label for="ps-all">
+    <div class="project-tile selector" value="2">
+      <label for="switch-2">
         <div>All</div>
       </label>
     </div>
 
   </div>
 
-  <!-- Project Tile Groups -->
-  {{ partial "about-group" }}
 
-  {{ partial "project-group" (dict "meta" . "group" "animation") }}
-  {{ partial "project-group" (dict "meta" . "group" "product") }}
-  {{ partial "project-group" (dict "meta" . "group" "vfx") }}
-  {{ partial "project-group" (dict "meta" . "group" "art") }}
-  {{ partial "project-group" (dict "meta" . "group" "all") }}
-  <!-- -->
+
+  <!-- Project Tile Groups -->
+  {{ partial "about-group" (dict "groupID" 1) }}
+
+  {{ $rootContext := . }}
+  {{ range $index, $el := $groups }}
+    {{ partial "project-group" (dict "meta" $rootContext "group" . "groupID" (add $index 3) ) }}
+  {{ end }}
+
+  {{ partial "project-group" (dict "meta" $rootContext "group" "all" "groupID" 2) }}
+
+
 
   </form>
 </div>
