@@ -4,14 +4,20 @@
 
 {{ .meta.Scratch.Set "offset" 0.0 }}
 
-{{ range .meta.Data.Pages }}
+{{ if eq .group "all" }}
 
-  {{ if in .Params.tags $.group }}
-
+  {{ range .meta.Data.Pages }}
     {{ partial "project-tile" (dict "proj" . "group" $.group "delay" ($.meta.Scratch.Get "offset")) }}
-
     {{ $.meta.Scratch.Add "offset" 0.05 }}
+  {{ end }}
 
+{{ else }}
+
+  {{ range .meta.Data.Pages }}
+    {{ if in .Params.tags $.group }}
+      {{ partial "project-tile" (dict "proj" . "group" $.group "delay" ($.meta.Scratch.Get "offset")) }}
+      {{ $.meta.Scratch.Add "offset" 0.05 }}
+    {{ end }}
   {{ end }}
 
 {{ end }}
