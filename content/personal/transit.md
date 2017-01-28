@@ -3,6 +3,7 @@ date = "2016-03-02T10:36:54-04:00"
 tags = ["VR", "UE4", "interactive", "concept"]
 tools = ["Unreal Engine", "3DS Max", "Filter Forge"]
 title = "Transit"
+active = true
 
 +++
 

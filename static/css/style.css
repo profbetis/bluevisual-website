@@ -476,34 +476,43 @@ input{
 }
 
 /* Active Project Group */
-input[value="about"]:checked ~ .project-group[value="about"],
-input[value="animation"]:checked ~ .project-group[value="animation"],
-input[value="vfx"]:checked ~ .project-group[value="vfx"],
-input[value="product"]:checked ~ .project-group[value="product"],
-input[value="art"]:checked ~ .project-group[value="art"],
-input[value="all"]:checked ~ .project-group[value="all"]{
+input[value="1"]:checked ~ .project-group[value="1"],
+input[value="2"]:checked ~ .project-group[value="2"],
+input[value="3"]:checked ~ .project-group[value="3"],
+input[value="4"]:checked ~ .project-group[value="4"],
+input[value="5"]:checked ~ .project-group[value="5"],
+input[value="6"]:checked ~ .project-group[value="6"],
+input[value="7"]:checked ~ .project-group[value="7"],
+input[value="8"]:checked ~ .project-group[value="8"],
+input[value="9"]:checked ~ .project-group[value="9"]{
   visibility: hidden;
   transform: translateX(-50%) scaleY(1);
   transition: all 0.4s step-start;
 }
 
 /* Active Project Tiles */
-input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
-input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
-input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
-input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
-input[value="art"]:checked ~ .project-group[value="art"] .project-tile,
-input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
+input[value="1"]:checked ~ .project-group[value="1"] .project-tile,
+input[value="2"]:checked ~ .project-group[value="2"] .project-tile,
+input[value="3"]:checked ~ .project-group[value="3"] .project-tile,
+input[value="4"]:checked ~ .project-group[value="4"] .project-tile,
+input[value="5"]:checked ~ .project-group[value="5"] .project-tile,
+input[value="6"]:checked ~ .project-group[value="6"] .project-tile,
+input[value="7"]:checked ~ .project-group[value="7"] .project-tile,
+input[value="8"]:checked ~ .project-group[value="8"] .project-tile,
+input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   opacity: 1.0;
 }
 
 /* Active Selector Tile */
-input[value="about"]:checked ~ .project-group .selector[value="about"],
-input[value="animation"]:checked ~ .project-group .selector[value="animation"],
-input[value="vfx"]:checked ~ .project-group .selector[value="vfx"],
-input[value="product"]:checked ~ .project-group .selector[value="product"],
-input[value="art"]:checked ~ .project-group .selector[value="art"],
-input[value="all"]:checked ~ .project-group .selector[value="all"]{
+input[value="1"]:checked ~ .project-group .selector[value="1"],
+input[value="2"]:checked ~ .project-group .selector[value="2"],
+input[value="3"]:checked ~ .project-group .selector[value="3"],
+input[value="4"]:checked ~ .project-group .selector[value="4"],
+input[value="5"]:checked ~ .project-group .selector[value="5"],
+input[value="6"]:checked ~ .project-group .selector[value="6"],
+input[value="7"]:checked ~ .project-group .selector[value="7"],
+input[value="8"]:checked ~ .project-group .selector[value="8"],
+input[value="9"]:checked ~ .project-group .selector[value="9"]{
   background-color: #181818;
   outline: 1px solid #0cf;
   color: #c0c0c0;
@@ -554,12 +563,15 @@ input[value="all"]:checked ~ .project-group .selector[value="all"]{
   transform: translateX(-50%) scaleY(1);
 }
 
-input[value="about"]:checked ~ .project-group[value="about"] .project-tile,
-input[value="animation"]:checked ~ .project-group[value="animation"] .project-tile,
-input[value="vfx"]:checked ~ .project-group[value="vfx"] .project-tile,
-input[value="product"]:checked ~ .project-group[value="product"] .project-tile,
-input[value="art"]:checked ~ .project-group[value="art"] .project-tile,
-input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
+input[value="1"]:checked ~ .project-group[value="1"] .project-tile,
+input[value="2"]:checked ~ .project-group[value="2"] .project-tile,
+input[value="3"]:checked ~ .project-group[value="3"] .project-tile,
+input[value="4"]:checked ~ .project-group[value="4"] .project-tile,
+input[value="5"]:checked ~ .project-group[value="5"] .project-tile,
+input[value="6"]:checked ~ .project-group[value="6"] .project-tile,
+input[value="7"]:checked ~ .project-group[value="7"] .project-tile,
+input[value="8"]:checked ~ .project-group[value="8"] .project-tile,
+input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   opacity: 1.0;
   visibility: visible;
   transition: all 0.4s step-start;
@@ -624,6 +636,22 @@ input[value="all"]:checked ~ .project-group[value="all"] .project-tile{
 }
 .project-tile:hover .project-tags{
   opacity: 1.0;
+  transition: all 0.15s ease;
+}
+
+.project-active{
+  position: absolute;
+  top: 40px;
+  left: -25%;
+  font-size: 0.8em;
+  padding: 0.5em;
+  width: 100%;
+  pointer-events: none;
+  transition: all 0.25s ease;
+}
+.project-tile:hover .project-active{
+  color: #0cf;
+  background: rgba(0,0,0,0.7);
   transition: all 0.15s ease;
 }
 

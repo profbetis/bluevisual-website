@@ -1,17 +1,26 @@
-<div class="project-tile" value="{{ .group }}" style="transition: opacity 0.4s ease {{ mul 0.05 $.index }}s;">
-  <a href="{{ .Permalink }}">
+<div class="project-tile" value="{{ .groupID }}"
+style="transition: opacity 0.4s ease {{ .delay }}s;">
+  <a href="{{ .proj.Permalink }}">
     <div class="project-thumb"
-    style="background-image: url('/images/{{ .BaseFileName }}-thumb.jpg');">
+    style="background-image: url('/images/{{ .proj.BaseFileName }}-thumb.jpg');">
     </div>
   </a>
+
+  {{ if .proj.Params.active }}
+  <div class="project-active">
+    Active!
+  </div>
+  {{ end }}
+  
   <div class="project-name">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .proj.Permalink }}">{{ .proj.Title }}</a>
 
     <div class="project-tags">
-      {{- range $index, $el := .Params.tags -}}
+      {{- range $index, $el := .proj.Params.tags -}}
         {{- if gt $index 0 -}},&nbsp;{{- end -}}
         <a href="/tags/{{ . | urlize }}">{{ . }}</a>
       {{- end -}}
     </div>
+
   </div>
 </div>

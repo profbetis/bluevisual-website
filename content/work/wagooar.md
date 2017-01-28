@@ -2,12 +2,14 @@
 client = "WagooAR"
 date = "2016-09-12T09:30:44-05:00"
 tags = ["vfx", "product", "animation", "video"]
-title = "WagooAR Promotionals"
+title = "WagooAR"
 tools = ["Adobe After Effects", "3DS Max", "Octane Render", "Squarespace"]
-draft = true
+active = true
+peak = true
+
 +++
 
-[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it's applications.
+[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it's applications.<!--more-->
 
 The project required me to create and augment material for their crowdfunding pitch video as well as the design, creation, and maintenance of [their website](http://www.wagooar.com/).
 
