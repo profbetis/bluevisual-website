@@ -7,9 +7,9 @@
   <div id="other-tags">
     <br>
     {{ $data := .Data }}
-    {{ range $key, $value := .Data.Terms.ByCount }}
+    {{ range $key, $value := .Data.Terms.Alphabetical }}
       <a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}"
-        style="font-size: {{ mul $value.Count 0.25 | add 0.5 }}em;">
+        style="font-size: {{ mul $value.Count 0.25 | add 0.75 }}em;">
         {{ $value.Name }}
       </a>
     {{ end }}

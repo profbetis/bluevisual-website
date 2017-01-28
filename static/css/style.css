@@ -939,13 +939,6 @@ input:not(:checked) + div.lightbox{
   background: #282828;
   padding: 0.5em;
 }
-#other-tags h3{
-  color: #a0a0a0;
-  font-weight: 300;
-  font-size: 1.5em;
-  margin: 0;
-  line-height: 2.2em;
-}
 #other-tags a,
 #related a {
   color: #a0a0a0;
@@ -955,6 +948,7 @@ input:not(:checked) + div.lightbox{
   margin-bottom: 0.5em;
   padding: 0.25em 0.5em;
   transition: all 0.3s ease;
+  vertical-align: middle;
 }
 #related a {
   margin: 0.25em;
@@ -971,6 +965,7 @@ input:not(:checked) + div.lightbox{
 #related a:hover {
   background: #0cf;
   color: #fff;
+  transition: all 0.15s ease;
 }
 
 
