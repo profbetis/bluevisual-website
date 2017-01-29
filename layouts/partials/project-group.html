@@ -7,8 +7,10 @@
 {{ if eq .group "all" }}
 
   {{ range .meta.Data.Pages }}
-    {{ partial "project-tile" (dict "proj" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
-    {{ $.meta.Scratch.Add "offset" 0.05 }}
+    {{ if ne .Title "reel" }}
+      {{ partial "project-tile" (dict "proj" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
+      {{ $.meta.Scratch.Add "offset" 0.05 }}
+    {{ end }}
   {{ end }}
 
 {{ else }}
