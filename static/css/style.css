@@ -320,9 +320,9 @@ input{
 
 #reel-breakdown {
   position: relative;
-  margin-top: 25px;
-  background-color: #282828;
-  height: 1425px;
+  /*background-color: #282828;*/
+  margin-top: -4px;
+  height: 1500px;
 }
 
 #reel-breakdown > .entry{
@@ -357,7 +357,6 @@ input{
 .entry .info{
   color: #a0a0a0;
   background: #202020;
-  margin: 0 2em;
   border: 1px solid #282828;
   transform: translateY(-50%) translateZ(0);
   margin-top: 6px;
@@ -369,8 +368,14 @@ input{
   border: 1px solid #0cf;
   transition: all 0.15s ease;
 }
-.entry:nth-of-type(even) .info{ padding: 0.5em 1.5em 0.5em 0; }
-.entry:nth-of-type(odd) .info{ padding: 0.5em 0em 0.5em 1.5em; }
+.entry:nth-of-type(even) .info{
+  margin-right: 2em;
+  padding: 0.5em 1.5em 0.5em 0;
+}
+.entry:nth-of-type(odd) .info{
+  margin-left: 2em;
+  padding: 0.5em 0em 0.5em 1.5em;
+}
 
 .entry .info .title{
   margin-top: -0.25em;
@@ -415,6 +420,7 @@ input{
   outline-offset: 1px;
   outline-color: #0cf;
   border-color: #0cf;
+  z-index: 5;
   transition: all 0.15s ease;
 }
 
@@ -428,7 +434,6 @@ input{
 }
 .entry:hover .line{
   background: #0cf;
-  transition: all 0.15s ease;
 }
 .entry:nth-of-type(even) .line{ right: 0.5em; }
 .entry:nth-of-type(odd) .line{ left: 0.5em; }
@@ -444,8 +449,7 @@ input{
 }
 .entry:hover .length{
   transform: scaleY(1) translateZ(0);
-  z-index: 10;
-  transition: all 0.3s linear;
+  z-index: 4;
 }
 .entry:nth-of-type(even) .length{ right: -1px; }
 .entry:nth-of-type(odd) .length{ left: 0; }
