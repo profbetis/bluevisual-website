@@ -1,0 +1,16 @@
+<tr>
+  {{ if .end | default false }}
+    <td>{{ .start }} — {{ .end }}</td>
+  {{ else }}
+    <td class="introAt">{{ .start }}</td>
+  {{ end }}
+
+  <td>
+    {{ if .path | default false }}
+      <a href="../{{ .path }}">{{ .proj }}</a>
+    {{ else }}
+      {{ .proj }}
+    {{ end }}
+  </td>
+  <td>{{ .responsibilities }}</td>
+</tr>

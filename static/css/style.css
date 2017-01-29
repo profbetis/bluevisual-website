@@ -313,23 +313,17 @@ input{
   color: #0cf;
 }
 
-#reel-video{
-  width: 85vw;
-  height: 47.81vw;
-  max-height: 80vh;
-  border: 2vw solid #101010;
-}
-
 #reel-breakdown {
-  margin-top: 50px;
+  margin-top: 75px;
 }
 #reel-breakdown table{
   margin-top: 0.5em;
   border-collapse: collapse;
+  width: 100%;
 }
 #reel-breakdown thead tr,
 #reel-breakdown tfoot tr{
-  font-size: 1em;
+  font-size: 1.2em;
   background-color: #202020;
 }
 #reel-breakdown thead th,
@@ -338,12 +332,23 @@ input{
   font-weight: 500;
 }
 #reel-breakdown td{
-  padding: 0.5em 0.5em;
-  font-size: 0.8em;
+  padding: 0.5rem 0.5rem;
+  font-size: 0.7rem;
 }
 #reel-breakdown td:nth-of-type(1){
-  width: 5em;
+  width: 6em;
 }
+#reel-breakdown td.introAt:before{
+  content: "Introduced At";
+  font-size: 0.7em;
+  position: relative;
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: -0.75em;
+  top: -0.5em;
+  color: #808080;
+}
+
 #reel-breakdown tr{
   background-color: #282828;
 }
@@ -816,8 +821,7 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   margin-top: -6px;
 }
 
-.content label,
-#reel label{
+.content label{
   cursor: zoom-in;
 }
 

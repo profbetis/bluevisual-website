@@ -1,0 +1,82 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+<div class="project">
+
+  {{ partial "return-top" . }}
+
+  <div class="content">
+
+    <h1>Reel</h1><br><br>
+
+    <iframe src="//player.vimeo.com/video/201389906?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+    </iframe>
+
+    <div id="reel-breakdown">
+      <h2>Clip Breakdown</h2><br>
+
+      <table>
+
+        <thead>
+          <tr>
+            <th>Time</th>
+            <th>Project</th>
+            <th>Responsibilities</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>0:00 - 0:15</td>
+            <td>
+              <a href="../personal/giant">Giant</a>,
+              <a href="../personal/arcanium">Arcanium</a>,
+              <a href="../personal/canvases">Canvases</a>,
+              <a href="../personal/transit">Transit</a>,
+              <a href="../personal/destiny">Destiny</a>,
+              <a href="../personal/dust">Dust</a>,
+              Miscellaneous
+            </td>
+            <td>All</td>
+          </tr>
+
+          {{ partial "rbd-entry" (dict "proj" "AminoCat Logo Animation" "path" "work/aminocat" "start" "0:16" "responsibilities" "Storyboarding, textures & materials, modeling, lighting, animation, camera, rendering, post production") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Choice Logo Animation" "path" "work/choice" "start" "0:16" "responsibilities" "Materials, lighting, animation, camera, rendering") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Space360 Logo Animation" "path" "work/space360la" "start" "0:17" "responsibilities" "Materials, modeling, lighting, animation, camera, rendering") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Onyx Cinema Logo Animation" "path" "work/onyxcinema" "start" "0:18" "responsibilities" "Storyboarding, textures & materials, lighting, animation, camera, rendering") }}
+
+          {{ partial "rbd-entry" (dict "proj" "LIP Logo Animation" "start" "0:36" "responsibilities" "2D Animation") }}
+
+          {{ partial "rbd-entry" (dict "proj" "SWNA Logo Animation" "start" "0:38" "end" "0:40" "responsibilities" "Materials, modeling, lighting, animation, camera, rendering") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Octex Tradeshow" "start" "0:40" "end" "0:44" "responsibilities" "Modeling, lighting, animation, camera, rendering, vfx, editing") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Honeyglue" "path" "work/honeyglue" "start" "0:45" "end" "0:48" "responsibilities" "compositing, rotoscoping, motion tracking, 2D animation, modeling, animation, rendering") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Cyber Vice" "path" "work/cybervice" "start" "0:50" "end" "0:53" "responsibilities" "Compositing, rotoscoping, motion tracking, graphic design, 2D animation, modeling, vfx, post production") }}
+
+          {{ partial "rbd-entry" (dict "proj" "Wagoo AR" "path" "work/wagooar" "start" "0:54" "end" "0:59" "responsibilities" "Modeling, animation, character animation, camera, rendering, motion tracking, compositing, graphic design, 2D animation, editing") }}
+
+          {{ partial "rbd-entry" (dict "proj" "ShadesClub" "path" "work/shadesclub" "start" "1:00" "end" "1:09" "responsibilities" "Modeling, rigging, animation, lighting, materials, camera, rendering") }}
+        </tbody>
+
+        <tfoot>
+          <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+          </tr>
+        </tfoot>
+
+      </table>
+    </div>
+
+  </div>
+</div>
+
+{{ partial "return-bottom" . }}
+
+{{ partial "footer-meta" . }}
