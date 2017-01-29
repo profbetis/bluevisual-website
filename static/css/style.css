@@ -319,47 +319,136 @@ input{
 }
 
 #reel-breakdown {
-  margin-top: 75px;
-}
-#reel-breakdown table{
-  margin-top: 0.5em;
-  border-collapse: collapse;
-  width: 100%;
-}
-#reel-breakdown thead tr,
-#reel-breakdown tfoot tr{
-  font-size: 1.2em;
-  background-color: #202020;
-}
-#reel-breakdown thead th,
-#reel-breakdown tfoot th{
-  padding: 0.5em 1em;
-  font-weight: 500;
-}
-#reel-breakdown td{
-  padding: 0.5rem 0.5rem;
-  font-size: 0.7rem;
-}
-#reel-breakdown td:nth-of-type(1){
-  width: 6em;
-}
-#reel-breakdown td.introAt:before{
-  content: "Introduced At";
-  font-size: 0.7em;
   position: relative;
-  display: block;
-  margin-top: 0.25em;
-  margin-bottom: -0.75em;
-  top: -0.5em;
-  color: #808080;
+  margin-top: 25px;
+  background-color: #282828;
+  height: 1425px;
 }
 
-#reel-breakdown tr{
-  background-color: #282828;
+#reel-breakdown > .entry{
+  position: absolute;
+  width: 50%;
 }
-#reel-breakdown tr:nth-last-of-type(even) td{
-  background-color: #303030;
+#reel-breakdown > .entry:nth-of-type(odd){
+  left: 50%;
 }
+
+#reel-breakdown > .line{
+  position: absolute;
+  border-right: 1px solid #606060;
+  height: 100%;
+  top: 0;
+  left: 50%;
+}
+
+.entry .time{
+  position: absolute;
+  top: -0.333em;
+  color: #808080;
+  transition: all 0.3s ease;
+}
+.entry:hover .time{
+  color: #0cf;
+  transition: all 0.15s ease;
+}
+.entry:nth-of-type(even) .time{ right: 2.5em; }
+.entry:nth-of-type(odd) .time{ left: 2.5em; }
+
+.entry .info{
+  color: #a0a0a0;
+  background: #202020;
+  margin: 0 2em;
+  border: 1px solid #282828;
+  transform: translateY(-50%) translateZ(0);
+  margin-top: 6px;
+  transition: all 0.3s ease;
+}
+.entry:hover .info{
+  color: #c0c0c0;
+  background: #181818;
+  border: 1px solid #0cf;
+  transition: all 0.15s ease;
+}
+.entry:nth-of-type(even) .info{ padding: 0.5em 1.5em 0.5em 0; }
+.entry:nth-of-type(odd) .info{ padding: 0.5em 0em 0.5em 1.5em; }
+
+.entry .info .title{
+  margin-top: -0.25em;
+  font-size: 1.1em;
+}
+.entry .info .resp{
+  font-size: 0.9em;
+  line-height: 1em;
+  padding: 0 2em;
+}
+
+.entry .point{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border: 1px solid #606060;
+  outline: 1px solid #606060;
+  outline-offset: -4px;
+  background: #181818;
+  transform: rotate(45deg) translateZ(0);
+  z-index: 5;
+  transition: all 0.3s ease;
+}
+.entry:nth-of-type(even) .point{ right: -7px; }
+.entry:nth-of-type(odd) .point{ left: -7px; }
+.entry:hover .point{
+  outline-offset: 3px;
+  outline-color: #0cf;
+  border-color: #0cf;
+  z-index: 50;
+  transition: all 0.15s ease;
+}
+
+.entry .point + .point{
+  width: 6px;
+  height: 6px;
+  z-index: 0;
+}
+.entry:nth-of-type(even) .point + .point{ right: -4px; }
+.entry:nth-of-type(odd) .point + .point{ left: -4px; }
+.entry:hover .point + .point{
+  outline-offset: 1px;
+  outline-color: #0cf;
+  border-color: #0cf;
+  transition: all 0.15s ease;
+}
+
+.entry .line{
+  position: absolute;
+  width: 1.5em;
+  height: 1px;
+  background: #606060;
+  top: 6px;
+  transition: all 0.3s ease;
+}
+.entry:hover .line{
+  background: #0cf;
+  transition: all 0.15s ease;
+}
+.entry:nth-of-type(even) .line{ right: 0.5em; }
+.entry:nth-of-type(odd) .line{ left: 0.5em; }
+
+.entry .length{
+  position: absolute;
+  width: 1px;
+  background: #0cf;
+  transform: scaleY(0) translateZ(0);
+  transform-origin: top;
+  transition: all 0.4s ease-out;
+  z-index: 0;
+}
+.entry:hover .length{
+  transform: scaleY(1) translateZ(0);
+  z-index: 10;
+  transition: all 0.3s linear;
+}
+.entry:nth-of-type(even) .length{ right: -1px; }
+.entry:nth-of-type(odd) .length{ left: 0; }
 
 
 /*******/
