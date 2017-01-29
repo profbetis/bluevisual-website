@@ -284,7 +284,12 @@ input{
 /*******/
 
 #reel{
-
+  border: 1px solid #383838;
+  transition: all 0.25s ease;
+}
+#reel:hover{
+  border-color: #0cf;
+  transition: all 0.15s ease;
 }
 #reel .tile-content{
   top: -42px;
