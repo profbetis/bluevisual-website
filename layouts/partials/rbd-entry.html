@@ -1,16 +1,26 @@
-<tr>
-  {{ if .end | default false }}
-    <td>{{ .start }} — {{ .end }}</td>
-  {{ else }}
-    <td class="introAt">{{ .start }}</td>
+<!-- proj, start, end, startPerc, responsibilities -->
+{{ $offsetPx := apply .points "mul" "." 13 }}
+{{ $totalLengthPx := sub (index (first 1 $offsetPx) 0) (index (last 1 $offsetPx) 0) }}
+
+<div class="entry" style="top: {{ add 50 (index $offsetPx 0) }}px;">
+  <div class="length" style="height: {{ sub (index (last 1 $offsetPx) 0) (index (first 1 $offsetPx) 0) }}px;"></div>
+  <div class="line"></div>
+
+  {{ range $index, $el := .points }}
+  <div class="point" style="top: {{ (sub (index $offsetPx $index) (index $offsetPx 0)) }}px; transition-delay: {{ mul $index 0.1 }}s;"></div>
   {{ end }}
 
-  <td>
+  <div class="info">
+    <div class="title">
     {{ if .path | default false }}
       <a href="../{{ .path }}">{{ .proj }}</a>
     {{ else }}
       {{ .proj }}
     {{ end }}
-  </td>
-  <td>{{ .responsibilities }}</td>
-</tr>
+    </div>
+
+    <div class="resp">{{ .responsibilities }}</div>
+  </div>
+
+  <div class="time">{{ .start }}</div>
+</div>
