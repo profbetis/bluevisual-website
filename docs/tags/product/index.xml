@@ -6,8 +6,96 @@
     <description>Recent content in Product on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Sep 2016 09:30:44 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2016 04:32:11 -0800</lastBuildDate>
     <atom:link href="http://bluevisual.tv/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Canvases</title>
+      <link>http://bluevisual.tv/personal/canvases/</link>
+      <pubDate>Sun, 02 Oct 2016 04:32:11 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/canvases/</guid>
+      <description>
+
+&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-01.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;You can find the prints on &lt;a href=&#34;http://www.ebay.com/sch/profbetis/m.html&#34;&gt;Ebay&lt;/a&gt; and &lt;a href=&#34;https://www.etsy.com/shop/KevinWeberCanvases&#34;&gt;Etsy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;canvas-renders&#34;&gt;Canvas Renders&lt;/h2&gt;
+
+&lt;p&gt;I modeled the apartment after my own that I lived in during my life in Detroit. It gave me great practice building a space that I could match with my own expectations of how materials looked and how lighting entered and bounced in rooms.&lt;/p&gt;
+
+&lt;p&gt;Placing each size canvas in an appropriate setting was important so that the buyer can get an accurate sense of scale from its surroundings and can help visualize where they might want to put the canvas.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Small canvas (#5538)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Small canvas (#5538)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Medium canvas (#0913)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Medium canvas (#0913)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Large canvas (#9929)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Large canvas (#9929)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Giant canvas (#R000)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Giant canvas (#R000)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;overview-renders&#34;&gt;Overview Renders&lt;/h2&gt;
+
+&lt;p&gt;These renders show the buyer the details of things that come with the canvas, so they can see how they might be mounting the canvases.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Size overview&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Size overview&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Mounting brackets and nails. I made sure to show the object in two positions so it&amp;#39;s easier to see what shape they are.&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Mounting brackets and nails. I made sure to show the object in two positions so it&amp;#39;s easier to see what shape they are.&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;All aspects of the canvas were modeled, down to the staple!&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/canvases-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;All aspects of the canvas were modeled, down to the staple!&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>WagooAR</title>
