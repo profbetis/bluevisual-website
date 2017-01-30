@@ -1,0 +1,65 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+<div class="project">
+
+  {{ partial "return-top" . }}
+
+  <div class="content">
+
+    <h1>Reel</h1><br>
+
+    <iframe src="//player.vimeo.com/video/201389906?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+    </iframe>
+
+    <div id="reel-breakdown">
+      <div class="line"></div>
+      {{ partial "rbd-entry" (dict "proj" "Giant" "path" "personal/giant" "start" "0:00" "points" (slice 0 8.5) "responsibilities" "Textures, lighting, camera, concept, particle logic") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Arcanium" "start" "0:05" "points" (slice 8.33 11.9) "responsibilities" "Modeling, procedural textures, lighting, camera, concept") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Canvases" "path" "personal/canvases" "start" "0:07" "points" (slice 11.66 15.27) "responsibilities" "Modeling, lighting, textures, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Transit" "path" "personal/transit" "start" "0:09" "points" (slice 15 18.6) "responsibilities" "Modeling, texturing, lighting, concept, programming") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Destiny" "path" "personal/destiny" "start" "0:11" "points" (slice 18.33 21.96) "responsibilities" "Modeling, lighting, textures, camera, simulation, rendering, concept") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Cube Render" "start" "0:13" "points" (slice 21.66 24.3) "responsibilities" "Modeling, texturing, lighting, rendering, concept") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Dust" "path" "personal/dust" "start" "0:15" "points" (slice 24.00 26.55) "responsibilities" "Simulation, materials, lighting, rendering, concept") }}
+
+      {{ partial "rbd-entry" (dict "proj" "AminoCat Logo Animation" "path" "work/aminocat" "start" "0:16" "points" (slice 26.25 32.833 36.16 41.66 56.66) "responsibilities" "Storyboarding, materials, lighting, animation, rendering, post production") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Choice Logo Animation" "path" "work/choice" "start" "0:16" "points" (slice 28.5 45 55.00) "responsibilities" "Materials, lighting, animation, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Space360 Logo Animation" "path" "work/space360la" "start" "0:17" "points" (slice 31.33 53.33) "responsibilities" "Materials, modeling, lighting, animation, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Onyx Cinema Logo Animation" "path" "work/onyxcinema" "start" "0:18" "points" (slice 34.5 50) "responsibilities" "Materials, lighting, animation, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Alumiq Logo Animation" "path" "work/alumiq" "start" "0:23" "points" (slice 37.50 51.66) "responsibilities" "Materials, lighting, animation, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "LIP Logo Animation" "start" "0:36" "points" (slice 60 63.6) "responsibilities" "2D Animation") }}
+
+      {{ partial "rbd-entry" (dict "proj" "SWNA Logo Animation" "start" "0:38" "end" "0:40" "points" (slice 63.33 66.9) "responsibilities" "Materials, modeling, lighting, animation, camera, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Octex Tradeshow" "start" "0:40" "end" "0:44" "points" (slice 66.66 75.28) "responsibilities" "Modeling, lighting, animation, camera, rendering, vfx, editing") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Honeyglue" "path" "work/honeyglue" "start" "0:45" "end" "0:48" "points" (slice 75 83.6) "responsibilities" "Compositing, rotoscoping, motion tracking, 2D animation, modeling, animation, rendering") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Cyber Vice" "path" "work/cybervice" "start" "0:50" "end" "0:53" "points" (slice 83.33 90.28) "responsibilities" "Compositing, rotoscoping, motion tracking, graphic design, 2D animation, modeling, vfx, post production") }}
+
+      {{ partial "rbd-entry" (dict "proj" "Wagoo AR" "path" "work/wagooar" "start" "0:54" "end" "0:59" "points" (slice 90 100.28) "responsibilities" "Modeling, animation, character animation, camera, rendering, motion tracking, compositing, graphic design, 2D animation, editing") }}
+
+      {{ partial "rbd-entry" (dict "proj" "ShadesClub" "path" "work/shadesclub" "start" "1:00" "end" "1:09" "points" (slice 100 109) "responsibilities" "Modeling, rigging, animation, lighting, materials, camera, rendering") }}
+
+      <div class="entry" style="top: 1300px; pointer-events: none;">
+        <div class="point"></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{{ partial "return-bottom" . }}
+
+{{ partial "footer-meta" . }}

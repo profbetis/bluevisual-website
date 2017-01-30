@@ -1,0 +1,28 @@
+<!-- proj, start, end, startPerc, responsibilities -->
+{{ $offsetYPx := apply .points "mul" "." 11.5 }}
+{{ $totalYPx := sub (index (last 1 $offsetYPx) 0) (index (first 1 $offsetYPx) 0) }}
+
+<div class="entry" style="top: {{ add 50 (index $offsetYPx 0) }}px;">
+
+  <div class="length" style="height: {{ $totalYPx }}px; transition: all {{ mul $totalYPx 0.00125 }}s linear;"></div>
+
+  <div class="line"></div>
+
+  {{ range $index, $el := .points }}
+  <div class="point" style="top: {{ (sub (index $offsetYPx $index) (index $offsetYPx 0)) }}px; transition-delay: {{ mul (sub (index $offsetYPx $index) (index $offsetYPx 0)) 0.00125 }}s;"></div>
+  {{ end }}
+
+  <div class="info">
+    <div class="title">
+    {{ if .path | default false }}
+      <a href="../{{ .path }}">{{ .proj }}</a>
+    {{ else }}
+      {{ .proj }}
+    {{ end }}
+    </div>
+
+    <div class="resp">{{ .responsibilities }}</div>
+  </div>
+
+  <div class="time">{{ .start }}</div>
+</div>

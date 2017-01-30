@@ -284,7 +284,12 @@ input{
 /*******/
 
 #reel{
-
+  border: 1px solid #383838;
+  transition: all 0.25s ease;
+}
+#reel:hover{
+  border-color: #0cf;
+  transition: all 0.15s ease;
 }
 #reel .tile-content{
   top: -42px;
@@ -313,43 +318,142 @@ input{
   color: #0cf;
 }
 
-#reel-video{
-  width: 85vw;
-  height: 47.81vw;
-  max-height: 80vh;
-  border: 2vw solid #101010;
+#reel-breakdown {
+  position: relative;
+  margin-top: -4px;
+  height: 1300px;
 }
 
-#reel-breakdown {
-  margin-top: 50px;
+#reel-breakdown > .entry{
+  position: absolute;
+  width: 50%;
 }
-#reel-breakdown table{
-  margin-top: 0.5em;
-  border-collapse: collapse;
+#reel-breakdown > .entry:nth-of-type(odd){
+  left: 50%;
 }
-#reel-breakdown thead tr,
-#reel-breakdown tfoot tr{
+
+#reel-breakdown > .line{
+  position: absolute;
+  border-right: 1px solid #606060;
+  height: 100%;
+  top: 0;
+  left: 50%;
+}
+
+.entry .time{
+  position: absolute;
+  top: -0.333em;
+  color: #808080;
+  transition: all 0.3s ease;
+}
+.entry:hover .time{
+  color: #0cf;
+  transition: all 0.15s ease;
+}
+.entry:nth-of-type(even) .time{ right: 2.5em; }
+.entry:nth-of-type(odd) .time{ left: 2.5em; }
+
+.entry .info{
+  color: #a0a0a0;
+  background: #202020;
+  border: 1px solid #282828;
+  transform: translateY(-50%) translateZ(0);
+  margin-top: 6px;
+  transition: all 0.3s ease;
+}
+.entry:hover .info{
+  color: #c0c0c0;
+  background: #181818;
+  border: 1px solid #0cf;
+  transition: all 0.15s ease;
+}
+.entry:nth-of-type(even) .info{
+  margin-right: 2em;
+  padding: 6px 24px 6px 0;
+}
+.entry:nth-of-type(odd) .info{
+  margin-left: 2em;
+  padding: 6px 0em 6px 24px;
+}
+
+.entry .info .title{
+  color: #fff;
+  margin-top: -0.25em;
   font-size: 1em;
-  background-color: #202020;
 }
-#reel-breakdown thead th,
-#reel-breakdown tfoot th{
-  padding: 0.5em 1em;
-  font-weight: 500;
+.entry .info .resp{
+  font-size: 0.9em;
+  line-height: 1em;
+  padding: 0 2em;
 }
-#reel-breakdown td{
-  padding: 0.5em 0.5em;
-  font-size: 0.8em;
+
+.entry .point{
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border: 1px solid #606060;
+  outline: 1px solid #606060;
+  outline-offset: -4px;
+  background: #181818;
+  transform: rotate(45deg) translateZ(0);
+  z-index: 5;
+  transition: all 0.3s ease;
 }
-#reel-breakdown td:nth-of-type(1){
-  width: 5em;
+.entry:nth-of-type(even) .point{ right: -7px; }
+.entry:nth-of-type(odd) .point{ left: -7px; }
+.entry:hover .point{
+  outline-offset: 3px;
+  outline-color: #0cf;
+  border-color: #0cf;
+  z-index: 50;
+  transition: all 0.15s ease;
 }
-#reel-breakdown tr{
-  background-color: #282828;
+
+.entry .point + .point{
+  width: 6px;
+  height: 6px;
+  z-index: 5;
 }
-#reel-breakdown tr:nth-last-of-type(even) td{
-  background-color: #303030;
+.entry:nth-of-type(even) .point + .point{ right: -4px; }
+.entry:nth-of-type(odd) .point + .point{ left: -4px; }
+.entry:hover .point + .point{
+  outline-offset: 1px;
+  outline-color: #0cf;
+  border-color: #0cf;
+  z-index: 5;
+  transition: all 0.15s ease;
 }
+
+.entry .line{
+  position: absolute;
+  width: 1.5em;
+  height: 1px;
+  background: #606060;
+  top: 6px;
+  transition: all 0.3s ease;
+}
+.entry:hover .line{
+  background: #0cf;
+}
+.entry:nth-of-type(even) .line{ right: 0.5em; }
+.entry:nth-of-type(odd) .line{ left: 0.5em; }
+
+.entry .length{
+  position: absolute;
+  width: 1px;
+  background: #0cf;
+  transform: scaleY(0) translateZ(0);
+  transform-origin: top;
+  z-index: 0;
+  transition: all 0.4s ease-out;
+}
+.entry:hover .length{
+  transform: scaleY(1) translateZ(0);
+  z-index: 4;
+}
+.entry:nth-of-type(even) .length{ right: -1px; }
+.entry:nth-of-type(odd) .length{ left: 0; }
+
 
 
 /*******/
@@ -816,8 +920,7 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   margin-top: -6px;
 }
 
-.content label,
-#reel label{
+.content label{
   cursor: zoom-in;
 }
 
@@ -939,13 +1042,6 @@ input:not(:checked) + div.lightbox{
   background: #282828;
   padding: 0.5em;
 }
-#other-tags h3{
-  color: #a0a0a0;
-  font-weight: 300;
-  font-size: 1.5em;
-  margin: 0;
-  line-height: 2.2em;
-}
 #other-tags a,
 #related a {
   color: #a0a0a0;
@@ -955,6 +1051,7 @@ input:not(:checked) + div.lightbox{
   margin-bottom: 0.5em;
   padding: 0.25em 0.5em;
   transition: all 0.3s ease;
+  vertical-align: middle;
 }
 #related a {
   margin: 0.25em;
@@ -971,6 +1068,7 @@ input:not(:checked) + div.lightbox{
 #related a:hover {
   background: #0cf;
   color: #fff;
+  transition: all 0.15s ease;
 }
 
 
