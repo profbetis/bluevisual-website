@@ -320,9 +320,8 @@ input{
 
 #reel-breakdown {
   position: relative;
-  /*background-color: #282828;*/
   margin-top: -4px;
-  height: 1500px;
+  height: 1300px;
 }
 
 #reel-breakdown > .entry{
@@ -370,16 +369,17 @@ input{
 }
 .entry:nth-of-type(even) .info{
   margin-right: 2em;
-  padding: 0.5em 1.5em 0.5em 0;
+  padding: 6px 24px 6px 0;
 }
 .entry:nth-of-type(odd) .info{
   margin-left: 2em;
-  padding: 0.5em 0em 0.5em 1.5em;
+  padding: 6px 0em 6px 24px;
 }
 
 .entry .info .title{
+  color: #fff;
   margin-top: -0.25em;
-  font-size: 1.1em;
+  font-size: 1em;
 }
 .entry .info .resp{
   font-size: 0.9em;
@@ -412,7 +412,7 @@ input{
 .entry .point + .point{
   width: 6px;
   height: 6px;
-  z-index: 0;
+  z-index: 5;
 }
 .entry:nth-of-type(even) .point + .point{ right: -4px; }
 .entry:nth-of-type(odd) .point + .point{ left: -4px; }
@@ -444,8 +444,8 @@ input{
   background: #0cf;
   transform: scaleY(0) translateZ(0);
   transform-origin: top;
-  transition: all 0.4s ease-out;
   z-index: 0;
+  transition: all 0.4s ease-out;
 }
 .entry:hover .length{
   transform: scaleY(1) translateZ(0);
@@ -453,6 +453,7 @@ input{
 }
 .entry:nth-of-type(even) .length{ right: -1px; }
 .entry:nth-of-type(odd) .length{ left: 0; }
+
 
 
 /*******/
