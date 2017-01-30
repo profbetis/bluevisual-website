@@ -58,10 +58,6 @@ p{
   text-align: center;
 }
 
-iframe{
-  border: none;
-}
-
 hr{
   border-color: #606060;
   margin: 4rem 0;
@@ -318,9 +314,23 @@ input{
   color: #0cf;
 }
 
+iframe{
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+#reel-container{
+  display: block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+}
+
 #reel-breakdown {
   position: relative;
-  margin-top: -4px;
   height: 1300px;
 }
 
