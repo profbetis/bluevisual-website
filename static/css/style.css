@@ -824,7 +824,8 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   font-size: 16px;
 }
 
-.content p:not(:empty){
+.content p:not(:empty),
+.content ol, .content ul{
   line-height: 1.6em;
   background: #282828;
   padding: 1em;
@@ -885,6 +886,13 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
 }
 
 .content h3{ font-size: 1.5em; }
+
+.content ul, .content ol{
+  padding: 0;
+}
+.content li{
+  padding: 0.5em;
+}
 
 .content .project-image{
   margin: 2em 0;

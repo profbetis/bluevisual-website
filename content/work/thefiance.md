@@ -6,23 +6,13 @@ tools = ["Adobe After Effects"]
 title = "The Fiancé"
 
 +++
-Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie.
+Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.
 
 {{< video 1 >}}
 
-A majority of the shots were placing glowing eyes on various characters via motion tracking.
-
-{{< image 2 "Glowing eyes" >}}
-{{< image 3 "More glowing eyes" >}}
-{{< image 4 "..." >}}
-
-Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
-{{< image 5 "Replacing Jack in the Box signs" >}}
-
-One of the more creative and fun scenes to do was adding a projected image into a certain scene.
+One of the more creative problem-solving and fun scenes to do was adding a projected image into a certain scene.
 {{< image 1 "Closeup of a final composted frame" >}}
 
-This was my process:
 1. Rotoscope the foreground to create an alpha matte
 2. Project the screen onto the background
 3. Cast shadows by subtracting an offset version of the foreground alpha channel from the backdrop.
@@ -31,3 +21,11 @@ This was my process:
 
 {{< image 6 "With and without composited projection screen" >}}
 {{< image 7 "Final composited frame from a further angle back" >}}
+
+A majority of the shots were placing glowing eyes on various characters via motion tracking.
+
+{{< image 2 "Glowing eyes on the main character" >}}
+{{< image 3 "Glowing eyes on the beast" >}}
+
+Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
+{{< image 5 "Replacing Jack in the Box signs" >}}
