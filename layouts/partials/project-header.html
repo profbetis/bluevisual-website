@@ -9,8 +9,17 @@
   <div class="info">
     <div class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
     <div class="subtitle">
-      {{ if isset .Params "client" }}for {{ .Params.client }} — {{ end }}
-      {{ if ne $year "0001" }}{{ $month }} {{ $year }}{{end}}
+      {{ if isset .Params "client" }}
+        for {{ .Params.client }} —
+      {{ end }}
+
+      {{ if .Params.active }}
+        <span style="color: #c0c0c0">Currently Active!</span>
+      {{ else }}
+        {{ if ne $year "0001" }}
+          {{ $month }} {{ $year }}
+        {{ end }}
+      {{end}}
     </div>
     <div class="tags">
       <div>Tags</div>
