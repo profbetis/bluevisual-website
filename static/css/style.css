@@ -1117,13 +1117,18 @@ input:not(:checked) + div.lightbox{
   padding-top: 12px;
   font-size: 0.8em;
 }
-.header .info .title{
+.header .info .title a{
   font-family: 'Work Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.8rem;
   font-weight: 300;
+  color: #c0c0c0;
   white-space: nowrap;
 }
+.header .info .title a:hover{
+  color: #0cf;
+}
+
 .header .info .subtitle{
   color: #808080;
   margin-bottom: 0.5rem;
