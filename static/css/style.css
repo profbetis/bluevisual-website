@@ -809,6 +809,10 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   font-size: 16px;
 }
 
+.content p:empty{
+  margin: 0;
+}
+
 .content p:not(:empty),
 .content ol, .content ul{
   line-height: 1.6em;
@@ -968,45 +972,6 @@ input:not(:checked) + div.lightbox{
 
 .content .sbs .project-image:first-of-type{
   margin-right: 1.5rem;
-}
-
-.content > .iframe-container{
-  position: relative;
-  width: 100%;
-}
-
-.content > .iframe-container > .announcement{
-  position: relative;
-  width: 100%;
-  height: 540px;
-  line-height: 540px;
-  color: rgba(222, 222, 222, 1.0);
-  outline: 0px solid #181818;
-  font-size: 3em;
-  font-weight: 300;
-  z-index: 30;
-  transition: all 0.3s ease;
-}
-.content > .iframe-container:hover > .announcement{
-  z-index: 0;
-  color: rgba(222, 222, 222, 0.0);
-  outline: 1px solid #808080;
-}
-.content > .iframe-container iframe{
-  position: absolute;
-  width: 200%;
-  top: 0;
-  left: 0;
-  z-index: 0;
-  transform-origin: 0 0;
-  transform: scale(0.5);
-  z-index: 5;
-  border: none;
-  transition: filter 0.3s ease;
-  filter: grayscale(100%) contrast(25%) brightness(45%);
-}
-.content > .iframe-container:hover iframe{
-  filter: grayscale(0%) contrast(100%) brightness(100%);
 }
 
 #return{
