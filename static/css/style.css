@@ -284,7 +284,7 @@ input{
   color: #0cf;
 }
 
-iframe{
+#reel-container iframe{
   position: absolute;
   left: 0;
   top: 0;
@@ -873,7 +873,7 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .content .project-image img:hover, .content .project-image video:hover{
-  outline-width: 32px;
+  outline-width: 0.75rem;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
 }
 
@@ -884,7 +884,9 @@ input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
   background: #282828;
   color: #a0a0a0;
 }
-.content .project-image .caption{
+.content .project-image .caption,
+.content .project-video .caption,
+.content .iframe-container .caption{
   padding: 0.5em;
 }
 
@@ -943,6 +945,60 @@ input:not(:checked) + div.lightbox{
   opacity: 0.0;
   pointer-events: none;
   transition: all 0.4s cubic-bezier(0.15, 1.900, 0.500, 1.000);
+}
+
+.content .sbs{
+  display: table;
+  margin: 1.5rem 0;
+}
+
+.content .sbs .project-image{
+  width: calc(50% - 0.75rem);
+  display: inline-block;
+  margin: 0;
+}
+
+.content .sbs .project-image:first-of-type{
+  margin-right: 1.5rem;
+}
+
+.content > .iframe-container{
+  position: relative;
+  width: 100%;
+}
+
+.content > .iframe-container > .announcement{
+  position: relative;
+  width: 100%;
+  height: 540px;
+  line-height: 540px;
+  color: rgba(222, 222, 222, 1.0);
+  outline: 0px solid #181818;
+  font-size: 3em;
+  font-weight: 300;
+  z-index: 30;
+  transition: all 0.3s ease;
+}
+.content > .iframe-container:hover > .announcement{
+  z-index: 0;
+  color: rgba(222, 222, 222, 0.0);
+  outline: 1px solid #808080;
+}
+.content > .iframe-container iframe{
+  position: absolute;
+  width: 200%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  transform-origin: 0 0;
+  transform: scale(0.5);
+  z-index: 5;
+  border: none;
+  transition: filter 0.3s ease;
+  filter: grayscale(100%) contrast(25%) brightness(45%);
+}
+.content > .iframe-container:hover iframe{
+  filter: grayscale(0%) contrast(100%) brightness(100%);
 }
 
 #return{
