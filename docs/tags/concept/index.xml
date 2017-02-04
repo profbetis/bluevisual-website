@@ -15,9 +15,13 @@
       <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;
 
 &lt;p&gt;I took an interest to it and created it in various 2D forms until I wanted to try using one of the images as a displacement map. The result was something very similar to the result shown here, but being restricted to the false nature of render-time effects, I recreated the object in 3D, using my knowledge of the fractal and use its structure to facilitate the creation of the full model.&lt;/p&gt;
+
+&lt;p&gt;This artwork is featured in the &lt;a href=&#34;../canvases&#34;&gt;Canvases&lt;/a&gt; project.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;&lt;/div&gt;
@@ -26,21 +30,29 @@
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Graphical representation of the algorithm&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -64,20 +76,13 @@
 
 &lt;p&gt;The project is a work in progress, so there aren&amp;rsquo;t very many furnishings or final details filled out yet.&lt;/p&gt;
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -88,58 +93,70 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;top-floor&#34;&gt;Top Floor&lt;/h2&gt;
+&lt;h1 id=&#34;top-floor&#34;&gt;Top Floor&lt;/h1&gt;
 
-&lt;p&gt;The top floor is the bedroom, study/office, and master bathroom.
+&lt;p&gt;The top floor is the bedroom, the study or office, and master bathroom. It features a very large glass ceiling, perfect for watching rain, snow, stars, and The Aurora Borealis. The natural light makes for a great natural awakening light.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
 
-&lt;h2 id=&#34;middle-floor&#34;&gt;Middle Floor&lt;/h2&gt;
 
-&lt;p&gt;The second floor is the kitchen and dining room. It currently remains void of layout and furnishings.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;ground-floor&#34;&gt;Ground Floor&lt;/h2&gt;
+&lt;h1 id=&#34;middle-floor&#34;&gt;Middle Floor&lt;/h1&gt;
+
+&lt;p&gt;The second floor is the kitchen and dining room. It currently remains void of layout and furnishings, except for the one ceiling fixture.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;This slightly older render features an experimental window design that I scrapped&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;This slightly older render features an experimental window design that I scrapped&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;ground-floor&#34;&gt;Ground Floor&lt;/h1&gt;
 
 &lt;p&gt;The ground floor will be a general living room and study area with a smaller bathroom. It hasn&amp;rsquo;t been laid out or furnished yet either.&lt;/p&gt;
 
@@ -151,7 +168,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;old-designs&#34;&gt;Old Designs&lt;/h2&gt;
+&lt;h1 id=&#34;old-designs&#34;&gt;Old Designs&lt;/h1&gt;
 
 &lt;p&gt;The cabin has been re-designed several times. Never in a completely new way, as the same three floors are always there, and the rotationally symmetric staircases remain, but the plans do shift from one generation to the next.Here are some older designs from much earlier in the project.&lt;/p&gt;
 
@@ -162,18 +179,23 @@
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle13&#34; id=&#34;lightbox-toggle13&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;

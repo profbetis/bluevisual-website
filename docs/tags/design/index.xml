@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/design/</link>
+    <description>Recent content in Design on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2017 14:09:57 -0800</lastBuildDate>
+    <atom:link href="http://bluevisual.tv/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Happy Hip Helper</title>
+      <link>http://bluevisual.tv/work/happyhiphelper/</link>
+      <pubDate>Thu, 02 Feb 2017 14:09:57 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/happyhiphelper/</guid>
+      <description>&lt;p&gt;The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.&lt;/p&gt;
+
+&lt;p&gt;For this project there needed to be a demonstrative figure in various poses with and without the product showing different exercises. These renders are then used on a poster that comes with the product.&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A supine hip abduction stretch&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A supine hip abduction stretch&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;How to walk&amp;#39; pose&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;How to walk&amp;#39; pose&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;3DS Max is used to pose the figures and model the props and product, using Octane Render for what it does best — rendering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

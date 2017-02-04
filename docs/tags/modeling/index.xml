@@ -29,7 +29,7 @@
 
 &lt;p&gt;You can find the prints on &lt;a href=&#34;http://www.ebay.com/sch/profbetis/m.html&#34;&gt;Ebay&lt;/a&gt; and &lt;a href=&#34;https://www.etsy.com/shop/KevinWeberCanvases&#34;&gt;Etsy&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;canvas-renders&#34;&gt;Canvas Renders&lt;/h2&gt;
+&lt;h1 id=&#34;canvas-renders&#34;&gt;Canvas Renders&lt;/h1&gt;
 
 &lt;p&gt;I modeled the apartment after my own that I lived in during my life in Detroit. It gave me great practice building a space that I could match with my own expectations of how materials looked and how lighting entered and bounced in rooms.&lt;/p&gt;
 
@@ -67,7 +67,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;overview-renders&#34;&gt;Overview Renders&lt;/h2&gt;
+&lt;h1 id=&#34;overview-renders&#34;&gt;Overview Renders&lt;/h1&gt;
 
 &lt;p&gt;These renders show the buyer the details of things that come with the canvas, so they can see how they might be mounting the canvases.&lt;/p&gt;
 
@@ -103,9 +103,69 @@
       <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
       
       <guid>http://bluevisual.tv/work/shadesclub/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;
+
+&lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
+
+&lt;h1 id=&#34;studio-renders&#34;&gt;Studio Renders&lt;/h1&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Beach setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Beach setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Green setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Green setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;subscription-packs&#34;&gt;Subscription Packs&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;3 Months&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3 Months&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Month-to-Month (1 Month)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Month-to-Month (1 Month)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -115,7 +175,9 @@
       <pubDate>Thu, 02 Jun 2016 10:36:45 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
-      <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;
 
 &lt;p&gt;You can find the products online at: Turbosquid (&lt;a href=&#34;http://www.turbosquid.com/3d-models/bungee-chair-3d-obj/1048205&#34;&gt;Black Chair&lt;/a&gt; / &lt;a href=&#34;http://www.turbosquid.com/3d-models/3d-bungee-chair/1048195&#34;&gt;Orange Chair&lt;/a&gt;) and 3D Export (&lt;a href=&#34;https://3dexport.com/3dmodel-bungee-chair-2-123069.htm&#34;&gt;Black Chair&lt;/a&gt; / &lt;a href=&#34;https://3dexport.com/3dmodel-bungee-chair-1-123068.htm&#34;&gt;Orange Chair&lt;/a&gt;).&lt;/p&gt;
 
@@ -134,64 +196,91 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
+&lt;h1 id=&#34;details&#34;&gt;Details&lt;/h1&gt;
+
 &lt;p&gt;What really helped me nail down the look was having them here to look at all the details and be familiar with how they&amp;rsquo;re constructed. Designing the actual seated areas for both was the most challenging, as they both are constructed from fabric in intricate patterns.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;assets&#34;&gt;Assets&lt;/h1&gt;
 
 &lt;p&gt;Part of why I did this is so that I could sell them on 3D modeling markets for architectural visualizers to use when they&amp;rsquo;re making homes and need to select nice furnishings to display in their designs. Because of that, I made sure to handle UVs, textures, and exports as cleanly as possible, so that people using the model had no trouble customizing and using the products.&lt;/p&gt;
 
@@ -274,10 +363,6 @@
 
 &lt;p&gt;This project&amp;rsquo;s goal was to recreate &lt;a href=&#34;http://www.m-audio.com/products/view/axiom-49&#34;&gt;M-Audio&amp;rsquo;s Axiom49&lt;/a&gt;. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;
 
-&lt;h3 id=&#34;there-are-a-total-of-19-680-polygons-in-the-mesh&#34;&gt;There are a total of 19,680 polygons in the mesh&lt;/h3&gt;
-
-&lt;h3 id=&#34;12-total-working-hours&#34;&gt;~12 total working hours&lt;/h3&gt;
-
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
@@ -290,17 +375,16 @@
 
 &lt;p&gt;I changed the colors of the main body from dark blue and white text to white with black text. I personally feel it about doubles the apparent value of the product.&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-
-&lt;p&gt;Here you can see the underlying wireframe that makes up the model. I took special care to make clean quadified meshes whenever possible and made UV maps extremely clean and simple to work with.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -308,7 +392,12 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;The following images are orthographic views that show the detail of the topology.&lt;/p&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Here you can see the underlying wireframe that makes up the model. I took special care to make clean quadified meshes whenever possible and made UV maps extremely clean and simple to work with.&lt;/p&gt;
+
+&lt;h2 id=&#34;wireframes&#34;&gt;Wireframes&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
@@ -343,6 +432,87 @@
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-08.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Me &#43; Her</title>
+      <link>http://bluevisual.tv/work/me&#43;her/</link>
+      <pubDate>Sun, 01 Dec 2013 21:06:17 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/me&#43;her/</guid>
+      <description>
+
+&lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;
+
+&lt;p&gt;I was hired to create their town in 3D and match a real camera move for the final scene in the movie. The city was massive and was very taxing on my machine to edit and render. Another team member handled the compositing.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://bluevisual.tv/videos/me&amp;#43;her-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;p&gt;The film is a live-action movie that used puppets and a small-scale set (the cardboard houses were about 4 feet high). They only had about 12 houses because of the limited space they had to work in and the incredible work it takes to make each house. The problem was that for the final end shot they wanted a picture of the whole implied town that the story takes place in.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A frame from the final render&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;tests&#34;&gt;Tests&lt;/h1&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;One of the initial material and modeling tests&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A lighting test putting lights inside the houses&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Further along in the project when more houses were built out&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;wireframes&#34;&gt;Wireframes&lt;/h1&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Instanced block layouts to make the city&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/me&amp;#43;her-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the city&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

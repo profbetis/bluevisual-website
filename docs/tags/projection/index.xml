@@ -15,7 +15,9 @@
       <pubDate>Sat, 01 Feb 2014 21:06:02 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
-      <description>&lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;This project was for the live unveiling of a new helicopter from &lt;a href=&#34;http://www.bellhelicopter.com/&#34;&gt;Bell Helicopter&lt;/a&gt;. I wasn&amp;rsquo;t hired by Bell directly, I worked with &lt;a href=&#34;http://www.steamshow.com/&#34;&gt;Steam&lt;/a&gt;, a Santa Monica based visual production studio.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -27,50 +29,61 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;The final product was used in the live unveiling of a new helicopter from &lt;a href=&#34;http://www.bellhelicopter.com/&#34;&gt;Bell Helicopter&lt;/a&gt;. I wasn&amp;rsquo;t hired by Bell directly, I worked with &lt;a href=&#34;http://www.steamshow.com/&#34;&gt;Steam&lt;/a&gt;, a Santa Monica based visual production studio.&lt;/p&gt;
+&lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
 
-&lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes. The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. I made custom window textures that were warped just subtly enough to give that warped feel that skyscrapers have.&lt;/p&gt;
+&lt;h2 id=&#34;alpine-scene&#34;&gt;Alpine Scene&lt;/h2&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
+&lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;City scene&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canyon scene&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alpine scene&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-06.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;canyon-scene&#34;&gt;Canyon Scene&lt;/h2&gt;
+
+&lt;p&gt;The canyon&amp;rsquo;s textures are actually heavily modified, as the ones that came with the model were green and luscious, so I adjusted them to have that classic red-rock look that many deserts and canyons have.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-03.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-04.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;city-scene&#34;&gt;City Scene&lt;/h2&gt;
+
+&lt;p&gt;The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. The hero buildings were purchased and places in important parts of the scene and were given special attention to detail.&lt;/p&gt;
+
+&lt;p&gt;I also created custom window textures including normal maps that make the surface warped just subtly enough to give that subtle rippled look that skyscraper windows have.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-01.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/landscape-flythroughs-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

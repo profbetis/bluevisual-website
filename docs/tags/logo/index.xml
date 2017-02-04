@@ -101,7 +101,9 @@
       <pubDate>Tue, 01 Mar 2016 17:41:15 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/vapetraze/</guid>
-      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -115,7 +117,9 @@
 
 &lt;p&gt;Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer. The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -128,17 +132,22 @@
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
 
 &lt;p&gt;Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -334,6 +343,8 @@
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/onyxcinema-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
+
+&lt;h1 id=&#34;2015-revision&#34;&gt;2015 Revision&lt;/h1&gt;
 
 &lt;p&gt;About a year an a half after the original contract, the client came back requesting a 4k version for his talk at the NAB Show about film-making. There were some things that I had wanted to change since the original version like the onyx stone backdrop, the lighting, and adding some motion blur (which my rendering program didn&amp;rsquo;t provide at the time of the first version). These changes really improved the overall look and prepared it for 4k viewing.&lt;/p&gt;
 

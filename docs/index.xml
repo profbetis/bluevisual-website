@@ -6,8 +6,50 @@
     <description>Recent content on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2017 14:44:43 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2017 14:09:57 -0800</lastBuildDate>
     <atom:link href="http://bluevisual.tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Happy Hip Helper</title>
+      <link>http://bluevisual.tv/work/happyhiphelper/</link>
+      <pubDate>Thu, 02 Feb 2017 14:09:57 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/happyhiphelper/</guid>
+      <description>&lt;p&gt;The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.&lt;/p&gt;
+
+&lt;p&gt;For this project there needed to be a demonstrative figure in various poses with and without the product showing different exercises. These renders are then used on a poster that comes with the product.&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A supine hip abduction stretch&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A supine hip abduction stretch&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;How to walk&amp;#39; pose&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;How to walk&amp;#39; pose&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/happyhiphelper-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;3DS Max is used to pose the figures and model the props and product, using Octane Render for what it does best — rendering.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>reel</title>
@@ -124,7 +166,7 @@
 
 &lt;p&gt;You can find the prints on &lt;a href=&#34;http://www.ebay.com/sch/profbetis/m.html&#34;&gt;Ebay&lt;/a&gt; and &lt;a href=&#34;https://www.etsy.com/shop/KevinWeberCanvases&#34;&gt;Etsy&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;canvas-renders&#34;&gt;Canvas Renders&lt;/h2&gt;
+&lt;h1 id=&#34;canvas-renders&#34;&gt;Canvas Renders&lt;/h1&gt;
 
 &lt;p&gt;I modeled the apartment after my own that I lived in during my life in Detroit. It gave me great practice building a space that I could match with my own expectations of how materials looked and how lighting entered and bounced in rooms.&lt;/p&gt;
 
@@ -162,7 +204,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;overview-renders&#34;&gt;Overview Renders&lt;/h2&gt;
+&lt;h1 id=&#34;overview-renders&#34;&gt;Overview Renders&lt;/h1&gt;
 
 &lt;p&gt;These renders show the buyer the details of things that come with the canvas, so they can see how they might be mounting the canvases.&lt;/p&gt;
 
@@ -202,23 +244,24 @@
 
 &lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
 
-&lt;p&gt;The project required me to create and augment material for their crowdfunding pitch video as well as the design, creation, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h2&gt;
-
-&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
-
-&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
-
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/fBi60iw7wg4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
 
+&lt;p&gt;The project required me to create and augment material for their crowdfunding pitch video as well as the design, creation, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
+
+&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
+
+&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
+
 &lt;p&gt;In addition to compositing UI mockups, there are also scenes that are entirely 3D animation to explain the technology and its systems.&lt;/p&gt;
 
-&lt;p&gt;The antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.
+&lt;p&gt;The antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.&lt;/p&gt;
+
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
@@ -227,7 +270,7 @@
   &lt;/video&gt;
   &lt;div class=&#34;caption&#34;&gt;A turntable render of glasses with the antennae and battery&lt;/div&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A mockup UI of the technology in action&lt;/div&gt;&lt;/div&gt;
@@ -237,16 +280,13 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;website&#34;&gt;Website&lt;/h2&gt;
+&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
 
 &lt;p&gt;A website was also needed to accompany the video and to give the company a more solid presence. I worked closely with the client to visualize his ideas for the website, making sure the design was responsive on many different devices.&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;An image of the website&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;An image of the website&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
+&lt;div class=&#34;iframe-container project-image&#34;&gt;
+  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
+  &lt;iframe src=&#34;http://www.wagooar.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 
 &lt;p&gt;We chose Squarespace due to its ease of use to create and maintain. No themes really gave us the style, the layout, or the elements that we needed in our design, so there are many custom HTML elements and lots of custom CSS.&lt;/p&gt;
@@ -259,9 +299,69 @@
       <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
       
       <guid>http://bluevisual.tv/work/shadesclub/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;
+
+&lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
+
+&lt;h1 id=&#34;studio-renders&#34;&gt;Studio Renders&lt;/h1&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Beach setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Beach setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Green setup&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Green setup&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;subscription-packs&#34;&gt;Subscription Packs&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;3 Months&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;3 Months&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Month-to-Month (1 Month)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Month-to-Month (1 Month)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -271,9 +371,13 @@
       <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;
 
 &lt;p&gt;I took an interest to it and created it in various 2D forms until I wanted to try using one of the images as a displacement map. The result was something very similar to the result shown here, but being restricted to the false nature of render-time effects, I recreated the object in 3D, using my knowledge of the fractal and use its structure to facilitate the creation of the full model.&lt;/p&gt;
+
+&lt;p&gt;This artwork is featured in the &lt;a href=&#34;../canvases&#34;&gt;Canvases&lt;/a&gt; project.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;&lt;/div&gt;
@@ -282,21 +386,29 @@
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Canon color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Alternative heavy color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Raw render output before color grading&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hilbert-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Graphical representation of the algorithm&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -307,12 +419,153 @@
     </item>
     
     <item>
+      <title>Guardiome</title>
+      <link>http://bluevisual.tv/work/guardiome/</link>
+      <pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/guardiome/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a bioinformatics startup from San Diego. They provide completely privitized genomic analysis from inside your home. They came to me looking for a complete branding package from the ground up, including their website and all the necessary visuals to fill it out.&lt;/p&gt;
+
+&lt;h1 id=&#34;product-renders&#34;&gt;Product Renders&lt;/h1&gt;
+
+&lt;p&gt;An important part project of this was the product renders. They provided me with a 3D mesh exported from Solidworks of their product, which I cleaned up, created materials, and then built environments for.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The primary hero Guardiome composite&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The primary hero Guardiome composite&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The dark and dramatic Guardiome composite&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The dark and dramatic Guardiome composite&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Top-down view of the Guardiome and its screen&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Top-down view of the Guardiome and its screen&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Plain backdrop; Black option&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Plain backdrop; Black option&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Plain backdrop; White option&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Plain backdrop; White option&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
+
+&lt;p&gt;Some of the graphics were hero shots, while others were more background elements and banners for the site. These custom graphics were also used in the various pitch decks we put together to show investors.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Guardiome and table render composited into stock photography&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Guardiome and table render composited into stock photography&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;DNA Strand graphic; modeled and rendered in 3D&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;DNA Strand graphic; modeled and rendered in 3D&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blueprint graphic; modeled and rendered in 3D&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Blueprint graphic; modeled and rendered in 3D&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Abstract DNA graphics; modeled and rendered in 3D&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Abstract DNA graphics; modeled and rendered in 3D&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Pipeline graphic&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Pipeline graphic&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
+
+&lt;p&gt;The website was built in Squarespace with lots of custom CSS to really dial in the elegant look the client wanted to convey. This proved to be fairly challenging, as with Squarespace, you&amp;rsquo;re unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.&lt;/p&gt;
+
+&lt;div class=&#34;iframe-container project-image&#34;&gt;
+  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
+  &lt;iframe src=&#34;http://www.guardiome.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You can also visit the website directly at &lt;a href=&#34;http://www.Guardiome.com/&#34;&gt;Guardiome.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;branding&#34;&gt;Branding&lt;/h1&gt;
+
+&lt;p&gt;The branding included colors, two font faces for all documents, and a few different logo variations for use in different contexts.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo variations, graphics incorporating them, and the chosen brand colors&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo variations, graphics incorporating them, and the chosen brand colors&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-12.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Square business card design&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-12.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Square business card design&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Bungee Chair Models</title>
       <link>http://bluevisual.tv/personal/bungeechairs/</link>
       <pubDate>Thu, 02 Jun 2016 10:36:45 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
-      <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;
 
 &lt;p&gt;You can find the products online at: Turbosquid (&lt;a href=&#34;http://www.turbosquid.com/3d-models/bungee-chair-3d-obj/1048205&#34;&gt;Black Chair&lt;/a&gt; / &lt;a href=&#34;http://www.turbosquid.com/3d-models/3d-bungee-chair/1048195&#34;&gt;Orange Chair&lt;/a&gt;) and 3D Export (&lt;a href=&#34;https://3dexport.com/3dmodel-bungee-chair-2-123069.htm&#34;&gt;Black Chair&lt;/a&gt; / &lt;a href=&#34;https://3dexport.com/3dmodel-bungee-chair-1-123068.htm&#34;&gt;Orange Chair&lt;/a&gt;).&lt;/p&gt;
 
@@ -331,64 +584,91 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
+&lt;h1 id=&#34;details&#34;&gt;Details&lt;/h1&gt;
+
 &lt;p&gt;What really helped me nail down the look was having them here to look at all the details and be familiar with how they&amp;rsquo;re constructed. Designing the actual seated areas for both was the most challenging, as they both are constructed from fabric in intricate patterns.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the spring chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front and back view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Front detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Back detail of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the spring chair&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/bungeechairs-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Wireframe view of the strap chair&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;assets&#34;&gt;Assets&lt;/h1&gt;
 
 &lt;p&gt;Part of why I did this is so that I could sell them on 3D modeling markets for architectural visualizers to use when they&amp;rsquo;re making homes and need to select nice furnishings to display in their designs. Because of that, I made sure to handle UVs, textures, and exports as cleanly as possible, so that people using the model had no trouble customizing and using the products.&lt;/p&gt;
 
@@ -423,20 +703,13 @@
 
 &lt;p&gt;The project is a work in progress, so there aren&amp;rsquo;t very many furnishings or final details filled out yet.&lt;/p&gt;
 
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-04.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -447,58 +720,70 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;top-floor&#34;&gt;Top Floor&lt;/h2&gt;
+&lt;h1 id=&#34;top-floor&#34;&gt;Top Floor&lt;/h1&gt;
 
-&lt;p&gt;The top floor is the bedroom, study/office, and master bathroom.
+&lt;p&gt;The top floor is the bedroom, the study or office, and master bathroom. It features a very large glass ceiling, perfect for watching rain, snow, stars, and The Aurora Borealis. The natural light makes for a great natural awakening light.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-07.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-08.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
 
-&lt;h2 id=&#34;middle-floor&#34;&gt;Middle Floor&lt;/h2&gt;
 
-&lt;p&gt;The second floor is the kitchen and dining room. It currently remains void of layout and furnishings.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;ground-floor&#34;&gt;Ground Floor&lt;/h2&gt;
+&lt;h1 id=&#34;middle-floor&#34;&gt;Middle Floor&lt;/h1&gt;
+
+&lt;p&gt;The second floor is the kitchen and dining room. It currently remains void of layout and furnishings, except for the one ceiling fixture.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;This slightly older render features an experimental window design that I scrapped&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;This slightly older render features an experimental window design that I scrapped&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;ground-floor&#34;&gt;Ground Floor&lt;/h1&gt;
 
 &lt;p&gt;The ground floor will be a general living room and study area with a smaller bathroom. It hasn&amp;rsquo;t been laid out or furnished yet either.&lt;/p&gt;
 
@@ -510,7 +795,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;old-designs&#34;&gt;Old Designs&lt;/h2&gt;
+&lt;h1 id=&#34;old-designs&#34;&gt;Old Designs&lt;/h1&gt;
 
 &lt;p&gt;The cabin has been re-designed several times. Never in a completely new way, as the same three floors are always there, and the rotationally symmetric staircases remain, but the plans do shift from one generation to the next.Here are some older designs from much earlier in the project.&lt;/p&gt;
 
@@ -521,18 +806,23 @@
   &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-11.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-12.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle13&#34; id=&#34;lightbox-toggle13&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle13&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/hexcabin-13.jpg&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -619,7 +909,9 @@
       <pubDate>Tue, 01 Mar 2016 17:41:15 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/vapetraze/</guid>
-      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -633,7 +925,9 @@
 
 &lt;p&gt;Initially the overall feel and art-style was open and undefined, but after trying a few different things, we decided on a techy/glowing theme that matched the internals of a vaporizer. The animation of the E provides a nice contrasting color with the rest of the scene, and also communicates to the audience what the product market is.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -646,17 +940,22 @@
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-01.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
 
 &lt;p&gt;Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/vapetraze-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -799,7 +1098,9 @@
       <pubDate>Tue, 01 Sep 2015 21:05:29 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/thefiance/</guid>
-      <description>&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -811,40 +1112,9 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;A majority of the shots were placing glowing eyes on various characters via motion tracking.&lt;/p&gt;
+&lt;h1 id=&#34;projector-scene&#34;&gt;Projector Scene&lt;/h1&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More glowing eyes&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;...&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;One of the more creative and fun scenes to do was adding a projected image into a certain scene.
+&lt;p&gt;One of the more creative problem-solving and fun scenes to do was adding a projected image into a certain scene.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Closeup of a final composted frame&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
@@ -853,12 +1123,13 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;This was my process:
-1. Rotoscope the foreground to create an alpha matte
-2. Project the screen onto the background
-3. Cast shadows by subtracting an offset version of the foreground alpha channel from the backdrop.
-4. Project an offset and distorted image onto the characters
-5. Place the character projections back on using the foreground&amp;rsquo;s alpha matte&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Rotoscope the foreground to create an alpha matte&lt;/li&gt;
+&lt;li&gt;Project the screen onto the background&lt;/li&gt;
+&lt;li&gt;Cast shadows by subtracting an offset version of the foreground alpha channel from the backdrop.&lt;/li&gt;
+&lt;li&gt;Project an offset and distorted image onto the characters&lt;/li&gt;
+&lt;li&gt;Place the character projections back on using the foreground&amp;rsquo;s alpha matte&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;With and without composited projection screen&lt;/div&gt;&lt;/div&gt;
@@ -874,140 +1145,34 @@
   &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final composited frame from a further angle back&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Zoli Speedmodel</title>
-      <link>http://bluevisual.tv/work/zoli-speedmodel/</link>
-      <pubDate>Wed, 01 Jul 2015 21:05:39 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
-      <description>
 
-&lt;p&gt;A colleague of mine worked briefly at &lt;a href=&#34;http://zoli-inc.com/&#34;&gt;Zoli&lt;/a&gt; as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a medium-size photograph. We didn&amp;rsquo;t have much time, so I needed to deliver something quickly and at high quality.&lt;/p&gt;
+&lt;h1 id=&#34;glowing-eyes&#34;&gt;Glowing Eyes&lt;/h1&gt;
 
-&lt;h2 id=&#34;4-total-working-hours&#34;&gt;4 total working hours&lt;/h2&gt;
+&lt;p&gt;A majority of the shots were placing glowing eyes on various characters via motion tracking.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes on the main character&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes on the main character&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes on the beast&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing eyes on the beast&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;The project gave me some good experience on quick product modeling and rendering in a real-world scenario.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Exion49 Model</title>
-      <link>http://bluevisual.tv/personal/exion49/</link>
-      <pubDate>Mon, 02 Feb 2015 10:37:14 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/exion49/</guid>
-      <description>
+&lt;h1 id=&#34;general-compositing&#34;&gt;General Compositing&lt;/h1&gt;
 
-&lt;p&gt;This project&amp;rsquo;s goal was to recreate &lt;a href=&#34;http://www.m-audio.com/products/view/axiom-49&#34;&gt;M-Audio&amp;rsquo;s Axiom49&lt;/a&gt;. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;
-
-&lt;h3 id=&#34;there-are-a-total-of-19-680-polygons-in-the-mesh&#34;&gt;There are a total of 19,680 polygons in the mesh&lt;/h3&gt;
-
-&lt;h3 id=&#34;12-total-working-hours&#34;&gt;~12 total working hours&lt;/h3&gt;
-
+&lt;p&gt;Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-01.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Part of what made this project successful is the fact that I own the real product and was able to inspect it for material properties, small chamfers and bevels, and other details.&lt;/p&gt;
-
-&lt;p&gt;I changed the colors of the main body from dark blue and white text to white with black text. I personally feel it about doubles the apparent value of the product.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-02.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Here you can see the underlying wireframe that makes up the model. I took special care to make clean quadified meshes whenever possible and made UV maps extremely clean and simple to work with.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-03.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;The following images are orthographic views that show the detail of the topology.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-04.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-05.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-06.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-07.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-07.jpg&#34;&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-08.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/exion49-08.jpg&#34;&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/thefiance-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Replacing Jack in the Box signs&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
