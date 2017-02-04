@@ -51,6 +51,6 @@ The website was built in Squarespace with lots of custom CSS to really dial in t
 
 The branding included colors, two font faces for all documents, and a few different logo variations for use in different contexts.
 
-{{< image 12 "Logo variations, graphics incorporating them, and the chosen brand colors" >}}
+{{< image 11 "Logo variations, graphics incorporating them, and the chosen brand colors" >}}
 
-{{< image 14 "Square business card design" >}}
+{{< image 12 "Square business card design" >}}
