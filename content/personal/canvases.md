@@ -14,7 +14,7 @@ Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying e
 
 You can find the prints on [Ebay](http://www.ebay.com/sch/profbetis/m.html) and [Etsy](https://www.etsy.com/shop/KevinWeberCanvases).
 
-## Canvas Renders
+# Canvas Renders
 
 I modeled the apartment after my own that I lived in during my life in Detroit. It gave me great practice building a space that I could match with my own expectations of how materials looked and how lighting entered and bounced in rooms.
 
@@ -28,7 +28,7 @@ Placing each size canvas in an appropriate setting was important so that the buy
 
 {{< image 8 "Giant canvas (#R000)" >}}
 
-## Overview Renders
+# Overview Renders
 
 These renders show the buyer the details of things that come with the canvas, so they can see how they might be mounting the canvases.
 

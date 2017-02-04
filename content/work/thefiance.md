@@ -10,6 +10,7 @@ Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://ww
 
 {{< video 1 >}}
 
+# Projector Scene
 One of the more creative problem-solving and fun scenes to do was adding a projected image into a certain scene.
 {{< image 1 "Closeup of a final composted frame" >}}
 
@@ -22,10 +23,12 @@ One of the more creative problem-solving and fun scenes to do was adding a proje
 {{< image 6 "With and without composited projection screen" >}}
 {{< image 7 "Final composited frame from a further angle back" >}}
 
+# Glowing Eyes
 A majority of the shots were placing glowing eyes on various characters via motion tracking.
 
 {{< image 2 "Glowing eyes on the main character" >}}
 {{< image 3 "Glowing eyes on the beast" >}}
 
+# General Compositing
 Other times I rotoscoped cars out of backgrounds and reflections as to not be distracting, or placed a few elements into the scenes.
 {{< image 5 "Replacing Jack in the Box signs" >}}

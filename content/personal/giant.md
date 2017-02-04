@@ -9,9 +9,15 @@ title = "Giant"
 A procedural gas giant generator engineered in [Filter Forge](https://www.filterforge.com/).
 
 {{< image 1 >}}
-{{< image 2 >}}
+
+{{< sbs >}}
+  {{< image 2 >}}
+  {{< image 4 >}}
+{{< /sbs >}}
+
 {{< image 3 >}}
-{{< image 4 >}}
+{{< sbs >}}
 {{< image 5 >}}
-{{< image 6 >}}
 {{< image 7 >}}
+{{< /sbs >}}
+{{< image 6 >}}

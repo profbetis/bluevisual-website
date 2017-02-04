@@ -20,6 +20,8 @@ When I saw the logo, I immediately thought of gyroscopic rings that eventually l
 {{< image 4 >}}
 {{< image 5 >}}
 
+# 2015 Revision
+
 About a year an a half after the original contract, the client came back requesting a 4k version for his talk at the NAB Show about film-making. There were some things that I had wanted to change since the original version like the onyx stone backdrop, the lighting, and adding some motion blur (which my rendering program didn't provide at the time of the first version). These changes really improved the overall look and prepared it for 4k viewing.
 
 {{< image 6 "A comparison of the revision versus the original, two years earlier" >}}
