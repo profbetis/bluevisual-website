@@ -1,7 +1,7 @@
 +++
 client = "Guardiome"
 date = "2016-07-03T14:10:06-08:00"
-tags = ["product", "rendering", "design"]
+tags = ["product", "rendering", "branding"]
 title = "Guardiome"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop", "Adobe Illustrator", "Squarespace"]
 active = false
@@ -43,9 +43,11 @@ Some of the graphics were hero shots, while others were more background elements
 
 # Website
 
-The website was built in Squarespace with lots of custom CSS to really dial in the elegant look the client wanted to convey. This proved to be fairly challenging, as with Squarespace, you're unable to change how the HTML is generated, so everything you want to do has to be purely a CSS modification.
+The website was built in Squarespace with lots of custom CSS to really dial in the elegant look the client wanted to convey. This proved to be fairly challenging, as with Squarespace, you're unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.
 
-{{< iframe "http://www.guardiome.com/" "The website's homepage" >}}
+{{< iframe "http://www.guardiome.com/" >}}
+
+You can also visit the website directly at [Guardiome.com](http://www.Guardiome.com/)
 
 # Branding
 
