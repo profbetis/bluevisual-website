@@ -12,33 +12,40 @@ When designing, I do try very much to think through the constraints of the real 
 
 The project is a work in progress, so there aren't very many furnishings or final details filled out yet.
 
-## Overview
+# Overview
 {{< image 4 >}}
-{{< image 2 >}}
 {{< image 3 >}}
 
-## Top Floor
-The top floor is the bedroom, study/office, and master bathroom.
+# Top Floor
+The top floor is the bedroom, the study or office, and master bathroom. It features a very large glass ceiling, perfect for watching rain, snow, stars, and The Aurora Borealis. The natural light makes for a great natural awakening light.
 {{< image 1 >}}
-{{< image 5 >}}
-{{< image 6 >}}
-{{< image 7 >}}
-{{< image 8 >}}
 
-## Middle Floor
-The second floor is the kitchen and dining room. It currently remains void of layout and furnishings.
+{{< sbs >}}
+  {{< image 5 >}}
+  {{< image 6 >}}
+{{< /sbs >}}
 
-{{< image 9 >}}
+{{< sbs >}}
+  {{< image 7 >}}
+  {{< image 8 >}}
+{{< /sbs >}}
 
-## Ground Floor
+# Middle Floor
+The second floor is the kitchen and dining room. It currently remains void of layout and furnishings, except for the one ceiling fixture.
+
+{{< image 9 "This slightly older render features an experimental window design that I scrapped">}}
+
+# Ground Floor
 The ground floor will be a general living room and study area with a smaller bathroom. It hasn't been laid out or furnished yet either.
 
 {{< image 10 >}}
 
-## Old Designs
+# Old Designs
 The cabin has been re-designed several times. Never in a completely new way, as the same three floors are always there, and the rotationally symmetric staircases remain, but the plans do shift from one generation to the next.Here are some older designs from much earlier in the project.
 
 {{< image 11 >}}
-{{< image 12 >}}
-{{< image 13 >}}
+{{< sbs >}}
+  {{< image 12 >}}
+  {{< image 13 >}}
+{{< /sbs >}}
 {{< image 14 >}}

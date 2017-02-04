@@ -1,0 +1,5 @@
+<div class="iframe-container project-image">
+  <div class="announcement">This is an interactive element!</div>
+  <iframe src="{{ .Get 0 }}" width="1920" height="1080"></iframe>
+  {{- if gt (len .Params) 1 -}}<div class="caption">{{- .Get 1 -}}</div>{{- end -}}
+</div>
