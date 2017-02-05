@@ -109,9 +109,14 @@
 
 &lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
 
-&lt;h1 id=&#34;studio-renders&#34;&gt;Studio Renders&lt;/h1&gt;
+&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;Nothing to show yet, this is still in progress!&lt;/p&gt;
+
+&lt;h2 id=&#34;product-family&#34;&gt;Product Family&lt;/h2&gt;
+
+&lt;p&gt;To show off the contents of each box, I needed to show
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -309,47 +314,53 @@
       <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
       <description>
 
-&lt;p&gt;A colleague of mine worked briefly at &lt;a href=&#34;http://zoli-inc.com/&#34;&gt;Zoli&lt;/a&gt; as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a medium-size photograph. We didn&amp;rsquo;t have much time, so I needed to deliver something quickly and at high quality.&lt;/p&gt;
+&lt;p&gt;A colleague of mine worked briefly at &lt;a href=&#34;http://zoli-inc.com/&#34;&gt;Zoli&lt;/a&gt; as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a low-res photograph. We didn&amp;rsquo;t have much time, so I needed to deliver something quickly and high quality.&lt;/p&gt;
+
+&lt;p&gt;The project gave me some great experience on efficient product modeling and rendering in a real-world scenario.&lt;/p&gt;
 
 &lt;h2 id=&#34;4-total-working-hours&#34;&gt;4 total working hours&lt;/h2&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render A&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render A&amp;#39;s solid wireframe&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;The project gave me some good experience on quick product modeling and rendering in a real-world scenario.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Final Render B&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s wireframe&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/zoli-speedmodel-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Render B&amp;#39;s clay wireframe&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     

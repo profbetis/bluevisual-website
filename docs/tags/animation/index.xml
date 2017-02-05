@@ -6,8 +6,164 @@
     <description>Recent content in Animation on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2016 00:53:46 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2016 09:30:44 -0500</lastBuildDate>
     <atom:link href="http://bluevisual.tv/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WagooAR</title>
+      <link>http://bluevisual.tv/work/wagooar/</link>
+      <pubDate>Mon, 12 Dec 2016 09:30:44 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/wagooar/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
+
+&lt;p&gt;The project required me to create animations and composite graphics onto live footage for their crowdfunding pitch video as well as the design, construction, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
+
+&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
+
+&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/fBi60iw7wg4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;compositing&#34;&gt;Compositing&lt;/h2&gt;
+
+&lt;p&gt;Mockups of the UI were designed and composited into the scene to demonstrate potential applications for the technology.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Conference Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Conference Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Missed Connections Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Missed Connections Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Grocery Store Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Grocery Store Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Warehouse Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Warehouse Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Retail Scene (non POV)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Retail Scene (non POV)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;animations&#34;&gt;Animations&lt;/h2&gt;
+
+&lt;p&gt;In addition to compositing UI mockups, there are also scenes that are entirely 3D animation to explain the technology and its systems.&lt;/p&gt;
+
+&lt;p&gt;For the turntables, the antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-02.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  &lt;div class=&#34;caption&#34;&gt;A turntable render of glasses with the antennae and battery&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing antennae on muted render&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing antennae on muted render&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Antenna diagram superimposed on the turntable&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Antenna diagram superimposed on the turntable&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This character model was purchased online and then cleaned up and re-textured at a higher resolution and with different facial features.&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glasses on an animated character&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glasses on an animated character&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The character walking near an example signal object&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The character walking near an example signal object&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
+
+&lt;p&gt;A website was also needed to accompany the video and to give the company a more solid presence. I worked closely with the client to visualize his ideas for the website, making sure the design was responsive on many different devices. We chose Squarespace due to its ease of use to create and maintain. No themes really gave us the style, the layout, or the building blocks that we needed in the design, so there are lots of hand-crafted elements and CSS.&lt;/p&gt;
+
+&lt;div class=&#34;iframe-container project-image&#34;&gt;
+  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
+  &lt;iframe src=&#34;http://www.wagooar.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You can also visit the website directly at &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Choice</title>
@@ -96,65 +252,6 @@
     </item>
     
     <item>
-      <title>WagooAR</title>
-      <link>http://bluevisual.tv/work/wagooar/</link>
-      <pubDate>Mon, 12 Sep 2016 09:30:44 -0500</pubDate>
-      
-      <guid>http://bluevisual.tv/work/wagooar/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/fBi60iw7wg4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The project required me to create and augment material for their crowdfunding pitch video as well as the design, creation, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
-
-&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
-
-&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
-
-&lt;p&gt;In addition to compositing UI mockups, there are also scenes that are entirely 3D animation to explain the technology and its systems.&lt;/p&gt;
-
-&lt;p&gt;The antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  &lt;div class=&#34;caption&#34;&gt;A turntable render of glasses with the antennae and battery&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A mockup UI of the technology in action&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A mockup UI of the technology in action&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
-
-&lt;p&gt;A website was also needed to accompany the video and to give the company a more solid presence. I worked closely with the client to visualize his ideas for the website, making sure the design was responsive on many different devices.&lt;/p&gt;
-
-&lt;div class=&#34;iframe-container project-image&#34;&gt;
-  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
-  &lt;iframe src=&#34;http://www.wagooar.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-
-&lt;p&gt;We chose Squarespace due to its ease of use to create and maintain. No themes really gave us the style, the layout, or the elements that we needed in our design, so there are many custom HTML elements and lots of custom CSS.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ShadesClub</title>
       <link>http://bluevisual.tv/work/shadesclub/</link>
       <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
@@ -166,9 +263,14 @@
 
 &lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
 
-&lt;h1 id=&#34;studio-renders&#34;&gt;Studio Renders&lt;/h1&gt;
+&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;Nothing to show yet, this is still in progress!&lt;/p&gt;
+
+&lt;h2 id=&#34;product-family&#34;&gt;Product Family&lt;/h2&gt;
+
+&lt;p&gt;To show off the contents of each box, I needed to show
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -421,7 +523,13 @@
       <pubDate>Sun, 02 Nov 2014 10:37:22 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/destiny/</guid>
-      <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;
+
+&lt;p&gt;One of my early forrays into physics simulations and modeling; I originally wanted to follow a ball along its journey through a contraption. The idea grew from here into more of an abstract one where it&amp;rsquo;s mostly just a journey&amp;hellip; sort of like the &amp;lsquo;On Top of Spaghetti&amp;rsquo; poem.&lt;/p&gt;
+
+&lt;p&gt;Currently, there are just some more literal and unfinished interpretations of this concept from early on. I still plan to continue working on it.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
@@ -437,46 +545,43 @@
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/destiny-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
+
+
+&lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;I needed a way to bring the balls back up to a higher elevation so that they could have potential energy again, but weird belt or mill systems seemed awkward, so I wanted a more interesting solution. I pondered passively for days about what would be a good design, and finally thought of one as I was falling asleep one night. In the morning I decided to bring it to life.&lt;/p&gt;
+&lt;h2 id=&#34;tests&#34;&gt;Tests&lt;/h2&gt;
 
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/113800843&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;p&gt;I needed a way to bring the balls back up to a higher elevation so that they could have potential energy again, but weird belt or mill systems seemed awkward, so I wanted a more interesting solution. I pondered passively for days about what would be a good design, and finally thought of one as I was falling asleep one night.&lt;/p&gt;
 
-&lt;div class=&#34;caption&#34;&gt;Elevator mechanism&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/112143605&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;div class=&#34;caption&#34;&gt;Fast physics due to bad friction parameters, but I wanted to play with some camera angles&lt;/div&gt;
-&lt;/p&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/113800843?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;Elevator mechanism&lt;/div&gt;&lt;/div&gt;
 
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/111912557&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/112143605?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;Fast physics due to bad friction parameters, but I wanted to play with some camera angles&lt;/div&gt;&lt;/div&gt;
 
 
-&lt;div class=&#34;caption&#34;&gt;A quick test for camera angles and physics&lt;/div&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/111912557?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A quick test for camera angles and physics&lt;/div&gt;&lt;/div&gt;
 
 </description>
     </item>
@@ -732,7 +837,9 @@
       <pubDate>Sun, 01 Sep 2013 21:06:33 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/alumiq/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://alumiq.com/&#34;&gt;Alumiq&lt;/a&gt; is a wedding videography studio that film and edit on the same day, highlighting the day&amp;rsquo;s events in a spectacular composition. Their work very well captures the high spirits and love the couples and families at the ceremonies have.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;http://alumiq.com/&#34;&gt;Alumiq&lt;/a&gt; &lt;em&gt;(pronounced &amp;lsquo;uh-loo-mik&amp;rsquo;)&lt;/em&gt; is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day&amp;rsquo;s events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.&lt;/p&gt;
+
+&lt;p&gt;I was contacted after &lt;a href=&#34;http://www.thejoylin.com/&#34;&gt;a colleague of mine&lt;/a&gt; designed their new logo for a rebranding, and they needed it animated to show as an introduction for their videos.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -744,9 +851,7 @@
 &lt;/div&gt;
 
 
-&lt;p&gt;I was contacted after &lt;a href=&#34;http://www.thejoylin.com/&#34;&gt;a colleague of mine&lt;/a&gt; designed their new logo for a rebranding, and they needed it animated to show at the beginning of their videos.&lt;/p&gt;
-
-&lt;p&gt;Their name means &amp;lsquo;playing with light&amp;rsquo;, so to capture that, I created playfully reflective and translucent glass, which strengthens and reaffirms their branding identity.&lt;/p&gt;
+&lt;p&gt;Their name means &amp;lsquo;playing with light&amp;rsquo;, so to capture that I created playfully reflective and translucent glass, which follows and strengthens their branding identity.&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/alumiq-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
@@ -770,10 +875,9 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/80160112&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/80160112?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;530&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A video incorporating the animation&lt;/div&gt;&lt;/div&gt;
 
 </description>
     </item>
@@ -784,7 +888,9 @@
       <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/dust/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -798,7 +904,7 @@
 
 &lt;p&gt;This project is primarily an experiment with slow motion physics simulations of destruction.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-01.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -806,48 +912,60 @@
 &lt;/div&gt;
 
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/63070976&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/63070976?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;480&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A test silhouette render with reversed time&lt;/div&gt;&lt;/div&gt;
 
-&lt;div class=&#34;caption&#34;&gt;A test silhouette render with reversed time&lt;/div&gt;
-&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-02.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-02.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-03.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-03.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-04.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-04.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
+&lt;/p&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;h2 id=&#34;wireframes&#34;&gt;Wireframes&lt;/h2&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-05.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-05.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-06.jpg&#34;&gt;&lt;/label&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/dust-06.jpg&#34;&gt;&lt;/label&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
+
+&lt;/div&gt;
+
 </description>
     </item>
     

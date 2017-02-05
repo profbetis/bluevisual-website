@@ -61,6 +61,162 @@
     </item>
     
     <item>
+      <title>WagooAR</title>
+      <link>http://bluevisual.tv/work/wagooar/</link>
+      <pubDate>Mon, 12 Dec 2016 09:30:44 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/wagooar/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
+
+&lt;p&gt;The project required me to create animations and composite graphics onto live footage for their crowdfunding pitch video as well as the design, construction, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-01.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
+
+&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
+
+&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/fBi60iw7wg4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;compositing&#34;&gt;Compositing&lt;/h2&gt;
+
+&lt;p&gt;Mockups of the UI were designed and composited into the scene to demonstrate potential applications for the technology.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Conference Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Conference Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Missed Connections Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Missed Connections Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-07.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Grocery Store Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle7&#34; id=&#34;lightbox-toggle7&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle7&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-07.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Grocery Store Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-08.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Warehouse Scene&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle8&#34; id=&#34;lightbox-toggle8&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle8&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-08.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Warehouse Scene&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Retail Scene (non POV)&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Retail Scene (non POV)&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;animations&#34;&gt;Animations&lt;/h2&gt;
+
+&lt;p&gt;In addition to compositing UI mockups, there are also scenes that are entirely 3D animation to explain the technology and its systems.&lt;/p&gt;
+
+&lt;p&gt;For the turntables, the antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.&lt;/p&gt;
+
+&lt;div class=&#34;project-image&#34;&gt;
+  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
+    
+      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-02.mp4&#34; /&gt;
+    
+  &lt;/video&gt;
+  &lt;div class=&#34;caption&#34;&gt;A turntable render of glasses with the antennae and battery&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-10.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glowing antennae on muted render&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle10&#34; id=&#34;lightbox-toggle10&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle10&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-10.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glowing antennae on muted render&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Antenna diagram superimposed on the turntable&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Antenna diagram superimposed on the turntable&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This character model was purchased online and then cleaned up and re-textured at a higher resolution and with different facial features.&lt;/p&gt;
+
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Glasses on an animated character&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle4&#34; id=&#34;lightbox-toggle4&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Glasses on an animated character&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The character walking near an example signal object&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The character walking near an example signal object&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
+
+&lt;p&gt;A website was also needed to accompany the video and to give the company a more solid presence. I worked closely with the client to visualize his ideas for the website, making sure the design was responsive on many different devices. We chose Squarespace due to its ease of use to create and maintain. No themes really gave us the style, the layout, or the building blocks that we needed in the design, so there are lots of hand-crafted elements and CSS.&lt;/p&gt;
+
+&lt;div class=&#34;iframe-container project-image&#34;&gt;
+  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
+  &lt;iframe src=&#34;http://www.wagooar.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You can also visit the website directly at &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Choice</title>
       <link>http://bluevisual.tv/work/choice/</link>
       <pubDate>Wed, 12 Oct 2016 00:53:46 -0500</pubDate>
@@ -235,65 +391,6 @@
     </item>
     
     <item>
-      <title>WagooAR</title>
-      <link>http://bluevisual.tv/work/wagooar/</link>
-      <pubDate>Mon, 12 Sep 2016 09:30:44 -0500</pubDate>
-      
-      <guid>http://bluevisual.tv/work/wagooar/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/fBi60iw7wg4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The project required me to create and augment material for their crowdfunding pitch video as well as the design, creation, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
-
-&lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
-
-&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
-
-&lt;p&gt;In addition to compositing UI mockups, there are also scenes that are entirely 3D animation to explain the technology and its systems.&lt;/p&gt;
-
-&lt;p&gt;The antennas and their components are rendered in 3D on top of a pair of glasses. Glasses models were found online and modified and improved for our uses.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://bluevisual.tv/videos/wagooar-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  &lt;div class=&#34;caption&#34;&gt;A turntable render of glasses with the antennae and battery&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A mockup UI of the technology in action&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/wagooar-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A mockup UI of the technology in action&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
-
-&lt;p&gt;A website was also needed to accompany the video and to give the company a more solid presence. I worked closely with the client to visualize his ideas for the website, making sure the design was responsive on many different devices.&lt;/p&gt;
-
-&lt;div class=&#34;iframe-container project-image&#34;&gt;
-  &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
-  &lt;iframe src=&#34;http://www.wagooar.com/&#34; width=&#34;1920&#34; height=&#34;1080&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-
-&lt;p&gt;We chose Squarespace due to its ease of use to create and maintain. No themes really gave us the style, the layout, or the elements that we needed in our design, so there are many custom HTML elements and lots of custom CSS.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ShadesClub</title>
       <link>http://bluevisual.tv/work/shadesclub/</link>
       <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
@@ -305,9 +402,14 @@
 
 &lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
 
-&lt;h1 id=&#34;studio-renders&#34;&gt;Studio Renders&lt;/h1&gt;
+&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;Nothing to show yet, this is still in progress!&lt;/p&gt;
+
+&lt;h2 id=&#34;product-family&#34;&gt;Product Family&lt;/h2&gt;
+
+&lt;p&gt;To show off the contents of each box, I needed to show
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Blue setup&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -841,40 +943,16 @@
       <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/transit/</guid>
-      <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). It&amp;rsquo;s a project about experiencing beautiful places and things.
+      <description>
 
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/171832381&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
+&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;
 
-&lt;div class=&#34;caption&#34;&gt;Here&amp;#39;s a preview video of it playing inside Unreal Engine&lt;/div&gt;
-&lt;/p&gt;
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/171832381?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;600&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A preview of it playing inside UDK&lt;/div&gt;&lt;/div&gt;
+
 
 &lt;p&gt;You are in a cabin gliding along rails through beautiful environments and places. There are hardly any controls, only some gaze-activated menus inside your cabin. This is to let the player not worry about navigating environments, getting stuck somewhere, or needing to interact with anything in the real world.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A view from the level &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;There will be playlist functionality where you can load up a few different environments in sequence and they will load fairly seamlessly. There will also be looping environments where there is no entrance or exit, only a continuous circuit that you can ride forever. There will also be procedural tracks that go on forever and self-generate, giving you an infinite experience.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;&lt;/div&gt;
@@ -882,22 +960,53 @@
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-04.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The transition tunnel that connects each level&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
+
+
+&lt;p&gt;There will be playlist functionality where you can load up a few different environments in sequence and they will load fairly seamlessly. There will also be looping environments where there is no entrance or exit, only a continuous circuit that you can ride forever. There will also be procedural tracks that go on forever and self-generate, giving you an infinite experience.&lt;/p&gt;
+
+&lt;h2 id=&#34;terminal-experience&#34;&gt;Terminal Experience&lt;/h2&gt;
+
+&lt;p&gt;This was the first conceptual level for Transit. I wanted large bridge-like structures passing overhead and wanted the feeling of being deep down in a concrete chasm. The first tests were fairly claustrophobic and gloomy, and as the concept progressed it became more open and sunny.
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Looking forward in &amp;#39;Terminal&amp;#39;&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Another view from further back&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
 &lt;/p&gt;
 
-&lt;p&gt;There is no objective to this game besides relaxing and enjoying the worlds you&amp;rsquo;re in, escaping to great places you could never go in real life.&lt;/p&gt;
+&lt;h2 id=&#34;hills-experience&#34;&gt;Hills Experience&lt;/h2&gt;
 
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+&lt;p&gt;This experience is one that brings me a personal peace and is somewhere I always want to escape to. The leaves rustling from a breeze, some light birdsong, and gentle sun filtering through the canopy. A perfect spring-summer hybrid day.
+&lt;div class=&#34;sbs&#34;&gt;
+  
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;The &amp;#39;Hills&amp;#39; level&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-06.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle6&#34; id=&#34;lightbox-toggle6&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle6&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/transit-06.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;&amp;#39;Hills&amp;#39; level just after exiting the transition tunnel&lt;/div&gt;&lt;/label&gt;
+&lt;/div&gt;
+
+
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
