@@ -17,7 +17,8 @@ The initial setup took a while before I had anything useful. The box and inner c
 Nothing to show yet, this is still in progress!
 
 ## Product Family
-To show off the contents of each box, I needed to show
+To show off the contents of each box, I needed to model and texture each item, then set them up in a studio environment. The studio was pretty simple, but I had to make sure the light source had an interesting look because of the reflections in the glasses.
+
 {{< image 1 "Blue setup">}}
 {{< sbs >}}
   {{< image 2 "Beach setup">}}
