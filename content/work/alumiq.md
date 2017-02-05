@@ -6,17 +6,17 @@ tags = ["animation", "logo"]
 title = "Alumiq"
 
 +++
-[Alumiq](http://alumiq.com/) is a wedding videography studio that film and edit on the same day, highlighting the day's events in a spectacular composition. Their work very well captures the high spirits and love the couples and families at the ceremonies have.
+
+[Alumiq](http://alumiq.com/) *(pronounced 'uh-loo-mik')* is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day's events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.
+
+I was contacted after [a colleague of mine](http://www.thejoylin.com/) designed their new logo for a rebranding, and they needed it animated to show as an introduction for their videos.
 
 {{< video 1 >}}
 
-I was contacted after [a colleague of mine](http://www.thejoylin.com/) designed their new logo for a rebranding, and they needed it animated to show at the beginning of their videos.
-
-Their name means 'playing with light', so to capture that, I created playfully reflective and translucent glass, which strengthens and reaffirms their branding identity.
-
+Their name means 'playing with light', so to capture that I created playfully reflective and translucent glass, which follows and strengthens their branding identity.
 
 {{< image 1 >}}
 {{< image 2 >}}
 {{< image 3 >}}
 
-{{< vimeo 80160112 >}}
+{{< vimeo 80160112 "A video incorporating the animation" 530 >}}
