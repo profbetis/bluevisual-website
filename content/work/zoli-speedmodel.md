@@ -6,13 +6,16 @@ tools = ["3DS Max", "Octane Render"]
 title = "Zoli Speedmodel"
 
 +++
-A colleague of mine worked briefly at [Zoli](http://zoli-inc.com/) as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a medium-size photograph. We didn't have much time, so I needed to deliver something quickly and at high quality.
+A colleague of mine worked briefly at [Zoli](http://zoli-inc.com/) as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a low-res photograph. We didn't have much time, so I needed to deliver something quickly and high quality.
+
+The project gave me some great experience on efficient product modeling and rendering in a real-world scenario.
 
 ## 4 total working hours
-{{< image 1 "Final Render A" >}}
-{{< image 2 "Render A's solid wireframe" >}}
-{{< image 3 "Final Render B" >}}
-{{< image 4 "Render B's wireframe" >}}
-{{< image 5 "Render B's clay wireframe" >}}
+{{< image 2 "Final Render A" >}}
+{{< image 1 "Render A's solid wireframe" >}}
 
-The project gave me some good experience on quick product modeling and rendering in a real-world scenario.
+{{< image 5 "Final Render B" >}}
+{{< sbs >}}
+  {{< image 3 "Render B's wireframe" >}}
+  {{< image 4 "Render B's clay wireframe" >}}
+{{< /sbs >}}

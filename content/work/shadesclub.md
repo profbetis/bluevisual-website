@@ -5,7 +5,7 @@ tags = ["product", "animation", "modeling", "rigging"]
 title = "ShadesClub"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 active = true
-peak = true
+peak = false
 
 +++
 
@@ -13,7 +13,11 @@ peak = true
 
 The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.
 
-# Studio Renders
+## Animation
+Nothing to show yet, this is still in progress!
+
+## Product Family
+To show off the contents of each box, I needed to show
 {{< image 1 "Blue setup">}}
 {{< sbs >}}
   {{< image 2 "Beach setup">}}
