@@ -73,8 +73,8 @@
 &lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;
 
 &lt;div class=&#34;vimeo-container project-image&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/171832381?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;600&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
-  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A preview of it playing inside UDK&lt;/div&gt;&lt;/div&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/202700223?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A rift-view preview showing UI elements and a level being loaded&lt;/div&gt;&lt;/div&gt;
 
 
 &lt;p&gt;You are in a cabin gliding along rails through beautiful environments and places. There are hardly any controls, only some gaze-activated menus inside your cabin. This is to let the player not worry about navigating environments, getting stuck somewhere, or needing to interact with anything in the real world.&lt;/p&gt;
@@ -91,7 +91,13 @@
 
 &lt;h2 id=&#34;terminal-experience&#34;&gt;Terminal Experience&lt;/h2&gt;
 
-&lt;p&gt;This was the first conceptual level for Transit. I wanted large bridge-like structures passing overhead and wanted the feeling of being deep down in a concrete chasm. The first tests were fairly claustrophobic and gloomy, and as the concept progressed it became more open and sunny.
+&lt;p&gt;This was the first conceptual level for Transit. I wanted large bridge-like structures passing overhead and wanted the feeling of being deep down in a concrete chasm. The first tests were fairly claustrophobic and gloomy, and as the concept progressed it became more open and sunny.&lt;/p&gt;
+
+&lt;div class=&#34;vimeo-container project-image&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/171832381?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;600&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;A preview of it playing inside UDK&lt;/div&gt;&lt;/div&gt;
+
+
 &lt;div class=&#34;sbs&#34;&gt;
   
   &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -110,7 +116,7 @@
 
 
 &lt;/div&gt;
-&lt;/p&gt;
+
 
 &lt;h2 id=&#34;hills-experience&#34;&gt;Hills Experience&lt;/h2&gt;
 
