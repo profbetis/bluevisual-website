@@ -9,9 +9,9 @@ peak = false
 
 +++
 
-[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and its applications.
+[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.
 
-The project required me to create animations and composite graphics onto live footage for their technology demonstration videos well as the design, construction, and maintenance of [their website](http://www.wagooar.com/).
+The project required me to create animations and composite custom graphics onto live footage for their technology demonstration videos as well as the design, construction, and maintenance of [their website](http://www.wagooar.com/).
 
 {{< video 1 >}}
 
@@ -20,7 +20,7 @@ The project required me to create animations and composite graphics onto live fo
 # Tech Demonstration Video
 One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.
 
-The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn't be complete without the semblance of the glasses that the UI would be seen through.
+The scenes required both 2D motion tracking and 3D camera tracking, depending on the type of motion. After the shots are tracked, the interface graphics are designed, animated, and composited onto the scene, along with a mockup glasses frame around the edge.
 
 {{< youtube "fBi60iw7wg4" >}}
 
