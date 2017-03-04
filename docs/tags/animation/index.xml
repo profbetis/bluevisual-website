@@ -17,9 +17,9 @@
       <guid>http://bluevisual.tv/work/wagooar/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. To propose their concepts  to potential investors, they needed a website and a video showcasing their technology and it&amp;rsquo;s applications.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.&lt;/p&gt;
 
-&lt;p&gt;The project required me to create animations and composite graphics onto live footage for their crowdfunding pitch video as well as the design, construction, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The project required me to create animations and composite custom graphics onto live footage for their technology demonstration videos as well as the design, construction, and maintenance of &lt;a href=&#34;http://www.wagooar.com/&#34;&gt;their website&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
@@ -31,11 +31,11 @@
 &lt;/div&gt;
 
 
-&lt;h1 id=&#34;crowd-funding-video&#34;&gt;Crowd-funding Video&lt;/h1&gt;
+&lt;h1 id=&#34;tech-demonstration-video&#34;&gt;Tech Demonstration Video&lt;/h1&gt;
 
 &lt;p&gt;One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.&lt;/p&gt;
 
-&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking. After the shots are tracked, the UI for the scene is designed, animated, and composited into the scene. And of course, the look wouldn&amp;rsquo;t be complete without the semblance of the glasses that the UI would be seen through.&lt;/p&gt;
+&lt;p&gt;The scenes required both 2D motion tracking and 3D camera tracking, depending on the type of motion. After the shots are tracked, the interface graphics are designed, animated, and composited onto the scene, along with a mockup glasses frame around the edge.&lt;/p&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
