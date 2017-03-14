@@ -6,13 +6,13 @@ peak = false
 tags = ["product", "modeling", "rendering"]
 title = "Lull"
 tools = ["3DS Max", "Octane Render", "Affinity Photo", "Filter Forge"]
-
+sections = ["Composites", "Mattress Graphics", "Box Construction"]
 +++
 
-[Lull](http://www.lull.com/) is an online mattress supplier that needed original as well as updated graphics for their Jungle Box promotional event. They were originally looking to hire a photographer and send the product directly to them, but were open to a 3D approach that would be more cost-effective and provide more flexibility and control over the style and outcome. In the time it would have taken to ship the mattress, test renders were already being sent and refinements were being made.
+[Lull](http://www.lull.com/) is an online mattress supplier that needed original as well as updated graphics for their Jungle Box promotional event.<!--more--> They were originally looking to hire a photographer and send the product directly to them, but were open to a 3D approach that would be more cost-effective and provide more flexibility and control over the style and outcome. In the time it would have taken to ship the mattress, test renders were already being sent and refinements were being made.
 
 # Composites
-Some scenes required the box to be updated with their current branding. I created an extremely rough remake of the bedroom in order to match the lighting of the photograph, and then matched the camera and placed the box model in the scene.
+Some scenes required the box to be updated with their current branding. An extremely rough reconstruction of the bedroom was made in order to match the lighting of the photograph, and then the camera was matched, and finall y placing the box model into the scene.
 
 ## Bedroom Box Composite
 This was a photograph they already had but the box needed to be updated with their promotional graphics.
@@ -45,7 +45,7 @@ In this scene there was no real box for reference, unlike the Bedroom Box Compos
 
 # Mattress Graphics
 
-To begin the modeling process, a simple cube shape with proportions the same as a queen-sized mattress was created. Next, a large chamfer to the edges to give a rounded appearance, and then lots of relaxation was applied in order to give it a much more natural shape. Finally, a subtle 3D noise to introduce some imperfection and natural warping.
+To begin the modeling process, a simple cube shape with proportions the same as a queen-sized mattress was created. Next, a wide chamfer to the edges to give a rounded appearance, and then lots of relaxation was applied in order to give it a much more natural shape. Finally, a subtle 3D noise to introduce some imperfection and natural warping.
 
 {{< image 11 >}}
 
@@ -66,6 +66,6 @@ For these graphics, the mattress model was procedurally sliced to show the vario
 # Box Construction
 The box is modeled with real-world manufacturing in mind by taking the raw box graphics and dimensions, and folding them along the same lines that the machines do.
 
-{{< image 15 "The box at various construction stages" >}}
+First, the box is cut out from the graphic template and the template is applied to help guide during the process. The cutout is then extruded for thickness and given textures for the inside, outside, and even the edges. Next, the top and bottom flaps are folded. After that, the sides fold in to complete the box
 
-First, the box is cut out from the graphic template and the template is applied to help guide during the process. This cutout is then extruded for thickness and given textures for the inside, outside, and even the edges. Next, the top and bottom flaps are folded. After that, the sides fold in to complete the box
+{{< image 15 "The box at various construction stages" >}}
