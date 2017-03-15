@@ -3,7 +3,7 @@ date = "2016-05-01T04:05:01-04:00"
 tags = ["architecture", "concept", "study"]
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
 title = "Hexcabin"
-
+sections = ["Overview", "Top Floor", "Middle Floor", "Ground Floor", "Old Designs"]
 +++
 
 For a while now I've had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).

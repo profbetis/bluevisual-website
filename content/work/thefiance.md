@@ -4,7 +4,7 @@ title = "The Fiancé"
 date = "2015-09-01T21:05:29-04:00"
 tags = ["vfx", "compositing", "film"]
 tools = ["Adobe After Effects"]
-
+sections = ["Projector Scene", "Iris Enhancements", "General Compositing"]
 +++
 
 Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.
@@ -25,7 +25,7 @@ One of the more creative problem-solving and fun scenes to do was adding a proje
 {{< image 7 "Final composited frame from a further angle back" >}}
 
 
-# Glowing Eyes
+# Iris Enhancements
 A majority of the shots were placing glowing eyes on various characters via motion tracking.
 
 {{< image 2 "Glowing eyes on the main character" >}}

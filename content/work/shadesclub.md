@@ -6,6 +6,7 @@ title = "ShadesClub"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 active = true
 peak = false
+sections = ["Animation", "Product Family", "Subscription Pack Renders", "Graphics"]
 +++
 
 [ShadesClub](http://www.shadesclub.com/) needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.<!--more-->

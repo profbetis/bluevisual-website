@@ -19,7 +19,6 @@ Because the video had already been filmed, some of the actor's interactions were
 {{< image 2 "Reconstructed and fully animatable Windows 8 interface">}}
 {{< image 3 "More compositing. There's a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited">}}
 {{< image 5 "Reconstructed Windows 8 Outlook application. Also dynamic and animatable">}}
-</div>
 
 Below are the videos it was used in.
 
