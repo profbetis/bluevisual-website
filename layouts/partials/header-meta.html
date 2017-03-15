@@ -10,19 +10,41 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <!-- METADATA -->
-    <meta name="description" content="Los Angeles based 3D visualization."/>
-    <meta name="robots" content="noodp"/>
-    <link rel="canonical" href="http://bluevisual.tv/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Blue Visual" />
-    <meta property="og:description" content="Los Angeles based 3D visualization." />
-    <meta property="og:url" content="http://bluevisual.tv/" />
     <meta property="og:site_name" content="Blue Visual" />
-    <meta property="og:image" content="/images/meta/kev-01.jpg" />
-    <!--  -->
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
 
-    <title>Blue Visual</title>
+    {{ if .IsHome }}
+      <title>Blue Visual</title>
+      <meta property="og:title" content="Blue Visual About" />
+      <meta name="description" content="Los Angeles based 3D visualization."/>
+      <meta property="og:description" content="Los Angeles based 3D visualization." />
+      <link rel="canonical" href="http://bluevisual.tv/" />
+      <meta property="og:url" content="http://bluevisual.tv/" />
+      <meta property="og:image" content="{{ .Site.BaseURL }}/images/meta/bv-logo-02-tile.png" />
+
+    {{ else if .IsPage }}
+
+      <title>Blue Visual - {{ .Title }}</title>
+      <meta property="og:title" content="Blue Visual - {{ .Title }}" />
+      <meta name="description" content="{{ .Summary }}"/>
+      <meta property="og:description" content="{{ .Summary }}" />
+      <link rel="canonical" href="{{ .Permalink }}" />
+      <meta property="og:url" content="{{ .Permalink }}" />
+      <meta property="og:image" content="{{ .Site.BaseURL }}/images/{{ .BaseFileName }}-thumb.jpg" />
+
+    {{ else }}
+      <title>Blue Visual - {{ .Title }} Projects</title>
+      <meta property="og:title" content="Blue Visual - {{ .Title }} Projects" />
+      <meta name="description" content="A list of projects that involved {{ .Title | lower }}."/>
+      <meta property="og:description" content="A list of projects that involved {{ .Title | lower }}." />
+      <link rel="canonical" href="{{ .Permalink }}" />
+      <meta property="og:url" content="{{ .Permalink }}" />
+      <meta property="og:image" content="{{ .Site.BaseURL }}/images/meta/bv-logo-02-tile.png" />
+
+    {{ end }}
+    <!--  -->
   </head>
 
   <body>
