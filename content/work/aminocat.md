@@ -7,7 +7,7 @@ title = "AminoCat"
 
 +++
 
-For this project, [AminoCat Entertainment](https://www.facebook.com/AminoCat-Entertainment-135792499865038/) needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.
+For this project, [AminoCat Entertainment](https://www.facebook.com/AminoCat-Entertainment-135792499865038/) needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.<!--more-->
 
 {{< video 1 >}}
 

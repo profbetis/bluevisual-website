@@ -6,7 +6,7 @@ tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Adobe Photoshop"]
 title = "Me + Her"
 sections = ["Overview", "Tests", "Wireframes"]
 +++
-The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected "reunites" with her.
+The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected "reunites" with her.<!--more-->
 
 {{< video 1 >}}
 

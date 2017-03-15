@@ -7,7 +7,7 @@ title = "Bell Flythroughs"
 sections = ["Alpine Scene", "Canyon Scene", "City Scene"]
 +++
 
-This project was for the live unveiling of a new helicopter from [Bell Helicopter](http://www.bellhelicopter.com/). I wasn't hired by Bell directly, I worked with [Steam](http://www.steamshow.com/), a Santa Monica based visual production studio.
+This project was for the live unveiling of a new helicopter from [Bell Helicopter](http://www.bellhelicopter.com/). I wasn't hired by Bell directly, I worked with [Steam](http://www.steamshow.com/), a Santa Monica based visual production studio.<!--more-->
 
 {{< video 1 >}}
 

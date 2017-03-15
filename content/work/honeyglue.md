@@ -7,7 +7,7 @@ title = "Honeyglue"
 sections = ["Post-Production", "Modeling & Rigging", "Story Book"]
 +++
 
-[Zombot Pictures](http://zombotpictures.com) hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.
+[Zombot Pictures](http://zombotpictures.com) hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.<!--more-->
 
 For the 3D aspects, I used Luxology's Modo 701. It was my first project where I had built my own character, discovering the complexities, frustrations, and satisfaction of building and rigging a character from scratch. While its role was not huge, realism was a top priority. I studied motions and visuals of honeybees from videos across the web (and when I encountered them in real life)
 

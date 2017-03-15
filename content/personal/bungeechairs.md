@@ -6,7 +6,7 @@ title = "Bungee Chair Models"
 sections = ["Details", "Assets"]
 +++
 
-When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.
+When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.<!--more-->
 
 You can find the products online at: Turbosquid ([Black Chair](http://www.turbosquid.com/3d-models/bungee-chair-3d-obj/1048205) / [Orange Chair](http://www.turbosquid.com/3d-models/3d-bungee-chair/1048195)) and 3D Export ([Black Chair](https://3dexport.com/3dmodel-bungee-chair-2-123069.htm) / [Orange Chair](https://3dexport.com/3dmodel-bungee-chair-1-123068.htm)).
 

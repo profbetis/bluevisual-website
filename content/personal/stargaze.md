@@ -6,7 +6,7 @@ title = "Stargaze"
 
 +++
 
-Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.
+Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.<!--more-->
 
 {{< image 1 >}}
 {{< image 2 >}}

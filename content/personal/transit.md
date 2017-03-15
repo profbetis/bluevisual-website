@@ -8,7 +8,7 @@ peak = false
 sections = ["Overview", "Experiences"]
 +++
 
-Transit (as it's currently called) is a project that's been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you're in, it's just a concept about experiencing beautiful places and things.
+Transit (as it's currently called) is a project that's been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you're in, it's just a concept about experiencing beautiful places and things.<!--more-->
 
 {{< vimeo 202700223 "A rift-view preview showing UI elements and a level being loaded" 540 >}}
 

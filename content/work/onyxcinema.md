@@ -9,7 +9,7 @@ sections = ["2015 Revision"]
 
 ## Revisited April 2015
 
-[Onyx Cinema](http://www.onyxcinema.com/) is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired [a colleague of mine](http://www.thejoylin.com/) to design the logo, and she directed them to me to animate it.
+[Onyx Cinema](http://www.onyxcinema.com/) is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired [a colleague of mine](http://www.thejoylin.com/) to design the logo, and she directed them to me to animate it.<!--more-->
 
 {{< video 1 >}}
 

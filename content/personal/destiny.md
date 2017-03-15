@@ -8,7 +8,7 @@ peak = false
 
 +++
 
-Destiny is a project about rails. A journey, and a destination.
+Destiny is a project about rails. A journey, and a destination.<!--more-->
 
 One of my early forrays into physics simulations and modeling; I originally wanted to follow a ball along its journey through a contraption. The idea grew from here into more of an abstract one where it's mostly just a journey... sort of like the 'On Top of Spaghetti' poem.
 

@@ -6,7 +6,7 @@ title = "Dust"
 
 +++
 
-I've always loved the concept of entropy, decay, chaos, destruction... but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.
+I've always loved the concept of entropy, decay, chaos, destruction... but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.<!--more-->
 
 {{< video 1 >}}
 

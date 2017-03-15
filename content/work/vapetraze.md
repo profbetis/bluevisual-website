@@ -7,7 +7,7 @@ tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Filter Forge"]
 
 +++
 
-Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.
+Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.<!--more-->
 
 {{< video 1 >}}
 
