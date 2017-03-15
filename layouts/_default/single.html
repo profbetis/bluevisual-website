@@ -7,11 +7,21 @@
 
   {{ partial "project-header" . }}
 
-  <div class="content">
+  {{ if .Params.active }}
+    <p class="note">Note: This project is currently active, things are still being added and improved!</p>
+  {{ end }}
 
-    {{ if .Params.active }}
-      <p class="note">Note: This project is currently active, things are still being added and improved!</p>
-    {{ end }}
+  {{ if .Params.sections }}
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      {{ range $index, $el := .Params.sections }}
+        {{ if ne $index 0 }}<span class="separator"> / </span>{{ end }}
+        <h3><a href="#{{ . | urlize }}">{{.}}</a></h3>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <div class="content">
 
     {{ if .Params.peak }}
       <p>{{ .Summary }}</p>
@@ -32,6 +42,7 @@
         </a>
       </span>
     </div>
+
   </div>
 
   {{ partial "return-bottom" . }}

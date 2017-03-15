@@ -1024,6 +1024,45 @@ input:not(:checked) + div.lightbox{
   display: block;
 }
 
+.proj-toc{
+  /*background: #282828;*/
+  top: 0;
+  right: 0;
+  text-align: center;
+  width: 100%;
+}
+
+.proj-toc h2{
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #808080;
+}
+
+.proj-toc h3{
+  margin: 0;
+  display: inline;
+}
+
+.proj-toc a{
+  display: inline-block;
+  font-size: 1.0rem;
+  padding: 0.25em 0.5em;
+  margin: 0.25em 0.75em 0em 0.75em;
+  /*background: #282828;*/
+  color: #c0c0c0;
+  transition: 0.3s all ease;
+}
+
+.proj-toc a:hover{
+  /*background: #181818;*/
+  color: #fff;
+  transition: 0.3s all ease;
+}
+
+.proj-toc .separator{
+  color: #606060;
+}
+
 #return{
   font-size: 15px;
   position: fixed;
