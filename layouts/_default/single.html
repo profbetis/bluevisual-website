@@ -7,10 +7,6 @@
 
   {{ partial "project-header" . }}
 
-  {{ if .Params.active }}
-    <p class="note">Note: This project is currently active, things are still being added and improved!</p>
-  {{ end }}
-
   {{ if .Params.sections }}
     <div class="proj-toc">
       <h2>Project Sections</h2>
@@ -22,6 +18,10 @@
   {{ end }}
 
   <div class="content">
+
+    {{ if .Params.active }}
+      <p class="note">Note: This project is currently active, things are still being added and improved!</p>
+    {{ end }}
 
     {{ if .Params.peak }}
       <p>{{ .Summary }}</p>
