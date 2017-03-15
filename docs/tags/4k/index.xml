@@ -187,7 +187,7 @@
 
 &lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
 
-&lt;h2 id=&#34;alpine-scene&#34;&gt;Alpine Scene&lt;/h2&gt;
+&lt;h1 id=&#34;alpine-scene&#34;&gt;Alpine Scene&lt;/h1&gt;
 
 &lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -205,7 +205,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;canyon-scene&#34;&gt;Canyon Scene&lt;/h2&gt;
+&lt;h1 id=&#34;canyon-scene&#34;&gt;Canyon Scene&lt;/h1&gt;
 
 &lt;p&gt;The canyon&amp;rsquo;s textures are actually heavily modified, as the ones that came with the model were green and luscious, so I adjusted them to have that classic red-rock look that many deserts and canyons have.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -223,7 +223,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;city-scene&#34;&gt;City Scene&lt;/h2&gt;
+&lt;h1 id=&#34;city-scene&#34;&gt;City Scene&lt;/h1&gt;
 
 &lt;p&gt;The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. The hero buildings were purchased and places in important parts of the scene and were given special attention to detail.&lt;/p&gt;
 

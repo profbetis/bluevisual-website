@@ -263,11 +263,11 @@
 
 &lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
 
-&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
+&lt;h1 id=&#34;animation&#34;&gt;Animation&lt;/h1&gt;
 
 &lt;p&gt;Nothing to show yet, this is still in progress!&lt;/p&gt;
 
-&lt;h2 id=&#34;product-family&#34;&gt;Product Family&lt;/h2&gt;
+&lt;h1 id=&#34;product-family&#34;&gt;Product Family&lt;/h1&gt;
 
 &lt;p&gt;To show off the contents of each box, I needed to model and texture each item, then set them up in a studio environment. The studio was pretty simple, but I had to make sure the light source had an interesting look because of the reflections in the glasses.&lt;/p&gt;
 
@@ -298,7 +298,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;subscription-packs&#34;&gt;Subscription Packs&lt;/h2&gt;
+&lt;h1 id=&#34;subscription-pack-renders&#34;&gt;Subscription Pack Renders&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/div&gt;
@@ -324,6 +324,17 @@
 &lt;/div&gt;
 
 
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
+
+&lt;p&gt;Some graphics were needed for various purposes, across the website, in internal documents, and for marketing purposes.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Seamless vector graphic variations&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Seamless vector graphic variations&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>
@@ -371,7 +382,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+&lt;h2 id=&#34;assets&#34;&gt;Assets&lt;/h2&gt;
 
 &lt;p&gt;Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.&lt;/p&gt;
 
@@ -609,7 +620,7 @@
 
 &lt;p&gt;This project was the first one that I worked on that was used as a room-sized projection! I rendered at 8000x1080 for a super wide-angle camera. In fact, it was so wide angle that I had to use a special cylindrical projection camera to grab the 270° field of view.&lt;/p&gt;
 
-&lt;h2 id=&#34;alpine-scene&#34;&gt;Alpine Scene&lt;/h2&gt;
+&lt;h1 id=&#34;alpine-scene&#34;&gt;Alpine Scene&lt;/h1&gt;
 
 &lt;p&gt;The 3D terrains here were purchased and then tweaked specifically for our needs. I also made custom water and atmosphere shaders to really bring out the depth and nature of the scenes.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -627,7 +638,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;canyon-scene&#34;&gt;Canyon Scene&lt;/h2&gt;
+&lt;h1 id=&#34;canyon-scene&#34;&gt;Canyon Scene&lt;/h1&gt;
 
 &lt;p&gt;The canyon&amp;rsquo;s textures are actually heavily modified, as the ones that came with the model were green and luscious, so I adjusted them to have that classic red-rock look that many deserts and canyons have.
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
@@ -645,7 +656,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;city-scene&#34;&gt;City Scene&lt;/h2&gt;
+&lt;h1 id=&#34;city-scene&#34;&gt;City Scene&lt;/h1&gt;
 
 &lt;p&gt;The city scene was a bit different. I ended up using motionless particles to create a huge spawling array of buildings with various properties. The hero buildings were purchased and places in important parts of the scene and were given special attention to detail.&lt;/p&gt;
 
@@ -677,8 +688,6 @@
 
 &lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;
 
-&lt;p&gt;I was hired to create their town in 3D and match a real camera move for the final scene in the movie. The city was massive and was very taxing on my machine to edit and render. Another team member handled the compositing.&lt;/p&gt;
-
 &lt;div class=&#34;project-image&#34;&gt;
   &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
     
@@ -688,6 +697,10 @@
   
 &lt;/div&gt;
 
+
+&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;I was hired to create their town in 3D and match a real camera move for the final scene in the movie. The city was massive and was very taxing on my machine to edit and render. Another team member handled the compositing.&lt;/p&gt;
 
 &lt;p&gt;The film is a live-action movie that used puppets and a small-scale set (the cardboard houses were about 4 feet high). They only had about 12 houses because of the limited space they had to work in and the incredible work it takes to make each house. The problem was that for the final end shot they wanted a picture of the whole implied town that the story takes place in.&lt;/p&gt;
 

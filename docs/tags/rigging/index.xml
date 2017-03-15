@@ -21,11 +21,11 @@
 
 &lt;p&gt;The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.&lt;/p&gt;
 
-&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
+&lt;h1 id=&#34;animation&#34;&gt;Animation&lt;/h1&gt;
 
 &lt;p&gt;Nothing to show yet, this is still in progress!&lt;/p&gt;
 
-&lt;h2 id=&#34;product-family&#34;&gt;Product Family&lt;/h2&gt;
+&lt;h1 id=&#34;product-family&#34;&gt;Product Family&lt;/h1&gt;
 
 &lt;p&gt;To show off the contents of each box, I needed to model and texture each item, then set them up in a studio environment. The studio was pretty simple, but I had to make sure the light source had an interesting look because of the reflections in the glasses.&lt;/p&gt;
 
@@ -56,7 +56,7 @@
 &lt;/div&gt;
 &lt;/p&gt;
 
-&lt;h2 id=&#34;subscription-packs&#34;&gt;Subscription Packs&lt;/h2&gt;
+&lt;h1 id=&#34;subscription-pack-renders&#34;&gt;Subscription Pack Renders&lt;/h1&gt;
 
 &lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
   &lt;label for=&#34;lightbox-toggle4&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-04.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;12 Months&lt;/div&gt;&lt;/div&gt;
@@ -82,6 +82,17 @@
 &lt;/div&gt;
 
 
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
+
+&lt;p&gt;Some graphics were needed for various purposes, across the website, in internal documents, and for marketing purposes.
+&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-09.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Seamless vector graphic variations&lt;/div&gt;&lt;/div&gt;
+&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle9&#34; id=&#34;lightbox-toggle9&#34; /&gt;
+&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
+  &lt;label for=&#34;lightbox-toggle9&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/shadesclub-09.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Seamless vector graphic variations&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 &lt;/p&gt;
 </description>

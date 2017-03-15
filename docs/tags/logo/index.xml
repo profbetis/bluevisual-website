@@ -137,7 +137,7 @@
 &lt;/div&gt;
 
 
-&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+&lt;h2 id=&#34;assets&#34;&gt;Assets&lt;/h2&gt;
 
 &lt;p&gt;Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.&lt;/p&gt;
 
