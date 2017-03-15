@@ -18,7 +18,7 @@ Initially the overall feel and art-style was open and undefined, but after tryin
 {{< image 1 >}}
 {{< /sbs >}}
 
-## Miscellaneous
+## Assets
 Luckily in one of my personal projects, I made a procedural circuit generator, which sped up a lot of the asset creation time. I was able to randomize and generate circuits over and over with ease until I got just the one I wanted.
 
 {{< image 3 >}}

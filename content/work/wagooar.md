@@ -6,7 +6,7 @@ title = "WagooAR"
 tools = ["Adobe After Effects", "3DS Max", "Octane Render", "Squarespace"]
 active = true
 peak = false
-
+sections = ["Tech Demonstration Video", "Website"]
 +++
 
 [WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.

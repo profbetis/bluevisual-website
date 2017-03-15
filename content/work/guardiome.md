@@ -6,7 +6,7 @@ title = "Guardiome"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop", "Adobe Illustrator", "Squarespace"]
 active = false
 peak = false
-
+sections = ["Product Renders", "Graphics", "Website", "Branding"]
 +++
 
 [Guardiome](http://www.guardiome.com) is a bioinformatics startup from San Diego. They provide completely privitized genomic analysis from inside your home. They came to me looking for a complete branding package from the ground up, including their website and all the necessary visuals to fill it out.<!--more-->

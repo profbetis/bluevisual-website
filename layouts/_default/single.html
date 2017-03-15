@@ -7,6 +7,16 @@
 
   {{ partial "project-header" . }}
 
+  {{ if .Params.sections }}
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      {{ range $index, $el := .Params.sections }}
+        {{ if ne $index 0 }}<span class="separator"> / </span>{{ end }}
+        <h3><a href="#{{ . | urlize }}">{{.}}</a></h3>
+      {{ end }}
+    </div>
+  {{ end }}
+
   <div class="content">
 
     {{ if .Params.active }}
@@ -32,6 +42,7 @@
         </a>
       </span>
     </div>
+
   </div>
 
   {{ partial "return-bottom" . }}
