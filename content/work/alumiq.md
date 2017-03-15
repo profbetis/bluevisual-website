@@ -7,7 +7,7 @@ title = "Alumiq"
 
 +++
 
-[Alumiq](http://alumiq.com/) *(pronounced 'uh-loo-mik')* is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day's events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.
+[Alumiq](http://alumiq.com/) *(pronounced 'uh-loo-mik')* is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day's events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.<!--more-->
 
 I was contacted after [a colleague of mine](http://www.thejoylin.com/) designed their new logo for a rebranding, and they needed it animated to show as an introduction for their videos.
 

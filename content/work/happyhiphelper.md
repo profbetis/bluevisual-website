@@ -9,7 +9,7 @@ peak = true
 
 +++
 
-The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.
+The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.<!--more-->
 
 For this project there needed to be a demonstrative figure in various poses with and without the product showing different exercises. These renders are then used on a poster that comes with the product.
 
@@ -17,8 +17,6 @@ For this project there needed to be a demonstrative figure in various poses with
 {{< image 1 "A supine hip abduction stretch" >}}
 {{< image 2 "The 'How to walk' pose">}}
 {{< /sbs >}}
-
-<!--more-->
 
 {{< image 3 "">}}
 

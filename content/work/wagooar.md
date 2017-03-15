@@ -9,13 +9,11 @@ peak = false
 sections = ["Tech Demonstration Video", "Website"]
 +++
 
-[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.
+[WagooAR](http://www.wagooar.com/) is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.<!--more-->
 
 The project required me to create animations and composite custom graphics onto live footage for their technology demonstration videos as well as the design, construction, and maintenance of [their website](http://www.wagooar.com/).
 
 {{< video 1 >}}
-
-<!--more-->
 
 # Tech Demonstration Video
 One of the main aspects of the project was to take live footage of various hypothetical scenarios and overlay a mockup of glasses and the UI as if the viewer was using the product.

@@ -7,7 +7,7 @@ tools = ["Adobe After Effects"]
 sections = ["Projector Scene", "Iris Enhancements", "General Compositing"]
 +++
 
-Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.
+Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.<!--more-->
 
 {{< video 1 >}}
 

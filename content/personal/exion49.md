@@ -6,7 +6,7 @@ title = "Exion49 Model"
 
 +++
 
-This project's goal was to recreate [M-Audio's Axiom49](http://www.m-audio.com/products/view/axiom-49). During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.
+This project's goal was to recreate [M-Audio's Axiom49](http://www.m-audio.com/products/view/axiom-49). During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.<!--more-->
 
 {{< image 1 >}}
 

@@ -6,7 +6,7 @@ title = "Hypercube"
 
 +++
 
-Inspired by [a project](http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/) someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.
+Inspired by [a project](http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/) someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.<!--more-->
 
 
 {{< image 1 >}}

@@ -7,7 +7,7 @@ tools = ["3DS Max", "Octane Render", "Neat Video Denoiser"]
 
 +++
 
-[Space360](http://www.space3sixty.com/) asked me to create a logo animation for a new logo they designed for their client [Choice](http://www.choicetool.com/) as part of their marketing package.
+[Space360](http://www.space3sixty.com/) asked me to create a logo animation for a new logo they designed for their client [Choice](http://www.choicetool.com/) as part of their marketing package.<!--more-->
 
 {{< video 1 "The full logo animation">}}
 

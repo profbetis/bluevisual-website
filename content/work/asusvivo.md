@@ -7,7 +7,7 @@ tools = ["Adobe After Effects"]
 
 +++
 
-For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.
+For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.<!--more-->
 
 {{< video 1 >}}
 

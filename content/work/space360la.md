@@ -7,7 +7,7 @@ tools = ["3DS Max", "Octane Render", "Filter Forge"]
 
 +++
 
-[Space360](http://www.space3sixty.com/) asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.
+[Space360](http://www.space3sixty.com/) asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.<!--more-->
 
 {{< video 1 >}}
 
