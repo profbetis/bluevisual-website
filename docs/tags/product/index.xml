@@ -568,7 +568,7 @@
       <guid>http://bluevisual.tv/work/guardiome/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a bioinformatics startup from San Diego. They provide completely privitized genomic analysis from inside your home. They came to me looking for a complete branding package from the ground up, including their website and all the necessary visuals to fill it out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more. I am now the Chief Creative Officer at Guardiome.&lt;/p&gt;
 
 &lt;h1 id=&#34;product-renders&#34;&gt;Product Renders&lt;/h1&gt;
 
@@ -668,7 +668,7 @@
 
 &lt;h1 id=&#34;website&#34;&gt;Website&lt;/h1&gt;
 
-&lt;p&gt;The website was built in Squarespace with lots of custom CSS to really dial in the elegant look the client wanted to convey. This proved to be fairly challenging, as with Squarespace, you&amp;rsquo;re unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.&lt;/p&gt;
+&lt;p&gt;The website was built in Squarespace with lots of custom CSS to really dial in the elegant look we wanted to convey. This proved to be fairly challenging, as with Squarespace, you&amp;rsquo;re unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.&lt;/p&gt;
 
 &lt;div class=&#34;iframe-container project-image&#34;&gt;
   &lt;div class=&#34;announcement&#34;&gt;This is an interactive element!&lt;/div&gt;
@@ -679,21 +679,13 @@
 
 &lt;h1 id=&#34;branding&#34;&gt;Branding&lt;/h1&gt;
 
-&lt;p&gt;The branding included colors, two font faces for all documents, and a few different logo variations for use in different contexts.&lt;/p&gt;
+&lt;p&gt;The branding included colors, font faces, printed documents, and a few different logo variations for use in different contexts.&lt;/p&gt;
 
 &lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Logo variations, graphics incorporating them, and the chosen brand colors&lt;/div&gt;&lt;/div&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Compact style guide&lt;/div&gt;&lt;/div&gt;
 &lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle11&#34; id=&#34;lightbox-toggle11&#34; /&gt;
 &lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Logo variations, graphics incorporating them, and the chosen brand colors&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-12.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Square business card design&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle12&#34; id=&#34;lightbox-toggle12&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle12&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-12.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Square business card design&lt;/div&gt;&lt;/label&gt;
+  &lt;label for=&#34;lightbox-toggle11&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/guardiome-11.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Compact style guide&lt;/div&gt;&lt;/label&gt;
 &lt;/div&gt;
 
 </description>
