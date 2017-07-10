@@ -9,7 +9,7 @@ peak = false
 sections = ["Product Renders", "Graphics", "Website", "Branding"]
 +++
 
-[Guardiome](http://www.guardiome.com) is a bioinformatics startup from San Diego. They provide completely privitized genomic analysis from inside your home. They came to me looking for a complete branding package from the ground up, including their website and all the necessary visuals to fill it out.<!--more-->
+[Guardiome](http://www.guardiome.com) is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more.<!--more--> I am now the Chief Creative Officer at Guardiome.
 
 # Product Renders
 
@@ -43,7 +43,7 @@ Some of the graphics were hero shots, while others were more background elements
 
 # Website
 
-The website was built in Squarespace with lots of custom CSS to really dial in the elegant look the client wanted to convey. This proved to be fairly challenging, as with Squarespace, you're unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.
+The website was built in Squarespace with lots of custom CSS to really dial in the elegant look we wanted to convey. This proved to be fairly challenging, as with Squarespace, you're unable to change how the HTML is generated, so almost everything you need to do has to be purely a CSS modification.
 
 {{< iframe "http://www.guardiome.com/" >}}
 
@@ -51,8 +51,6 @@ You can also visit the website directly at [Guardiome.com](http://www.Guardiome.
 
 # Branding
 
-The branding included colors, two font faces for all documents, and a few different logo variations for use in different contexts.
+The branding included colors, font faces, printed documents, and a few different logo variations for use in different contexts.
 
-{{< image 11 "Logo variations, graphics incorporating them, and the chosen brand colors" >}}
-
-{{< image 12 "Square business card design" >}}
+{{< image 11 "Compact style guide" >}}
