@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reels on Blue Visual v03</title>
+    <title>reel on Blue Visual v03</title>
     <link>http://bluevisual.tv/reel/</link>
-    <description>Recent content in Reels on Blue Visual v03</description>
+    <description>Recent content in reel on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jan 2017 14:44:43 -0800</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/reel/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>reel</title>
-      <link>http://bluevisual.tv/reel/_index/</link>
-      <pubDate>Sat, 28 Jan 2017 14:44:43 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/reel/_index/</guid>
-      <description></description>
-    </item>
+	<atom:link href="http://bluevisual.tv/reel/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>

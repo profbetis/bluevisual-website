@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2013 01:28:42 -0500</lastBuildDate>
-    <atom:link href="http://bluevisual.tv/tags/graphic-design/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://bluevisual.tv/tags/graphic-design/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Asus Vivobook</title>
@@ -15,69 +17,7 @@
       <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
       
       <guid>http://bluevisual.tv/work/asusvivo/</guid>
-      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;
-
-&lt;div class=&#34;project-image&#34;&gt;
-  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;
-    
-      &lt;source src=&#34;http://bluevisual.tv/videos/asusvivo-video-01.mp4&#34; /&gt;
-    
-  &lt;/video&gt;
-  
-&lt;/div&gt;
-
-
-&lt;p&gt;ASUS sent our studio a sample of the product to use during the project. I used this to see how apps looked and how the interface was interacted with. Certain elements have subtle eases on movements as they enter or exit the frame, or how switching applications looks.&lt;/p&gt;
-
-&lt;p&gt;Because the video had already been filmed, some of the actor&amp;rsquo;s interactions were not quite right, and I had to adjust the interface to be different than the real Windows 8 so that it matched their motions.&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-01.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle1&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle1&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-01.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Composited screen&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-02.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle2&#34; id=&#34;lightbox-toggle2&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle2&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-02.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed and fully animatable Windows 8 interface&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-03.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle3&#34; id=&#34;lightbox-toggle3&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle3&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-03.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;More compositing. There&amp;#39;s a very slight glow on the tip of the finger that makes it TONS more believable. Without it the finger looks dark and poorly composited&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-05.jpg&#34;&gt;&lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/div&gt;
-&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle5&#34; /&gt;
-&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;
-  &lt;label for=&#34;lightbox-toggle5&#34;&gt;&lt;img src=&#34;http://bluevisual.tv/images/asusvivo-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;Reconstructed Windows 8 Outlook application. Also dynamic and animatable&lt;/div&gt;&lt;/label&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Below are the videos it was used in.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/5qc3I58iaSM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;div class=&#34;caption&#34;&gt;Mother&amp;#39;s Day Video&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/nC9TLqblUBs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;div class=&#34;caption&#34;&gt;Father&amp;#39;s Day Video&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
     </item>
     
   </channel>

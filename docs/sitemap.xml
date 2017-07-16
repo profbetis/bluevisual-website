@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://bluevisual.tv/</loc>
-    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://bluevisual.tv/work/lull/</loc>
@@ -17,7 +13,7 @@
   </url>
   
   <url>
-    <loc>http://bluevisual.tv/reel/_index/</loc>
+    <loc>http://bluevisual.tv/reel/</loc>
     <lastmod>2017-01-28T14:44:43-08:00</lastmod>
   </url>
   
@@ -169,6 +165,173 @@
   <url>
     <loc>http://bluevisual.tv/personal/pyramidfractal/</loc>
     <lastmod>2013-01-02T10:38:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/4k/</loc>
+    <lastmod>2016-10-12T00:53:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/animation/</loc>
+    <lastmod>2016-12-12T09:30:44-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/architecture/</loc>
+    <lastmod>2016-10-02T04:32:11-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/art/</loc>
+    <lastmod>2016-09-01T18:24:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/</loc>
+    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/branding/</loc>
+    <lastmod>2016-07-03T14:10:06-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/compositing/</loc>
+    <lastmod>2015-09-01T21:05:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/concept/</loc>
+    <lastmod>2016-09-01T18:24:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/design/</loc>
+    <lastmod>2017-02-02T14:09:57-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/exercise/</loc>
+    <lastmod>2016-06-02T10:36:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/film/</loc>
+    <lastmod>2015-09-01T21:05:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/graphic-design/</loc>
+    <lastmod>2013-04-12T01:28:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/logo/</loc>
+    <lastmod>2016-10-12T00:53:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/modeling/</loc>
+    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/personal/</loc>
+    <lastmod>2016-10-02T04:32:11-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/procedural/</loc>
+    <lastmod>2015-02-02T10:37:04-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/product/</loc>
+    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/projection/</loc>
+    <lastmod>2014-02-01T21:06:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/rendering/</loc>
+    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/rigging/</loc>
+    <lastmod>2016-09-12T09:30:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/study/</loc>
+    <lastmod>2016-09-01T18:24:03-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/</loc>
+    <lastmod>2016-10-12T00:53:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/ue4/</loc>
+    <lastmod>2016-03-02T10:36:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/vfx/</loc>
+    <lastmod>2016-12-12T09:30:44-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/video/</loc>
+    <lastmod>2016-12-12T09:30:44-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/vr/</loc>
+    <lastmod>2016-03-02T10:36:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/work/</loc>
+    <lastmod>2017-02-10T10:43:41-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
