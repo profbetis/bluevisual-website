@@ -15,11 +15,11 @@ sections = ["Product Renders", "Graphics", "Website", "Branding"]
 
 An important part project of this was the product renders. They provided me with a 3D mesh exported from Solidworks of their product, which I cleaned up, created materials, and then built environments for.
 
-{{< image 1 "The primary hero Guardiome composite" >}}
+{{< image 1 "The primary hero Genome Vault composite" >}}
 
 {{< sbs >}}
-{{< image 2 "The dark and dramatic Guardiome composite" >}}
-{{< image 3 "Top-down view of the Guardiome and its screen" >}}
+{{< image 2 "The dark and dramatic Genome Vault composite" >}}
+{{< image 3 "Top-down view of the Genome Vault and its screen" >}}
 {{< /sbs >}}
 
 {{< sbs >}}
@@ -29,9 +29,9 @@ An important part project of this was the product renders. They provided me with
 
 # Graphics
 
-Some of the graphics were hero shots, while others were more background elements and banners for the site. These custom graphics were also used in the various pitch decks we put together to show investors.
+Some of the graphics were hero shots, while others were more background elements and banners for the site. These custom graphics were also used in the various pitch decks we put together for presentations.
 
-{{< image 6 "Guardiome and table render composited into stock photography" >}}
+{{< image 6 "Genome Vault and table render composited onto stock photography" >}}
 
 {{< image 7 "DNA Strand graphic; modeled and rendered in 3D" >}}
 
