@@ -1,4 +1,5 @@
 +++
+title = "Project Title"
 tags = ["x", "y"]
 date = {{ .Date }}
 client = "Client Name"
