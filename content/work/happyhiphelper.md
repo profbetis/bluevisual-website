@@ -4,9 +4,9 @@ date = "2017-02-02T14:09:57-08:00"
 tags = ["product", "rendering", "design"]
 title = "Happy Hip Helper"
 tools = ["3DS Max", "Octane Render", "Affinity Designer"]
-active = true
+active = false
 peak = true
-
+draft = true
 +++
 
 The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.<!--more-->

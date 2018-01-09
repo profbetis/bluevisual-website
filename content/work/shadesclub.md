@@ -4,7 +4,7 @@ date = "2016-09-12T09:30:30-05:00"
 tags = ["product", "animation", "modeling", "rigging"]
 title = "ShadesClub"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
-active = true
+active = false
 peak = false
 sections = ["Animation", "Product Family", "Subscription Pack Renders", "Graphics"]
 +++
