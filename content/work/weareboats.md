@@ -1,6 +1,6 @@
 +++
 title = "We Are Boats"
-tags = ["vfx", "dynamics", "4k"]
+tags = ["vfx", "dynamics", "film"]
 date = 2017-08-23T19:22:44-07:00
 client = "Zombot Pictures"
 tools = ["Adobe After Effects", "Houdini", "Octane Render"]
