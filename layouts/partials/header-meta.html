@@ -17,19 +17,29 @@
 
     {{ if .IsHome }}
       <title>Blue Visual</title>
-      <meta property="og:title" content="Blue Visual About" />
+      <meta property="og:title" content="Blue Visual" />
       <meta name="description" content="Los Angeles based 3D visualization."/>
       <meta property="og:description" content="Los Angeles based 3D visualization." />
       <link rel="canonical" href="http://bluevisual.tv/" />
       <meta property="og:url" content="http://bluevisual.tv/" />
       <meta property="og:image" content="{{ .Site.BaseURL }}/images/meta/bv-logo-02-tile.png" />
 
+    {{ else if eq .Title "reel" }}
+
+        <title>Blue Visual Reel</title>
+        <meta property="og:title" content="Blue Visual Reel" />
+        <meta name="description" content="A showcase of my projects"/>
+        <meta property="og:description" content="A showcase of my projects" />
+        <link rel="canonical" href="{{ .Permalink }}" />
+        <meta property="og:url" content="{{ .Permalink }}" />
+        <meta property="og:image" content="{{ .Site.BaseURL }}/images/meta/bv-logo-02-tile.png" />
+
     {{ else if .IsPage }}
 
       <title>Blue Visual - {{ .Title }}</title>
       <meta property="og:title" content="Blue Visual - {{ .Title }}" />
-      <meta name="description" content="{{ .Summary }}"/>
-      <meta property="og:description" content="{{ .Summary }}" />
+      <meta name="description" content="{{ truncate 137 `...` .Summary }}"/>
+      <meta property="og:description" content="{{ truncate 137 `...` .Summary }}" />
       <link rel="canonical" href="{{ .Permalink }}" />
       <meta property="og:url" content="{{ .Permalink }}" />
       <meta property="og:image" content="{{ .Site.BaseURL }}/images/{{ .BaseFileName }}-thumb.jpg" />
