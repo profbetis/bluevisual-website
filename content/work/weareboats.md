@@ -6,7 +6,7 @@ client = "Zombot Pictures"
 tools = ["Adobe After Effects", "Houdini", "Octane Render"]
 active = false
 peak = false
-draft = true
+draft = false
 +++
 
 [We Are Boats](http://www.imdb.com/title/tt5664222/) is a film by [Zombot Pictures](http://www.zombotpictures.com) about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.

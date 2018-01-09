@@ -6,7 +6,7 @@ client = "Ambidextrous Productions"
 tools = ["3DS Max", "Octane Render", "Affinity Photo"]
 active = false
 peak = false
-draft = true
+draft = false
 +++
 
 [Ambidextrous Productions](http://www.ambidextrous.net/) came to me for rendering a realistic globe animation for a commercial spot they were working on. They were creating a spot for Kubota Tractors, which provide a wide range of farming vechicles across the globe. The animation was urgent, and important, but the project completed on-time and successfully.
