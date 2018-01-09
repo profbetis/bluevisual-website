@@ -6,10 +6,32 @@
     <description>Recent content in Vfx on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Dec 2016 09:30:44 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 19:22:44 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>We Are Boats</title>
+      <link>http://bluevisual.tv/work/weareboats/</link>
+      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/weareboats/</guid>
+      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
+I handled all the visual effects for the film. All shots were done at 4k.
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+    </item>
+    
+    <item>
+      <title>Valentine Dayz</title>
+      <link>http://bluevisual.tv/work/valentine-dayz/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
+      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
+I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
+    </item>
     
     <item>
       <title>WagooAR</title>
@@ -45,6 +67,15 @@
       
       <guid>http://bluevisual.tv/work/cybervice/</guid>
       <description>&lt;p&gt;This project required a few different things. Compositing screens (LOTS OF THEM), the design and animation of them, and a intro sequence for the beginning of the show.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Me &#43; Her</title>
+      <link>http://bluevisual.tv/work/me&#43;her/</link>
+      <pubDate>Sun, 01 Dec 2013 21:06:17 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/me&#43;her/</guid>
+      <description>&lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -6,10 +6,70 @@
     <description>Recent content on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Feb 2017 10:43:41 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 22:49:56 -0800</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubota Earth Anim</title>
+      <link>http://bluevisual.tv/work/kubota-earth/</link>
+      <pubDate>Tue, 17 Oct 2017 22:49:56 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/kubota-earth/</guid>
+      <description>Ambidextrous Productions came to me for rendering a realistic globe animation for a commercial spot they were working on. They were creating a spot for Kubota Tractors, which provide a wide range of farming vechicles across the globe. The animation was urgent, and important, but the project completed on-time and successfully.
+Shaders Earth&amp;rsquo;s surface was created with NASA&amp;rsquo;s blue dot textures (diffuse, specular, bump). When the camera zooms down into the surface, I needed closer maps, so I grabbed some from Google Earth at different zoom levels and positioned them so they lined up.</description>
+    </item>
+    
+    <item>
+      <title>QGS Product Vis</title>
+      <link>http://bluevisual.tv/work/qgs-vis/</link>
+      <pubDate>Fri, 13 Oct 2017 22:54:59 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/qgs-vis/</guid>
+      <description>A friend of mine does freelance product design, and needed renders of his designs for his client&amp;rsquo;s pitch (QGS). He came to me to do a few animations for the project. Even though it was extremely short notice (not his fault), we completed the project successfully and on-time. QGS is a genetics sequencing company that intends to democratize expensive genome sequencing in the lab.
+My client provided the model files which were exported from Solidworks, and told me what materials the different parts had, and how each device opened and operated.</description>
+    </item>
+    
+    <item>
+      <title>We Are Boats</title>
+      <link>http://bluevisual.tv/work/weareboats/</link>
+      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/weareboats/</guid>
+      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
+I handled all the visual effects for the film. All shots were done at 4k.
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+    </item>
+    
+    <item>
+      <title>iPhone X Cases</title>
+      <link>http://bluevisual.tv/work/ca-ipx-cases/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ipx-cases/</guid>
+      <description>&lt;p&gt;Phone case renders for &lt;a href=&#34;https://www.caudabe.com/collections/iphone-x-accessories&#34;&gt;Caudabe&amp;rsquo;s iPhone X Collection&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Valentine Dayz</title>
+      <link>http://bluevisual.tv/work/valentine-dayz/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
+      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
+I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
+    </item>
+    
+    <item>
+      <title>iPhone 7 Cases</title>
+      <link>http://bluevisual.tv/work/ca-ip7-cases/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ip7-cases/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.caudabe.com/&#34;&gt;Caudabe&lt;/a&gt; is a phone case manufacturing company which specializes in sleek, precision products that offer beauty and protection. I work with them to visualize their products for online presentation.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Lull</title>
@@ -18,15 +78,6 @@
       
       <guid>http://bluevisual.tv/work/lull/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Happy Hip Helper</title>
-      <link>http://bluevisual.tv/work/happyhiphelper/</link>
-      <pubDate>Thu, 02 Feb 2017 14:09:57 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/happyhiphelper/</guid>
-      <description>&lt;p&gt;The Happy Hip Helper is a simple tool for assisting physical therapy patients with strengthening and exercising their hip muscles and regaining proper mobility.&lt;/p&gt;</description>
     </item>
     
     <item>
