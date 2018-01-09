@@ -1,6 +1,6 @@
 +++
 title = "We Are Boats"
-tags = ["vfx", "dynamics", "film"]
+tags = ["vfx", "film", "dynamics" ]
 date = 2017-08-23T19:22:44-07:00
 client = "Zombot Pictures"
 tools = ["Adobe After Effects", "Houdini", "Octane Render"]
@@ -13,4 +13,6 @@ draft = true
 
 {{< video 1 >}}
 
-I handled all the visual effects for the film. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+I handled all the visual effects for the film. All shots were done at 4k.
+
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.
