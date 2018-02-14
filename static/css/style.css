@@ -97,7 +97,8 @@ input{
 #bio{
 }
 
-#bio .project-tile.about{
+#bio .project-tile.about,
+#testimonials .project-tile.about{
   font-size: 0.75rem;
   line-height: 1.375em;
   width: 200px;
@@ -105,13 +106,15 @@ input{
   outline: none;
   overflow: hidden;
 }
-#bio .project-tile > div{
+#bio .project-tile > div,
+#testimonials .project-tile > div{
   width: 283px;
   height: 283px;
   position: relative;
   text-align: center;
 }
-#bio .tile-content{
+#bio .tile-content,
+#testimonials .tile-content{
   font-family: 'Source Sans Pro', sans-serif;
   top: -34px;
   left: -34px;
@@ -136,7 +139,8 @@ input{
   background-position: 0;
 }
 
-#bio .project-tile .plate{
+#bio .project-tile .plate,
+#testimonials .project-tile .plate{
   position: absolute;
   width: 200px;
   height: 200px;
@@ -243,6 +247,50 @@ input{
   transition: all 0.15s ease;
 }
 
+
+
+/*******/
+/***  TESTIMONIALS  ***/
+/*******/
+
+#testimonials div.item{
+  display: inline-block;
+  width: 100%;
+  background: #303030;
+  left: -50px;
+  top: 150px;
+  opacity: 1;
+  visibility: visible;
+  position: relative;
+}
+
+#testimonials div.portrait{
+  padding: 0.5em;
+  display: block;
+}
+#testimonials div.image{
+  width: 10em;
+  height: 10em;
+  background-color: #383838;
+  margin: 0.5em;
+}
+
+#testimonials div.info{
+  margin: 0.5em;
+}
+#testimonials div.info>div{
+  position: relative;
+  text-align: center;
+  line-height: 1.6em;
+}
+
+#testimonials div.quote{
+  width: auto;
+  height: auto;
+  line-height: 1.6em;
+  position: absolute;
+  left: 12em;
+}
 
 
 /*******/
@@ -499,12 +547,12 @@ input{
 }
 
 @media (min-width: 1651px){
-  .project-group > div:nth-child(9n-3), .project-group > div:nth-child(9n-2), .project-group > div:nth-child(9n-1),
-  .project-group > div:nth-child(9n-0){
+  .project-group > div.project-tile:nth-child(9n-3), .project-group > div.project-tile:nth-child(9n-2), .project-group > div.project-tile:nth-child(9n-1),
+  .project-group > div.project-tile:nth-child(9n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(9n-0){
+  .project-group > div.project-tile:nth-child(9n-0){
     margin-right: 300px;
   }
 
@@ -513,12 +561,12 @@ input{
   }
 }
 @media (max-width: 1650px) and (min-width: 1351px){
-  .project-group > div:nth-child(7n-2), .project-group > div:nth-child(7n-1),
-  .project-group > div:nth-child(7n-0){
+  .project-group > div.project-tile:nth-child(7n-2), .project-group > div.project-tile:nth-child(7n-1),
+  .project-group > div.project-tile:nth-child(7n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(7n-0){
+  .project-group > div.project-tile:nth-child(7n-0){
     margin-right: 300px;
   }
 
@@ -527,12 +575,12 @@ input{
   }
 }
 @media (max-width: 1350px) and (min-width: 1051px){
-  .project-group > div:nth-child(5n-1),
-  .project-group > div:nth-child(5n-0){
+  .project-group > div.project-tile:nth-child(5n-1),
+  .project-group > div.project-tile:nth-child(5n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(5n-0){
+  .project-group > div.project-tile:nth-child(5n-0){
     margin-right: 300px;
   }
 
@@ -542,7 +590,7 @@ input{
 }
 
 @media (max-width: 1050px){
-  .project-group > div:nth-child(3n-0){
+  .project-group > div.project-tile:nth-child(3n-0){
     left: 150px;
     margin-right: 300px;
   }
