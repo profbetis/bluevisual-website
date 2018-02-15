@@ -254,17 +254,29 @@ input{
   /* background: #303030; */
   font-family: 'Source Sans Pro', sans-serif;
   left: 0px;
-  top: 150px;
+  top: 160px;
   position: relative;
   margin-bottom: 5em;
 }
 
 @media (max-width: 1050px){ /* single column layout */
-  #testimonials div.portrait.left,
-  #testimonials div.portrait.right{
+  #testimonials div.item{
+    margin-bottom: 7em;
+    width: calc(100% + 100px);
+    left: -110px;
+  }
+  #testimonials div.portrait{
     width: 100%;
     text-align: center;
-    margin-bottom: 4em;
+    margin-bottom: 3.5em !important;
+  }
+  #testimonials .info{
+    font-size: 1.5em;
+    line-height: 1em;
+  }
+  #testimonials .content{
+    font-size: 1.8em;
+    line-height: 1.4em;
   }
 
   #testimonials .shifter + div.item{
@@ -273,17 +285,19 @@ input{
 }
 
 #testimonials div.portrait{
-  padding: 0.5em;
+  padding: 0;
   display: block;
   margin-bottom: 2em;
 }
-#testimonials div.portrait.left{
+#testimonials div.item:nth-of-type(odd) div.portrait{
   float: left;
   margin-right: 5em;
+  margin-left: 8px;
 }
-#testimonials div.portrait.right{
+#testimonials div.item:nth-of-type(even) div.portrait{
   float: right;
   margin-left: 5em;
+  margin-right: 8px;
 }
 
 #testimonials div.image-pre{
