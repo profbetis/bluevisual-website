@@ -1,0 +1,18 @@
+<div class="item" value="{{ .groupID }}"
+style="transition: opacity 0.4s ease {{ .delay }}s;">
+  <div class="portrait left">
+    <div class="image-pre">
+      <div class="image" style="background-image: url('/images/portraits/{{ .testimonial.client | urlize }}.jpg')"></div>
+    </div>
+  </div>
+  <div class="quote">
+    <div class="info">
+      <span class="name">{{ .testimonial.client }}</span>
+      <span class="title"> - {{ .testimonial.jobtitle }} - </span>
+      <span class="website"><a href="{{ .testimonial.website }}">Website</a></span>
+    </div>
+    <div class="content">
+      {{ .testimonial.quote }}
+    </div>
+  </div>
+</div>
