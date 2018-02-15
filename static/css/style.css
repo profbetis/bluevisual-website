@@ -246,6 +246,114 @@ input{
 
 
 /*******/
+/***  TESTIMONIALS  ***/
+/*******/
+#testimonials div.item{
+  display: inline-block;
+  width: calc(100% - 100px);
+  /* background: #303030; */
+  font-family: 'Source Sans Pro', sans-serif;
+  left: 0px;
+  top: 150px;
+  position: relative;
+  margin-bottom: 5em;
+}
+
+@media (max-width: 1050px){ /* single column layout */
+  #testimonials div.portrait.left,
+  #testimonials div.portrait.right{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 4em;
+  }
+
+  #testimonials .shifter + div.item{
+    /* margin-top: -150px; */
+  }
+}
+
+#testimonials div.portrait{
+  padding: 0.5em;
+  display: block;
+  margin-bottom: 2em;
+}
+#testimonials div.portrait.left{
+  float: left;
+  margin-right: 5em;
+}
+#testimonials div.portrait.right{
+  float: right;
+  margin-left: 5em;
+}
+
+#testimonials div.image-pre{
+  transform: rotate(-45deg);
+  transform-origin: 50%;
+  width: 176px;
+  height: 176px;
+  outline: 12px solid #202020;
+  overflow: hidden;
+  display: inline-block;
+  position: relative;
+}
+#testimonials div.image{
+  width: 249px;
+  height: 249px;
+  margin: 0.0em;
+  background-color: #383838;
+  background-size: cover;
+  background-position: 0;
+  left: -37px;
+  top: -37px;
+  position: relative;
+  transform: rotate(45deg);
+}
+
+#testimonials div.info{
+  font-family: 'Work Sans', sans-serif;
+  display: inline-block;
+}
+#testimonials .portrait.left div.info{
+  text-align: left;
+  margin-left: 8em;
+}
+#testimonials div.info>div{
+  position: relative;
+  text-align: center;
+  line-height: 1.6em;
+}
+#testimonials div.info>span{
+  display: inline-block;
+  line-height: 0em;
+}
+
+#testimonials div.quote{
+  position: relative;
+  line-height: 1.6em;
+  margin: 0em 0px;
+  text-align: center;
+}
+
+#testimonials div.quote .content{
+  margin-top: 1em;
+}
+/* #testimonials div.quote::before,
+#testimonials div.quote::after{
+  content: "\"";
+  display: inline-block;
+  position: relative;
+  font-size: 600%;
+  color: #808080;
+}
+#testimonials div.quote::before{
+  left: -0.5em;
+}
+#testimonials div.quote::after{
+  right: -0.5em;
+} */
+
+
+/*******/
 /***  REEL  ***/
 /*******/
 
@@ -474,6 +582,9 @@ input{
   transition: all 0.2s ease;
   pointer-events: none;
 }
+.project-group div.item{
+  opacity: 0.0;
+}
 
 .project-group[value="selectors"] .project-tile{
   line-height: 1em;
@@ -499,12 +610,12 @@ input{
 }
 
 @media (min-width: 1651px){
-  .project-group > div:nth-child(9n-3), .project-group > div:nth-child(9n-2), .project-group > div:nth-child(9n-1),
-  .project-group > div:nth-child(9n-0){
+  .project-group > div.project-tile:nth-child(9n-3), .project-group > div.project-tile:nth-child(9n-2), .project-group > div.project-tile:nth-child(9n-1),
+  .project-group > div.project-tile:nth-child(9n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(9n-0){
+  .project-group > div.project-tile:nth-child(9n-0){
     margin-right: 300px;
   }
 
@@ -513,12 +624,12 @@ input{
   }
 }
 @media (max-width: 1650px) and (min-width: 1351px){
-  .project-group > div:nth-child(7n-2), .project-group > div:nth-child(7n-1),
-  .project-group > div:nth-child(7n-0){
+  .project-group > div.project-tile:nth-child(7n-2), .project-group > div.project-tile:nth-child(7n-1),
+  .project-group > div.project-tile:nth-child(7n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(7n-0){
+  .project-group > div.project-tile:nth-child(7n-0){
     margin-right: 300px;
   }
 
@@ -527,12 +638,12 @@ input{
   }
 }
 @media (max-width: 1350px) and (min-width: 1051px){
-  .project-group > div:nth-child(5n-1),
-  .project-group > div:nth-child(5n-0){
+  .project-group > div.project-tile:nth-child(5n-1),
+  .project-group > div.project-tile:nth-child(5n-0){
     left: 150px;
   }
 
-  .project-group > div:nth-child(5n-0){
+  .project-group > div.project-tile:nth-child(5n-0){
     margin-right: 300px;
   }
 
@@ -542,7 +653,7 @@ input{
 }
 
 @media (max-width: 1050px){
-  .project-group > div:nth-child(3n-0){
+  .project-group > div.project-tile:nth-child(3n-0){
     left: 150px;
     margin-right: 300px;
   }
@@ -574,15 +685,15 @@ input[value="9"]:checked ~ .project-group[value="9"]{
 }
 
 /* Active Project Tiles */
-input[value="1"]:checked ~ .project-group[value="1"] .project-tile,
-input[value="2"]:checked ~ .project-group[value="2"] .project-tile,
-input[value="3"]:checked ~ .project-group[value="3"] .project-tile,
-input[value="4"]:checked ~ .project-group[value="4"] .project-tile,
-input[value="5"]:checked ~ .project-group[value="5"] .project-tile,
-input[value="6"]:checked ~ .project-group[value="6"] .project-tile,
-input[value="7"]:checked ~ .project-group[value="7"] .project-tile,
-input[value="8"]:checked ~ .project-group[value="8"] .project-tile,
-input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
+input[value="1"]:checked ~ .project-group[value="1"] > div,
+input[value="2"]:checked ~ .project-group[value="2"] > div,
+input[value="3"]:checked ~ .project-group[value="3"] > div,
+input[value="4"]:checked ~ .project-group[value="4"] > div,
+input[value="5"]:checked ~ .project-group[value="5"] > div,
+input[value="6"]:checked ~ .project-group[value="6"] > div,
+input[value="7"]:checked ~ .project-group[value="7"] > div,
+input[value="8"]:checked ~ .project-group[value="8"] > div,
+input[value="9"]:checked ~ .project-group[value="9"] > div{
   opacity: 1.0;
 }
 
@@ -646,15 +757,15 @@ input[value="9"]:checked ~ .project-group .selector[value="9"]{
   transform: translateX(-50%) scaleY(1);
 }
 
-input[value="1"]:checked ~ .project-group[value="1"] .project-tile,
-input[value="2"]:checked ~ .project-group[value="2"] .project-tile,
-input[value="3"]:checked ~ .project-group[value="3"] .project-tile,
-input[value="4"]:checked ~ .project-group[value="4"] .project-tile,
-input[value="5"]:checked ~ .project-group[value="5"] .project-tile,
-input[value="6"]:checked ~ .project-group[value="6"] .project-tile,
-input[value="7"]:checked ~ .project-group[value="7"] .project-tile,
-input[value="8"]:checked ~ .project-group[value="8"] .project-tile,
-input[value="9"]:checked ~ .project-group[value="9"] .project-tile{
+input[value="1"]:checked ~ .project-group[value="1"] > div,
+input[value="2"]:checked ~ .project-group[value="2"] > div,
+input[value="3"]:checked ~ .project-group[value="3"] > div,
+input[value="4"]:checked ~ .project-group[value="4"] > div,
+input[value="5"]:checked ~ .project-group[value="5"] > div,
+input[value="6"]:checked ~ .project-group[value="6"] > div,
+input[value="7"]:checked ~ .project-group[value="7"] > div,
+input[value="8"]:checked ~ .project-group[value="8"] > div,
+input[value="9"]:checked ~ .project-group[value="9"] > div{
   opacity: 1.0;
   visibility: visible;
   transition: all 0.4s step-start;

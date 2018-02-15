@@ -1,0 +1,12 @@
+<div id="testimonials" class="project-group" value="{{ .groupID }}">
+
+{{ partial "project-group-shifters" "testimonials" }}
+
+{{ .meta.Scratch.Set "offset" 0.0 }}
+
+{{ range .meta.Site.Data.testimonials }}
+  {{ partial "testimonial" (dict "testimonial" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
+  {{ $.meta.Scratch.Add "offset" 0.1 }}
+{{ end }}
+
+</div>
