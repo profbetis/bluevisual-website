@@ -7,9 +7,8 @@ style="transition: opacity 0.4s ease {{ .delay }}s;">
   </div>
   <div class="quote">
     <div class="info">
-      <span class="name">{{ .testimonial.client }}</span>
-      <span class="title"> - {{ .testimonial.jobtitle }} - </span>
-      <span class="website"><a href="{{ .testimonial.website }}">Website</a></span>
+      <span class="name"><a href="{{ .testimonial.website }}">{{ .testimonial.client }}</a></span>
+      <span class="title"> - {{ .testimonial.jobtitle }}</span>
     </div>
     <div class="content">
       {{ .testimonial.quote }}
