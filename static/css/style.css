@@ -254,9 +254,10 @@ input{
   /* background: #303030; */
   font-family: 'Source Sans Pro', sans-serif;
   left: 0px;
-  top: 160px;
+  top: calc(160px + 7em);
   position: relative;
   margin-bottom: 5em;
+  margin-top: -7.5em;
 }
 
 @media (max-width: 1050px){ /* single column layout */
@@ -264,6 +265,7 @@ input{
     margin-bottom: 7em;
     width: calc(100% + 100px);
     left: -110px;
+    margin-top: -2em;
   }
   #testimonials div.portrait{
     width: 100%;
@@ -281,13 +283,14 @@ input{
 
   #testimonials .shifter + div.item{
     /* margin-top: -150px; */
+    margin-top: -7.5em;
   }
 }
 
 #testimonials div.portrait{
   padding: 0;
   display: block;
-  margin-bottom: 5em;
+  margin-bottom: 10em;
 }
 #testimonials div.item:nth-of-type(odd) div.portrait{
   float: left;
@@ -346,14 +349,13 @@ input{
 #testimonials div.quote{
   position: relative;
   /* line-height: 1.6em; */
-  margin: 0em 0px;
+  margin: 1em 0px;
   text-align: center;
 }
 
 #testimonials div.quote .content{
-  /* font-family: 'Work Sans', sans-serif; */
   color: #a0a0a0;
-  font-size: 0.9em;
+  font-size: 1em;
   margin-top: 1em;
   line-height: 1.5em;
 }
