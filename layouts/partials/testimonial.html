@@ -1,17 +1,32 @@
 <div class="item" value="{{ .groupID }}"
 style="transition: opacity 0.4s ease {{ .delay }}s;">
+
   <div class="portrait left">
     <div class="image-pre">
       <div class="image" style="background-image: url('/images/portraits/{{ .testimonial.client | urlize }}.jpg')"></div>
     </div>
   </div>
+
   <div class="quote">
+
     <div class="info">
       <span class="name"><a href="{{ .testimonial.website }}">{{ .testimonial.client }}</a></span>
       <span class="title"> - {{ .testimonial.jobtitle }}</span>
     </div>
+
     <div class="content">
       {{ .testimonial.quote }}
     </div>
+
+    <div class="projects">
+      {{ if isset .testimonial "projects" }}
+        Projects:
+        {{ range intersect .testimonial.projects $.meta.Data.Pages }}
+          <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        {{- end -}}
+      {{- end -}}
+    </div>
+
   </div>
+
 </div>

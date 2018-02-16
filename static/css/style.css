@@ -357,6 +357,16 @@ input{
   margin-top: 1em;
   line-height: 1.5em;
 }
+
+#testimonials div.projects{
+  margin-top: 1.5em;
+  font-size: 0.9em;
+  font-family: 'Work Sans', sans-serif;
+}
+#testimonials div.projects span + span::before{
+  content: ", ";
+}
+
 /* #testimonials div.quote::before,
 #testimonials div.quote::after{
   content: "\"";
