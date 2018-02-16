@@ -3,5 +3,6 @@ client = "Brian Bochicco"
 jobtitle = "Co-Inventor for Wagoo AR"
 website = "https://www.wagoar.com"
 quote = "I have hired Kevin to complete various projects for me over the past two years, which have covered animation work, video editing/compositing, and website development. Kevin is a true professional who has continually demonstrated the ability to turn our vision into a digital reality all the while being unafraid to tactfully present his own creative touches / challenge some of our own design decisions in the process."
+projects = ["WagooAR"]
 order = 30
 +++
