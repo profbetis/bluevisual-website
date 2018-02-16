@@ -19,10 +19,12 @@ style="transition: opacity 0.4s ease {{ .delay }}s;">
     </div>
 
     <div class="projects">
-      {{ if isset .testimonial "projects" }}
+      {{- if isset .testimonial "projects" -}}
         Projects:
-        {{ range intersect .testimonial.projects $.meta.Data.Pages }}
-          <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+        {{- range .meta.Data.Pages -}}
+          {{ if (in $.testimonial.projects .Title) }}
+            <span><a href="{{ .Permalink }}">{{ .Title }}</a></span>
+          {{- end -}}
         {{- end -}}
       {{- end -}}
     </div>

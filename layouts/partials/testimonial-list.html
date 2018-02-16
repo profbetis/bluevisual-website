@@ -5,7 +5,7 @@
 {{ .meta.Scratch.Set "offset" 0.0 }}
 
 {{ range (sort .meta.Site.Data.testimonials "order" "asc" ) }}
-  {{ partial "testimonial" (dict "testimonial" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
+  {{ partial "testimonial" (dict "meta" $.meta "testimonial" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
   {{ $.meta.Scratch.Add "offset" 0.1 }}
 {{ end }}
 
