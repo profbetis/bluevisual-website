@@ -249,28 +249,32 @@ input{
 /***  TESTIMONIALS  ***/
 /*******/
 #testimonials div.item{
-  display: inline-block;
+  display: inline-table;
   width: calc(100% - 100px);
-  /* background: #303030; */
   font-family: 'Source Sans Pro', sans-serif;
-  left: 0px;
-  top: calc(160px + 7em);
+  left: 7px;
+  top: 160px;
   position: relative;
-  margin-bottom: 5em;
-  margin-top: -7.5em;
 }
 
 @media (max-width: 1050px){ /* single column layout */
   #testimonials div.item{
-    margin-bottom: 7em;
-    width: calc(100% + 100px);
-    left: -110px;
-    margin-top: -2em;
+    display: inline-block !important;
+    width: 100%;
+    left: -55px;
+    top: 0;
+    margin-top: 3em;
   }
   #testimonials div.portrait{
+    display: block !important;
     width: 100%;
     text-align: center;
-    margin-bottom: 3.5em !important;
+  }
+  #testimonials div.portrait .image-pre{
+    margin: auto;
+  }
+  #testimonials div.quote{
+    display: block;
   }
   #testimonials .info{
     font-size: 1.5em;
@@ -282,25 +286,16 @@ input{
   }
 
   #testimonials .shifter + div.item{
-    /* margin-top: -150px; */
-    margin-top: -7.5em;
   }
 }
 
 #testimonials div.portrait{
-  padding: 0;
-  display: block;
-  margin-bottom: 10em;
+  display: table-cell;
+  padding: 5em 5em 5em 0em;
 }
 #testimonials div.item:nth-of-type(odd) div.portrait{
-  float: left;
-  margin-right: 5em;
-  margin-left: 8px;
 }
 #testimonials div.item:nth-of-type(even) div.portrait{
-  float: right;
-  margin-left: 5em;
-  margin-right: 8px;
 }
 
 #testimonials div.image-pre{
@@ -310,13 +305,10 @@ input{
   height: 176px;
   outline: 12px solid #202020;
   overflow: hidden;
-  display: inline-block;
-  position: relative;
 }
 #testimonials div.image{
   width: 249px;
   height: 249px;
-  margin: 0.0em;
   background-color: #383838;
   background-size: cover;
   background-position: 0;
@@ -324,6 +316,20 @@ input{
   top: -37px;
   position: relative;
   transform: rotate(45deg);
+}
+
+#testimonials div.quote{
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+#testimonials div.quote .content{
+  color: #a0a0a0;
+  font-size: 1em;
+  margin-top: 1em;
+  line-height: 1.5em;
 }
 
 #testimonials div.info{
@@ -334,7 +340,6 @@ input{
 }
 #testimonials .portrait.left div.info{
   text-align: left;
-  margin-left: 8em;
 }
 #testimonials div.info>div{
   position: relative;
@@ -344,20 +349,6 @@ input{
 #testimonials div.info>span{
   display: inline-block;
   line-height: 0em;
-}
-
-#testimonials div.quote{
-  position: relative;
-  /* line-height: 1.6em; */
-  margin: 1em 0px;
-  text-align: center;
-}
-
-#testimonials div.quote .content{
-  color: #a0a0a0;
-  font-size: 1em;
-  margin-top: 1em;
-  line-height: 1.5em;
 }
 
 #testimonials div.projects{
