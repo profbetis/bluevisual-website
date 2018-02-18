@@ -14,13 +14,11 @@
   <!-- Radio Buttons -->
   <input type="radio" name="section" value="1" id="switch-1" checked>
 
-  {{ range $index, $el := $groups }}
-    <input type="radio" name="section" value="{{ add $index 4 }}" id="switch-{{ add $index 4 }}">
-  {{ end }}
-
   <input type="radio" name="section" value="2" id="switch-2">
 
   <input type="radio" name="section" value="3" id="switch-3">
+
+  <input type="radio" name="section" value="4" id="switch-4">
 
 
 
@@ -33,24 +31,20 @@
       </label>
     </div>
 
-    {{ range $index, $el := $groups }}
-
-    <div class="project-tile selector" value="{{ add $index 4 }}">
-      <label for="switch-{{ add $index 4 }}">
-        <div>{{ humanize . }}</div>
-      </label>
-    </div>
-
-    {{ end }}
-
     <div class="project-tile selector" value="2">
       <label for="switch-2">
-        <div>All</div>
+        <div>Personal</div>
       </label>
     </div>
 
     <div class="project-tile selector" value="3">
       <label for="switch-3">
+        <div>Work</div>
+      </label>
+    </div>
+
+    <div class="project-tile selector" value="4">
+      <label for="switch-4">
         <div>Testimonials</div>
       </label>
     </div>
@@ -60,17 +54,16 @@
 
 
   <!-- Project Tile Groups -->
+  {{ $rootContext := . }}
+
   {{ partial "about-group" (dict "groupID" 1) }}
 
-  {{ $rootContext := . }}
-  {{ range $index, $el := $groups }}
-    {{ partial "project-group" (dict "meta" $rootContext "group" . "groupID" (add $index 4) ) }}
-  {{ end }}
+  {{ partial "project-group" (dict "meta" $rootContext "group" "personal" "groupID" 2) }}
 
-  {{ partial "project-group" (dict "meta" $rootContext "group" "all" "groupID" 2) }}
+  {{ partial "project-group" (dict "meta" $rootContext "group" "work" "groupID" 3) }}
 
-  {{ partial "testimonial-list" (dict "meta" $rootContext "groupID" 3) }}
-  
+  {{ partial "testimonial-list" (dict "meta" $rootContext "groupID" 4) }}
+
 
 
   </form>

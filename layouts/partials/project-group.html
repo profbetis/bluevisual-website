@@ -16,7 +16,7 @@
 {{ else }}
 
   {{ range .meta.Data.Pages }}
-    {{ if in .Params.tags $.group }}
+    {{ if in .Section $.group }}
       {{ partial "project-tile" (dict "proj" . "groupID" $.groupID "delay" ($.meta.Scratch.Get "offset")) }}
       {{ $.meta.Scratch.Add "offset" 0.05 }}
     {{ end }}
