@@ -1,21 +1,42 @@
 {{ partial "header-meta" . }}
+
 {{ partial "header" . }}
 
-<div class="tag-page">
-  <div id="list-header">"{{ .Title | humanize }}" Projects</div>
-  {{ range .Data.Pages }}
-    {{ partial "project-header" . }}
-  {{ end }}
+<div id="projects">
+  <form>
+    <input type="radio" name="section" value="1" id="switch-1" checked>
 
-  <div id="other-tags">
-    <h3>Other Tags</h3>
-    {{ range $key, $value := .Site.Taxonomies.tags }}
-      <a href="/tags/{{ $key }}">{{ $key }}</a>
-    {{ end }}
-  </div>
+    <div class="project-group" value="selectors">
 
-  {{ partial "return-bottom" . }}
+      {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0 "groupID" 1) }}
 
+      <div class="project-tile selector" value="1">
+        <label for="switch-1">
+          <div>{{ .Title }}</div>
+        </label>
+      </div>
+
+    </div>
+
+    <div class="project-group" value="1">
+
+      <div class="project-tile shifter" value="1"></div>
+      <div class="project-tile shifter" value="1"></div>
+
+      {{ $rootContext := . }}
+      {{ .Scratch.Set "offset" 0.0 }}
+
+      {{ range .Data.Pages }}
+        {{ partial "project-tile" (dict "proj" . "groupID" 1 "delay" (.Scratch.Get "offset")) }}
+        {{ .Scratch.Add "offset" 0.05 }}
+      {{ end }}
+
+      {{ partial "link-tile" (dict "title" "Tag Cloud" "url" "/tags" "delay" (add 0.05 (.Scratch.Get "offset")) "groupID" 1) }}
+
+    </div>
+  </form>
 </div>
+
+{{ partial "footer" . }}
 
 {{ partial "footer-meta" . }}

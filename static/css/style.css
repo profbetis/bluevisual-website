@@ -600,9 +600,11 @@ input{
   color: #909090;
   outline: 1px dashed #383838;
 
+  transition: all 0.2s ease;
+}
+form .project-tile{
   opacity: 0.0;
   visibility: hidden;
-  transition: all 0.2s ease;
   pointer-events: none;
 }
 .project-group div.item{
@@ -691,6 +693,36 @@ input{
   font-size: 1.3em;
   font-weight: 300;
 }
+
+.project-tile.link{
+  background-color: #282828;
+  font-size: 1.3em;
+  font-weight: 300;
+}
+.project-tile.link a{
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.project-tile.link:not(:hover) a{
+  color: #a0a0a0;
+  transition: color 0.2s ease;
+}
+.project-tile.link div{
+  transform: rotate(-45deg);
+  margin-top: calc(50% - 0.5em);
+}
+.project-tile.link div.project-thumb{
+  margin: 0;
+  filter: grayscale(100%) contrast(25%) brightness(45%);
+  transition: filter 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+.project-tile.link:hover div.project-thumb{
+/* filter: grayscale(100%) contrast(100%) brightness(45%); */
+transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+
 
 /* Active Project Group */
 input[value="1"]:checked ~ .project-group[value="1"],
