@@ -1,7 +1,7 @@
 +++
 client = "Zombot Pictures"
 date = "2014-04-01T21:05:46-04:00"
-tags = ["vfx", "compositing", "film"]
+tags = ["vfx", "film", "rigging"]
 tools = ["Adobe After Effects", "Luxology Modo", "Adobe Photoshop"]
 title = "Honeyglue"
 sections = ["Post-Production", "Modeling & Rigging", "Story Book"]

@@ -1,7 +1,7 @@
 +++
 client = "Steam Productions"
 date = "2014-02-01T21:06:02-04:00"
-tags = ["animation", "projection", "4k"]
+tags = ["animation", "rendering", "4k"]
 tools = ["3DS Max", "Octane Render", "Adobe Premiere", "Adobe Photoshop"]
 title = "Bell Flythroughs"
 sections = ["Alpine Scene", "Canyon Scene", "City Scene"]

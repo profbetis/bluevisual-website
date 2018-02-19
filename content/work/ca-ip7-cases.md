@@ -1,7 +1,7 @@
 +++
 client = "Caudabe"
 date = "2017-03-27T00:00:00-08:00"
-tags = ["product", "rendering"]
+tags = ["product", "lighting", "rendering"]
 title = "iPhone 7 Cases"
 tools = ["3DS Max", "Octane Render", "Affinity Design"]
 active = false

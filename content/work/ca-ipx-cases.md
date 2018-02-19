@@ -1,6 +1,6 @@
 +++
 title = "iPhone X Cases"
-tags = ["product", "rendering"]
+tags = ["product", "lighting", "rendering"]
 date = "2017-08-23T00:00:00-08:00"
 client = "Caudabe"
 tools = ["3DS Max", "Octane Render"]

@@ -1,6 +1,6 @@
 +++
 date = "2013-05-02T10:38:00-04:00"
-tags = ["art", "procedural", "study"]
+tags = ["art", "procedural", "2d"]
 tools = ["Filter Forge"]
 title = "Stargaze"
 

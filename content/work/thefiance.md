@@ -2,7 +2,7 @@
 client = "Firebreathing Films"
 title = "The Fiancé"
 date = "2015-09-01T21:05:29-04:00"
-tags = ["vfx", "compositing", "film"]
+tags = ["vfx", "film", "4k"]
 tools = ["Adobe After Effects"]
 sections = ["Projector Scene", "Iris Enhancements", "General Compositing"]
 +++

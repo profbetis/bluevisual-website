@@ -1,7 +1,7 @@
 +++
 client = "Firebreathing Films"
 date = "2017-05-08T00:00:00-08:00"
-tags = ["vfx", "dynamics", "film"]
+tags = ["vfx", "film", "dynamics", "houdini"]
 title = "Valentine Dayz"
 tools = ["Adobe After Effects", "Houdini", "Affinity Photo", "3DS Max", "Octane Render"]
 active = false

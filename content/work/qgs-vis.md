@@ -1,6 +1,6 @@
 +++
 title = "QGS Product Vis"
-tags = ["product", "animation"]
+tags = ["product", "animation", "rendering"]
 date = 2017-10-13T22:54:59-08:00
 client = "Channing Shattuck"
 tools = ["3DS Max", "Octane Render"]

@@ -1,6 +1,6 @@
 +++
 date = "2016-05-01T04:05:01-04:00"
-tags = ["architecture", "concept", "study"]
+tags = ["architecture", "concept", "modeling", "rendering"]
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
 title = "Hexcabin"
 sections = ["Overview", "Top Floor", "Middle Floor", "Ground Floor", "Old Designs"]

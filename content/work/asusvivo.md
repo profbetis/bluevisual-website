@@ -1,7 +1,7 @@
 +++
 client = "Pastilla Studio"
 date = "2013-04-12T01:28:42-05:00"
-tags = ["vfx", "compositing", "graphic design"]
+tags = ["vfx", "2d"]
 title = "Asus Vivobook"
 tools = ["Adobe After Effects"]
 

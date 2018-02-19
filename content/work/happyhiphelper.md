@@ -1,7 +1,7 @@
 +++
 client = "Melissa Weber"
 date = "2017-02-02T14:09:57-08:00"
-tags = ["product", "rendering", "design"]
+tags = ["product", "rendering", "lighting"]
 title = "Happy Hip Helper"
 tools = ["3DS Max", "Octane Render", "Affinity Designer"]
 active = false

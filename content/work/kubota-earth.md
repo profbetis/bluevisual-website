@@ -1,6 +1,6 @@
 +++
 title = "Kubota Earth Anim"
-tags = ["animation"]
+tags = ["animation", "lighting", "rendering"]
 date = 2017-10-17T22:49:56-08:00
 client = "Ambidextrous Productions"
 tools = ["3DS Max", "Octane Render", "Affinity Photo"]
