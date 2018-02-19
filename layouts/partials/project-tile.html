@@ -11,12 +11,12 @@ style="transition: opacity 0.4s ease {{ .delay }}s;">
     Active!
   </div>
   {{ end }}
-  
+
   <div class="project-name">
     <a href="{{ .proj.Permalink }}">{{ .proj.Title }}</a>
 
     <div class="project-tags">
-      {{- range $index, $el := .proj.Params.tags -}}
+      {{- range $index, $el := first 3 .proj.Params.tags -}}
         {{- if gt $index 0 -}},&nbsp;{{- end -}}
         <a href="/tags/{{ . | urlize }}">{{ . }}</a>
       {{- end -}}
