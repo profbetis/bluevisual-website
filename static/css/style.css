@@ -130,13 +130,17 @@ input{
   outline: 12px solid #202020 !important;
 }
 #kev .tile-content{
+  position: absolute !important;
   top: -53px;
   left: -53px;
   background-size: 250px;
   background-position: center;
 }
-#kev:hover .tile-content{
-  background-image: url('/images/portraits/kevin-weber-alt.jpg') !important;
+#kev .tile-content:first-child{
+  z-index: 10;
+}
+#kev:hover .tile-content:first-child{
+  z-index: -10;
 }
 
 #bio .project-tile .plate{
