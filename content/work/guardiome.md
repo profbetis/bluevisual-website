@@ -1,7 +1,7 @@
 +++
 client = "Guardiome"
 date = "2016-07-03T14:10:06-08:00"
-tags = ["product", "rendering", "branding"]
+tags = ["product", "rendering", "branding", "2d"]
 title = "Guardiome"
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop", "Adobe Illustrator", "Squarespace"]
 active = false
