@@ -135,6 +135,9 @@ input{
   background-size: 250px;
   background-position: center;
 }
+#kev:hover .tile-content{
+  background-image: url('/images/portraits/kevin-weber-alt.jpg') !important;
+}
 
 #bio .project-tile .plate{
   position: absolute;
