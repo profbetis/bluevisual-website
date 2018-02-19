@@ -2,8 +2,11 @@
 
   {{ partial "project-group-shifters" "about" }}
 
+  <!-- Reel Tile -->
+  {{ partial "link-tile" (dict "title" "Reel" "url" "/reel" "delay" 0.00 "groupID" .groupID) }}
+
   <div class="about project-tile" value="{{ .groupID }}"
-  style="transition: opacity 0.4s ease 0.00s;">
+  style="transition: opacity 0.4s ease 0.05s;">
     <div class="plate"></div>
     <div class="tile-content">
       <br><br><br>Hi, <b>I'm Kevin.</b><br><br>I've been doing 3D work for<br>over eight years, most of it in LA, <br>and some of it in Detroit. I hope to<br>continue doing this in<br>many places.
@@ -11,7 +14,7 @@
   </div>
 
   <div class="about project-tile" value="{{ .groupID }}"
-  style="transition: opacity 0.4s ease 0.05s;">
+  style="transition: opacity 0.4s ease 0.1s;">
     <div class="plate"></div>
     <div class="tile-content">
       <br><br><br>When I'm not<br>working on my own<br>personal projects, I like making<br>music, photography, programming, <br>playing (and making!) video<br>games, and taking long<br>walks on the<br>beach.
@@ -19,22 +22,11 @@
   </div>
 
   <div class="about project-tile" value="{{ .groupID }}"
-  style="transition: opacity 0.4s ease 0.10s;">
+  style="transition: opacity 0.4s ease 0.15s;">
     <div class="plate"></div>
     <div class="tile-content">
       <br><br><br><br>I put effort, quality, and<br>soul into my work because it<br>reflects who I am. I want to be proud <br>of the work I put out into the <br>world. I hope to inspire <br>others to do the<br>same.
     </div>
-  </div>
-
-  <div class="about project-tile" value="{{ .groupID }}"
-  style="transition: opacity 0.4s ease 0.15s;" id="reel">
-    <div class="plate"></div>
-    <div class="tile-content " style="background-image: url('/images/meta/reel-thumb.jpg')">
-      <a href="/reel">
-        <label for="reel-toggle"></label>
-      </a>
-    </div>
-    <div class="project-name">Reel</div>
   </div>
 
   <div class="about project-tile" value="{{ .groupID }}"
