@@ -1,5 +1,5 @@
 <div class="vimeo-container project-image">
-  <iframe src="//player.vimeo.com/video/{{ .Get 0 }}?title=0&byline=0&portrait=0&color=00ccff" width="960" height="{{ .Get 2 }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  <iframe src="//player.vimeo.com/video/{{ .Get 0 }}?title=0&byline=0&portrait=0&color=00ccff" width="960" height="{{ .Get 1 }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe>
-  {{- if gt (len .Params) 1 -}}<div class="caption">{{- .Get 1 -}}</div>{{- end -}}
+  {{- if gt (len .Params) 2 -}}<div class="caption">{{- .Get 2 -}}</div>{{- end -}}
 </div>
