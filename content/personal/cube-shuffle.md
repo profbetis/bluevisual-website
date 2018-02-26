@@ -10,7 +10,7 @@ sections = ["Orthographic Pathing", "Edge Walking", "Textures"]
 
 This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of "atomize" an object, and the reassemble it in a different order.
 
-{{< video 1 >}}
+{{< vimeo 257441986 540 >}}
 
 {{< image 5 >}}
 
