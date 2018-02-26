@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - Paint Tests</title>
+      <meta property="og:title" content="Blue Visual - Paint Tests" />
+      <meta name="description" content="This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another,..."/>
+      <meta property="og:description" content="This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another,..." />
+      <link rel="canonical" href="http://bluevisual.tv/personal/paint-tests/" />
+      <meta property="og:url" content="http://bluevisual.tv/personal/paint-tests/" />
+      <meta property="og:image" content="http://bluevisual.tv//images/paint-tests-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<a href="/"> <img src="/header.svg" id="header"> </a>
+
+
+<a href="http://bluevisual.tv/" id="return">
+  <span>Return        &lt;</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <a href="http://bluevisual.tv/personal/paint-tests/">
+    <div class="image" style="background-image: url('/images/paint-tests-thumb.jpg');" ></div>
+  </a>
+
+  <div class="info">
+    <div class="title"><a href="http://bluevisual.tv/personal/paint-tests/">Paint Tests</a></div>
+    <div class="subtitle">
+      
+
+      
+        
+          Feb 2018
+        
+      
+    </div>
+    <div class="tags">
+      <div>Tags</div><a href="/tags/study"><div>study</div></a><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/dynamics"><div>dynamics</div></a></div>
+    <div class="tools">
+      <div>Tools</div><div>Houdini</div><div>Octane Render</div><div>After Effects</div><div>Filter Forge</div></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#dynamics">Dynamics</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#textures">Textures</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      
+
+<p>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.</p>
+
+<div class="vimeo-container project-image">
+  <iframe src="//player.vimeo.com/video/255840349?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe></div>
+
+
+<h1 id="dynamics">Dynamics</h1>
+
+<p>This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</p>
+
+<p>Most of the fluid&rsquo;s behavior comes from it&rsquo;s fairly moderate viscosity, surface tension, and particle separation. The particle separation provided the necessary outward force for the fluid to go out and spread across the cube instead of piling up in a heap at the nozzle.</p>
+
+<p>If you look at the invisible nozzle at the top of the video, you notice it moving around a bit. I gave it a simple noise-based motion but it really helped to break up the sim and give a natural and non-uniform pattern to the colors, even though the main body of the fluid seems to be unaffected by it. I also added a more subtle noise to the source volume that breaks up the stream a bit to give a varying flow.</p>
+
+<h2 id="final-particle-count-21-724-899">Final Particle Count: 21,724,899</h2>
+
+<h2 id="final-mesh-vertices-597-716">Final Mesh Vertices: 597,716</h2>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/paint-tests-video-01.mp4" />
+    
+  </video>
+  <div class="caption">Here&#39;s a playblast showing the particle age as a gradient from black to white</div>
+</div>
+
+
+<p>I think what&rsquo;s personally interesting is to see where the early particles end up going throughout time. In real life you can never really visualize or track those kinds of things.</p>
+
+<h1 id="textures">Textures</h1>
+
+<p>Colors are actually done post-sim using the birth-time as an attribute and using that as a UV coordinate to look up a painted color spectrum texture to get realistic paint colors.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/images/paint-tests-02.jpg"></label><div class="caption">The paint spectrum photograph used to sample colors from.</div></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/images/paint-tests-02.jpg"><div class="caption">The paint spectrum photograph used to sample colors from.</div></label>
+</div>
+
+
+<p>There&rsquo;s no particular reason for the tiles the way they are, I just thought they&rsquo;d look nice as something for the paint to spill onto.
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/images/paint-tests-01.jpg"></label><div class="caption">Various texture maps for the tiles, generated procedurally in Filter Forge.</div></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/images/paint-tests-01.jpg"><div class="caption">Various texture maps for the tiles, generated procedurally in Filter Forge.</div></label>
+</div>
+</p>
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/study">
+          study
+        </a>
+        <a href="/tags/houdini">
+          houdini
+        </a>
+        <a href="/tags/dynamics">
+          dynamics
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <div id="return-bottom">
+    <a href="http://bluevisual.tv/">Return to Project Grid</a>
+</div>
+
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

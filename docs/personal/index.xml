@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personals on Blue Visual v03</title>
+    <link>http://bluevisual.tv/personal/</link>
+    <description>Recent content in Personals on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paint Tests</title>
+      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
+      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
+Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://bluevisual.tv/personal/form/</link>
+      <pubDate>Wed, 07 Feb 2018 20:27:25 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/form/</guid>
+      <description>Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What&amp;rsquo;s great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
+Custom Slicer The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do.</description>
+    </item>
+    
+    <item>
+      <title>Cube Shuffle</title>
+      <link>http://bluevisual.tv/personal/cube-shuffle/</link>
+      <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/cube-shuffle/</guid>
+      <description>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.
+Orthographic Pathing I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there.</description>
+    </item>
+    
+    <item>
+      <title>Canvases</title>
+      <link>http://bluevisual.tv/personal/canvases/</link>
+      <pubDate>Sun, 02 Oct 2016 04:32:11 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/canvases/</guid>
+      <description>&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hilbert Stairs</title>
+      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bungee Chair Models</title>
+      <link>http://bluevisual.tv/personal/bungeechairs/</link>
+      <pubDate>Thu, 02 Jun 2016 10:36:45 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
+      <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hexcabin</title>
+      <link>http://bluevisual.tv/personal/hexcabin/</link>
+      <pubDate>Sun, 01 May 2016 04:05:01 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hexcabin/</guid>
+      <description>&lt;p&gt;For a while now I&amp;rsquo;ve had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transit</title>
+      <link>http://bluevisual.tv/personal/transit/</link>
+      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/transit/</guid>
+      <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exion49 Model</title>
+      <link>http://bluevisual.tv/personal/exion49/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:14 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/exion49/</guid>
+      <description>&lt;p&gt;This project&amp;rsquo;s goal was to recreate &lt;a href=&#34;http://www.m-audio.com/products/view/axiom-49&#34;&gt;M-Audio&amp;rsquo;s Axiom49&lt;/a&gt;. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Giant</title>
+      <link>http://bluevisual.tv/personal/giant/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/giant/</guid>
+      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Destiny</title>
+      <link>http://bluevisual.tv/personal/destiny/</link>
+      <pubDate>Sun, 02 Nov 2014 10:37:22 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/destiny/</guid>
+      <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hypercube</title>
+      <link>http://bluevisual.tv/personal/hypercube/</link>
+      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hypercube/</guid>
+      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polygatures</title>
+      <link>http://bluevisual.tv/personal/polygatures/</link>
+      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/polygatures/</guid>
+      <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Whirl</title>
+      <link>http://bluevisual.tv/personal/whirl/</link>
+      <pubDate>Thu, 02 May 2013 10:38:29 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/whirl/</guid>
+      <description>&lt;p&gt;As I was falling asleep, I imagined a neat sort of kinetic sculpture. I imagine a sort of rod or dowel with thousands of strings all over it, all with tiny orbs of light at the ends. While stationary, these would simply look like random dots hanging down, but as the motor spun up and reached a sustained velocity, the dots would all fan out from centripetal force, and the motion would leave long streaks of light in a trail, turning into a field of stars.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stargaze</title>
+      <link>http://bluevisual.tv/personal/stargaze/</link>
+      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/stargaze/</guid>
+      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dust</title>
+      <link>http://bluevisual.tv/personal/dust/</link>
+      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/dust/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pyramid Fractal</title>
+      <link>http://bluevisual.tv/personal/pyramidfractal/</link>
+      <pubDate>Wed, 02 Jan 2013 10:38:25 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/pyramidfractal/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been interested in mathematics, which led to an early interest in fractals, which are mathematical self-similar shapes and formulas. A well-known one is the Mandelbrot fractal. A key characteristic of fractals is that if you look at a smaller part of the whole, you will see the same same structures at completely different scales.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

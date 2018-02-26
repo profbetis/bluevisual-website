@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vr on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/vr/</link>
+    <description>Recent content in Vr on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2016 10:36:54 -0400</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Transit</title>
+      <link>http://bluevisual.tv/personal/transit/</link>
+      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/transit/</guid>
+      <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

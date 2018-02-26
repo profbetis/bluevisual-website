@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procedural on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/procedural/</link>
+    <description>Recent content in Procedural on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2018 20:27:25 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/procedural/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Form</title>
+      <link>http://bluevisual.tv/personal/form/</link>
+      <pubDate>Wed, 07 Feb 2018 20:27:25 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/form/</guid>
+      <description>Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What&amp;rsquo;s great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
+Custom Slicer The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do.</description>
+    </item>
+    
+    <item>
+      <title>Cube Shuffle</title>
+      <link>http://bluevisual.tv/personal/cube-shuffle/</link>
+      <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/cube-shuffle/</guid>
+      <description>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.
+Orthographic Pathing I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there.</description>
+    </item>
+    
+    <item>
+      <title>Giant</title>
+      <link>http://bluevisual.tv/personal/giant/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/giant/</guid>
+      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stargaze</title>
+      <link>http://bluevisual.tv/personal/stargaze/</link>
+      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/stargaze/</guid>
+      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

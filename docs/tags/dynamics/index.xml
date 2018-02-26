@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamics on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/dynamics/</link>
+    <description>Recent content in Dynamics on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paint Tests</title>
+      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
+      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
+Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+    </item>
+    
+    <item>
+      <title>We Are Boats</title>
+      <link>http://bluevisual.tv/work/weareboats/</link>
+      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/weareboats/</guid>
+      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
+I handled all the visual effects for the film. All shots were done at 4k.
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+    </item>
+    
+    <item>
+      <title>Valentine Dayz</title>
+      <link>http://bluevisual.tv/work/valentine-dayz/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
+      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
+I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
+    </item>
+    
+    <item>
+      <title>Dust</title>
+      <link>http://bluevisual.tv/personal/dust/</link>
+      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/dust/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/architecture/</link>
+    <description>Recent content in Architecture on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Oct 2016 04:32:11 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Canvases</title>
+      <link>http://bluevisual.tv/personal/canvases/</link>
+      <pubDate>Sun, 02 Oct 2016 04:32:11 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/canvases/</guid>
+      <description>&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hexcabin</title>
+      <link>http://bluevisual.tv/personal/hexcabin/</link>
+      <pubDate>Sun, 01 May 2016 04:05:01 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hexcabin/</guid>
+      <description>&lt;p&gt;For a while now I&amp;rsquo;ve had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

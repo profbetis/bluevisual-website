@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/python/</link>
+    <description>Recent content in Python on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Feb 2018 20:27:25 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Form</title>
+      <link>http://bluevisual.tv/personal/form/</link>
+      <pubDate>Wed, 07 Feb 2018 20:27:25 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/form/</guid>
+      <description>Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What&amp;rsquo;s great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
+Custom Slicer The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Houdini on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/houdini/</link>
+    <description>Recent content in Houdini on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/houdini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paint Tests</title>
+      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
+      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
+Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://bluevisual.tv/personal/form/</link>
+      <pubDate>Wed, 07 Feb 2018 20:27:25 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/form/</guid>
+      <description>Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What&amp;rsquo;s great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
+Custom Slicer The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do.</description>
+    </item>
+    
+    <item>
+      <title>We Are Boats</title>
+      <link>http://bluevisual.tv/work/weareboats/</link>
+      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/weareboats/</guid>
+      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
+I handled all the visual effects for the film. All shots were done at 4k.
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+    </item>
+    
+    <item>
+      <title>Valentine Dayz</title>
+      <link>http://bluevisual.tv/work/valentine-dayz/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
+      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
+I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
+    </item>
+    
+    <item>
+      <title>Cube Shuffle</title>
+      <link>http://bluevisual.tv/personal/cube-shuffle/</link>
+      <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/cube-shuffle/</guid>
+      <description>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.
+Orthographic Pathing I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there.</description>
+    </item>
+    
+  </channel>
+</rss>

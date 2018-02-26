@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue Visual v03</title>
+    <link>http://bluevisual.tv/</link>
+    <description>Recent content on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paint Tests</title>
+      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
+      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
+Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+    </item>
+    
+    <item>
+      <title>Form</title>
+      <link>http://bluevisual.tv/personal/form/</link>
+      <pubDate>Wed, 07 Feb 2018 20:27:25 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/form/</guid>
+      <description>Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What&amp;rsquo;s great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
+Custom Slicer The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do.</description>
+    </item>
+    
+    <item>
+      <title>Kubota Earth Anim</title>
+      <link>http://bluevisual.tv/work/kubota-earth/</link>
+      <pubDate>Tue, 17 Oct 2017 22:49:56 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/kubota-earth/</guid>
+      <description>Ambidextrous Productions came to me for rendering a realistic globe animation for a commercial spot they were working on. They were creating a spot for Kubota Tractors, which provide a wide range of farming vechicles across the globe. The animation was urgent, and important, but the project completed on-time and successfully.
+Shaders Earth&amp;rsquo;s surface was created with NASA&amp;rsquo;s blue dot textures (diffuse, specular, bump). When the camera zooms down into the surface, I needed closer maps, so I grabbed some from Google Earth at different zoom levels and positioned them so they lined up.</description>
+    </item>
+    
+    <item>
+      <title>QGS Product Vis</title>
+      <link>http://bluevisual.tv/work/qgs-vis/</link>
+      <pubDate>Fri, 13 Oct 2017 22:54:59 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/qgs-vis/</guid>
+      <description>A friend of mine does freelance product design, and needed renders of his designs for his client&amp;rsquo;s pitch (QGS). He came to me to do a few animations for the project. Even though it was extremely short notice (not his fault), we completed the project successfully and on-time. QGS is a genetics sequencing company that intends to democratize expensive genome sequencing in the lab.
+My client provided the model files which were exported from Solidworks, and told me what materials the different parts had, and how each device opened and operated.</description>
+    </item>
+    
+    <item>
+      <title>We Are Boats</title>
+      <link>http://bluevisual.tv/work/weareboats/</link>
+      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/weareboats/</guid>
+      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
+I handled all the visual effects for the film. All shots were done at 4k.
+Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+    </item>
+    
+    <item>
+      <title>iPhone X Cases</title>
+      <link>http://bluevisual.tv/work/ca-ipx-cases/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ipx-cases/</guid>
+      <description>&lt;p&gt;Phone case renders for &lt;a href=&#34;https://www.caudabe.com/collections/iphone-x-accessories&#34;&gt;Caudabe&amp;rsquo;s iPhone X Collection&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Valentine Dayz</title>
+      <link>http://bluevisual.tv/work/valentine-dayz/</link>
+      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
+      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
+I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
+Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
+    </item>
+    
+    <item>
+      <title>iPhone 7 Cases</title>
+      <link>http://bluevisual.tv/work/ca-ip7-cases/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ip7-cases/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.caudabe.com/&#34;&gt;Caudabe&lt;/a&gt; is a phone case manufacturing company which specializes in sleek, precision products that offer beauty and protection. I work with them to visualize their products for online presentation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cube Shuffle</title>
+      <link>http://bluevisual.tv/personal/cube-shuffle/</link>
+      <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/cube-shuffle/</guid>
+      <description>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.
+Orthographic Pathing I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there.</description>
+    </item>
+    
+    <item>
+      <title>Lull</title>
+      <link>http://bluevisual.tv/work/lull/</link>
+      <pubDate>Fri, 10 Feb 2017 10:43:41 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/lull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WagooAR</title>
+      <link>http://bluevisual.tv/work/wagooar/</link>
+      <pubDate>Mon, 12 Dec 2016 09:30:44 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/wagooar/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Choice</title>
+      <link>http://bluevisual.tv/work/choice/</link>
+      <pubDate>Wed, 12 Oct 2016 00:53:46 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/choice/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a logo animation for a new logo they designed for their client &lt;a href=&#34;http://www.choicetool.com/&#34;&gt;Choice&lt;/a&gt; as part of their marketing package.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Canvases</title>
+      <link>http://bluevisual.tv/personal/canvases/</link>
+      <pubDate>Sun, 02 Oct 2016 04:32:11 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/canvases/</guid>
+      <description>&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ShadesClub</title>
+      <link>http://bluevisual.tv/work/shadesclub/</link>
+      <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/shadesclub/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hilbert Stairs</title>
+      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guardiome</title>
+      <link>http://bluevisual.tv/work/guardiome/</link>
+      <pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/guardiome/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more. I am now the Chief Creative Officer at Guardiome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bungee Chair Models</title>
+      <link>http://bluevisual.tv/personal/bungeechairs/</link>
+      <pubDate>Thu, 02 Jun 2016 10:36:45 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
+      <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hexcabin</title>
+      <link>http://bluevisual.tv/personal/hexcabin/</link>
+      <pubDate>Sun, 01 May 2016 04:05:01 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hexcabin/</guid>
+      <description>&lt;p&gt;For a while now I&amp;rsquo;ve had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Transit</title>
+      <link>http://bluevisual.tv/personal/transit/</link>
+      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/transit/</guid>
+      <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vape Traze</title>
+      <link>http://bluevisual.tv/work/vapetraze/</link>
+      <pubDate>Tue, 01 Mar 2016 17:41:15 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/vapetraze/</guid>
+      <description>&lt;p&gt;Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Space360</title>
+      <link>http://bluevisual.tv/work/space360la/</link>
+      <pubDate>Tue, 12 Jan 2016 00:40:26 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/space360la/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.space3sixty.com/&#34;&gt;Space360&lt;/a&gt; asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AminoCat</title>
+      <link>http://bluevisual.tv/work/aminocat/</link>
+      <pubDate>Sun, 01 Nov 2015 17:50:45 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/aminocat/</guid>
+      <description>&lt;p&gt;For this project, &lt;a href=&#34;https://www.facebook.com/AminoCat-Entertainment-135792499865038/&#34;&gt;AminoCat Entertainment&lt;/a&gt; needed a new and updated logo animation to put on their films. The studio wanted the output to be 4k, putting a foot forward in the UHD world.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Fiancé</title>
+      <link>http://bluevisual.tv/work/thefiance/</link>
+      <pubDate>Tue, 01 Sep 2015 21:05:29 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/thefiance/</guid>
+      <description>&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zoli Speedmodel</title>
+      <link>http://bluevisual.tv/work/zoli-speedmodel/</link>
+      <pubDate>Wed, 01 Jul 2015 21:05:39 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/zoli-speedmodel/</guid>
+      <description>&lt;p&gt;A colleague of mine worked briefly at &lt;a href=&#34;http://zoli-inc.com/&#34;&gt;Zoli&lt;/a&gt; as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a low-res photograph.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exion49 Model</title>
+      <link>http://bluevisual.tv/personal/exion49/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:14 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/exion49/</guid>
+      <description>&lt;p&gt;This project&amp;rsquo;s goal was to recreate &lt;a href=&#34;http://www.m-audio.com/products/view/axiom-49&#34;&gt;M-Audio&amp;rsquo;s Axiom49&lt;/a&gt;. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Giant</title>
+      <link>http://bluevisual.tv/personal/giant/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/giant/</guid>
+      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Destiny</title>
+      <link>http://bluevisual.tv/personal/destiny/</link>
+      <pubDate>Sun, 02 Nov 2014 10:37:22 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/destiny/</guid>
+      <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Honeyglue</title>
+      <link>http://bluevisual.tv/work/honeyglue/</link>
+      <pubDate>Tue, 01 Apr 2014 21:05:46 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/honeyglue/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hypercube</title>
+      <link>http://bluevisual.tv/personal/hypercube/</link>
+      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hypercube/</guid>
+      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bell Flythroughs</title>
+      <link>http://bluevisual.tv/work/landscape-flythroughs/</link>
+      <pubDate>Sat, 01 Feb 2014 21:06:02 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/landscape-flythroughs/</guid>
+      <description>&lt;p&gt;This project was for the live unveiling of a new helicopter from &lt;a href=&#34;http://www.bellhelicopter.com/&#34;&gt;Bell Helicopter&lt;/a&gt;. I wasn&amp;rsquo;t hired by Bell directly, I worked with &lt;a href=&#34;http://www.steamshow.com/&#34;&gt;Steam&lt;/a&gt;, a Santa Monica based visual production studio.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cyber Vice</title>
+      <link>http://bluevisual.tv/work/cybervice/</link>
+      <pubDate>Wed, 01 Jan 2014 21:06:09 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/cybervice/</guid>
+      <description>&lt;p&gt;This project required a few different things. Compositing screens (LOTS OF THEM), the design and animation of them, and a intro sequence for the beginning of the show.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Me &#43; Her</title>
+      <link>http://bluevisual.tv/work/me&#43;her/</link>
+      <pubDate>Sun, 01 Dec 2013 21:06:17 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/me&#43;her/</guid>
+      <description>&lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polygatures</title>
+      <link>http://bluevisual.tv/personal/polygatures/</link>
+      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/polygatures/</guid>
+      <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Onyx Cinema</title>
+      <link>http://bluevisual.tv/work/onyxcinema/</link>
+      <pubDate>Tue, 01 Oct 2013 21:06:41 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/onyxcinema/</guid>
+      <description>&lt;h2 id=&#34;revisited-april-2015&#34;&gt;Revisited April 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.onyxcinema.com/&#34;&gt;Onyx Cinema&lt;/a&gt; is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired &lt;a href=&#34;http://www.thejoylin.com/&#34;&gt;a colleague of mine&lt;/a&gt; to design the logo, and she directed them to me to animate it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alumiq</title>
+      <link>http://bluevisual.tv/work/alumiq/</link>
+      <pubDate>Sun, 01 Sep 2013 21:06:33 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/alumiq/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://alumiq.com/&#34;&gt;Alumiq&lt;/a&gt; &lt;em&gt;(pronounced &amp;lsquo;uh-loo-mik&amp;rsquo;)&lt;/em&gt; is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day&amp;rsquo;s events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Whirl</title>
+      <link>http://bluevisual.tv/personal/whirl/</link>
+      <pubDate>Thu, 02 May 2013 10:38:29 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/whirl/</guid>
+      <description>&lt;p&gt;As I was falling asleep, I imagined a neat sort of kinetic sculpture. I imagine a sort of rod or dowel with thousands of strings all over it, all with tiny orbs of light at the ends. While stationary, these would simply look like random dots hanging down, but as the motor spun up and reached a sustained velocity, the dots would all fan out from centripetal force, and the motion would leave long streaks of light in a trail, turning into a field of stars.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stargaze</title>
+      <link>http://bluevisual.tv/personal/stargaze/</link>
+      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/stargaze/</guid>
+      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Asus Vivobook</title>
+      <link>http://bluevisual.tv/work/asusvivo/</link>
+      <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/asusvivo/</guid>
+      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dust</title>
+      <link>http://bluevisual.tv/personal/dust/</link>
+      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/dust/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pyramid Fractal</title>
+      <link>http://bluevisual.tv/personal/pyramidfractal/</link>
+      <pubDate>Wed, 02 Jan 2013 10:38:25 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/pyramidfractal/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been interested in mathematics, which led to an early interest in fractals, which are mathematical self-similar shapes and formulas. A well-known one is the Mandelbrot fractal. A key characteristic of fractals is that if you look at a smaller part of the whole, you will see the same same structures at completely different scales.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

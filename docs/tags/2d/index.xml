@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2d on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/2d/</link>
+    <description>Recent content in 2d on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2016 09:30:30 -0500</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ShadesClub</title>
+      <link>http://bluevisual.tv/work/shadesclub/</link>
+      <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/shadesclub/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guardiome</title>
+      <link>http://bluevisual.tv/work/guardiome/</link>
+      <pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/guardiome/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more. I am now the Chief Creative Officer at Guardiome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Giant</title>
+      <link>http://bluevisual.tv/personal/giant/</link>
+      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/giant/</guid>
+      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stargaze</title>
+      <link>http://bluevisual.tv/personal/stargaze/</link>
+      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/stargaze/</guid>
+      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Asus Vivobook</title>
+      <link>http://bluevisual.tv/work/asusvivo/</link>
+      <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
+      
+      <guid>http://bluevisual.tv/work/asusvivo/</guid>
+      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

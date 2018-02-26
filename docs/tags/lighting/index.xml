@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lighting on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/lighting/</link>
+    <description>Recent content in Lighting on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2017 22:49:56 -0800</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/lighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kubota Earth Anim</title>
+      <link>http://bluevisual.tv/work/kubota-earth/</link>
+      <pubDate>Tue, 17 Oct 2017 22:49:56 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/kubota-earth/</guid>
+      <description>Ambidextrous Productions came to me for rendering a realistic globe animation for a commercial spot they were working on. They were creating a spot for Kubota Tractors, which provide a wide range of farming vechicles across the globe. The animation was urgent, and important, but the project completed on-time and successfully.
+Shaders Earth&amp;rsquo;s surface was created with NASA&amp;rsquo;s blue dot textures (diffuse, specular, bump). When the camera zooms down into the surface, I needed closer maps, so I grabbed some from Google Earth at different zoom levels and positioned them so they lined up.</description>
+    </item>
+    
+    <item>
+      <title>iPhone X Cases</title>
+      <link>http://bluevisual.tv/work/ca-ipx-cases/</link>
+      <pubDate>Wed, 23 Aug 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ipx-cases/</guid>
+      <description>&lt;p&gt;Phone case renders for &lt;a href=&#34;https://www.caudabe.com/collections/iphone-x-accessories&#34;&gt;Caudabe&amp;rsquo;s iPhone X Collection&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>iPhone 7 Cases</title>
+      <link>http://bluevisual.tv/work/ca-ip7-cases/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/ca-ip7-cases/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.caudabe.com/&#34;&gt;Caudabe&lt;/a&gt; is a phone case manufacturing company which specializes in sleek, precision products that offer beauty and protection. I work with them to visualize their products for online presentation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Polygatures</title>
+      <link>http://bluevisual.tv/personal/polygatures/</link>
+      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/polygatures/</guid>
+      <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
