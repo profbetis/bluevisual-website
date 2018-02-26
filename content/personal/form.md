@@ -11,10 +11,7 @@ sections = ["Custom Slicer", "G-Code Parsing", "Conclusion"]
 
 Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What's great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.
 
-{{< video 1 >}}
-
-{{< video 2 >}}
-#### Renders made with Octane Render.
+{{< vimeo 257422665 540 >}}
 
 # Custom Slicer
 The first thing I did is try to slice up a 3D model into lots of layers, as 3D printers do. I also know they typically use a nozzle to extrude from, and follow a path across the object until the layer is complete.
