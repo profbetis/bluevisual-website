@@ -4,7 +4,7 @@ tags = ["vfx", "houdini", "film"]
 date = 2018-03-11T21:18:47-07:00
 client = "San Rafael Productions"
 tools = ["Houdini", "Adobe After Effects", "Mantra", "Octane Render"]
-sections = ["Smoke & Debris", "Blood Splatters"]
+sections = ["Smoke and Debris", "Blood Splatters"]
 active = false
 peak = false
 draft = true
@@ -14,7 +14,7 @@ While most of [A Prayer for the Damned](https://www.imdb.com/title/tt7141520/) d
 
 {{< video 1 >}}
 
-# Smoke & Debris
+# Smoke and Debris
 ## Dynamics
 {{< video 3 >}}
 
