@@ -470,7 +470,7 @@ input{
   transform-origin: center center;
   transform: rotate(45deg);
   color: #909090;
-  outline: 1px dashed #383838;
+  outline: 4px dotted #383838;
 
   transition: all 0.2s ease;
 }
