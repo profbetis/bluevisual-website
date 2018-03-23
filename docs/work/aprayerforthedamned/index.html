@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - A Prayer for the Damned</title>
+      <meta property="og:title" content="Blue Visual - A Prayer for the Damned" />
+      <meta name="description" content="While most of A Prayer for the Damned doesn&rsquo;t have VFX, there were a few shots that needed a little more oomph.
+Smoke and Debris..."/>
+      <meta property="og:description" content="While most of A Prayer for the Damned doesn&rsquo;t have VFX, there were a few shots that needed a little more oomph.
+Smoke and Debris..." />
+      <link rel="canonical" href="http://bluevisual.tv/work/aprayerforthedamned/" />
+      <meta property="og:url" content="http://bluevisual.tv/work/aprayerforthedamned/" />
+      <meta property="og:image" content="http://bluevisual.tv//images/aprayerforthedamned-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<a href="/"> <img src="/header.svg" id="header"> </a>
+
+
+<a href="http://bluevisual.tv/" id="return">
+  <span>Return        &lt;</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <a href="http://bluevisual.tv/work/aprayerforthedamned/">
+    <div class="image" style="background-image: url('/images/aprayerforthedamned-thumb.jpg');" ></div>
+  </a>
+
+  <div class="info">
+    <div class="title"><a href="http://bluevisual.tv/work/aprayerforthedamned/">A Prayer for the Damned</a></div>
+    <div class="subtitle">
+      
+        for San Rafael Productions —
+      
+
+      
+        
+          Mar 2018
+        
+      
+    </div>
+    <div class="tags">
+      <div>Tags</div><a href="/tags/vfx"><div>vfx</div></a><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/film"><div>film</div></a></div>
+    <div class="tools">
+      <div>Tools</div><div>Houdini</div><div>Adobe After Effects</div><div>Mantra</div><div>Octane Render</div></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#smoke-and-debris">Smoke and Debris</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#blood-splatters">Blood Splatters</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      
+
+<p>While most of <a href="https://www.imdb.com/title/tt7141520/">A Prayer for the Damned</a> doesn&rsquo;t have VFX, there were a few shots that needed a little more <em>oomph</em>.</p>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/aprayerforthedamned-video-01.mp4" />
+    
+  </video>
+  
+</div>
+
+
+<h1 id="smoke-and-debris">Smoke and Debris</h1>
+
+<h2 id="dynamics">Dynamics</h2>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/aprayerforthedamned-video-03.mp4" />
+    
+  </video>
+  
+</div>
+
+
+<p>I roughly remade the chest and boot geometry and motion just enough to affect the smoke motion, but not for any rendering purposes. I attached the smoke&rsquo;s fuel volume to the chest so that when kicked open, the emitter got dragged with it. The fuel source decays and shrinks over time in order to match the temperature diffusion of the metal.</p>
+
+<p>For the lock debris, I originally tried scattering some pieces of distorted junk randomly near where it would have been shattered. This was okay but the pieces felt too random and unrelated to one another, along with not really matching the shape of anything too well. After trying out the procedural way, I quickly modeled a lock and shattered it with voronoi using points concentrated to where the bullet struck, giving a dense clump of small pieces at the impact, with larger cracked pieces further way.</p>
+
+<p>I could have simulated a bullet impacting this geometry, but since you never see it explode, I went with simply applying an initial downward force with some angular velocity so that it scattered the pieces pretty well in the area. I used a simple heightfield terrain to mimic the uneven sand beneath. I then gave the ground plane a shadow catcher material and shifted them downwards into it a bit as if the pieces were stuck in the sand. The pieces didn&rsquo;t need to be animated for the shot, so I just rendered a still EXR with Mantra and matched it with the minimal camera motion in post.</p>
+
+<h2 id="compositing">Compositing</h2>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/aprayerforthedamned-video-02.mp4" />
+    
+  </video>
+  
+</div>
+
+
+<p>The shadows moving across the debris needed to be accounted for as well. I really didn&rsquo;t want to try to match the shadows in 3D and render a sequence, so instead I rendered one version with the sun in the render, and one without as if it was in shadow. I was able to create a difference matte against an unshadowed frame and use it to blend the two renders together without needing to do any keyframing. The smoke also needed to be shaded when appropriate, but I wasn&rsquo;t able to get clever with the footage, so I manually keyframed its lightening and darkening based on nearby objects.</p>
+
+<p>There is a powder blast right under the smoke that also needed correct shading that I had no patience to do in 3D or manually, so I was able to use some extreme levels wrangling to turn the footage into a posterized shadow map which was at three luminance levels: full sun, shadow, and dark shadow. I applied this map on top to give the soot lighting derived from the footage while leaving the textures and details from the footage behind.</p>
+
+<h1 id="blood-splatters">Blood Splatters</h1>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/aprayerforthedamned-video-04.mp4" />
+    
+  </video>
+  
+</div>
+
+
+<h2 id="dynamics-1">Dynamics</h2>
+
+<p>I tried a few different methods for generating the splatter, but eventually settled on a hitting a small sphere of fluid with a bullet-like object with other geometry to break up the collision. With high reseeding values, this was enough to make an impressive upwards splash.</p>
+
+<p>Looking back, I realize now that having too much reseeding is not volume-preserving, especially for particles in open-air. The output was usable anyway, but for future simulations that need more stablility, I&rsquo;ll find a better solution.</p>
+
+<h2 id="compositing-1">Compositing</h2>
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/aprayerforthedamned-video-05.mp4" />
+    
+  </video>
+  
+</div>
+
+
+<p>Even though I had simulated at a real-time speed, it looked very slow when put onto the footage, so it had to be sped up a bit to match a physically probable speed. This may have been due to the high reseeding I mentioned earlier.</p>
+
+<p>There was a lot of smoke coming from the gun. I needed to take this into account when compisiting it, so I blended the blood with a solid smoke color using an evolving turbulence noise in post. While it seems like a cheap hack, the results look fine due to the speed of the shots, and it made adjustments extremely fast.</p>
+
+<p>Standard roto work for the hat, arms, and body, and there was also a bit of relighting and color correction to help it match the scene better.</p>
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/vfx">
+          vfx
+        </a>
+        <a href="/tags/houdini">
+          houdini
+        </a>
+        <a href="/tags/film">
+          film
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <div id="return-bottom">
+    <a href="http://bluevisual.tv/">Return to Project Grid</a>
+</div>
+
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

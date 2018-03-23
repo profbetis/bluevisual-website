@@ -6,10 +6,20 @@
     <description>Recent content in Vfx on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 19:22:44 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Mar 2018 21:18:47 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Prayer for the Damned</title>
+      <link>http://bluevisual.tv/work/aprayerforthedamned/</link>
+      <pubDate>Sun, 11 Mar 2018 21:18:47 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/aprayerforthedamned/</guid>
+      <description>While most of A Prayer for the Damned doesn&amp;rsquo;t have VFX, there were a few shots that needed a little more oomph.
+Smoke and Debris Dynamics I roughly remade the chest and boot geometry and motion just enough to affect the smoke motion, but not for any rendering purposes. I attached the smoke&amp;rsquo;s fuel volume to the chest so that when kicked open, the emitter got dragged with it.</description>
+    </item>
     
     <item>
       <title>We Are Boats</title>
