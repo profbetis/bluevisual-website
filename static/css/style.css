@@ -860,8 +860,8 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   top: calc(50% - 0.85em);
   left: -1.85em;
   width: 141%;
-  font-size: 1.1em;
-  line-height: 1em;
+  line-height: 1rem;
+  font-size: 1rem;
   white-space: nowrap;
   font-weight: 300;
   z-index: 10;
