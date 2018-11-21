@@ -934,6 +934,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   font-weight: 400;
   background: #282828;
   color: #a0a0a0;
+  padding: 0.5em;
 }
 .content .project-image .caption,
 .content .project-video .caption,
