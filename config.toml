@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Blue Visual v03"
 
 publishdir = "docs"
+
+pygmentsuseclasses = true
