@@ -6,7 +6,7 @@ draft: true
 tags: ["houdini", "procedural", "tool"]
 tools: ["Houdini"]
 
-sections: ["Overview", "Controls", "Setup", "Solver", "Post-Process", "Example"]
+sections: ["Overview", "Controls", "Setup", "Solver", "Post-Process"]
 ---
 
 # Overview
@@ -15,6 +15,8 @@ The Edgewalker tool starts at a group of points, and walks along edges to neighb
 {{< image 5 "A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes." >}}
 
 While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don't avoid current edges and have many merges or splits.
+
+{{< vimeo 301523437 540 "Here's a project that utilizes the output of the edgewalker." >}}
 
 # Controls
 The controls are split up into three main groups that don't much affect the others.
@@ -261,4 +263,3 @@ foreach( int pt; pts ){
 The final output of the solver is not lines, it's actually an edge group. This lets you receive your geometry unharmed, if that's what you need. Mostly though, the edge group is used to create polylines out of each path.
 Later, temporary attributes and groups are cleaned up, unless otherwise decided.
 {{< image 3 "Output network for post-processing." >}}
-# Example
