@@ -1,7 +1,6 @@
 ---
 title: "Edgewalker"
 date: 2018-11-20T14:10:36-08:00
-draft: true
 
 tags: ["houdini", "procedural", "tool"]
 tools: ["Houdini"]
@@ -16,7 +15,9 @@ The Edgewalker tool starts at a group of points, and walks along edges to neighb
 
 While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don't avoid current edges and have many merges or splits.
 
-{{< vimeo 301523437 540 "Here's a project that utilizes the output of the edgewalker." >}}
+{{< vimeo 301523437 540 "Here's a small project that uses the output of the edgewalker. Rendered in Octane Render." >}}
+
+For this video, I took the attribute created upon creating an edge called "path_time". I capture a rest position after the final solve, then set the Y position to this attribute. After that I use a Clip SOP (as opposed to Blast) to smoothly remove any path geometry ahead of a certain amount and then return the rest position. I then pushed points away from the center based on their "path_time" attribute as well, giving some depth and layering to the final shape. Finally, instancing some spheres at corners and carve positions for some extra life.
 
 # Controls
 The controls are split up into three main groups that don't much affect the others.
