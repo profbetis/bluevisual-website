@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://bluevisual.tv/personal/edgewalker/</loc>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://bluevisual.tv/work/aprayerforthedamned/</loc>
     <lastmod>2018-03-11T21:18:47-07:00</lastmod>
   </url>
@@ -244,7 +249,7 @@
   
   <url>
     <loc>http://bluevisual.tv/</loc>
-    <lastmod>2018-03-11T21:18:47-07:00</lastmod>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -279,7 +284,7 @@
   
   <url>
     <loc>http://bluevisual.tv/tags/houdini/</loc>
-    <lastmod>2018-03-11T21:18:47-07:00</lastmod>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -303,13 +308,13 @@
   
   <url>
     <loc>http://bluevisual.tv/personal/</loc>
-    <lastmod>2018-02-18T20:29:07-08:00</lastmod>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://bluevisual.tv/tags/procedural/</loc>
-    <lastmod>2018-02-07T20:27:25-08:00</lastmod>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -346,6 +351,12 @@
   <url>
     <loc>http://bluevisual.tv/tags/</loc>
     <lastmod>2016-09-12T09:30:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bluevisual.tv/tags/tool/</loc>
+    <lastmod>2018-11-20T14:10:36-08:00</lastmod>
     <priority>0</priority>
   </url>
   

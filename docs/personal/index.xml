@@ -6,10 +6,20 @@
     <description>Recent content in Personals on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 14:10:36 -0800</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/personal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Edgewalker</title>
+      <link>http://bluevisual.tv/personal/edgewalker/</link>
+      <pubDate>Tue, 20 Nov 2018 14:10:36 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/edgewalker/</guid>
+      <description>Overview The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.
+A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don&amp;rsquo;t avoid current edges and have many merges or splits.</description>
+    </item>
     
     <item>
       <title>Paint Tests</title>
