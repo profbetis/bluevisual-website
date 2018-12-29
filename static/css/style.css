@@ -707,12 +707,12 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   width: 141.4%;
   height: 141.4%;
   background-size: cover;
-  filter: grayscale(100%) contrast(25%) brightness(45%);
+  /* filter: grayscale(100%) contrast(25%) brightness(45%); */
 }
 
 .project-tile:hover .project-thumb{
-  filter: grayscale(0%) contrast(100%) brightness(100%);
-  transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  filter: grayscale(100%) contrast(70%) brightness(30%);
+  transition: filter 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile > div{
   transform: rotate(-45deg);
@@ -731,14 +731,16 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   font-weight: 300;
   z-index: 10;
   pointer-events: none;
-  transition: all 0.25s ease;
+  opacity: 0;
+  transition: all 0.2s ease;
 }
 .project-tile:hover .project-name{
-  background-color: rgba(0,0,0,0.8);
+  /* background-color: rgba(0,0,0,0.8); */
+  opacity: 1.0;
   color: #fff;
-  top: calc(50% - 1.3em);
-  left: -2.3em;
-  transition: all 0.15s ease;
+  top: calc(50% - 1.4em);
+  left: -2.4em;
+  transition: all 0.2s ease;
 }
 .project-tile .project-name a{
   color: inherit;
@@ -753,7 +755,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   font-size: 0.6em;
   font-weight: 500;
   opacity: 0;
-  transition: all 0.25s ease;
+  transition: all 0.2s ease;
 }
 .project-tile:hover .project-tags{
   opacity: 1.0;
@@ -761,6 +763,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
 }
 
 .project-active{
+  opacity: 0.0;
   position: absolute;
   top: 40px;
   left: -25%;
@@ -771,6 +774,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   transition: all 0.25s ease;
 }
 .project-tile:hover .project-active{
+  opacity: 1.0;
   color: #0cf;
   background: rgba(0,0,0,0.7);
   transition: all 0.15s ease;
