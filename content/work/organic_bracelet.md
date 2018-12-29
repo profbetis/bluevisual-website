@@ -4,7 +4,7 @@ tags = ["procedural", "modeling", "houdini"]
 date = 2018-12-20T13:37:18-08:00
 client = "ARYSE"
 tools = ["Houdini 17"]
-sections = ["Voronoi Wrangling", "SDF Meshing"]
+sections = ["Voronoi Wrangling", "SDF Meshing", "Miscellaneous"]
 active = false
 peak = false
 draft = true
@@ -28,7 +28,7 @@ I next selected points within the logo areas, and grew the selection until it co
 {{< image 3 >}}
 
 # SDF Meshing
-After the cell shapes are generated, I extruded them and converted them into a Signed Distance Field (SDF) which is a voxel-grid with values that represent the distance to the closest surface from that point. While that sounds abstract, it allows certain methods of volumetric modeling to be much faster and naturally controlled.
+After the cell shapes are generated, I extruded them and converted them into a Signed Distance Field (SDF) which is a voxel-grid with values of the distance to the closest surface at that point. While that sounds abstract, it allows certain methods of volumetric modeling to be much faster and naturally controlled.
 
 Here you can see the extruded cells that will later be cut out of the classic bracelet shape. At this stage, I've already applied a smoothing filter to help round out many edges and corners, giving a more organic feeling to the structure.
 
@@ -36,6 +36,13 @@ Here you can see the extruded cells that will later be cut out of the classic br
 
 Booleans with SDFs are relatively fast, and give water-tight and well-distributed geometry when converted back into polygons. This is important for real-world applications such as 3D printing or injection mold processes.
 
-Lastly, I took the supplied vector logos and gave them the same treatment as the voronoi cells in order to cut them out of the bracelet as well.
+Lastly, I took the supplied vector logos and gave them the same treatment as the voronoi cells in order to cut them out of the bracelet.
 
 {{< image 5 >}}
+
+# Miscellaneous
+This is the node network for the entire process.
+{{< image 6 >}}
+
+This is the very first node in the tree. It uses some custom parameters (Circumference) and formulas to stay mathematically precise and fit the specification from the client. The radius is determined by inversing the `C = 2πr` equation into `r = C/2π`. I'd rather use Tau here, but don't get me started on that.
+{{< image 7 >}}
