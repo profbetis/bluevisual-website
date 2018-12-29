@@ -66,6 +66,13 @@ input{
   display: none;
 }
 
+code{
+  color: #c0c0c0;
+  background-color: #101010;
+  padding: 0em 0.5em;
+  margin: 0em 0.25em;
+}
+
 .rotate{ transform: rotate(45deg); }
 .unrotate{ transform: rotate(-45deg); }
 
