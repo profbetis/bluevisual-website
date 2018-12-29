@@ -5,19 +5,20 @@ date: 2018-11-20T14:10:36-08:00
 tags: ["houdini", "procedural", "tool"]
 tools: ["Houdini"]
 
-sections: ["Overview", "Controls", "Setup", "Solver", "Post-Process"]
+sections: ["Algorithm", "Controls", "Setup", "Solver", "Post-Process"]
 ---
 
-# Overview
+{{< vimeo 301523437 540 "An example project that uses the output of the edgewalker." >}}
+
+# Algorithm
+
 The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.
 
 {{< image 5 "A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes." >}}
 
 While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don't avoid current edges and have many merges or splits.
 
-{{< vimeo 301523437 540 "Here's a small project that uses the output of the edgewalker. Rendered in Octane Render." >}}
-
-For this video, I took the attribute created upon creating an edge called "path_time". I capture a rest position after the final solve, then set the Y position to this attribute. After that I use a Clip SOP (as opposed to Blast) to smoothly remove any path geometry ahead of a certain amount and then return the rest position. I then pushed points away from the center based on their "path_time" attribute as well, giving some depth and layering to the final shape. Finally, instancing some spheres at corners and carve positions for some extra life.
+For the above video I took the attribute created upon creating an edge called `path_time`. I capture a rest position after the final solve, then set the Y position to this attribute. After that I use a Clip SOP (as opposed to Blast) to smoothly remove any path geometry ahead of a certain amount and then return the rest position. I then pushed points away from the center based on their `path_time` attribute as well, giving some depth and layering to the final shape. Finally, instancing some spheres at corners and carve positions for some extra life.
 
 # Controls
 The controls are split up into three main groups that don't much affect the others.
