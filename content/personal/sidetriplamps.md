@@ -5,9 +5,9 @@ date = 2018-10-30T21:50:42-08:00
 tools = ["Houdini 17", "Octane Render"]
 +++
 
-"[SideTrip](https://skybase.xyz/sidetrip) is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy."
+"[SideTrip](https://skybase.xyz/sidetrip) is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy." — Project Director
 
-It's a project directed by my friend where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.
+It's a project directed by my friend [Yuya Takeda](http://skybase.xyz) where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.
 
 We were provided reference material showing some real-life examples, appropriate level of modeling detail, and other constraints like size, making sure there was bulb geometry inside the lamp, etc. The constraints were important because the models were going to be collected from various modeling programs and imported into Modo for scene layout and final rendering in Octane Render.
 
@@ -33,7 +33,7 @@ Along-side those concepts, I also thought about how these lamps were being creat
 
 For the first time in a while, I was having a lot of fun not being so caught up in code and the nuances of geometry like in some of my other fully procedural projects. In this, I was able to bring out a more care-free and artistic side of myself and keep adding more and trying to channel the real-life lamps but also create my own style.
 
-This network is one of the lower nodes in the tree. My main workflow was to have skeleton geometry that represented lines and anchor points that things were generated from and instanced onto. This let me easily adjust the base geometry and generate my high-resolution details from that.
+This network is one of the lower nodes in the tree. My main workflow was to have skeleton geometry that represented lines and anchor points that things were generated from and instanced onto, and passed down the procedural tree. This let me easily manipulate this base skeleton geometry and generate my high-resolution details from that.
 
 {{< image 5 >}}
 
