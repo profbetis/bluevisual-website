@@ -2,39 +2,19 @@
 
 {{ partial "header" . }}
 
+<h1>Tag Cloud</h1>
+<br><br>
+
 <div id="projects">
-  <form>
-    <input type="radio" name="section" value="1" id="switch-1" checked>
-
-    <div class="project-group" value="selectors">
-
-      {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0 "groupID" 1) }}
-
-      <div class="project-tile selector" value="1">
-        <label for="switch-1">
-          <div>Tag Cloud</div>
-        </label>
-      </div>
-
-    </div>
-
-    <div class="project-group" value="1">
-
-      <div class="project-tile shifter" value="1"></div>
-      <div class="project-tile shifter" value="1"></div>
-
-      {{ $.Scratch.Set "offset" 0.0 }}
-      {{ $rootContext := .Data }}
-      {{ range $key, $value := .Data.Terms.ByCount }}
-        {{ $url := (print "/" $.Data.Plural "/" ($value.Name | urlize)) }}
-        {{ $firstproj := index $value.Pages 0 }}
-        {{ $image := (print "/images/" $firstproj.BaseFileName "-thumb.jpg" )}}
-        {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" .Count ")") "url" $url "image" $image "delay" ($.Scratch.Get "offset") "groupID" 1) }}
-        {{ $.Scratch.Add "offset" 0.05 }}
-      {{ end }}
-
-    </div>
-  </form>
+  <div class="project-group">
+    {{ $rootContext := .Data }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+      {{ $url := (print "/" $.Data.Plural "/" ($value.Name | urlize)) }}
+      {{ $firstproj := index $value.Pages 0 }}
+      {{ $image := (print "/images/" $firstproj.BaseFileName "-thumb.jpg" )}}
+      {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" .Count ")") "url" $url "image" $image) }}
+    {{ end }}
+  </div>
 </div>
 
 {{ partial "footer" . }}
