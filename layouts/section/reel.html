@@ -15,35 +15,21 @@
     </div>
 
     <br>
-    <h2>What project was that?</h2>
+    <h2>Which project was that?</h2>
     <br><br>
     <div id="projects">
-      <form>
-        <input type="radio" name="section" value="1" id="switch-1" checked>
+      <div class="project-group">
 
-        <div class="project-group" value="selectors">
+        {{ $reelProjs := (slice "work/weareboats.md" "work/valentine-dayz.md" "work/aprayerforthedamned.md" "work/kubota-earth.md" "personal/paint-tests.md" "personal/form.md" "personal/cube-shuffle.md") }}
 
-          <div class="project-tile selector" value="1" style="display: none;">
-            <label for="switch-1">
-              <div>{{ .Title }}</div>
-            </label>
-          </div>
+        {{ range $reelProjs }}
+          {{ $page := $.Site.GetPage "page" . }}
+          {{ partial "project-tile" (dict "proj" $page "lerp" 0.0) }}
+        {{ end }}
 
-        </div>
+        {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0.0) }}
 
-        <div class="project-group" value="1">
-
-          {{ $reelFiles := (slice "work/weareboats.md" "work/valentine-dayz.md" "work/aprayerforthedamned.md" "work/kubota-earth.md" "personal/paint-tests.md" "personal/form.md" "personal/cube-shuffle.md") }}
-
-          {{ range $reelFiles }}
-            {{ $page := $.Site.GetPage "page" . }}
-            {{ partial "project-tile" (dict "proj" $page "groupID" 1 "delay" 0.0) }}
-          {{ end }}
-
-          {{ partial "link-tile" (dict "title" "Return" "url" "/" "groupID" 1 "delay" 0.0) }}
-
-        </div>
-      </form>
+      </div>
     </div>
 
   </div>

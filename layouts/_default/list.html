@@ -2,39 +2,24 @@
 
 {{ partial "header" . }}
 
+<h1>{{ .Title }} Projects</h1>
+<br><br>
+
 <div id="projects">
-  <form>
-    <input type="radio" name="section" value="1" id="switch-1" checked>
+  <div class="project-group">
 
-    <div class="project-group" value="selectors">
+    {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0) }}
 
-      {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0 "groupID" 1) }}
+    {{ $rootContext := . }}
+    {{ .Scratch.Set "offset" 0.0 }}
 
-      <div class="project-tile selector" value="1">
-        <label for="switch-1">
-          <div>{{ .Title }}</div>
-        </label>
-      </div>
+    {{ range .Data.Pages }}
+      {{ partial "project-tile" (dict "proj" . "lerp" 0) }}
+    {{ end }}
 
-    </div>
+    {{ partial "link-tile" (dict "title" "Tag Cloud" "url" "/tags" "delay" 0) }}
 
-    <div class="project-group" value="1">
-
-      <div class="project-tile shifter" value="1"></div>
-      <div class="project-tile shifter" value="1"></div>
-
-      {{ $rootContext := . }}
-      {{ .Scratch.Set "offset" 0.0 }}
-
-      {{ range .Data.Pages }}
-        {{ partial "project-tile" (dict "proj" . "groupID" 1 "delay" (.Scratch.Get "offset")) }}
-        {{ .Scratch.Add "offset" 0.05 }}
-      {{ end }}
-
-      {{ partial "link-tile" (dict "title" "Tag Cloud" "url" "/tags" "delay" (add 0.05 (.Scratch.Get "offset")) "groupID" 1) }}
-
-    </div>
-  </form>
+  </div>
 </div>
 
 {{ partial "footer" . }}

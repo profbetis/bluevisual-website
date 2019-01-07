@@ -1,11 +1,8 @@
 +++
+title = "Destiny"
 date = "2014-11-02T10:37:22-04:00"
 tags = ["art", "concept", "animation"]
 tools = ["3DS Max", "Octane Render"]
-title = "Destiny"
-active = false
-peak = false
-
 +++
 
 Destiny is a project about rails. A journey, and a destination.<!--more-->
@@ -26,8 +23,8 @@ Currently, there are just some more literal and unfinished interpretations of th
 ## Tests
 I needed a way to bring the balls back up to a higher elevation so that they could have potential energy again, but weird belt or mill systems seemed awkward, so I wanted a more interesting solution. I pondered passively for days about what would be a good design, and finally thought of one as I was falling asleep one night.
 
-{{< vimeo 113800843 "Elevator mechanism" 480 >}}
+{{< vimeo 113800843 480 "Elevator mechanism" >}}
 
-{{< vimeo 112143605 "Fast physics due to bad friction parameters, but I wanted to play with some camera angles" 480 >}}
+{{< vimeo 112143605 480 "Fast physics due to bad friction parameters, but I wanted to play with some camera angles" >}}
 
-{{< vimeo 111912557 "A quick test for camera angles and physics" 480 >}}
+{{< vimeo 111912557 480 "A quick test for camera angles and physics" >}}
