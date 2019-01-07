@@ -20,8 +20,8 @@
 
       <title>Blue Visual - Edgewalker</title>
       <meta property="og:title" content="Blue Visual - Edgewalker" />
-      <meta name="description" content="Overview The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or..."/>
-      <meta property="og:description" content="Overview The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or..." />
+      <meta name="description" content="An example project that uses the output of the edgewalker.Algorithm The Edgewalker tool starts at a group of points, and walks along..."/>
+      <meta property="og:description" content="An example project that uses the output of the edgewalker.Algorithm The Edgewalker tool starts at a group of points, and walks along..." />
       <link rel="canonical" href="http://bluevisual.tv/personal/edgewalker/" />
       <meta property="og:url" content="http://bluevisual.tv/personal/edgewalker/" />
       <meta property="og:image" content="http://bluevisual.tv//images/edgewalker-thumb.jpg" />
@@ -74,7 +74,7 @@
       <h2>Project Sections</h2>
       
         
-        <h3><a href="#overview">Overview</a></h3>
+        <h3><a href="#algorithm">Algorithm</a></h3>
       
         <span class="separator"> / </span>
         <h3><a href="#controls">Controls</a></h3>
@@ -98,7 +98,12 @@
     
       
 
-<h1 id="overview">Overview</h1>
+<div class="vimeo-container project-image">
+  <iframe src="//player.vimeo.com/video/301523437?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+  </iframe><div class="caption">An example project that uses the output of the edgewalker.</div></div>
+
+
+<h1 id="algorithm">Algorithm</h1>
 
 <p>The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.</p>
 
@@ -112,12 +117,7 @@
 
 <p>While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don&rsquo;t avoid current edges and have many merges or splits.</p>
 
-<div class="vimeo-container project-image">
-  <iframe src="//player.vimeo.com/video/301523437?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-  </iframe><div class="caption">Here&#39;s a small project that uses the output of the edgewalker. Rendered in Octane Render.</div></div>
-
-
-<p>For this video, I took the attribute created upon creating an edge called &ldquo;path_time&rdquo;. I capture a rest position after the final solve, then set the Y position to this attribute. After that I use a Clip SOP (as opposed to Blast) to smoothly remove any path geometry ahead of a certain amount and then return the rest position. I then pushed points away from the center based on their &ldquo;path_time&rdquo; attribute as well, giving some depth and layering to the final shape. Finally, instancing some spheres at corners and carve positions for some extra life.</p>
+<p>For the above video I took the attribute created upon creating an edge called <code>path_time</code>. I capture a rest position after the final solve, then set the Y position to this attribute. After that I use a Clip SOP (as opposed to Blast) to smoothly remove any path geometry ahead of a certain amount and then return the rest position. I then pushed points away from the center based on their <code>path_time</code> attribute as well, giving some depth and layering to the final shape. Finally, instancing some spheres at corners and carve positions for some extra life.</p>
 
 <h1 id="controls">Controls</h1>
 

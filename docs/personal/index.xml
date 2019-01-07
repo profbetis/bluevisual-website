@@ -17,8 +17,29 @@
       <pubDate>Tue, 20 Nov 2018 14:10:36 -0800</pubDate>
       
       <guid>http://bluevisual.tv/personal/edgewalker/</guid>
-      <description>Overview The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.
+      <description>An example project that uses the output of the edgewalker.Algorithm The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.
 A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don&amp;rsquo;t avoid current edges and have many merges or splits.</description>
+    </item>
+    
+    <item>
+      <title>SideTrip Lamps</title>
+      <link>http://bluevisual.tv/personal/sidetriplamps/</link>
+      <pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/sidetriplamps/</guid>
+      <description>&amp;ldquo;SideTrip is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&amp;rdquo; — Project Director
+It&amp;rsquo;s a project directed by my friend Yuya Takeda where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.</description>
+    </item>
+    
+    <item>
+      <title>SHNOPs Toolset</title>
+      <link>http://bluevisual.tv/personal/shnops/</link>
+      <pubDate>Thu, 27 Sep 2018 21:18:39 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/shnops/</guid>
+      <description>SHNOPs (visit the repo!) is an open-source toolset designed in and to use with SideFX&amp;rsquo;s Houdini.
+It stands for Simple Houdini Number OPerators. Its purpose is to provide a simple and cohesive framework to manipulate and analyze datasets into meaningful and interesting geometric respresentations.
+I was originally inspired to create this toolset when I had data of my own that I wanted to visualize and analyze myself instead of relying on another program that could do it differently or not offer the tools I wanted.</description>
     </item>
     
     <item>
