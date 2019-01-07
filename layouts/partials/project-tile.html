@@ -1,7 +1,14 @@
+{{ $gray := (mul .lerp 100) }}
+{{ $contrast := (sub 100 (mul .lerp 80.0)) }}
+{{ $brightness := (sub 120 (mul .lerp 80.0)) }}
+
+{{ $contrast := cond (gt $contrast 100) 100 $contrast }}
+{{ $brightness := cond (gt $brightness 100) 100 $brightness }}
+
 <div class="project-tile">
   <a href="{{ .proj.Permalink }}">
     <div class="project-thumb"
-    style="background-image: url('/images/{{ .proj.BaseFileName }}-thumb.jpg'); filter: grayscale({{mul .lerp 150}}%) contrast({{sub 100 (mul .lerp 80.0)}}%) brightness({{sub 100 (mul .lerp 60.0)}}%);">
+    style="background-image: url('/images/{{ .proj.BaseFileName }}-thumb.jpg'); filter: grayscale({{$gray}}%) contrast({{$contrast}}%) brightness({{$brightness}}%);">
     </div>
   </a>
 

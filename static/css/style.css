@@ -109,7 +109,6 @@ code{
   line-height: 1.375em;
   width: 200px;
   height: 200px;
-  outline: none;
   overflow: hidden;
 }
 #nav .project-tile > div{
@@ -557,6 +556,15 @@ form .project-tile{
 .project-tile.link{
   background-color: #282828;
   font-weight: 300;
+  outline: 1px solid #383838;
+  transition: all 0.3s ease;
+}
+.project-tile.link:hover{
+  outline: 1px solid #0cf;
+  transition: all 0.3s ease;
+}
+.project-tile.link:hover a{
+  color: #0cf;
 }
 .project-tile.link a{
   font-size: 1.1rem;
