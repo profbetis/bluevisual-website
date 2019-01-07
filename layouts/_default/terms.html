@@ -7,14 +7,12 @@
 
 <div id="projects">
   <div class="project-group">
-    {{ $.Scratch.Set "offset" 0.0 }}
     {{ $rootContext := .Data }}
     {{ range $key, $value := .Data.Terms.ByCount }}
       {{ $url := (print "/" $.Data.Plural "/" ($value.Name | urlize)) }}
       {{ $firstproj := index $value.Pages 0 }}
       {{ $image := (print "/images/" $firstproj.BaseFileName "-thumb.jpg" )}}
-      {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" .Count ")") "url" $url "image" $image "delay" ($.Scratch.Get "offset") "groupID" 1) }}
-      {{ $.Scratch.Add "offset" 0.05 }}
+      {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" .Count ")") "url" $url "image" $image) }}
     {{ end }}
   </div>
 </div>
