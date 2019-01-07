@@ -42,11 +42,11 @@ h1, h2{
 }
 
 h1{
-  font-size: 4vw;
+  font-size: 2.5rem;
 }
-@media (min-width: 1250px){
+@media (max-width: 1250px){
   h1{
-    font-size: 3rem;
+    font-size: 5vw;
   }
 }
 
@@ -101,10 +101,10 @@ code{
 /***  BIO  ***/
 /*******/
 
-#bio{
+#nav{
 }
 
-#bio .project-tile.about{
+#nav .project-tile{
   font-size: 0.75rem;
   line-height: 1.375em;
   width: 200px;
@@ -112,13 +112,13 @@ code{
   outline: none;
   overflow: hidden;
 }
-#bio .project-tile > div{
+#nav .project-tile > div{
   width: 283px;
   height: 283px;
   position: relative;
   text-align: center;
 }
-#bio .tile-content{
+#nav .tile-content{
   font-family: 'Source Sans Pro', sans-serif;
   top: -34px;
   left: -34px;
@@ -127,7 +127,7 @@ code{
 #kev{
   outline: 1px solid #000 !important;
 }
-#kev.project-tile.about{
+#kev.project-tile{
   width: 176px;
   height: 176px;
   margin-left: 20px;
@@ -150,7 +150,7 @@ code{
   z-index: -10;
 }
 
-#bio .project-tile .plate{
+#nav .project-tile .plate{
   position: absolute;
   width: 200px;
   height: 200px;
@@ -160,7 +160,7 @@ code{
   background-color: #202020;
   transform: rotate(0deg);
 }
-#bio svg{
+#nav svg{
   display: block;
   fill: #606060;
 }
@@ -477,32 +477,19 @@ code{
   transform-origin: center center;
   transform: rotate(45deg);
   color: #909090;
-  outline: 4px dotted #383838;
+  outline: 1px solid #383838;
 
-  transition: all 0.2s ease;
+  visibility: visible;
+
+  transition: all 0.3s ease;
 }
 form .project-tile{
   opacity: 0.0;
   visibility: hidden;
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 .project-group div.item{
-  opacity: 0.0;
-}
-
-.project-group[value="selectors"] .project-tile{
-  line-height: 1em;
   opacity: 1.0;
-  visibility: visible;
-  transition: all 0.2s ease;
-  pointer-events: all;
-}
-
-.project-group[value="selectors"] .project-tile:hover,
-.project-tile:hover{
-  outline: 1px solid #0cf;
-  z-index: 10;
-  transition: all 0.2s ease;
 }
 
 .project-tile label{
@@ -567,18 +554,12 @@ form .project-tile{
   }
 }
 
-.project-tile.selector{
-  background-color: #282828;
-  font-size: 1.3em;
-  font-weight: 300;
-}
-
 .project-tile.link{
   background-color: #282828;
-  font-size: 1.3em;
   font-weight: 300;
 }
 .project-tile.link a{
+  font-size: 1.1rem;
   display: block;
   position: absolute;
   width: 100%;
@@ -598,57 +579,18 @@ form .project-tile{
   transition: filter 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile.link:hover div.project-thumb{
-/* filter: grayscale(100%) contrast(100%) brightness(45%); */
-transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-}
-
-
-/* Active Project Group */
-input[value="1"]:checked ~ .project-group[value="1"],
-input[value="2"]:checked ~ .project-group[value="2"],
-input[value="3"]:checked ~ .project-group[value="3"],
-input[value="4"]:checked ~ .project-group[value="4"],
-input[value="5"]:checked ~ .project-group[value="5"],
-input[value="6"]:checked ~ .project-group[value="6"],
-input[value="7"]:checked ~ .project-group[value="7"],
-input[value="8"]:checked ~ .project-group[value="8"],
-input[value="9"]:checked ~ .project-group[value="9"]{
-  visibility: hidden;
-  transform: translateX(-50%) scaleY(1);
-  transition: all 0.4s step-start;
+  /* filter: grayscale(100%) contrast(100%) brightness(45%); */
+  transition: filter 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 
 /* Active Project Tiles */
-input[value="1"]:checked ~ .project-group[value="1"] > div,
-input[value="2"]:checked ~ .project-group[value="2"] > div,
-input[value="3"]:checked ~ .project-group[value="3"] > div,
-input[value="4"]:checked ~ .project-group[value="4"] > div,
-input[value="5"]:checked ~ .project-group[value="5"] > div,
-input[value="6"]:checked ~ .project-group[value="6"] > div,
-input[value="7"]:checked ~ .project-group[value="7"] > div,
-input[value="8"]:checked ~ .project-group[value="8"] > div,
-input[value="9"]:checked ~ .project-group[value="9"] > div{
+.project-group > div{
   opacity: 1.0;
 }
 
-/* Active Selector Tile */
-input[value="1"]:checked ~ .project-group .selector[value="1"],
-input[value="2"]:checked ~ .project-group .selector[value="2"],
-input[value="3"]:checked ~ .project-group .selector[value="3"],
-input[value="4"]:checked ~ .project-group .selector[value="4"],
-input[value="5"]:checked ~ .project-group .selector[value="5"],
-input[value="6"]:checked ~ .project-group .selector[value="6"],
-input[value="7"]:checked ~ .project-group .selector[value="7"],
-input[value="8"]:checked ~ .project-group .selector[value="8"],
-input[value="9"]:checked ~ .project-group .selector[value="9"]{
-  background-color: #181818;
-  outline: 1px solid #0cf;
-  color: #c0c0c0;
-}
-
-.project-tile.selector div{
+.project-tile > div{
   transform: rotate(-45deg);
-  margin-top: calc(50% - 0.5em);
+  /* margin-top: calc(50% - 0.5em); */
 }
 
 .project-tile.shifter{
@@ -673,8 +615,8 @@ input[value="9"]:checked ~ .project-group .selector[value="9"]{
 }
 
 .project-group {
+  transform: translateX(-50%) scaleY(1);
   left: calc(50% + 52px);
-  transform: translateX(-50%) scaleY(0);
   position: absolute;
   visibility: hidden;
   text-align: left;
@@ -685,26 +627,6 @@ input[value="9"]:checked ~ .project-group .selector[value="9"]{
   height: 200px;
   display: block;
 }
-.project-group[value="selectors"]{
-  opacity: 1.0;
-  visibility: visible;
-  transform: translateX(-50%) scaleY(1);
-}
-
-input[value="1"]:checked ~ .project-group[value="1"] > div,
-input[value="2"]:checked ~ .project-group[value="2"] > div,
-input[value="3"]:checked ~ .project-group[value="3"] > div,
-input[value="4"]:checked ~ .project-group[value="4"] > div,
-input[value="5"]:checked ~ .project-group[value="5"] > div,
-input[value="6"]:checked ~ .project-group[value="6"] > div,
-input[value="7"]:checked ~ .project-group[value="7"] > div,
-input[value="8"]:checked ~ .project-group[value="8"] > div,
-input[value="9"]:checked ~ .project-group[value="9"] > div{
-  opacity: 1.0;
-  visibility: visible;
-  transition: all 0.4s step-start;
-  pointer-events: all;
-}
 
 .project-thumb{
   transform: rotate(-45deg);
@@ -714,12 +636,16 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   width: 141.4%;
   height: 141.4%;
   background-size: cover;
+  transition: filter 0.5s ease-in;
   /* filter: grayscale(100%) contrast(25%) brightness(45%); */
 }
 
+.project-tile:hover{
+  outline: 1px solid #0cf;
+}
 .project-tile:hover .project-thumb{
-  filter: grayscale(100%) contrast(70%) brightness(30%);
-  transition: filter 0.2s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  filter: grayscale(100%) contrast(60%) brightness(30%) !important;
+  transition: filter 0.25s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .project-tile > div{
   transform: rotate(-45deg);
@@ -739,7 +665,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   z-index: 10;
   pointer-events: none;
   opacity: 0;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease-in;
 }
 .project-tile:hover .project-name{
   /* background-color: rgba(0,0,0,0.8); */
@@ -747,13 +673,14 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
   color: #fff;
   top: calc(50% - 1.4em);
   left: -2.4em;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease-out;
 }
 .project-tile .project-name a{
-  color: inherit;
+  color: #e0e0e0;
   pointer-events: auto;
+  transition: all 0.2s ease;
 }
-.project-tile .project-name a:hover{
+.project-tile:hover .project-name>a{
   color: #0cf;
 }
 
@@ -900,7 +827,7 @@ input[value="9"]:checked ~ .project-group[value="9"] > div{
 
 .content h1{
   font-size: 2.5rem;
-  margin-top: 6rem;
+  margin-top: 4rem;
 }
 .content h2{
   font-size: 1.5rem;
@@ -1111,6 +1038,10 @@ input:not(:checked) + div.lightbox{
 
 .proj-toc .separator{
   color: #606060;
+}
+
+.content #related{
+  margin-top: 4rem;
 }
 
 #return{

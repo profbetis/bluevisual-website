@@ -1,8 +1,7 @@
-<div class="project-tile" value="{{ .groupID }}"
-style="transition: opacity 0.4s ease {{ .delay }}s;">
+<div class="project-tile">
   <a href="{{ .proj.Permalink }}">
     <div class="project-thumb"
-    style="background-image: url('/images/{{ .proj.BaseFileName }}-thumb.jpg');">
+    style="background-image: url('/images/{{ .proj.BaseFileName }}-thumb.jpg'); filter: grayscale({{mul .lerp 150}}%) contrast({{sub 100 (mul .lerp 80.0)}}%) brightness({{sub 100 (mul .lerp 60.0)}}%);">
     </div>
   </a>
 

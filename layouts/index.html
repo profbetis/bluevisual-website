@@ -3,64 +3,27 @@
 {{ partial "header" . }}
 
 <div id="projects">
-  <form>
-
-  <!-- Radio Buttons -->
-  <input type="radio" name="section" value="1" id="switch-1" checked>
-
-  <input type="radio" name="section" value="2" id="switch-2">
-
-  <input type="radio" name="section" value="3" id="switch-3">
-
-  <input type="radio" name="section" value="4" id="switch-4">
-
-
-
-  <!-- Input Tiles -->
-  <div class="project-group" value="selectors">
-
-    <div class="project-tile selector" value="1">
-      <label for="switch-1">
-        <div>About</div>
-      </label>
-    </div>
-
-    <div class="project-tile selector" value="2">
-      <label for="switch-2">
-        <div>Personal</div>
-      </label>
-    </div>
-
-    <div class="project-tile selector" value="3">
-      <label for="switch-3">
-        <div>Work</div>
-      </label>
-    </div>
-
-    <div class="project-tile selector" value="4">
-      <label for="switch-4">
-        <div>Testimonials</div>
-      </label>
-    </div>
-
-  </div>
-
-
-
   <!-- Project Tile Groups -->
-  {{ $rootContext := . }}
 
-  {{ partial "about-group" (dict "groupID" 1) }}
+    {{ partial "intro-group" }}
 
-  {{ partial "project-group" (dict "meta" $rootContext "group" "personal" "groupID" 2) }}
+    <div class="project-group">
 
-  {{ partial "project-group" (dict "meta" $rootContext "group" "work" "groupID" 3) }}
+    {{ partial "project-group-shifters"}}
 
-  {{ partial "testimonial-list" (dict "meta" $rootContext "groupID" 4) }}
+    {{ .Scratch.Set "offset" 0.0 }}
+    {{ .Scratch.Set "index" 1 }}
 
+    {{ .Scratch.Set "pageCount" (len .Data.Pages | float)}}
 
+    {{ range .Data.Pages }}
+      {{ if ne .Title "reel" }}
+        {{ partial "project-tile" (dict "proj" . "delay" ($.Scratch.Get "offset") "index" ($.Scratch.Get "index") "lerp" (div (sub ($.Scratch.Get "index") 1) ($.Scratch.Get "pageCount")))}}
+        {{ $.Scratch.Add "index" 1 }}
+      {{ end }}
+    {{ end }}
 
-  </form>
+    </div>
 </div>
 
 {{ partial "footer" . }}
