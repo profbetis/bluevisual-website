@@ -5,9 +5,6 @@ date = 2018-12-20T13:37:18-08:00
 client = "ARYSE"
 tools = ["Houdini 17"]
 sections = ["Voronoi Wrangling", "SDF Meshing", "Miscellaneous"]
-active = false
-peak = false
-draft = true
 +++
 
 As an introductory project for working with [ARYSE](https://aryse.com/), they wanted to create a bracelet using less material, and an interesting design that showcased their identity as a company. They are looking into experimental and generative design techniques for their products.

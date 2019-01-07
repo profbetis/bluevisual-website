@@ -5,7 +5,6 @@ date = 2018-09-16T00:44:59-08:00
 client = "Dappest"
 tools = ["Affinity Designer", "Figma"]
 sections = ["Branding", "Graphics", "Business Cards"]
-draft = true
 +++
 
 Dappest is a blockchain startup whose creator I worked with at [Guardiome](http://bluevisual.tv/work/guardiome/). They brought me onboard to create their branding, business cards, and create other graphical elements for the web app's interface.
