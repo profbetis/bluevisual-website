@@ -1,20 +1,17 @@
 +++
-client = "ShadesClub"
+title = "ShadesClub 2016"
+client = "ShadesClub 2016"
 date = "2016-09-12T09:30:30-05:00"
-tags = ["product", "animation", "modeling", "rigging", "2d"]
-title = "ShadesClub"
+tags = ["product", "modeling", "rigging"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
-active = false
-peak = false
 sections = ["Animation", "Product Family", "Subscription Pack Renders", "Graphics"]
 +++
+
+## ShadesClub has newer work in [2018](/work/shadesclub2018)
 
 [ShadesClub](http://www.shadesclub.com/) needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.<!--more-->
 
 The initial setup took a while before I had anything useful. The box and inner case needed to be modeled and rigged for animation, as well as creating other promotional items such as the koozie and microfiber bag. After all of the components were done, animating them together should be fairly simple.
-
-# Animation
-Nothing to show yet, this is still in progress!
 
 # Product Family
 To show off the contents of each box, I needed to model and texture each item, then set them up in a studio environment. The studio was pretty simple, but I had to make sure the light source had an interesting look because of the reflections in the glasses.
