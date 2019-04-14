@@ -24,10 +24,10 @@
     <item>
       <title>Hilbert Stairs</title>
       <link>http://bluevisual.tv/personal/hilbert/</link>
-      <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
+      <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before. I took an interest to it and created it in various 2D forms until I wanted to try doing it in 3D. Houdini&amp;rsquo;s loopable node-graph system made it very simple and natural to set up.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - ShadesClub 2018</title>
+      <meta property="og:title" content="Blue Visual - ShadesClub 2018" />
+      <meta name="description" content="Older ShadesClub work can be found here. Every so often ShadesClub upgrades its wares, packaging, and branding, and needs new..."/>
+      <meta property="og:description" content="Older ShadesClub work can be found here. Every so often ShadesClub upgrades its wares, packaging, and branding, and needs new..." />
+      <link rel="canonical" href="http://bluevisual.tv/work/shadesclub2018/" />
+      <meta property="og:url" content="http://bluevisual.tv/work/shadesclub2018/" />
+      <meta property="og:image" content="http://bluevisual.tv//images/shadesclub2018-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<a href="/"> <img src="/header.svg" id="header"> </a>
+
+
+<a href="http://bluevisual.tv/" id="return">
+  <span>Return        &lt;</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <a href="http://bluevisual.tv/work/shadesclub2018/">
+    <div class="image" style="background-image: url('/images/shadesclub2018-thumb.jpg');" ></div>
+  </a>
+
+  <div class="info">
+    <div class="title"><a href="http://bluevisual.tv/work/shadesclub2018/">ShadesClub 2018</a></div>
+    <div class="subtitle">
+      
+        for ShadesClub —
+      
+
+      
+        
+          Oct 2018
+        
+      
+    </div>
+    <div class="tags">
+      <div>Tags</div><a href="/tags/modeling"><div>modeling</div></a><a href="/tags/rendering"><div>rendering</div></a><a href="/tags/houdini"><div>houdini</div></a></div>
+    <div class="tools">
+      <div>Tools</div><div>Houdini</div><div>Octane Render</div><div>Affinity Designer</div></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#scene-setup">Scene Setup</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#modeling">Modeling</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      
+
+<h3 id="older-shadesclub-work-can-be-found-here-work-shadesclub2016">Older ShadesClub work can be found <a href="/work/shadesclub2016">here</a>.</h3>
+
+<p>Every so often <a href="http://www.shadesclub.com/">ShadesClub</a> upgrades its wares, packaging, and branding, and needs new visualizations of their products for their digital storefront.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/images/shadesclub2018-01.jpg"></label><div class="caption">Various layouts of various products</div></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/images/shadesclub2018-01.jpg"><div class="caption">Various layouts of various products</div></label>
+</div>
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    
+      <source src="/videos/shadesclub2018-video-01.mp4" />
+    
+  </video>
+  <div class="caption">Lens layer animation</div>
+</div>
+
+
+<h1 id="scene-setup">Scene Setup</h1>
+
+<p>Before this project, I hadn&rsquo;t had the chance to do a multiple-product rendering project in Houdini before, so I learned lots. The challenge was to have the same products in different layouts to have the client pick his favorite, sometimes with different rig parameters and different cameras.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/images/shadesclub2018-02.jpg"></label><div class="caption">Object Network</div></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/images/shadesclub2018-02.jpg"><div class="caption">Object Network</div></label>
+</div>
+
+
+<p>My solution was to create each product as a separate HDA, and load the various arrangements of them for each shot into subnetworks within the <code>/obj/</code> graph. In order to render each layout for each shot, I created a separate output ROP for each layout, and merged them to create a meta shot node that would re-render all of them if I changed anything about the product.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle3"><img src="/images/shadesclub2018-03.jpg"></label><div class="caption">Output Network</div></div>
+<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle3"><img src="/images/shadesclub2018-03.jpg"><div class="caption">Output Network</div></label>
+</div>
+
+
+<p>While designing and creating the system took more time than I wanted it to, it&rsquo;s a great framework I can use on future projects and easily spit out new things for the client when there are more renders in the future.</p>
+
+<h1 id="modeling">Modeling</h1>
+
+<p>In order to accurately portray the products, I requested manufacturing files from the client in order to build the products with, instead of guessing measurements and folds. This let me essentially recreate the manufacturing process, and rig the objects realistically. UVs and texturing happened naturally since I re-used the files he sent to the factories for production.</p>
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/modeling">
+          modeling
+        </a>
+        <a href="/tags/rendering">
+          rendering
+        </a>
+        <a href="/tags/houdini">
+          houdini
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <div id="return-bottom">
+    <a href="http://bluevisual.tv/">Return to Project Grid</a>
+</div>
+
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

@@ -63,6 +63,15 @@ I was originally inspired to create this toolset when I had data of my own that 
     </item>
     
     <item>
+      <title>Hilbert Stairs</title>
+      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before. I took an interest to it and created it in various 2D forms until I wanted to try doing it in 3D. Houdini&amp;rsquo;s loopable node-graph system made it very simple and natural to set up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Cube Shuffle</title>
       <link>http://bluevisual.tv/personal/cube-shuffle/</link>
       <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
@@ -79,15 +88,6 @@ I was originally inspired to create this toolset when I had data of my own that 
       
       <guid>http://bluevisual.tv/personal/canvases/</guid>
       <description>&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hilbert Stairs</title>
-      <link>http://bluevisual.tv/personal/hilbert/</link>
-      <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
     </item>
     
     <item>

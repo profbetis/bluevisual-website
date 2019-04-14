@@ -42,6 +42,16 @@ It&amp;rsquo;s a project directed by my friend Yuya Takeda where he frequently g
     </item>
     
     <item>
+      <title>ShadesClub 2018</title>
+      <link>http://bluevisual.tv/work/shadesclub2018/</link>
+      <pubDate>Tue, 23 Oct 2018 17:22:53 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/shadesclub2018/</guid>
+      <description>Older ShadesClub work can be found here. Every so often ShadesClub upgrades its wares, packaging, and branding, and needs new visualizations of their products for their digital storefront.
+Various layouts of various productsVarious layouts of various productsLens layer animationScene Setup Before this project, I hadn&amp;rsquo;t had the chance to do a multiple-product rendering project in Houdini before, so I learned lots. The challenge was to have the same products in different layouts to have the client pick his favorite, sometimes with different rig parameters and different cameras.</description>
+    </item>
+    
+    <item>
       <title>SHNOPs Toolset</title>
       <link>http://bluevisual.tv/personal/shnops/</link>
       <pubDate>Thu, 27 Sep 2018 21:18:39 -0800</pubDate>
@@ -111,6 +121,15 @@ Branding The early stages of branding were very exploratory as the identity of t
       <guid>http://bluevisual.tv/work/qgs-vis/</guid>
       <description>A friend of mine does freelance product design, and needed renders of his designs for his client&amp;rsquo;s pitch (QGS). He came to me to do a few animations for the project. Even though it was extremely short notice (not his fault), we completed the project successfully and on-time. QGS is a genetics sequencing company that intends to democratize expensive genome sequencing in the lab.
 My client provided the model files which were exported from Solidworks, and told me what materials the different parts had, and how each device opened and operated.</description>
+    </item>
+    
+    <item>
+      <title>Hilbert Stairs</title>
+      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before. I took an interest to it and created it in various 2D forms until I wanted to try doing it in 3D. Houdini&amp;rsquo;s loopable node-graph system made it very simple and natural to set up.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -200,21 +219,14 @@ Dynamics Most of the smoke and fires in the film were simulated and rendered in 
     </item>
     
     <item>
-      <title>ShadesClub</title>
-      <link>http://bluevisual.tv/work/shadesclub/</link>
+      <title>ShadesClub 2016</title>
+      <link>http://bluevisual.tv/work/shadesclub2016/</link>
       <pubDate>Mon, 12 Sep 2016 09:30:30 -0500</pubDate>
       
-      <guid>http://bluevisual.tv/work/shadesclub/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hilbert Stairs</title>
-      <link>http://bluevisual.tv/personal/hilbert/</link>
-      <pubDate>Thu, 01 Sep 2016 18:24:03 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
+      <guid>http://bluevisual.tv/work/shadesclub2016/</guid>
+      <description>&lt;h2 id=&#34;shadesclub-has-newer-work-in-2018-work-shadesclub2018&#34;&gt;ShadesClub has newer work in &lt;a href=&#34;http://bluevisual.tv/work/shadesclub2018&#34;&gt;2018&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.shadesclub.com/&#34;&gt;ShadesClub&lt;/a&gt; needed an array of new promotional materials for their 2016 rebranding. Before, all their images were actual photographs but they wanted fully 3D versions so that any scenes and animations would be possible.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -299,6 +311,17 @@ Dynamics Most of the smoke and fires in the film were simulated and rendered in 
     </item>
     
     <item>
+      <title>Onyx Cinema</title>
+      <link>http://bluevisual.tv/work/onyxcinema/</link>
+      <pubDate>Wed, 01 Apr 2015 21:06:41 -0400</pubDate>
+      
+      <guid>http://bluevisual.tv/work/onyxcinema/</guid>
+      <description>&lt;h2 id=&#34;revisited-april-2015&#34;&gt;Revisited April 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.onyxcinema.com/&#34;&gt;Onyx Cinema&lt;/a&gt; is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired &lt;a href=&#34;http://www.thejoylin.com/&#34;&gt;a colleague of mine&lt;/a&gt; to design the logo, and she directed them to me to animate it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Exion49 Model</title>
       <link>http://bluevisual.tv/personal/exion49/</link>
       <pubDate>Mon, 02 Feb 2015 10:37:14 -0400</pubDate>
@@ -377,17 +400,6 @@ Dynamics Most of the smoke and fires in the film were simulated and rendered in 
       
       <guid>http://bluevisual.tv/personal/polygatures/</guid>
       <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Onyx Cinema</title>
-      <link>http://bluevisual.tv/work/onyxcinema/</link>
-      <pubDate>Tue, 01 Oct 2013 21:06:41 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/work/onyxcinema/</guid>
-      <description>&lt;h2 id=&#34;revisited-april-2015&#34;&gt;Revisited April 2015&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.onyxcinema.com/&#34;&gt;Onyx Cinema&lt;/a&gt; is an incredible cinematography company. After years of skill and network growth, they decided it was time to re-brand and build a new website. They hired &lt;a href=&#34;http://www.thejoylin.com/&#34;&gt;a colleague of mine&lt;/a&gt; to design the logo, and she directed them to me to animate it.&lt;/p&gt;</description>
     </item>
     
     <item>
