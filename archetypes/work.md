@@ -5,7 +5,7 @@ date = {{ .Date }}
 client = "Client Name"
 tools = ["a", "b", "c"]
 sections = ["Section A", "Section B"]
-active = true
+active = false
 peak = false
-draft = true
+draft = false
 +++
