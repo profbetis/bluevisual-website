@@ -12,7 +12,7 @@ draft = false
 # Overview
 In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.
 
-The project had a long design phase that I was a part of and then eventually continued into production phase for.
+I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.
 
 You can find the link to Buck's project page [here](https://buck.co/work/microsoft-app).
 
@@ -25,3 +25,6 @@ You can find the link to Buck's project page [here](https://buck.co/work/microso
 {{< video 2 >}}
 
 # Design Exploration
+The project also had a long design phase that I was a part of and then eventually continued into the production phase for. These are some of my designs and renders from that.
+{{< image 3 >}}
+{{< image 4 >}}
