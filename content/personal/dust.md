@@ -15,15 +15,11 @@ This project is primarily an experiment with slow motion physics simulations of 
 
 {{< vimeo 63070976 540 "A test silhouette render with reversed time" >}}
 
-{{< sbs >}}
-  {{< image 2 >}}
-  {{< image 3 >}}
-{{< /sbs >}}
+{{< image 2 >}}
+{{< image 3 >}}
 
 {{< image 4 >}}
 
 ## Wireframes
-{{< sbs >}}
-  {{< image 5 >}}
-  {{< image 6 >}}
-{{< /sbs >}}
+{{< image 5 >}}
+{{< image 6 >}}

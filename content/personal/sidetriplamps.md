@@ -11,19 +11,15 @@ It's a project directed by my friend [Yuya Takeda](http://skybase.xyz) where he 
 
 We were provided reference material showing some real-life examples, appropriate level of modeling detail, and other constraints like size, making sure there was bulb geometry inside the lamp, etc. The constraints were important because the models were going to be collected from various modeling programs and imported into Modo for scene layout and final rendering in Octane Render.
 
-{{< sbs >}}
-  {{< image 1 >}}
-  {{< image 2 >}}
-{{< /sbs >}}
+{{< image 1 >}}
+{{< image 2 >}}
 
 I knew from the beginning that I wanted to do a very procedural/parametric approach so that tweaking and adjusting parts of the lamp after its initial creation look. Naturally, Houdini was my weapon of choice. Sure enough, when a second, larger radius of the lamp crown was requested, it took no more than a minute to adjust, and most things are adjustable in the viewport so that it's artist-friendly.
 
 The bulb texture was designed by Yuya Takeda (the director of the SideTrip project) and given to the 3D artists to work with and design their lamps with in mind.
 
-{{< sbs >}}
-  {{< image 3 >}}
-  {{< image 4 >}}
-{{< /sbs >}}
+{{< image 3 >}}
+{{< image 4 >}}
 
 This was a fairly new modeling style for me that embraces a few concepts I've been trying to incorporate into my workflow: manual human-made decisions and elements, procedural elements that are best solved by a computer and not a human, and the synergy of the two to create something that doesn't feel randomly generated, but something that would have been impractical to be hand-crafted.
 
@@ -37,4 +33,4 @@ This network is one of the lower nodes in the tree. My main workflow was to have
 
 {{< image 5 >}}
 
-[MOPs](https://github.com/toadstorm/MOPS) was a huge help for most of the instancing work. I used it to set up radial arrays of elements, and for the chains that needed to be rotated mostly orderly but also somewhat randomly.
+[MOPs](https://motionoperators.com/) was a huge help for most of the instancing work. I used it to set up radial arrays of elements, and for the chains that needed to be rotated mostly orderly but also somewhat randomly.

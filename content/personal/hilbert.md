@@ -9,13 +9,9 @@ The [Hilbert Curve](https://en.wikipedia.org/wiki/Hilbert_curve) is a space-fill
 
 {{< image 1 >}}
 
-{{< sbs >}}
-  {{< video 1 "Iterate">}}
-  {{< video 2 "Determine Length">}}
-{{< /sbs >}}
-{{< sbs >}}
-  {{< video 3 "Height via Path Distance">}}
-  {{< video 4 "Extrude">}}
-{{< /sbs >}}
+{{< video 1 "Iterate">}}
+{{< video 2 "Determine Length">}}
+{{< video 3 "Height via Path Distance">}}
+{{< video 4 "Extrude">}}
 
 {{< image 2 "The network for the algorithm">}}

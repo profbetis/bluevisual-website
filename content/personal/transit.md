@@ -28,15 +28,12 @@ This was the first conceptual level for Transit. I wanted large bridge-like stru
 
 {{< vimeo 171832381 600 "A preview of it playing inside UDK" >}}
 
-{{< sbs >}}
-  {{< image 3 "Looking forward in 'Terminal'">}}
-  {{< image 2 "Another view from further back">}}
-{{< /sbs >}}
+{{< image 3 "Looking forward in 'Terminal'">}}
+{{< image 2 "Another view from further back">}}
 
 
 ## Hills
 This experience is one that brings me a personal peace and is somewhere I always want to escape to. The leaves rustling from a breeze, some light birdsong, and gentle sun filtering through the canopy. A perfect spring-summer hybrid day.
-{{< sbs >}}
-  {{< image 5 "The 'Hills' level">}}
-  {{< image 6 "'Hills' level just after exiting the transition tunnel">}}
-{{< /sbs >}}
+
+{{< image 5 "The 'Hills' level">}}
+{{< image 6 "'Hills' level just after exiting the transition tunnel">}}

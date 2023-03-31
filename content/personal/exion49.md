@@ -15,10 +15,8 @@ Part of what made this project successful is the fact that I own the real produc
 
 I changed the colors of the main body from dark blue and white text to white with black text. I personally feel it about doubles the apparent value of the product.
 
-{{< sbs >}}
-  {{< image 2 >}}
-  {{< image 3 >}}
-{{< /sbs >}}
+{{< image 2 >}}
+{{< image 3 >}}
 
 Here you can see the underlying wireframe that makes up the model. I took special care to make clean quadified meshes whenever possible and made UV maps extremely clean and simple to work with.
 

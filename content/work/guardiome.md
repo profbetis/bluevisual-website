@@ -17,15 +17,11 @@ An important part project of this was the product renders. They provided me with
 
 {{< image 1 "The primary hero Genome Vault composite" >}}
 
-{{< sbs >}}
 {{< image 2 "The dark and dramatic Genome Vault composite" >}}
 {{< image 3 "Top-down view of the Genome Vault and its screen" >}}
-{{< /sbs >}}
 
-{{< sbs >}}
 {{< image 4 "Plain backdrop; Black option" >}}
 {{< image 5 "Plain backdrop; White option" >}}
-{{< /sbs >}}
 
 # Graphics
 

@@ -20,11 +20,8 @@ The film is a live-action movie that used puppets and a small-scale set (the car
 
 # Tests
 {{< image 2 "One of the initial material and modeling tests" >}}
-
-{{< sbs >}}
-  {{< image 4 "A lighting test putting lights inside the houses" >}}
-  {{< image 3 "Further along in the project when more houses were built out" >}}
-{{< /sbs >}}
+{{< image 4 "A lighting test putting lights inside the houses" >}}
+{{< image 3 "Further along in the project when more houses were built out" >}}
 
 # Wireframes
 {{< image 5 "Instanced block layouts to make the city" >}}

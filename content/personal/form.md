@@ -22,10 +22,8 @@ After these are generated I connect each layer from its last point to the next f
 
 I learned that they handle walls and infills separately, so I traced the outline of each slice, and then needed a way to fill in that layer.
 
-{{< sbs >}}
-  {{< image 2 "Shell Path">}}
-  {{< image 3 "Infill Path">}}
-{{< /sbs >}}
+{{< image 2 "Shell Path">}}
+{{< image 3 "Infill Path">}}
 
 Well as it turns out, printers don't just randomly fill in a layer, they usually have a certain pattern that they follow that maximizes structural stability as well as minimizing print time. This is usually accomplished by a layer-alternating diagonal pattern. There's no functional solution to this, so I had to connect each line by walking the points and using the best next point to move to. If it wasn't directly reachable, I recorded the position as "moving" as opposed to extruding.
 
