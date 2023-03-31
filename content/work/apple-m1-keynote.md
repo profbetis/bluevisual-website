@@ -1,7 +1,7 @@
 +++
 title = "Apple M1 Keynote"
 tags = ["procedural animation"]
-date = 2023-03-26T20:08:03-07:00
+date = 2020-11-20T20:08:03-07:00
 client = "Apple @ Buck"
 tools = ["Houdini"]
 sections = []
