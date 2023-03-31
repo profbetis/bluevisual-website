@@ -4,7 +4,7 @@ date = "2016-01-12T00:40:26-05:00"
 tags = ["animation", "logo", "rendering"]
 title = "Space360"
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
-
+draft = true
 +++
 
 [Space360](http://www.space3sixty.com/) asked me to create a new logo animation for them. They provided storyboards and logo assets, and I brought the idea from concept to digital reality.<!--more-->

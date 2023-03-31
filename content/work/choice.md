@@ -4,7 +4,7 @@ date = "2016-10-12T00:53:46-05:00"
 tags = ["animation", "logo", "4k"]
 title = "Choice"
 tools = ["3DS Max", "Octane Render", "Neat Video Denoiser"]
-
+draft = true
 +++
 
 [Space360](http://www.space3sixty.com/) asked me to create a logo animation for a new logo they designed for their client [Choice](http://www.choicetool.com/) as part of their marketing package.<!--more-->

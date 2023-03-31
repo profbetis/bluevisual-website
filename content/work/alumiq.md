@@ -4,7 +4,7 @@ date = "2013-09-01T21:06:33-04:00"
 tools = ["3DS Max", "Octane Render", "Adobe Premiere"]
 tags = ["animation", "logo"]
 title = "Alumiq"
-
+draft = true
 +++
 
 [Alumiq](http://alumiq.com/) *(pronounced 'uh-loo-mik')* is a Los Angeles, Orange County and San Francisco wedding photography and cinematography studio that films and edits on the same day, highlighting the day's events in a spectacular composition. Their work beautifully captures the high spirits and love the couples and families at the ceremonies have.<!--more-->

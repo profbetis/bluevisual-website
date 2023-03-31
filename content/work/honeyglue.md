@@ -5,6 +5,7 @@ tags = ["vfx", "film", "rigging"]
 tools = ["Adobe After Effects", "Luxology Modo", "Adobe Photoshop"]
 title = "Honeyglue"
 sections = ["Post-Production", "Modeling & Rigging", "Story Book"]
+draft = true
 +++
 
 [Zombot Pictures](http://zombotpictures.com) hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.<!--more-->

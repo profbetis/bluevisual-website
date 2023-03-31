@@ -5,6 +5,7 @@ title = "Cyber Vice"
 tags = ["vfx", "film", "rendering"]
 tools = ["Adobe After Effects", "Adobe Photoshop", "3DS Max", "Octane Render"]
 sections = ["Compositing & VFX", "Intro Sequence"]
+draft = true
 +++
 
 This project required a few different things. Compositing screens (LOTS OF THEM), the design and animation of them, and a intro sequence for the beginning of the show.<!--more-->

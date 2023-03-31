@@ -5,6 +5,7 @@ date = "2016-09-12T09:30:30-05:00"
 tags = ["product", "modeling", "rigging"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 sections = ["Animation", "Product Family", "Subscription Pack Renders", "Graphics"]
+draft = true
 +++
 
 ## ShadesClub has newer work in [2018](/work/shadesclub2018)

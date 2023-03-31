@@ -3,6 +3,7 @@ title = "Destiny"
 date = "2014-11-02T10:37:22-04:00"
 tags = ["art", "concept", "animation"]
 tools = ["3DS Max", "Octane Render"]
+draft = true
 +++
 
 Destiny is a project about rails. A journey, and a destination.<!--more-->

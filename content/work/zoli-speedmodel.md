@@ -4,7 +4,7 @@ date = "2015-07-01T21:05:39-04:00"
 tags = ["product", "modeling"]
 tools = ["3DS Max", "Octane Render"]
 title = "Zoli Speedmodel"
-
+draft = true
 +++
 A colleague of mine worked briefly at [Zoli](http://zoli-inc.com/) as a product designer. He needed some high-res production renders of a product but they had no 3D files to work with, only a low-res photograph.<!--more-->
 

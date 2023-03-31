@@ -4,7 +4,7 @@ date = "2013-04-12T01:28:42-05:00"
 tags = ["vfx", "2d"]
 title = "Asus Vivobook"
 tools = ["Adobe After Effects"]
-
+draft = true
 +++
 
 For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.<!--more-->

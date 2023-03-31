@@ -4,7 +4,7 @@ date = "2016-03-01T17:41:15-04:00"
 tags = ["animation", "logo", "rendering"]
 title = "Vape Traze"
 tools = ["3DS Max", "Octane Render", "Adobe After Effects", "Filter Forge"]
-
+draft = true
 +++
 
 Vape Traze wanted a logo animation for standalone use and also to put into other various videos showcasing their product.<!--more-->

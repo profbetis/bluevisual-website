@@ -6,7 +6,7 @@ client = "Channing Shattuck"
 tools = ["3DS Max", "Octane Render"]
 active = false
 peak = false
-draft = false
+draft = true
 +++
 
 [A friend of mine](https://www.linkedin.com/in/channing-shattuck-93124338/) does freelance product design, and needed renders of his designs for his client's pitch (QGS). He came to me to do a few animations for the project. Even though it was extremely short notice (not his fault), we completed the project successfully and on-time. QGS is a genetics sequencing company that intends to democratize expensive genome sequencing in the lab.

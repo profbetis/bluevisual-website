@@ -7,6 +7,7 @@ tags = ["product", "modeling", "rendering"]
 title = "Lull"
 tools = ["3DS Max", "Octane Render", "Affinity Photo", "Filter Forge"]
 sections = ["Composites", "Mattress Renders", "Box Construction"]
+draft = true
 +++
 
 [Lull](http://www.lull.com/) is an online mattress supplier that needed original as well as updated graphics for their Jungle Box promotional event.<!--more--> They were originally looking to hire a photographer and send the product directly to them, but were open to a 3D approach that would be more cost-effective and provide more flexibility and control over the style and outcome. In the time it would have taken to ship the mattress, test renders were already being sent and refinements were being made.

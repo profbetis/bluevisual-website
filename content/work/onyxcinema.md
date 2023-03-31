@@ -5,6 +5,7 @@ tags = ["animation", "logo", "4k"]
 tools = ["3DS Max", "Octane Render", "Filter Forge", "Adobe Premiere"]
 title = "Onyx Cinema"
 sections = ["2015 Revision"]
+draft = true
 +++
 
 ## Revisited April 2015

@@ -4,6 +4,7 @@ tags = ["architecture", "concept", "modeling", "rendering"]
 tools = ["3DS Max", "Octane Render", "Filter Forge"]
 title = "Hexcabin"
 sections = ["Overview", "Top Floor", "Middle Floor", "Ground Floor", "Old Designs"]
+draft = true
 +++
 
 For a while now I've had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).<!--more-->

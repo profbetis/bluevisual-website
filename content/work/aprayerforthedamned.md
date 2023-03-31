@@ -7,7 +7,7 @@ tools = ["Houdini", "Adobe After Effects", "Mantra", "Octane Render"]
 sections = ["Smoke and Debris", "Blood Splatters"]
 active = false
 peak = false
-draft = false
+draft = true
 +++
 
 While most of [A Prayer for the Damned](https://www.imdb.com/title/tt7141520/) doesn't have VFX, there were a few shots that needed a little more _oomph_.

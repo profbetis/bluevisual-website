@@ -5,6 +5,7 @@ date = "2015-09-01T21:05:29-04:00"
 tags = ["vfx", "film", "4k"]
 tools = ["Adobe After Effects"]
 sections = ["Projector Scene", "Iris Enhancements", "General Compositing"]
+draft = true
 +++
 
 Firebreathing Films asked me to do moderate VFX work for [The Fiancé](http://www.imdb.com/title/tt4159698/), a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.<!--more-->
