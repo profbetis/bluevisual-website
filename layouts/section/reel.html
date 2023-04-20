@@ -7,30 +7,22 @@
 
   <div class="content">
 
-    <h1>Show Reel</h1><br>
+    <h1>Reel</h1><br>
 
     <div id="reel-container">
-      <iframe src="//player.vimeo.com/video/330170139?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+      <iframe src="//player.vimeo.com/video/819408150?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
       </iframe>
     </div>
-
-    <p>These past few years I've been head-down in Houdini learning as many things as the software can offer, and I still don't feel like I'm touching on half the things it's incredible at. I've come to love working on procedural modeling, systems, and using VEX (and a bit of Python) to do a lot of work! Here are some of my favorite projects and ideas I've worked on.</p>
 
     <br>
     <h2>Which project was that?</h2>
     <br><br>
     <div id="projects">
       <div class="project-group">
-
-        {{ $reelProjs := (slice "personal/edgewalker.md" "personal/form.md" "personal/paint-tests.md" "personal/cube-shuffle.md" "personal/hilbert.md" "work/organic_bracelet.md" "personal/sidetriplamps.md") }}
-
-        {{ range $reelProjs }}
-          {{ $page := $.Site.GetPage "page" . }}
-          {{ partial "project-tile" (dict "proj" $page "lerp" 0.0) }}
+        {{ range where .Site.Pages "Params.reel" "!=" nil }}
+          {{ partial "project-tile" (dict "proj" . "lerp" 0.0) }}
         {{ end }}
-
         {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0.0) }}
-
       </div>
     </div>
 
