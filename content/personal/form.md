@@ -3,10 +3,11 @@ title = "Form"
 tags = ["houdini", "procedural", "python", "rendering"]
 date = 2018-02-07T20:27:25-08:00
 tools = ["Houdini", "Octane Render", "Cura 3D"]
-active = false
-# peak = false
-draft = false
 sections = ["Custom Slicer", "G-Code Parsing", "Conclusion"]
+active = false
+peak = false
+draft = false
+reel = true
 +++
 
 Having recently got a 3D printer, I became really interested in creating one virtually in Houdini. There are a few different approaches, just like there are in real life. What's great is being able to break the constraints of technology and do any made-up method you want. I chose lasers because lasers are SWEET.

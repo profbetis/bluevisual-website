@@ -1,6 +1,6 @@
 +++
 title = "Microsoft Office Social"
-tags = ["dynamics", "procedural", "buck"]
+tags = ["houdini", "dynamics", "buck"]
 date = 2019-12-15T22:18:21-08:00
 client = "Microsoft @ BUCK"
 tools = ["Houdini", "V-Ray"]
@@ -8,6 +8,7 @@ sections = ["Overview", "Melting Bead Surface", "Vellum Pillows", "Design Explor
 active = false
 peak = false
 draft = false
+reel = true
 +++
 # Overview
 In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.

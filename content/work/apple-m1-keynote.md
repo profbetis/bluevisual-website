@@ -1,13 +1,13 @@
 +++
 title = "Apple M1 Keynote"
-tags = ["procedural animation"]
+tags = ["houdini", "buck"]
 date = 2020-11-20T20:08:03-07:00
 client = "Apple @ Buck"
 tools = ["Houdini"]
 sections = []
 active = false
 peak = false
-draft = false
+draft = true
 +++
 
 When Apple needed a keynote to release their new M1 chip, they had Buck create many animations to show the precise, elegant, and powerful engineering behind their new chip and products using it. Some shots involved dozens or hundreds of components to be orchestrated, which was best done using Houdini.

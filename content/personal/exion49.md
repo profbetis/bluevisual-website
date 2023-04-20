@@ -3,7 +3,7 @@ date = "2015-02-02T10:37:14-04:00"
 tags = ["modeling", "product", "rendering"]
 tools = ["3DS Max", "Octane Render", "Adobe Photoshop"]
 title = "Exion49 Model"
-
+draft = true
 +++
 
 This project's goal was to recreate [M-Audio's Axiom49](http://www.m-audio.com/products/view/axiom-49). During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.<!--more-->

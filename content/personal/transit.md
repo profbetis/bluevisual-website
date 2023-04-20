@@ -3,9 +3,10 @@ date = "2016-03-02T10:36:54-04:00"
 title = "Transit"
 tags = ["VR", "UE4", "art", "concept"]
 tools = ["Unreal Engine", "3DS Max", "Filter Forge"]
-active = true
+active = false
 peak = false
 sections = ["Overview", "Experiences"]
+reel = true
 +++
 
 Transit (as it's currently called) is a project that's been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you're in, it's just a concept about experiencing beautiful places and things.<!--more-->

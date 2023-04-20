@@ -6,6 +6,7 @@ tools = ["3DS Max", "Octane Render", "Filter Forge"]
 active = false
 peak = false
 sections = ["Canvas Renders", "Overview Renders"]
+draft = true
 +++
 
 Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn't really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.<!--more-->

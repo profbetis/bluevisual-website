@@ -3,6 +3,7 @@ title = "Dust"
 date = "2013-04-02T10:38:09-04:00"
 tags = ["art", "concept", "animation", "dynamics"]
 tools = ["3DS Max", "Octane Render"]
+draft = true
 +++
 
 I've always loved the concept of entropy, decay, chaos, destruction... but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.<!--more-->

@@ -1,11 +1,13 @@
 +++
 title = "Paint Tests"
-tags = ["study", "houdini", "dynamics"]
+tags = ["study", "houdini", "dynamics", "fluids"]
 date = 2018-02-18T20:29:07-08:00
 tools = ["Houdini", "Octane Render", "After Effects", "Filter Forge"]
 active = false
 peak = false
 sections = ["Dynamics", "Textures"]
+draft = false
+reel = true
 +++
 
 This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.

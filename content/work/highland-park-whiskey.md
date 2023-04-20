@@ -1,6 +1,6 @@
 +++
 title = "Highland Park Spots"
-tags = ["houdini", "dynamics", "TD"]
+tags = ["houdini", "dynamics", "fluids", "buck"]
 date = 2021-11-29T23:11:07-07:00
 client = "Highland Park Whiskey @ Buck"
 tools = ["Houdini", "FLIP"]
@@ -8,6 +8,7 @@ sections = ["Overview", "Simulation", "Rendering"]
 active = false
 peak = false
 draft = false
+reel = true
 +++
 
 # Overview

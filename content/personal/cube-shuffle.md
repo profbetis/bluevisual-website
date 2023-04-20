@@ -3,9 +3,11 @@ title = "Cube Shuffle"
 tags = ["houdini", "procedural", "animation", "art"]
 date = 2017-03-22T13:38:17-08:00
 tools = ["Houdini", "Octane Render", "Filter Forge"]
-# active = true
-# peak = false
+active = false
+peak = false
 sections = ["Orthographic Pathing", "Edge Walking", "Textures"]
+draft = false
+reel = true
 +++
 
 This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of "atomize" an object, and the reassemble it in a different order.
