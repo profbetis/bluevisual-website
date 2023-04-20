@@ -11,15 +11,9 @@
 
     {{ partial "project-group-shifters"}}
 
-    {{ .Scratch.Set "offset" 0.0 }}
-    {{ .Scratch.Set "index" 1 }}
-
-    {{ .Scratch.Set "pageCount" (len .Pages | float)}}
-
     {{ range .Pages }}
       {{ if ne .Title "reel" }}
-        {{ partial "project-tile" (dict "proj" . "delay" ($.Scratch.Get "offset") "index" ($.Scratch.Get "index") "lerp" (div (sub ($.Scratch.Get "index") 1) ($.Scratch.Get "pageCount")))}}
-        {{ $.Scratch.Add "index" 1 }}
+        {{ partial "project-tile" (dict "proj" . "delay" 0 "index" 0 "lerp" 0) }}
       {{ end }}
     {{ end }}
 
