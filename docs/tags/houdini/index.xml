@@ -6,10 +6,122 @@
     <description>Recent content in Houdini on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 13:37:18 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Apr 2023 00:25:45 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/houdini/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BUCK Houdini Pipeline</title>
+      <link>http://bluevisual.tv/work/buck-tooling/</link>
+      <pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/buck-tooling/</guid>
+      <description>Pipeline When I was first hired at Buck in 2019, one of the things I expressed interest in and that they wanted was tools to make using Houdini easier. Before I started my work, Buck had no Houdini pipeline. I established a global HSITE and turned it into a git-based respository which allowed me to make changes which propagated across all the studios around the globe.
+I converted any the local &amp;lsquo;houdini.</description>
+    </item>
+    
+    <item>
+      <title>Aircover Spot</title>
+      <link>http://bluevisual.tv/work/aircover-spot/</link>
+      <pubDate>Mon, 14 Nov 2022 10:43:06 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/aircover-spot/</guid>
+      <description>Buck was tasked with creating spots for AirBnB&amp;rsquo;s Aircover, an insurance program for their hosts. Rain System Similar to the Amazon Halo Spot, we needed rain for this moody animation. In fact, I brought over the same system and tweaked it for our needs and added some additional controls.
+There were many iterations on the look and feel of the rain drops, their splashes, and their puddles. Knowing this is always the case, the tool was designed for ultimate flexibility in mind, so it was easy to adjust.</description>
+    </item>
+    
+    <item>
+      <title>Meta Connect 2022</title>
+      <link>http://bluevisual.tv/work/meta-connect-2022/</link>
+      <pubDate>Wed, 11 May 2022 00:25:43 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/meta-connect-2022/</guid>
+      <description>Overview BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.
+You can find BUCK&amp;rsquo;s project page for this here.
+Lookdev Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects.</description>
+    </item>
+    
+    <item>
+      <title>Problem Space Course</title>
+      <link>http://bluevisual.tv/personal/houdinischool-course-01/</link>
+      <pubDate>Fri, 14 Jan 2022 13:01:11 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/houdinischool-course-01/</guid>
+      <description>When it first opened, Houdini.School&amp;rsquo;s founder Deborah reached out to me to have me make a class. I was very busy at the time for many months but eventually in 2022 I was able to set aside some time to create a small syllabus and a cohesive theme enough to create a course for.
+Teaser for the courseProblem Space is an atypical course more about concepts and thinking strategies rather than focused on a particular tutorial for an effect.</description>
+    </item>
+    
+    <item>
+      <title>Brawlidays 2021</title>
+      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
+An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+    </item>
+    
+    <item>
+      <title>Highland Park Spots</title>
+      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
+I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Halo</title>
+      <link>http://bluevisual.tv/work/amazon-halo/</link>
+      <pubDate>Fri, 26 Feb 2021 00:25:03 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/amazon-halo/</guid>
+      <description>In this project, I was tasked with doing some rain effects for the Amazon Halo commercial. Rain One of the asks was for a particular droplet splash that hits the product. It needed to be able to be timed precisely and generate physically accurate secondary droplets. Because I hate simulating things, I decided I would design a procedural system for this that was seamless with the background rain.</description>
+    </item>
+    
+    <item>
+      <title>Truly Spots</title>
+      <link>http://bluevisual.tv/work/truly-spots/</link>
+      <pubDate>Mon, 14 Dec 2020 00:16:39 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/truly-spots/</guid>
+      <description>Overview Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.
+Droplet Simulation In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.
+One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh.</description>
+    </item>
+    
+    <item>
+      <title>Snap Summit 2020 Intro</title>
+      <link>http://bluevisual.tv/work/snap-summit-2020/</link>
+      <pubDate>Thu, 11 Jun 2020 00:22:43 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/snap-summit-2020/</guid>
+      <description>Snapchat needed a tranquil intro for their Snap Summit 2020 before the event aired. The animation actually lasted for 15 minutes and was very slowly evolving.
+The ask was for something seemingly holographic a la James Turrell&amp;rsquo;s artwork. I created a system in Houdini that let me take a base shape and create a slew of faint distorted shells that covered the visual spectrum to build up an ethereal image.</description>
+    </item>
+    
+    <item>
+      <title>Cellular Automata Playground</title>
+      <link>http://bluevisual.tv/personal/ca-playground/</link>
+      <pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/ca-playground/</guid>
+      <description>Overview Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of Conway&amp;rsquo;s Game of Life. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.
+In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Office Social</title>
+      <link>http://bluevisual.tv/work/microsoft-office-social/</link>
+      <pubDate>Sun, 15 Dec 2019 22:18:21 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/microsoft-office-social/</guid>
+      <description>Overview In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.
+I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.
+You can find the link to Buck&amp;rsquo;s project page here.</description>
+    </item>
     
     <item>
       <title>Organic Bracelet</title>
@@ -63,16 +175,6 @@ I was originally inspired to create this toolset when I had data of my own that 
     </item>
     
     <item>
-      <title>A Prayer for the Damned</title>
-      <link>http://bluevisual.tv/work/aprayerforthedamned/</link>
-      <pubDate>Sun, 11 Mar 2018 21:18:47 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/aprayerforthedamned/</guid>
-      <description>While most of A Prayer for the Damned doesn&amp;rsquo;t have VFX, there were a few shots that needed a little more oomph.
-Smoke and Debris Dynamics I roughly remade the chest and boot geometry and motion just enough to affect the smoke motion, but not for any rendering purposes. I attached the smoke&amp;rsquo;s fuel volume to the chest so that when kicked open, the emitter got dragged with it.</description>
-    </item>
-    
-    <item>
       <title>Paint Tests</title>
       <link>http://bluevisual.tv/personal/paint-tests/</link>
       <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
@@ -101,17 +203,6 @@ I was originally inspired to create this toolset when I had data of my own that 
       <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
 I handled all the visual effects for the film. All shots were done at 4k.
 Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
-    </item>
-    
-    <item>
-      <title>Valentine Dayz</title>
-      <link>http://bluevisual.tv/work/valentine-dayz/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
-      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
-I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
-Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
     </item>
     
     <item>

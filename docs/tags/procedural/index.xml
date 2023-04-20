@@ -6,10 +6,20 @@
     <description>Recent content in Procedural on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 13:37:18 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:22:43 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/procedural/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Snap Summit 2020 Intro</title>
+      <link>http://bluevisual.tv/work/snap-summit-2020/</link>
+      <pubDate>Thu, 11 Jun 2020 00:22:43 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/snap-summit-2020/</guid>
+      <description>Snapchat needed a tranquil intro for their Snap Summit 2020 before the event aired. The animation actually lasted for 15 minutes and was very slowly evolving.
+The ask was for something seemingly holographic a la James Turrell&amp;rsquo;s artwork. I created a system in Houdini that let me take a base shape and create a slew of faint distorted shells that covered the visual spectrum to build up an ethereal image.</description>
+    </item>
     
     <item>
       <title>Organic Bracelet</title>
@@ -67,7 +77,8 @@ It&amp;rsquo;s a project directed by my friend Yuya Takeda where he frequently g
       <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/giant/</guid>
-      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>A procedural gas giant generator engineered in Filter Forge.
+</description>
     </item>
     
     <item>

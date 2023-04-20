@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Volumetrics on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/volumetrics/</link>
+    <description>Recent content in Volumetrics on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Dec 2021 13:20:51 -0700</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/volumetrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brawlidays 2021</title>
+      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
+An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Worlds 2021</title>
+      <link>http://bluevisual.tv/work/arcane-worlds-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:25:24 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/arcane-worlds-2021/</guid>
+      <description>Overview BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.
+I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.
+A trimmed version of the Arcane Worlds 2021 Opening.Watch the full video on YouTube here.
+Volumetrics The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.</description>
+    </item>
+    
+  </channel>
+</rss>

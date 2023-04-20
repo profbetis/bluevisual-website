@@ -47,7 +47,7 @@
 
 <div class="header">
   <a href="http://bluevisual.tv/personal/edgewalker/">
-    <div class="image" style="background-image: url('/images/edgewalker-thumb.jpg');" ></div>
+    <div class="image" style="background-image: url('/project-media/edgewalker/edgewalker-thumb.jpg');" ></div>
   </a>
 
   <div class="info">
@@ -108,10 +108,10 @@
 <p>The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/images/edgewalker-05.jpg"></label><div class="caption">A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.</div></div>
+  <label for="lightbox-toggle5"><img src="/project-media/edgewalker/edgewalker-05.jpg"></label><div class="caption">A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.</div></div>
 <input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle5" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/images/edgewalker-05.jpg"><div class="caption">A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.</div></label>
+  <label for="lightbox-toggle5"><img src="/project-media/edgewalker/edgewalker-05.jpg"><div class="caption">A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.</div></label>
 </div>
 
 
@@ -126,10 +126,10 @@
 <p>One of the most powerful tools in this is the direction attribute, which lets you use a vector point attribute to guide the neighbor preference algorithm. This allows for very nice swirls and parallel pathing that can look natural and interesting.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/images/edgewalker-04.jpg"></label><div class="caption">The three tabs of controls.</div></div>
+  <label for="lightbox-toggle4"><img src="/project-media/edgewalker/edgewalker-04.jpg"></label><div class="caption">The three tabs of controls.</div></div>
 <input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle4" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/images/edgewalker-04.jpg"><div class="caption">The three tabs of controls.</div></label>
+  <label for="lightbox-toggle4"><img src="/project-media/edgewalker/edgewalker-04.jpg"><div class="caption">The three tabs of controls.</div></label>
 </div>
 
 
@@ -138,10 +138,10 @@
 <p>The setup involves a few basic things, like creating the initial starting group, creating attributes, but most importantly doing some heavy calculations in parallel before the solver, which has to process things linearly do avoid racing problems.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/images/edgewalker-01.jpg"></label><div class="caption">Network for the setup. After this it pipes into the Solver node.</div></div>
+  <label for="lightbox-toggle1"><img src="/project-media/edgewalker/edgewalker-01.jpg"></label><div class="caption">Network for the setup. After this it pipes into the Solver node.</div></div>
 <input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/images/edgewalker-01.jpg"><div class="caption">Network for the setup. After this it pipes into the Solver node.</div></label>
+  <label for="lightbox-toggle1"><img src="/project-media/edgewalker/edgewalker-01.jpg"><div class="caption">Network for the setup. After this it pipes into the Solver node.</div></label>
 </div>
 
 
@@ -198,10 +198,10 @@
 <p>A few point attributes are necessary to solve this. One is a group of &ldquo;active&rdquo; points, pretty standard in most solver/growth algorithms. The other is a &ldquo;closed&rdquo; group. This evolved from a &ldquo;processed&rdquo; state that other algorithms have because I wanted points with only one connected edge to remain open to be closed later on by a path that finds it.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/images/edgewalker-02.jpg"></label><div class="caption">Solver network with a bypass branch if there are no more paths to create or consider.</div></div>
+  <label for="lightbox-toggle2"><img src="/project-media/edgewalker/edgewalker-02.jpg"></label><div class="caption">Solver network with a bypass branch if there are no more paths to create or consider.</div></div>
 <input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/images/edgewalker-02.jpg"><div class="caption">Solver network with a bypass branch if there are no more paths to create or consider.</div></label>
+  <label for="lightbox-toggle2"><img src="/project-media/edgewalker/edgewalker-02.jpg"><div class="caption">Solver network with a bypass branch if there are no more paths to create or consider.</div></label>
 </div>
 
 
@@ -401,10 +401,10 @@
 <p>The final output of the solver is not lines, it&rsquo;s actually an edge group. This lets you receive your geometry unharmed, if that&rsquo;s what you need. Mostly though, the edge group is used to create polylines out of each path.
 Later, temporary attributes and groups are cleaned up, unless otherwise decided.
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/images/edgewalker-03.jpg"></label><div class="caption">Output network for post-processing.</div></div>
+  <label for="lightbox-toggle3"><img src="/project-media/edgewalker/edgewalker-03.jpg"></label><div class="caption">Output network for post-processing.</div></div>
 <input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/images/edgewalker-03.jpg"><div class="caption">Output network for post-processing.</div></label>
+  <label for="lightbox-toggle3"><img src="/project-media/edgewalker/edgewalker-03.jpg"><div class="caption">Output network for post-processing.</div></label>
 </div>
 </p>
 

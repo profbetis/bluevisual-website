@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fluids on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/fluids/</link>
+    <description>Recent content in Fluids on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Nov 2021 23:11:07 -0700</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/fluids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Highland Park Spots</title>
+      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
+I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+    </item>
+    
+    <item>
+      <title>Paint Tests</title>
+      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
+      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
+Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+    </item>
+    
+  </channel>
+</rss>

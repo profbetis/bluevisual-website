@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Buck on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/buck/</link>
+    <description>Recent content in Buck on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 00:25:45 -0700</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/buck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BUCK Houdini Pipeline</title>
+      <link>http://bluevisual.tv/work/buck-tooling/</link>
+      <pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/buck-tooling/</guid>
+      <description>Pipeline When I was first hired at Buck in 2019, one of the things I expressed interest in and that they wanted was tools to make using Houdini easier. Before I started my work, Buck had no Houdini pipeline. I established a global HSITE and turned it into a git-based respository which allowed me to make changes which propagated across all the studios around the globe.
+I converted any the local &amp;lsquo;houdini.</description>
+    </item>
+    
+    <item>
+      <title>Aircover Spot</title>
+      <link>http://bluevisual.tv/work/aircover-spot/</link>
+      <pubDate>Mon, 14 Nov 2022 10:43:06 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/aircover-spot/</guid>
+      <description>Buck was tasked with creating spots for AirBnB&amp;rsquo;s Aircover, an insurance program for their hosts. Rain System Similar to the Amazon Halo Spot, we needed rain for this moody animation. In fact, I brought over the same system and tweaked it for our needs and added some additional controls.
+There were many iterations on the look and feel of the rain drops, their splashes, and their puddles. Knowing this is always the case, the tool was designed for ultimate flexibility in mind, so it was easy to adjust.</description>
+    </item>
+    
+    <item>
+      <title>Brawlidays 2021</title>
+      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
+An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+    </item>
+    
+    <item>
+      <title>Highland Park Spots</title>
+      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
+I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Worlds 2021</title>
+      <link>http://bluevisual.tv/work/arcane-worlds-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:25:24 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/arcane-worlds-2021/</guid>
+      <description>Overview BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.
+I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.
+A trimmed version of the Arcane Worlds 2021 Opening.Watch the full video on YouTube here.
+Volumetrics The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Halo</title>
+      <link>http://bluevisual.tv/work/amazon-halo/</link>
+      <pubDate>Fri, 26 Feb 2021 00:25:03 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/amazon-halo/</guid>
+      <description>In this project, I was tasked with doing some rain effects for the Amazon Halo commercial. Rain One of the asks was for a particular droplet splash that hits the product. It needed to be able to be timed precisely and generate physically accurate secondary droplets. Because I hate simulating things, I decided I would design a procedural system for this that was seamless with the background rain.</description>
+    </item>
+    
+    <item>
+      <title>Truly Spots</title>
+      <link>http://bluevisual.tv/work/truly-spots/</link>
+      <pubDate>Mon, 14 Dec 2020 00:16:39 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/truly-spots/</guid>
+      <description>Overview Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.
+Droplet Simulation In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.
+One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Office Social</title>
+      <link>http://bluevisual.tv/work/microsoft-office-social/</link>
+      <pubDate>Sun, 15 Dec 2019 22:18:21 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/microsoft-office-social/</guid>
+      <description>Overview In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.
+I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.
+You can find the link to Buck&amp;rsquo;s project page here.</description>
+    </item>
+    
+  </channel>
+</rss>

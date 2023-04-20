@@ -6,10 +6,75 @@
     <description>Recent content in Dynamics on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 00:25:43 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Meta Connect 2022</title>
+      <link>http://bluevisual.tv/work/meta-connect-2022/</link>
+      <pubDate>Wed, 11 May 2022 00:25:43 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/meta-connect-2022/</guid>
+      <description>Overview BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.
+You can find BUCK&amp;rsquo;s project page for this here.
+Lookdev Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects.</description>
+    </item>
+    
+    <item>
+      <title>Brawlidays 2021</title>
+      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
+An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+    </item>
+    
+    <item>
+      <title>Highland Park Spots</title>
+      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
+I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+    </item>
+    
+    <item>
+      <title>Arcane Worlds 2021</title>
+      <link>http://bluevisual.tv/work/arcane-worlds-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:25:24 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/arcane-worlds-2021/</guid>
+      <description>Overview BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.
+I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.
+A trimmed version of the Arcane Worlds 2021 Opening.Watch the full video on YouTube here.
+Volumetrics The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.</description>
+    </item>
+    
+    <item>
+      <title>Truly Spots</title>
+      <link>http://bluevisual.tv/work/truly-spots/</link>
+      <pubDate>Mon, 14 Dec 2020 00:16:39 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/truly-spots/</guid>
+      <description>Overview Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.
+Droplet Simulation In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.
+One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Office Social</title>
+      <link>http://bluevisual.tv/work/microsoft-office-social/</link>
+      <pubDate>Sun, 15 Dec 2019 22:18:21 -0800</pubDate>
+      
+      <guid>http://bluevisual.tv/work/microsoft-office-social/</guid>
+      <description>Overview In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.
+I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.
+You can find the link to Buck&amp;rsquo;s project page here.</description>
+    </item>
     
     <item>
       <title>Paint Tests</title>
@@ -30,26 +95,6 @@
       <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
 I handled all the visual effects for the film. All shots were done at 4k.
 Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
-    </item>
-    
-    <item>
-      <title>Valentine Dayz</title>
-      <link>http://bluevisual.tv/work/valentine-dayz/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
-      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
-I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
-Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
-    </item>
-    
-    <item>
-      <title>Dust</title>
-      <link>http://bluevisual.tv/personal/dust/</link>
-      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/dust/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;</description>
     </item>
     
   </channel>

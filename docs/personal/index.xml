@@ -6,10 +6,30 @@
     <description>Recent content in Personals on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Nov 2018 14:10:36 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 13:01:11 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/personal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Problem Space Course</title>
+      <link>http://bluevisual.tv/personal/houdinischool-course-01/</link>
+      <pubDate>Fri, 14 Jan 2022 13:01:11 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/houdinischool-course-01/</guid>
+      <description>When it first opened, Houdini.School&amp;rsquo;s founder Deborah reached out to me to have me make a class. I was very busy at the time for many months but eventually in 2022 I was able to set aside some time to create a small syllabus and a cohesive theme enough to create a course for.
+Teaser for the courseProblem Space is an atypical course more about concepts and thinking strategies rather than focused on a particular tutorial for an effect.</description>
+    </item>
+    
+    <item>
+      <title>Cellular Automata Playground</title>
+      <link>http://bluevisual.tv/personal/ca-playground/</link>
+      <pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/ca-playground/</guid>
+      <description>Overview Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of Conway&amp;rsquo;s Game of Life. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.
+In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better.</description>
+    </item>
     
     <item>
       <title>Edgewalker</title>
@@ -82,33 +102,6 @@ I was originally inspired to create this toolset when I had data of my own that 
     </item>
     
     <item>
-      <title>Canvases</title>
-      <link>http://bluevisual.tv/personal/canvases/</link>
-      <pubDate>Sun, 02 Oct 2016 04:32:11 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/canvases/</guid>
-      <description>&lt;p&gt;Being a hobbyist photographer, I want to sell my prints. Unfortunately, buying each print in each different size would be very expensive and take up a lot of space. In addition, I wouldn&amp;rsquo;t really have a great place to put to stage great pictures of them. To solve these problems, I decided to model the canvases and environments, and render them to show them off.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Bungee Chair Models</title>
-      <link>http://bluevisual.tv/personal/bungeechairs/</link>
-      <pubDate>Thu, 02 Jun 2016 10:36:45 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/bungeechairs/</guid>
-      <description>&lt;p&gt;When I first got my apartment, I wanted really neat furniture for it, so I got some. Two of the things I got were these Bungee chairs that have a very springy feeling to them. They were so cool that as soon as I returned home with them I went back and got another one that night.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hexcabin</title>
-      <link>http://bluevisual.tv/personal/hexcabin/</link>
-      <pubDate>Sun, 01 May 2016 04:05:01 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hexcabin/</guid>
-      <description>&lt;p&gt;For a while now I&amp;rsquo;ve had an idea for this hexagonal three-story cabin fit for about two people with room for guests. Upstairs is the bedroom/study with a large glass roof (imagine watching rain under that!).&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Transit</title>
       <link>http://bluevisual.tv/personal/transit/</link>
       <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
@@ -118,30 +111,13 @@ I was originally inspired to create this toolset when I had data of my own that 
     </item>
     
     <item>
-      <title>Exion49 Model</title>
-      <link>http://bluevisual.tv/personal/exion49/</link>
-      <pubDate>Mon, 02 Feb 2015 10:37:14 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/exion49/</guid>
-      <description>&lt;p&gt;This project&amp;rsquo;s goal was to recreate &lt;a href=&#34;http://www.m-audio.com/products/view/axiom-49&#34;&gt;M-Audio&amp;rsquo;s Axiom49&lt;/a&gt;. During this project I expanded my knowledge about clean topology, UV mapping, and general manufacturing practices.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Giant</title>
       <link>http://bluevisual.tv/personal/giant/</link>
       <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/giant/</guid>
-      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Destiny</title>
-      <link>http://bluevisual.tv/personal/destiny/</link>
-      <pubDate>Sun, 02 Nov 2014 10:37:22 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/destiny/</guid>
-      <description>&lt;p&gt;Destiny is a project about rails. A journey, and a destination.&lt;/p&gt;</description>
+      <description>A procedural gas giant generator engineered in Filter Forge.
+</description>
     </item>
     
     <item>
@@ -163,30 +139,12 @@ I was originally inspired to create this toolset when I had data of my own that 
     </item>
     
     <item>
-      <title>Whirl</title>
-      <link>http://bluevisual.tv/personal/whirl/</link>
-      <pubDate>Thu, 02 May 2013 10:38:29 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/whirl/</guid>
-      <description>&lt;p&gt;As I was falling asleep, I imagined a neat sort of kinetic sculpture. I imagine a sort of rod or dowel with thousands of strings all over it, all with tiny orbs of light at the ends. While stationary, these would simply look like random dots hanging down, but as the motor spun up and reached a sustained velocity, the dots would all fan out from centripetal force, and the motion would leave long streaks of light in a trail, turning into a field of stars.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Stargaze</title>
       <link>http://bluevisual.tv/personal/stargaze/</link>
       <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/stargaze/</guid>
       <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Dust</title>
-      <link>http://bluevisual.tv/personal/dust/</link>
-      <pubDate>Tue, 02 Apr 2013 10:38:09 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/dust/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always loved the concept of entropy, decay, chaos, destruction&amp;hellip; but not in an evil or sinister way, in a curious way. When something is broken, you can study its parts — the system. When something is destroyed, you can see how it was created.&lt;/p&gt;</description>
     </item>
     
     <item>

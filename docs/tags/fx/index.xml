@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fx on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/fx/</link>
+    <description>Recent content in Fx on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Nov 2022 10:43:06 -0700</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/fx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aircover Spot</title>
+      <link>http://bluevisual.tv/work/aircover-spot/</link>
+      <pubDate>Mon, 14 Nov 2022 10:43:06 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/aircover-spot/</guid>
+      <description>Buck was tasked with creating spots for AirBnB&amp;rsquo;s Aircover, an insurance program for their hosts. Rain System Similar to the Amazon Halo Spot, we needed rain for this moody animation. In fact, I brought over the same system and tweaked it for our needs and added some additional controls.
+There were many iterations on the look and feel of the rain drops, their splashes, and their puddles. Knowing this is always the case, the tool was designed for ultimate flexibility in mind, so it was easy to adjust.</description>
+    </item>
+    
+    <item>
+      <title>Amazon Halo</title>
+      <link>http://bluevisual.tv/work/amazon-halo/</link>
+      <pubDate>Fri, 26 Feb 2021 00:25:03 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/work/amazon-halo/</guid>
+      <description>In this project, I was tasked with doing some rain effects for the Amazon Halo commercial. Rain One of the asks was for a particular droplet splash that hits the product. It needed to be able to be timed precisely and generate physically accurate secondary droplets. Because I hate simulating things, I decided I would design a procedural system for this that was seamless with the background rain.</description>
+    </item>
+    
+  </channel>
+</rss>

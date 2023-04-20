@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Blue Visual v03</title>
+    <link>http://bluevisual.tv/tags/teaching/</link>
+    <description>Recent content in Teaching on Blue Visual v03</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jan 2022 13:01:11 -0700</lastBuildDate>
+    
+	<atom:link href="http://bluevisual.tv/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Problem Space Course</title>
+      <link>http://bluevisual.tv/personal/houdinischool-course-01/</link>
+      <pubDate>Fri, 14 Jan 2022 13:01:11 -0700</pubDate>
+      
+      <guid>http://bluevisual.tv/personal/houdinischool-course-01/</guid>
+      <description>When it first opened, Houdini.School&amp;rsquo;s founder Deborah reached out to me to have me make a class. I was very busy at the time for many months but eventually in 2022 I was able to set aside some time to create a small syllabus and a cohesive theme enough to create a course for.
+Teaser for the courseProblem Space is an atypical course more about concepts and thinking strategies rather than focused on a particular tutorial for an effect.</description>
+    </item>
+    
+  </channel>
+</rss>

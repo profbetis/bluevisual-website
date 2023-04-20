@@ -6,20 +6,10 @@
     <description>Recent content in Vfx on Blue Visual v03</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Mar 2018 21:18:47 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2017 19:22:44 -0700</lastBuildDate>
     
 	<atom:link href="http://bluevisual.tv/tags/vfx/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A Prayer for the Damned</title>
-      <link>http://bluevisual.tv/work/aprayerforthedamned/</link>
-      <pubDate>Sun, 11 Mar 2018 21:18:47 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/aprayerforthedamned/</guid>
-      <description>While most of A Prayer for the Damned doesn&amp;rsquo;t have VFX, there were a few shots that needed a little more oomph.
-Smoke and Debris Dynamics I roughly remade the chest and boot geometry and motion just enough to affect the smoke motion, but not for any rendering purposes. I attached the smoke&amp;rsquo;s fuel volume to the chest so that when kicked open, the emitter got dragged with it.</description>
-    </item>
     
     <item>
       <title>We Are Boats</title>
@@ -33,68 +23,12 @@ Scenes included characters disappearing, camera tracking and 3D background subst
     </item>
     
     <item>
-      <title>Valentine Dayz</title>
-      <link>http://bluevisual.tv/work/valentine-dayz/</link>
-      <pubDate>Mon, 08 May 2017 00:00:00 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/valentine-dayz/</guid>
-      <description>Valentine DayZ is a quirky horror movie about a zombie apocalypse.
-I handled almost all of the visual effects for the film, the only exception being one of the shooting locations for a news broadcast offered an automated greenscreening process for one of the backdrop. I worked in After Effects for the motion tracking, rotoscoping, and compositing. All shots were done at 4k.
-Dynamics Most of the smoke and fires in the film were simulated and rendered in Houdini and are supposed to represent portions of the city in ruins from the apocalypse.</description>
-    </item>
-    
-    <item>
-      <title>WagooAR</title>
-      <link>http://bluevisual.tv/work/wagooar/</link>
-      <pubDate>Mon, 12 Dec 2016 09:30:44 -0500</pubDate>
-      
-      <guid>http://bluevisual.tv/work/wagooar/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.wagooar.com/&#34;&gt;WagooAR&lt;/a&gt; is an emerging company that creates efficient, spatially-aware augmented reality technology. In order to gain more awareness in the market, they needed a website and a video showcasing their technology and its applications.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>The Fiancé</title>
-      <link>http://bluevisual.tv/work/thefiance/</link>
-      <pubDate>Tue, 01 Sep 2015 21:05:29 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/work/thefiance/</guid>
-      <description>&lt;p&gt;Firebreathing Films asked me to do moderate VFX work for &lt;a href=&#34;http://www.imdb.com/title/tt4159698/&#34;&gt;The Fiancé&lt;/a&gt;, a horror movie. They needed rotoscoping, compositing, and general vfx work for their film.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Honeyglue</title>
-      <link>http://bluevisual.tv/work/honeyglue/</link>
-      <pubDate>Tue, 01 Apr 2014 21:05:46 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/work/honeyglue/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; hired me for their film Honeyglue for VFX/compositing and also for 2D animation of a storybook which I worked with illustrations from another artist.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Cyber Vice</title>
-      <link>http://bluevisual.tv/work/cybervice/</link>
-      <pubDate>Wed, 01 Jan 2014 21:06:09 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/work/cybervice/</guid>
-      <description>&lt;p&gt;This project required a few different things. Compositing screens (LOTS OF THEM), the design and animation of them, and a intro sequence for the beginning of the show.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Me &#43; Her</title>
       <link>http://bluevisual.tv/work/me&#43;her/</link>
       <pubDate>Sun, 01 Dec 2013 21:06:17 -0400</pubDate>
       
       <guid>http://bluevisual.tv/work/me&#43;her/</guid>
       <description>&lt;p&gt;The short film Me + Her is a love story about two cardboard characters who grow up together but are separated suddenly by the death of one of them. The other character, through a series of events, unexpected &amp;ldquo;reunites&amp;rdquo; with her.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Asus Vivobook</title>
-      <link>http://bluevisual.tv/work/asusvivo/</link>
-      <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
-      
-      <guid>http://bluevisual.tv/work/asusvivo/</guid>
-      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
     </item>
     
   </channel>

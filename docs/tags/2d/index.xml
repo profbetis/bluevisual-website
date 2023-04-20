@@ -26,7 +26,8 @@
       <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
       
       <guid>http://bluevisual.tv/personal/giant/</guid>
-      <description>&lt;p&gt;A procedural gas giant generator engineered in &lt;a href=&#34;https://www.filterforge.com/&#34;&gt;Filter Forge&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>A procedural gas giant generator engineered in Filter Forge.
+</description>
     </item>
     
     <item>
@@ -36,15 +37,6 @@
       
       <guid>http://bluevisual.tv/personal/stargaze/</guid>
       <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Asus Vivobook</title>
-      <link>http://bluevisual.tv/work/asusvivo/</link>
-      <pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
-      
-      <guid>http://bluevisual.tv/work/asusvivo/</guid>
-      <description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
     </item>
     
   </channel>

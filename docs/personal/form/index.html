@@ -47,7 +47,7 @@
 
 <div class="header">
   <a href="http://bluevisual.tv/personal/form/">
-    <div class="image" style="background-image: url('/images/form-thumb.jpg');" ></div>
+    <div class="image" style="background-image: url('/project-media/form/form-thumb.jpg');" ></div>
   </a>
 
   <div class="info">
@@ -106,42 +106,37 @@
 <p>After these are generated I connect each layer from its last point to the next first point to get one massive open polygon, which can then be traversed to mimic the nozzle of a printer&rsquo;s extruder.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/images/form-01.jpg"></label></div>
+  <label for="lightbox-toggle1"><img src="/project-media/form/form-01.jpg"></label></div>
 <input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/images/form-01.jpg"></label>
+  <label for="lightbox-toggle1"><img src="/project-media/form/form-01.jpg"></label>
 </div>
 
 
 <p>I learned that they handle walls and infills separately, so I traced the outline of each slice, and then needed a way to fill in that layer.</p>
 
-<div class="sbs">
-  
-  <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/images/form-02.jpg"></label><div class="caption">Shell Path</div></div>
+<p><div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/project-media/form/form-02.jpg"></label><div class="caption">Shell Path</div></div>
 <input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/images/form-02.jpg"><div class="caption">Shell Path</div></label>
+  <label for="lightbox-toggle2"><img src="/project-media/form/form-02.jpg"><div class="caption">Shell Path</div></label>
 </div>
 
-  <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/images/form-03.jpg"></label><div class="caption">Infill Path</div></div>
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle3"><img src="/project-media/form/form-03.jpg"></label><div class="caption">Infill Path</div></div>
 <input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/images/form-03.jpg"><div class="caption">Infill Path</div></label>
+  <label for="lightbox-toggle3"><img src="/project-media/form/form-03.jpg"><div class="caption">Infill Path</div></label>
 </div>
-
-
-</div>
-
+</p>
 
 <p>Well as it turns out, printers don&rsquo;t just randomly fill in a layer, they usually have a certain pattern that they follow that maximizes structural stability as well as minimizing print time. This is usually accomplished by a layer-alternating diagonal pattern. There&rsquo;s no functional solution to this, so I had to connect each line by walking the points and using the best next point to move to. If it wasn&rsquo;t directly reachable, I recorded the position as &ldquo;moving&rdquo; as opposed to extruding.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/images/form-04.jpg"></label><div class="caption">Overly-complicated custom VEX path walking</div></div>
+  <label for="lightbox-toggle4"><img src="/project-media/form/form-04.jpg"></label><div class="caption">Overly-complicated custom VEX path walking</div></div>
 <input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle4" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/images/form-04.jpg"><div class="caption">Overly-complicated custom VEX path walking</div></label>
+  <label for="lightbox-toggle4"><img src="/project-media/form/form-04.jpg"><div class="caption">Overly-complicated custom VEX path walking</div></label>
 </div>
 
 
@@ -152,10 +147,10 @@
 <p>Thankfully, unlike most file formats, G-Code is actually very simple and readable. You&rsquo;ll notice most lines start with a letter (command type) followed by arguments and concurrent commands. Comments start with a &lsquo;;&rsquo;. I learned by some quick research that 3D printers only use G0 and G1 to move. E is the extruder motor, and tells the printer how much material to extrude during the move.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/images/form-06.jpg"></label><div class="caption">Example G-Code</div></div>
+  <label for="lightbox-toggle6"><img src="/project-media/form/form-06.jpg"></label><div class="caption">Example G-Code</div></div>
 <input type="checkbox" name="lightbox-toggle6" id="lightbox-toggle6" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/images/form-06.jpg"><div class="caption">Example G-Code</div></label>
+  <label for="lightbox-toggle6"><img src="/project-media/form/form-06.jpg"><div class="caption">Example G-Code</div></label>
 </div>
 
 
@@ -164,34 +159,34 @@
 <p>I thought this tool might come in handy for other projects, so I tried to design it with modularity and an open mind.</p>
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle7"><img src="/images/form-07.jpg"></label><div class="caption">Parameters for the tool</div></div>
+  <label for="lightbox-toggle7"><img src="/project-media/form/form-07.jpg"></label><div class="caption">Parameters for the tool</div></div>
 <input type="checkbox" name="lightbox-toggle7" id="lightbox-toggle7" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle7"><img src="/images/form-07.jpg"><div class="caption">Parameters for the tool</div></label>
+  <label for="lightbox-toggle7"><img src="/project-media/form/form-07.jpg"><div class="caption">Parameters for the tool</div></label>
 </div>
 
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/images/form-05.jpg"></label><div class="caption">Example 2-million instruction G-Code processed into consectutive point positions</div></div>
+  <label for="lightbox-toggle5"><img src="/project-media/form/form-05.jpg"></label><div class="caption">Example 2-million instruction G-Code processed into consectutive point positions</div></div>
 <input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle5" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/images/form-05.jpg"><div class="caption">Example 2-million instruction G-Code processed into consectutive point positions</div></label>
+  <label for="lightbox-toggle5"><img src="/project-media/form/form-05.jpg"><div class="caption">Example 2-million instruction G-Code processed into consectutive point positions</div></label>
 </div>
 
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle9"><img src="/images/form-09.jpg"></label><div class="caption">Python SOP opening and reading the G-Code file</div></div>
+  <label for="lightbox-toggle9"><img src="/project-media/form/form-09.jpg"></label><div class="caption">Python SOP opening and reading the G-Code file</div></div>
 <input type="checkbox" name="lightbox-toggle9" id="lightbox-toggle9" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle9"><img src="/images/form-09.jpg"><div class="caption">Python SOP opening and reading the G-Code file</div></label>
+  <label for="lightbox-toggle9"><img src="/project-media/form/form-09.jpg"><div class="caption">Python SOP opening and reading the G-Code file</div></label>
 </div>
 
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle8"><img src="/images/form-08.jpg"></label><div class="caption">Further processing in VEX</div></div>
+  <label for="lightbox-toggle8"><img src="/project-media/form/form-08.jpg"></label><div class="caption">Further processing in VEX</div></div>
 <input type="checkbox" name="lightbox-toggle8" id="lightbox-toggle8" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle8"><img src="/images/form-08.jpg"><div class="caption">Further processing in VEX</div></label>
+  <label for="lightbox-toggle8"><img src="/project-media/form/form-08.jpg"><div class="caption">Further processing in VEX</div></label>
 </div>
 
 

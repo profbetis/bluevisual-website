@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - Cellular Automata Playground</title>
+      <meta property="og:title" content="Blue Visual - Cellular Automata Playground" />
+      <meta name="description" content="Overview Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of Conway&rsquo;s Game of Life...."/>
+      <meta property="og:description" content="Overview Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of Conway&rsquo;s Game of Life...." />
+      <link rel="canonical" href="http://bluevisual.tv/personal/ca-playground/" />
+      <meta property="og:url" content="http://bluevisual.tv/personal/ca-playground/" />
+      <meta property="og:image" content="http://bluevisual.tv//images/ca-playground-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<a href="/"> <img src="/header.svg" id="header"> </a>
+
+
+<a href="http://bluevisual.tv/" id="return">
+  <span>Return        &lt;</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <a href="http://bluevisual.tv/personal/ca-playground/">
+    <div class="image" style="background-image: url('/project-media/ca-playground/ca-playground-thumb.jpg');" ></div>
+  </a>
+
+  <div class="info">
+    <div class="title"><a href="http://bluevisual.tv/personal/ca-playground/">Cellular Automata Playground</a></div>
+    <div class="subtitle">
+      
+
+      
+        
+          Feb 2020
+        
+      
+    </div>
+    <div class="tags">
+      <div>Tags</div><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/math"><div>math</div></a><a href="/tags/tool"><div>tool</div></a></div>
+    <div class="tools">
+      <div>Tools</div><div>Houdini</div><div>OpenCL</div><div>VEX</div></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#overview">Overview</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#internals">Internals</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#ui">UI</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#artworks">Artworks</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      
+
+<h1 id="overview">Overview</h1>
+
+<p>Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway&rsquo;s Game of Life</a>. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.</p>
+
+<p>In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better. The inspiration took me down many deep rabbit-holes and late nights bleary eyed wondering how to fix something or implementing a new feature.</p>
+
+<p>After getting the basics down, I was once again inspired by next-nearest-neighbor cellular automata, which instead of only having 256 rules, has over four billion (2³² = 4,294,967,296). Implementing the feature to be able to do this generalized some of my systems to be able to do n-nearest-neighbor (although anything past 3 is pretty much nonsense).</p>
+
+<p>While my VEX-based setup was arguably efficient, it was running into a computational bottleneck. Realizing these systems are extremely iterative and parallelizable, OpenCL came to the rescue. This was a great crash course into understanding OpenCL code, being able to translate my VEX code into it, and ensuring parity between them. The OpenCL code can run over 100x faster than the VEX code, letting you design your canvases in virtually real-time, granted your trajectory bounds and grid resolution aren&rsquo;t too high.</p>
+
+<p>You can find a more in-depth dive of Elementary Cellular Automata on <a href="https://en.wikipedia.org/wiki/Elementary_cellular_automaton">Wikipedia</a>.</p>
+
+<h1 id="internals">Internals</h1>
+
+<p>The internal node network is quite large, though organized by function pretty well.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/project-media/ca-playground/ca-playground-01.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle1"><img src="/project-media/ca-playground/ca-playground-01.jpg"></label>
+</div>
+
+
+<p>The blue area at the start is the grid data prep, ensuring the grid points have the proper groups, postioning, and attributes to feed into the kernel.</p>
+
+<p>The large purple area on the top-right is the layer map creation. It can either use a noise, another cellular automata kernel, or an image to determine which cells will follow which rules.</p>
+
+<p>The yellow and green boxes are where the main kernels are located. The VEX kernel is inside a compiled for-loop block for maximum efficiency, and the OpenCL kernel is in the green box. A simple switch flips between them based on user preference, though the default of using OpenCL is strongly recommended.</p>
+
+<p>After the kernel runs, it&rsquo;s just a bit of cleanup and post-processing to remove cells that aren&rsquo;t within the canvas, color the points appropriately, and apply a sprite texture for nice viewport visualization. You can see here how each cell with a 1px sprite image with color can look great for the viewport very efficiently. Converting lots of points to quads was very slow, even with instancing.</p>
+
+<p><div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/project-media/ca-playground/ca-playground-02.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle2"><img src="/project-media/ca-playground/ca-playground-02.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle3"><img src="/project-media/ca-playground/ca-playground-03.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle3"><img src="/project-media/ca-playground/ca-playground-03.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle4"><img src="/project-media/ca-playground/ca-playground-04.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle4" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle4"><img src="/project-media/ca-playground/ca-playground-04.jpg"></label>
+</div>
+</p>
+
+<h1 id="ui">UI</h1>
+
+<h2 id="canvas">Canvas</h2>
+
+<p>The canvas tab is where you set up the output and grid that you wish to run the kernel over. They&rsquo;re not generally relevant to the behavior of the system, just how it is output.</p>
+
+<p>Internally, there is a COP2 Network that reads the grid point color attributes and converts them into pixels in order to output to an image file.
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle11"><img src="/project-media/ca-playground/ca-playground-11.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle11" id="lightbox-toggle11" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle11"><img src="/project-media/ca-playground/ca-playground-11.jpg"></label>
+</div>
+</p>
+
+<h2 id="rule">Rule</h2>
+
+<p>This is where most of the fun is. Here you can specify the kernel radius, the rule, and the layering system to build up as many rules as you want, each with their own independent noise pattern.</p>
+
+<p>The &lsquo;Rule Base&rsquo; parameter specifies how the rule string is to be interpreted. Because there are a finite number of rules, each rule has a single index, and in binary actually represents the rule logic itself. Rules for a nearest-neighbor kernel are 8 binary digits in length, while rules for a next-nearest-neighbor kernel are 32 binary digits in length. These can be quite unwieldy, so they can be set to decimal or hexadecimal formats for easier grokking. When the rule base is changed, a python script runs that converts all rule parameters to the new base automatically.</p>
+
+<p><div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle12"><img src="/project-media/ca-playground/ca-playground-12.jpg"></label><div class="caption">A simpler UI when not dealing with layers.</div></div>
+<input type="checkbox" name="lightbox-toggle12" id="lightbox-toggle12" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle12"><img src="/project-media/ca-playground/ca-playground-12.jpg"><div class="caption">A simpler UI when not dealing with layers.</div></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle13"><img src="/project-media/ca-playground/ca-playground-13.jpg"></label><div class="caption">Once layers are part of the equation, the UI reveals more controls to the user.</div></div>
+<input type="checkbox" name="lightbox-toggle13" id="lightbox-toggle13" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle13"><img src="/project-media/ca-playground/ca-playground-13.jpg"><div class="caption">Once layers are part of the equation, the UI reveals more controls to the user.</div></label>
+</div>
+</p>
+
+<h2 id="kernel-parameters">Kernel Parameters</h2>
+
+<p>The kernel parameters tab is not touched very often, but is there to control how the kernel runs. Here you can toggle using the OpenCL kernel.</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle14"><img src="/project-media/ca-playground/ca-playground-14.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle14" id="lightbox-toggle14" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle14"><img src="/project-media/ca-playground/ca-playground-14.jpg"></label>
+</div>
+
+
+<p>The Canvas Padding Cells and Border Style parameters are interesting. Essentially, when a cell wants to know the value of a neighbor outside of the canvas area, that data needs to be generated somehow. Usually if you just fill it in with zeroes, you&rsquo;ll start to get artifacts or strange patterns from it. One solution is to simulate a little bit outside the canvas area so that those artifacts get mitigated by more real cell calculations.</p>
+
+<p>If aesthetics are your only goal, this is usually sufficient, however another interesting concept starts to come into play. Those extra padding cells also need data for their inputs, and those inputs needs data for their inputs. If you only have 4 generations, you only need 4 extra cells of padding on each side for a nearest-neighbor kernel, since nothing outside of that will be able to affect your canvas. If you raise your kernel radius higher though, you need to account for that as more and more cells will be able to affect the final row of the canvas.</p>
+
+<h2 id="visualization">Visualization</h2>
+
+<p>This tab is for helping you understand what&rsquo;s going on under the hood. You can visualize the cell padding extents (trajectory bounds), the rulset map (useful when dealing with layers and trying to grok which cells are part of each layer), and the UV bounds (for when using an image map to control your layers instead of a noise function).</p>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle15"><img src="/project-media/ca-playground/ca-playground-15.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle15" id="lightbox-toggle15" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle15"><img src="/project-media/ca-playground/ca-playground-15.jpg"></label>
+</div>
+
+
+<p>Here you can see the effect of &lsquo;View Trajectory Bounds&rsquo; looks like. These cells are necessary to compute the result within the canvas, but are deleted for output once they&rsquo;re used.
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle16"><img src="/project-media/ca-playground/ca-playground-16.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle16" id="lightbox-toggle16" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle16"><img src="/project-media/ca-playground/ca-playground-16.jpg"></label>
+</div>
+</p>
+
+<h1 id="artworks">Artworks</h1>
+
+<p><div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle21"><img src="/project-media/ca-playground/ca-playground-21.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle21" id="lightbox-toggle21" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle21"><img src="/project-media/ca-playground/ca-playground-21.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle22"><img src="/project-media/ca-playground/ca-playground-22.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle22" id="lightbox-toggle22" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle22"><img src="/project-media/ca-playground/ca-playground-22.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle23"><img src="/project-media/ca-playground/ca-playground-23.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle23" id="lightbox-toggle23" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle23"><img src="/project-media/ca-playground/ca-playground-23.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle24"><img src="/project-media/ca-playground/ca-playground-24.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle24" id="lightbox-toggle24" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle24"><img src="/project-media/ca-playground/ca-playground-24.jpg"></label>
+</div>
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle25"><img src="/project-media/ca-playground/ca-playground-25.jpg"></label></div>
+<input type="checkbox" name="lightbox-toggle25" id="lightbox-toggle25" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle25"><img src="/project-media/ca-playground/ca-playground-25.jpg"></label>
+</div>
+</p>
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/houdini">
+          houdini
+        </a>
+        <a href="/tags/math">
+          math
+        </a>
+        <a href="/tags/tool">
+          tool
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <div id="return-bottom">
+    <a href="http://bluevisual.tv/">Return to Project Grid</a>
+</div>
+
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+
