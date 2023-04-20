@@ -6,6 +6,5 @@ client = "Client Name"
 tools = ["a", "b", "c"]
 sections = ["Section A", "Section B"]
 active = false
-peak = false
 draft = false
 +++
