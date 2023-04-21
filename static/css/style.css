@@ -203,7 +203,7 @@ code{
   display: block;
   width: 99px;
   height: 99px;
-  outline: 1px dashed #202020;
+  outline: 1px solid #202020;
   border: none;
   outline-offset: -1px;
   background: #202020;
@@ -351,6 +351,40 @@ code{
 
   transition: all 0.3s ease;
 }
+
+/***  LINK ICON TILE  ***/
+.project-tile.link.icon svg{
+  display: block;
+  position: absolute;
+  margin: auto;
+  left: 14%;
+  top: 14%;
+  fill: #808080;
+  width: 55%;
+  transition: all 0.3s ease;
+}
+.project-tile.link.icon a:hover svg{
+  fill: #fff !important;
+  transition: all 0.2s ease;
+}
+.project-tile.link.icon .text{
+  display: block;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  left: 19%;
+  top: 64%;
+  margin: auto;
+  font-size: 1em;
+  color: #808080;
+  transition: all 0.5s ease;
+}
+.project-tile.link.icon a:hover .text{
+  color: #fff !important;
+  transition: all 0.15s ease;
+}
+
+
 form .project-tile{
   opacity: 0.0;
   visibility: hidden;
@@ -423,7 +457,7 @@ form .project-tile{
 }
 
 .project-tile.link{
-  background-color: #282828;
+  background-color: #202020;
   font-weight: 300;
   outline: 1px solid #383838;
   transition: all 0.3s ease;
