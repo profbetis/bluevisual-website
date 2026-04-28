@@ -1,24 +1,31 @@
-{{- $id := .Get 0 -}}
+{{ $id := .Get 0 }}
+{{ $caption := .Get 1 }}
+{{ $has_caption := gt (len .Params) 1 }}
+
+{{ with .Page.File }}
+
+{{ $src_url := "" }}
+{{ $digits := $id }}
+{{ if lt $id 10 }} {{ $digits = delimit (slice "0" $id) "" }} {{ end }}
+{{ $src_url = delimit (slice "/project-media/" .BaseFileName "/" .BaseFileName "-" $digits ".jpg") "" }}
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle{{ $id }}">
-    {{- if lt $id 10 -}}
-    <img src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
-    {{- else -}}
-    <img src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
-    {{- end -}}
+  <label for="lightbox-toggle{{ $digits }}">
+    <img src="{{ $src_url }}">
   </label>
-  {{- if gt (len .Params) 1 -}}<div class="caption">{{- .Get 1 -}}</div>{{- end -}}
+  {{- if $has_caption -}}
+  <div class="caption">{{- $caption -}}</div>
+  {{- end -}}
 </div>
-<input type="checkbox" name="lightbox-toggle{{ $id }}" id="lightbox-toggle{{ $id }}" />
+<input type="checkbox" name="lightbox-toggle{{ $id }}" id="lightbox-toggle{{ $digits }}" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle{{ $id }}">
-    {{- if lt $id 10 -}}
-    <img src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-0{{ $id }}.jpg">
-    {{- else -}}
-    <img src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-{{ $id }}.jpg">
-    {{- end -}}
-    {{- if gt (len .Params) 1 -}}
-    <div class="caption">{{- .Get 1 -}}</div>
+  <label for="lightbox-toggle{{ $digits }}">
+    <img src="{{ $src_url }}">
+
+    {{- if $has_caption -}}
+    <div class="caption">{{- $caption -}}</div>
     {{- end -}}
   </label>
 </div>
+
+{{ end }}

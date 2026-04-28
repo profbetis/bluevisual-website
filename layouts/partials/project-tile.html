@@ -7,9 +7,12 @@
 
 <div class="project-tile">
   <a href="{{ .proj.Permalink }}">
+    {{ with .proj.File }}
+    {{ $thumb_url := delimit (slice "/project-media/" .BaseFileName "/" .BaseFileName "-thumb.jpg") "" }}
     <div class="project-thumb"
-    style="background-image: url('/project-media/{{ .proj.BaseFileName }}/{{ .proj.BaseFileName }}-thumb.jpg'); filter: grayscale({{$gray}}%) contrast({{$contrast}}%) brightness({{$brightness}}%);">
+    style="background-image: url('{{$thumb_url}}'); filter: grayscale({{$gray}}%) contrast({{$contrast}}%) brightness({{$brightness}}%);">
     </div>
+    {{end}}
   </a>
 
   {{ if .proj.Params.active }}
@@ -22,9 +25,11 @@
     <a href="{{ .proj.Permalink }}">{{ .proj.Title }}</a>
 
     <div class="project-tags">
-      {{- range $index, $el := first 3 .proj.Params.tags -}}
+      {{ with .proj.Params.tags }}
+      {{- range $index, $el := first 3 . -}}
         {{- if gt $index 0 -}},&nbsp;{{- end -}}
         <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+      {{- end -}}
       {{- end -}}
     </div>
 

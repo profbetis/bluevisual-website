@@ -1,11 +1,22 @@
 {{- $id := .Get 0 -}}
+{{ $caption := .Get 1 }}
+{{ $has_caption := gt (len .Params) 1 }}
+
+{{ with .Page.File }}
+
+{{ $src_url := "" }}
+{{ $digits := $id }}
+{{ if lt $id 10 }} {{ $digits = delimit (slice "0" $id) "" }} {{ end }}
+{{ $src_url = delimit (slice "/project-media/" .BaseFileName "/" .BaseFileName "-video-" $digits ".mp4") "" }}
+
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    {{ if lt $id 10 }}
-      <source src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-video-0{{ $id }}.mp4" />
-    {{ else }}
-      <source src="/project-media/{{ .Page.BaseFileName }}/{{ .Page.BaseFileName }}-video-{{ $id }}.mp4" />
-    {{ end }}
+    <source src="{{ $src_url }}" />
   </video>
-  {{ if gt (len .Params) 1 }}<div class="caption">{{ .Get 1 }}</div>{{ end }}
+
+  {{- if $has_caption -}}
+    <div class="caption">{{- $caption -}}</div>
+  {{- end -}}
 </div>
+
+{{ end }}

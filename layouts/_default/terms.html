@@ -11,8 +11,11 @@
     {{ range $key, $value := .Data.Terms.ByCount }}
       {{ $url := (print "/" $.Data.Plural "/" ($value.Name | urlize)) }}
       {{ $firstproj := index $value.Pages 0 }}
-      {{ $image := (print "/images/" $firstproj.BaseFileName "-thumb.jpg" )}}
-      {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" .Count ")") "url" $url "image" $image) }}
+      {{ $count := .Count }}
+      {{ with $firstproj.File }}
+        {{ $image := (print "/images/" .BaseFileName "-thumb.jpg" )}}
+        {{ partial "link-tile" (dict "title" (print ($value.Name | humanize) " (" $count ")") "url" $url "image" $image) }}
+      {{ end }}
     {{ end }}
   </div>
 </div>

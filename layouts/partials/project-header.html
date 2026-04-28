@@ -3,7 +3,10 @@
 
 <div class="header">
   <a href="{{ .Permalink }}">
-    <div class="image" style="background-image: url('/project-media/{{ .BaseFileName }}/{{ .BaseFileName }}-thumb.jpg');" ></div>
+    {{ with .File }}
+    {{ $thumb_url := delimit (slice "/project-media/" .BaseFileName "/" .BaseFileName "-thumb.jpg") "" }}
+    <div class="image" style="background-image: url('{{$thumb_url}}');" ></div>
+    {{end}}
   </a>
 
   <div class="info">
