@@ -19,7 +19,7 @@
     <br><br>
     <div id="projects">
       <div class="project-group">
-        {{ range where .Site.Pages "Params.reel" "!=" nil }}
+        {{ range where .Site.Pages "Params.reel" true }}
           {{ partial "project-tile" (dict "proj" . "lerp" 0.0) }}
         {{ end }}
         {{ partial "link-tile" (dict "title" "Return" "url" "/" "delay" 0.0) }}

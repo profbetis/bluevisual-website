@@ -350,6 +350,7 @@ code{
   visibility: visible;
 
   transition: all 0.3s ease;
+  transition: left 0s;
 }
 
 /***  LINK ICON TILE  ***/
@@ -458,7 +459,7 @@ form .project-tile{
 
 .project-tile.link{
   background-color: #202020;
-  font-weight: 300;
+  font-weight: 400;
   outline: 1px solid #383838;
   transition: all 0.3s ease;
 }
@@ -572,7 +573,7 @@ form .project-tile{
   line-height: 1rem;
   font-size: 1rem;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
   z-index: 10;
   pointer-events: none;
   opacity: 0;
