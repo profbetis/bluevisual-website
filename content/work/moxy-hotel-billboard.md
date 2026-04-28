@@ -7,7 +7,7 @@ tools = ["Houdini", "FLIP"]
 sections = ["Overview", "Simulation", "Procedural Extension"]
 active = false
 peak = false
-draft = true
+draft = false
 reel = true
 +++
 # Overview

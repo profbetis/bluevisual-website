@@ -11,8 +11,10 @@
 
     {{ partial "project-group-shifters"}}
 
-    {{ range .Pages }}
-      {{ if ne .Title "reel" }}
+    {{ range .Site.RegularPages }}
+      {{ $path := split .Path "/" }}
+      {{ $isArchived := eq (index $path (sub (len $path) 2)) "_archive" }}
+      {{ if and (ne .Title "reel") (not $isArchived) }}
         {{ partial "project-tile" (dict "proj" . "delay" 0 "index" 0 "lerp" 0) }}
       {{ end }}
     {{ end }}
