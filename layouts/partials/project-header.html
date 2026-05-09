@@ -2,15 +2,15 @@
 {{ $year := (dateFormat "2006" .Date) }}
 
 <div class="header">
-  <a href="{{ .Permalink }}">
+  <div class="thumbnail">
     {{ with .File }}
     {{ $thumb_url := delimit (slice "/project-media/" .BaseFileName "/" .BaseFileName "-thumb.jpg") "" }}
     <div class="image" style="background-image: url('{{$thumb_url}}');" ></div>
     {{end}}
-  </a>
+  </div>
 
   <div class="info">
-    <div class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+    <div class="title">{{ .Title }}</div>
     <div class="subtitle">
       {{ if isset .Params "client" }}
         for {{ .Params.client }} —

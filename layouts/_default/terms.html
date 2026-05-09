@@ -7,6 +7,8 @@
 
 <div id="projects">
   <div class="project-group">
+    {{ partial "link-tile" (dict "title" "Return Home" "url" "/" "delay" 0) }}
+
     {{ $rootContext := .Data }}
     {{ range $key, $value := .Data.Terms.ByCount }}
       {{ $url := (print "/" $.Data.Plural "/" ($value.Name | urlize)) }}
@@ -21,5 +23,7 @@
 </div>
 
 {{ partial "footer" . }}
+
+<!-- {{ partial "return-bottom" . }} -->
 
 {{ partial "footer-meta" . }}

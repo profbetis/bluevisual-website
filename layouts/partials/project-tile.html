@@ -27,8 +27,8 @@
     <div class="project-tags">
       {{ with .proj.Params.tags }}
       {{- range $index, $el := first 3 . -}}
-        {{- if gt $index 0 -}},&nbsp;{{- end -}}
-        <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+        {{- if gt $index 0 -}}&nbsp;&nbsp;/&nbsp;&nbsp;{{- end -}}
+         <span>{{ . }}</span>
       {{- end -}}
       {{- end -}}
     </div>
