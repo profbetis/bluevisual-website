@@ -1,0 +1,16 @@
+{{ partial "header-meta" . }}
+{{ partial "header" . }}
+
+{{ partial "return-top" . }}
+
+<div class="project" id="about-me">
+  <div class="content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+  
+  {{ partial "return-bottom" . }}
+
+</div>
+
+{{ partial "footer-meta" . }}
