@@ -727,7 +727,7 @@ form .project-tile{
   padding: 2em;
 }
 
-.content div, .content p{
+.content > p, .content > div:not(.project-tile){
   margin-bottom: 12px;
   margin-top: 0;
 }
