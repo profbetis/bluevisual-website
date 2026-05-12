@@ -9,11 +9,12 @@
   --accent-mid: #808080;
   --accent-white: #fff;
 
-  --text-brightish: #e0e0e0;
+  --text-brightish: #f0f0f0;
   --text-base: #d0d0d0;
   --text-darkish: #c0c0c0;
   --text-dim: #a0a0a0;
 
+  --surface-dimmer: #343434;
   --surface-dim: #303030;
   --surface-base: #383838;
   --surface-darkish: #202020;
@@ -25,7 +26,7 @@ html{
 }
 html, body{
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   padding: 0;
   margin: 0;
 
@@ -103,9 +104,11 @@ code{
 
 #header{
   display: block;
-  margin: 50px auto;
+  margin: 48px auto;
   position: relative;
+  
   width: 400px;
+  overflow: hidden;
 }
 
 @media (max-width: 1000px){
@@ -114,6 +117,9 @@ code{
   }
 }
 
+#header img{
+  width: 100%;
+}
 
 
 /*******/
@@ -711,20 +717,23 @@ form .project-tile{
 }
 
 .content{
-  margin-top: 2em;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .content p:not(:empty),
 .content ol, .content ul{
   line-height: 1.6em;
   background: var(--surface-darkish);
-  padding: 1em;
-  margin: 1.5rem 0;
+  padding: 2em;
+}
+
+.content div, .content p{
+  margin-bottom: 12px;
+  margin-top: 0;
 }
 
 .content h1, .content h2, .content h3{
-  margin-top: 1.5rem;
+  margin-bottom: 32px;
   color: var(--text-brightish);
   font-weight: 200;
   text-align: center;
@@ -756,12 +765,12 @@ form .project-tile{
 }
 
 .content h1{
-  font-size: 2.5rem;
-  margin-top: 2rem;
+  font-size: 3em;
+  margin-top: 1em;
 }
 .content h2{
-  font-size: 1.5rem;
-  margin-top: 3rem;
+  font-size: 1.5em;
+  margin-top: 1.5em;
   font-weight: 300;
   color: var(--text-darkish);
 }
@@ -781,7 +790,6 @@ form .project-tile{
 }
 
 .content .project-image{
-  margin: 2em 0;
   background-size: cover;
 }
 .content .project-image img, .content .project-image video{
@@ -937,7 +945,8 @@ input:not(:checked) + div.lightbox{
   text-align: center;
   width: 100%;
   /* background-color: var(--surface-darkish); */
-  padding: 1rem 0em;
+  padding: 1em 0em;
+  margin: 1em 0em;
 }
 
 .proj-toc h2{
@@ -972,7 +981,7 @@ input:not(:checked) + div.lightbox{
 }
 
 .content #related{
-  margin-top: 4rem;
+  /* margin-top: 4rem; */
 }
 
 #return{
@@ -1006,14 +1015,13 @@ input:not(:checked) + div.lightbox{
   color: var(--accent-white);
 }
 
-#return-bottom{
-  margin-top: 1.5rem;
-  margin-bottom: 9rem;
-  height: 12rem;
-  line-height: 12rem;
+#return-bottom div{
+  margin-bottom: 1rem;
+  height: 10rem;
+  line-height: 10rem;
   background: var(--surface-darkish);
   width: 100%;
-  display: block;
+  display: inline-block;
 
   outline: 1px solid var(--surface-base);
 
@@ -1021,22 +1029,13 @@ input:not(:checked) + div.lightbox{
   font-size: 2.5rem;
   font-family: 'Work Sans', sans-serif;
   font-weight: 300;
-
-  transition: outline 0.3s ease;
-}
-#return-bottom:hover{
-  outline-color: var(--accent);
-  transition: outline 0.15s ease;
-}
-
-#return-bottom a{
-  display: block;
-  width: 100%;
-  height: 100%;
+  
   color: var(--accent-mid);
+  transition: all 0.15s ease;
 }
-#return-bottom a:hover{
+#return-bottom div:hover{
   color: var(--accent);
+  outline-color: var(--accent);
 }
 
 
@@ -1066,19 +1065,18 @@ input:not(:checked) + div.lightbox{
 }
 
 #other-tags a,
-#related a {
-  color: var(--text-dim);
-  display: inline;
+#related a,
+.tag{
+  display: inline-block;
   background: var(--surface-darker);
-  margin-right: 0.25em;
-  margin-bottom: 0.5em;
-  padding: 0.25em 0.5em;
+  padding: 0.25em 0.75em;
+  margin: 0.2em 0.2em;
   transition: all 0.3s ease;
   vertical-align: middle;
-  line-height: 2.25em;
+  line-height: initial;
+  border-radius: 32px;
 }
 #related a {
-  margin: 0.5em;
   color: var(--text-brightish);
 }
 #related a + a{
@@ -1086,7 +1084,8 @@ input:not(:checked) + div.lightbox{
 }
 
 #other-tags a:hover,
-#related a:hover {
+#related a:hover,
+.tag:hover{
   background: var(--accent);
   color: var(--accent-white);
   transition: all 0.15s ease;
@@ -1104,7 +1103,7 @@ input:not(:checked) + div.lightbox{
 .header{
   position: relative;
   background: var(--surface-darkish);
-  margin: 1.5rem 0;
+  margin: 1em 0;
   height: 160px;
   text-align: left;
 }
@@ -1141,25 +1140,21 @@ input:not(:checked) + div.lightbox{
 
 .header .info .subtitle{
   color: var(--text-dim);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25em;
   font-size: 0.8rem;
 }
-.header .info .tags > div, .header .info .tags > a,
-.header .info .tools > div{
-  display: inline-block;
-  background: var(--surface-darker);
-  margin-right: 0.5em;
-  margin-bottom: 0.5em;
-  padding: 0.25em 0.5em;
-  transition: all 0.3s ease;
+
+.header .tools .title,
+.header .tags .title{
+  font-size: 18px;
+  font-weight: 400;
 }
-.header .info div > div:first-of-type{
-  color: var(--text-darkish);
-  background: var(--surface-darker);
+
+.header .tools .tool{
+  font-size: 18px;
 }
-.header .info .tags a {
-}
-.header .info .tags a:hover{
-  background: var(--accent);
+
+.header .tags .tag{
+  font-size: 18px;
   color: var(--accent-white);
 }
