@@ -122,6 +122,65 @@ code{
 }
 
 
+
+/*******/
+/***  PROJECT RETURN ***/
+/*******/
+#return{
+  font-size: 18px;
+  position: fixed;
+  height: 48px;
+  width: 9em;
+  left: -6em;
+  top: 54px;
+  text-align: right;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  background-color: var(--surface-darkish);
+  outline: 1px solid var(--surface-base);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  z-index: 50;
+}
+#return:hover{
+  left: 0em;
+  outline: 1px solid var(--accent);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+#return span{
+  position: absolute;
+  line-height: 48px;
+  left: 1.5em;
+  color: var(--text-dim);
+  white-space: pre;
+}
+#return:hover span{
+  color: var(--accent-white);
+}
+
+
+
+/*******/
+/***  CLIENT PORTAL ***/
+/*******/
+#client-portal{
+  font-size: 18px;
+  position: absolute;
+  top: 54px;
+  right: 0px;
+  width: 9em;
+  height: 48px;
+  line-height: 48px;
+  color: var(--text-base);
+  background-color: var(--surface-darkish);
+  outline: 1px solid var(--surface-base);
+  transition: outline-color 0.2s ease, color 0.2s ease;
+}
+#client-portal:hover{
+  outline-color: var(--accent);
+  color: var(--text-brightish);
+}
+
+
 /*******/
 /***  BIO  ***/
 /*******/
@@ -982,37 +1041,6 @@ input:not(:checked) + div.lightbox{
 
 .content #related{
   /* margin-top: 4rem; */
-}
-
-#return{
-  font-size: 15px;
-  position: fixed;
-  height: 4em;
-  width: 11em;
-  left: -7em;
-  top: 4em;
-  text-align: right;
-  font-family: 'Work Sans', sans-serif;
-  font-weight: 300;
-  background-color: var(--surface-dark);
-  outline: 1px solid var(--surface-dark);
-  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-  z-index: 50;
-}
-#return:hover{
-  left: -1em;
-  outline: 1px solid var(--accent);
-  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-}
-#return span{
-  position: absolute;
-  line-height: 4em;
-  left: 3em;
-  color: var(--text-dim);
-  white-space: pre;
-}
-#return:hover span{
-  color: var(--accent-white);
 }
 
 #return-bottom div{
