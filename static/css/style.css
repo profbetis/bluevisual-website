@@ -903,15 +903,12 @@ form .project-tile{
 }
 
 .lightbox img{
-  max-width: 85vw;
-  max-height: 85vh;
+  max-width: 94vw;
+  max-height: 94vh;
   position: relative;
-  outline: 1px solid #404040;
+  outline: 16px solid var(--surface-darker);
   transition: outline 0.2s ease;
   cursor: zoom-out;
-}
-.lightbox img:hover{
-  outline: 1px solid var(--accent);
 }
 
 .content .lightbox .caption{
@@ -1040,7 +1037,7 @@ input:not(:checked) + div.lightbox{
 }
 
 .content #related{
-  /* margin-top: 4rem; */
+  margin-top: 8rem;
 }
 
 #return-bottom div{
