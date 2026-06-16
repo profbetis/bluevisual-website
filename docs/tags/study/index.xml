@@ -1,61 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Study on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/study/</link>
-    <description>Recent content in Study on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Study on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/study/</link>
+    <description>Recent content in Study on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 20:29:07 -0800</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/study/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 04 May 2025 15:13:17 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Dock</title>
+      <link>https://bluevisual.tv/personal/space-dock/</link>
+      <pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
+      <guid>https://bluevisual.tv/personal/space-dock/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;This is a project I started to explore the concept of fractal cuboid animation. At first it just started abstract and exact, with no space between the units, and the math started out extremely simple. However, I realized I wanted something a bit more grounded, and kind of saw them as shipping containers in space, so I went with that concept. This concept added a lot of interesting but challenging complexity to everything due to the math of the padding and structures while keeping the locomotion systems plausible and realistic.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Paint Tests</title>
-      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <link>https://bluevisual.tv/personal/paint-tests/</link>
       <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
-      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
-Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+      <guid>https://bluevisual.tv/personal/paint-tests/</guid>
+      <description>&lt;p&gt;This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.&lt;/p&gt;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/255840349?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;dynamics&#34;&gt;Dynamics&lt;/h1&gt;&#xA;&lt;p&gt;This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hilbert Stairs</title>
-      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <link>https://bluevisual.tv/personal/hilbert/</link>
       <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before. I took an interest to it and created it in various 2D forms until I wanted to try doing it in 3D. Houdini&amp;rsquo;s loopable node-graph system made it very simple and natural to set up.&lt;/p&gt;</description>
+      <guid>https://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Hypercube</title>
-      <link>http://bluevisual.tv/personal/hypercube/</link>
-      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hypercube/</guid>
-      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Polygatures</title>
-      <link>http://bluevisual.tv/personal/polygatures/</link>
-      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/polygatures/</guid>
-      <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pyramid Fractal</title>
-      <link>http://bluevisual.tv/personal/pyramidfractal/</link>
-      <pubDate>Wed, 02 Jan 2013 10:38:25 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/pyramidfractal/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always been interested in mathematics, which led to an early interest in fractals, which are mathematical self-similar shapes and formulas. A well-known one is the Mandelbrot fractal. A key characteristic of fractals is that if you look at a smaller part of the whole, you will see the same same structures at completely different scales.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

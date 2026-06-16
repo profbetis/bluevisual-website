@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karma on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/karma/</link>
+    <description>Recent content in Karma on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 May 2025 15:13:17 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/karma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Space Dock</title>
+      <link>https://bluevisual.tv/personal/space-dock/</link>
+      <pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
+      <guid>https://bluevisual.tv/personal/space-dock/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;This is a project I started to explore the concept of fractal cuboid animation. At first it just started abstract and exact, with no space between the units, and the math started out extremely simple. However, I realized I wanted something a bit more grounded, and kind of saw them as shipping containers in space, so I went with that concept. This concept added a lot of interesting but challenging complexity to everything due to the math of the padding and structures while keeping the locomotion systems plausible and realistic.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

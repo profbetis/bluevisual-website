@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lookdev on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/lookdev/</link>
-    <description>Recent content in Lookdev on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Lookdev on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/lookdev/</link>
+    <description>Recent content in Lookdev on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 00:25:43 -0700</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/lookdev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 27 Mar 2024 17:09:35 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/lookdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alien: Earth</title>
+      <link>https://bluevisual.tv/work/alien-earth/</link>
+      <pubDate>Wed, 27 Mar 2024 17:09:35 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/alien-earth/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Like &lt;a href=&#34;https://bluevisual.tv/work/shogun&#34;&gt;Shogun&lt;/a&gt;, FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn&amp;rsquo;t do any work on the show itself, I did some things for the marketing materials, including simulations and visual exploration.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/alien-earth/fx-alienearth-web.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;FX Teaser trailer for Alien: Earth&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;saliva&#34;&gt;Saliva&lt;/h1&gt;&#xA;&lt;p&gt;It felt really cool to be able to do some saliva simulations for the famous xenomorph.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta Connect 2022</title>
-      <link>http://bluevisual.tv/work/meta-connect-2022/</link>
+      <link>https://bluevisual.tv/work/meta-connect-2022/</link>
       <pubDate>Wed, 11 May 2022 00:25:43 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/meta-connect-2022/</guid>
-      <description>Overview BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.
-You can find BUCK&amp;rsquo;s project page for this here.
-Lookdev Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects.</description>
+      <guid>https://bluevisual.tv/work/meta-connect-2022/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/meta-connect-2022/meta-connect-2022-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;You can find BUCK&amp;rsquo;s project page for this &lt;a href=&#34;https://buck.co/work/meta-connect-22&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;lookdev&#34;&gt;Lookdev&lt;/h1&gt;&#xA;&lt;p&gt;Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects. I did R&amp;amp;D with simulations of fingerpainting and ripples emanating from that across the surface of the object, but ultimately were not used.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

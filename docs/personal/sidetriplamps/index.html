@@ -22,9 +22,9 @@
       <meta property="og:title" content="Blue Visual - SideTrip Lamps" />
       <meta name="description" content="&ldquo;SideTrip is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely..."/>
       <meta property="og:description" content="&ldquo;SideTrip is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely..." />
-      <link rel="canonical" href="http://bluevisual.tv/personal/sidetriplamps/" />
-      <meta property="og:url" content="http://bluevisual.tv/personal/sidetriplamps/" />
-      <meta property="og:image" content="http://bluevisual.tv//images/sidetriplamps-thumb.jpg" />
+      <link rel="canonical" href="https://bluevisual.tv/personal/sidetriplamps/" />
+      <meta property="og:url" content="https://bluevisual.tv/personal/sidetriplamps/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/sidetriplamps-thumb.jpg" />
 
     
     
@@ -32,11 +32,14 @@
 
   <body>
 
-<a href="/"> <img src="/header.svg" id="header"> </a>
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
 
-
-<a href="http://bluevisual.tv/" id="return">
-  <span>Return        &lt;</span>
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
 </a>
 
 <div class="project">
@@ -46,12 +49,15 @@
 
 
 <div class="header">
-  <a href="http://bluevisual.tv/personal/sidetriplamps/">
+  <div class="thumbnail">
+    
+    
     <div class="image" style="background-image: url('/project-media/sidetriplamps/sidetriplamps-thumb.jpg');" ></div>
-  </a>
+    
+  </div>
 
   <div class="info">
-    <div class="title"><a href="http://bluevisual.tv/personal/sidetriplamps/">SideTrip Lamps</a></div>
+    <div class="title">SideTrip Lamps</div>
     <div class="subtitle">
       
 
@@ -61,10 +67,10 @@
         
       
     </div>
-    <div class="tags">
-      <div>Tags</div><a href="/tags/procedural"><div>procedural</div></a><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/modeling"><div>modeling</div></a><a href="/tags/art"><div>art</div></a></div>
     <div class="tools">
-      <div>Tools</div><div>Houdini 17</div><div>Octane Render</div></div>
+      <span class="title">Tools: </span><span class="tool">Houdini 17</span>,&nbsp;<span class="tool">Octane Render</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/procedural"><div>procedural</div></a><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/modeling"><div>modeling</div></a><a class="tag" href="/tags/art"><div>art</div></a></div>
   </div>
 </div>
 
@@ -77,67 +83,150 @@
 
     
       <p>&ldquo;<a href="https://skybase.xyz/sidetrip">SideTrip</a> is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&rdquo; — Project Director</p>
-
 <p>It&rsquo;s a project directed by my friend <a href="http://skybase.xyz">Yuya Takeda</a> where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.</p>
-
 <p>We were provided reference material showing some real-life examples, appropriate level of modeling detail, and other constraints like size, making sure there was bulb geometry inside the lamp, etc. The constraints were important because the models were going to be collected from various modeling programs and imported into Modo for scene layout and final rendering in Octane Render.</p>
+<p>
 
-<p><div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/sidetriplamps/sidetriplamps-01.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
-<div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/sidetriplamps/sidetriplamps-01.jpg"></label>
-</div>
+
+
+
+
+
+
+  
+
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/sidetriplamps/sidetriplamps-02.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+  <label for="lightbox-toggle01">
+    <img src="/project-media/sidetriplamps/sidetriplamps-01.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle01" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/sidetriplamps/sidetriplamps-02.jpg"></label>
+  <label for="lightbox-toggle01">
+    <img src="/project-media/sidetriplamps/sidetriplamps-01.jpg"></label>
 </div>
-</p>
 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle02">
+    <img src="/project-media/sidetriplamps/sidetriplamps-02.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle02" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle02">
+    <img src="/project-media/sidetriplamps/sidetriplamps-02.jpg"></label>
+</div>
+
+
+</p>
 <p>I knew from the beginning that I wanted to do a very procedural/parametric approach so that tweaking and adjusting parts of the lamp after its initial creation look. Naturally, Houdini was my weapon of choice. Sure enough, when a second, larger radius of the lamp crown was requested, it took no more than a minute to adjust, and most things are adjustable in the viewport so that it&rsquo;s artist-friendly.</p>
-
 <p>The bulb texture was designed by Yuya Takeda (the director of the SideTrip project) and given to the 3D artists to work with and design their lamps with in mind.</p>
+<p>
 
-<p><div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/sidetriplamps/sidetriplamps-03.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
-<div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/sidetriplamps/sidetriplamps-03.jpg"></label>
-</div>
+
+
+
+
+
+
+  
+
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/project-media/sidetriplamps/sidetriplamps-04.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle4" />
+  <label for="lightbox-toggle03">
+    <img src="/project-media/sidetriplamps/sidetriplamps-03.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle03" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/project-media/sidetriplamps/sidetriplamps-04.jpg"></label>
+  <label for="lightbox-toggle03">
+    <img src="/project-media/sidetriplamps/sidetriplamps-03.jpg"></label>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle04">
+    <img src="/project-media/sidetriplamps/sidetriplamps-04.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle04" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle04">
+    <img src="/project-media/sidetriplamps/sidetriplamps-04.jpg"></label>
+</div>
+
+
 </p>
-
 <p>This was a fairly new modeling style for me that embraces a few concepts I&rsquo;ve been trying to incorporate into my workflow: manual human-made decisions and elements, procedural elements that are best solved by a computer and not a human, and the synergy of the two to create something that doesn&rsquo;t feel randomly generated, but something that would have been impractical to be hand-crafted.</p>
-
 <p>Along-side those concepts, I also thought about how these lamps were being created in reality, and modeled with that in mind. For instance, instead of starting with a cylinder and punching holes into it, I created a flat sheet of metal, did my edits to that, then rolled it up into a cylinder. In this way, some things that would have been more complex actually ended up being easier, just like in real life.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/project-media/sidetriplamps/sidetriplamps-06.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle6" id="lightbox-toggle6" />
+  <label for="lightbox-toggle06">
+    <img src="/project-media/sidetriplamps/sidetriplamps-06.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle6" id="lightbox-toggle06" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/project-media/sidetriplamps/sidetriplamps-06.jpg"></label>
+  <label for="lightbox-toggle06">
+    <img src="/project-media/sidetriplamps/sidetriplamps-06.jpg"></label>
 </div>
+
 
 
 <p>For the first time in a while, I was having a lot of fun not being so caught up in code and the nuances of geometry like in some of my other fully procedural projects. In this, I was able to bring out a more care-free and artistic side of myself and keep adding more and trying to channel the real-life lamps but also create my own style.</p>
-
 <p>This network is one of the lower nodes in the tree. My main workflow was to have skeleton geometry that represented lines and anchor points that things were generated from and instanced onto, and passed down the procedural tree. This let me easily manipulate this base skeleton geometry and generate my high-resolution details from that.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/project-media/sidetriplamps/sidetriplamps-05.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle5" />
+  <label for="lightbox-toggle05">
+    <img src="/project-media/sidetriplamps/sidetriplamps-05.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle05" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/project-media/sidetriplamps/sidetriplamps-05.jpg"></label>
+  <label for="lightbox-toggle05">
+    <img src="/project-media/sidetriplamps/sidetriplamps-05.jpg"></label>
 </div>
+
 
 
 <p><a href="https://motionoperators.com/">MOPs</a> was a huge help for most of the instancing work. I used it to set up radial arrays of elements, and for the chains that needed to be rotated mostly orderly but also somewhat randomly.</p>
@@ -167,10 +256,11 @@
 
   </div>
 
-  <div id="return-bottom">
-    <a href="http://bluevisual.tv/">Return to Project Grid</a>
-</div>
-
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
 
 </div>
 

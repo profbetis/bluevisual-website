@@ -22,9 +22,9 @@
       <meta property="og:title" content="Blue Visual - Cube Shuffle" />
       <meta name="description" content="This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still..."/>
       <meta property="og:description" content="This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still..." />
-      <link rel="canonical" href="http://bluevisual.tv/personal/cube-shuffle/" />
-      <meta property="og:url" content="http://bluevisual.tv/personal/cube-shuffle/" />
-      <meta property="og:image" content="http://bluevisual.tv//images/cube-shuffle-thumb.jpg" />
+      <link rel="canonical" href="https://bluevisual.tv/personal/cube-shuffle/" />
+      <meta property="og:url" content="https://bluevisual.tv/personal/cube-shuffle/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/cube-shuffle-thumb.jpg" />
 
     
     
@@ -32,11 +32,14 @@
 
   <body>
 
-<a href="/"> <img src="/header.svg" id="header"> </a>
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
 
-
-<a href="http://bluevisual.tv/" id="return">
-  <span>Return        &lt;</span>
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
 </a>
 
 <div class="project">
@@ -46,12 +49,15 @@
 
 
 <div class="header">
-  <a href="http://bluevisual.tv/personal/cube-shuffle/">
+  <div class="thumbnail">
+    
+    
     <div class="image" style="background-image: url('/project-media/cube-shuffle/cube-shuffle-thumb.jpg');" ></div>
-  </a>
+    
+  </div>
 
   <div class="info">
-    <div class="title"><a href="http://bluevisual.tv/personal/cube-shuffle/">Cube Shuffle</a></div>
+    <div class="title">Cube Shuffle</div>
     <div class="subtitle">
       
 
@@ -61,10 +67,10 @@
         
       
     </div>
-    <div class="tags">
-      <div>Tags</div><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/procedural"><div>procedural</div></a><a href="/tags/animation"><div>animation</div></a><a href="/tags/art"><div>art</div></a></div>
     <div class="tools">
-      <div>Tools</div><div>Houdini</div><div>Octane Render</div><div>Filter Forge</div></div>
+      <span class="title">Tools: </span><span class="tool">Houdini</span>,&nbsp;<span class="tool">Octane Render</span>,&nbsp;<span class="tool">Filter Forge</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/procedural"><div>procedural</div></a><a class="tag" href="/tags/animation"><div>animation</div></a><a class="tag" href="/tags/art"><div>art</div></a></div>
   </div>
 </div>
 
@@ -90,75 +96,155 @@
     
 
     
-      
-
-<p>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &ldquo;atomize&rdquo; an object, and the reassemble it in a different order.</p>
-
+      <p>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &ldquo;atomize&rdquo; an object, and the reassemble it in a different order.</p>
 <div class="vimeo-container project-image">
   <iframe src="//player.vimeo.com/video/257441986?title=0&byline=0&portrait=0&color=00ccff" width="960" height="540" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
   </iframe></div>
 
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/project-media/cube-shuffle/cube-shuffle-05.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle5" />
+  <label for="lightbox-toggle05">
+    <img src="/project-media/cube-shuffle/cube-shuffle-05.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle5" id="lightbox-toggle05" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle5"><img src="/project-media/cube-shuffle/cube-shuffle-05.jpg"></label>
+  <label for="lightbox-toggle05">
+    <img src="/project-media/cube-shuffle/cube-shuffle-05.jpg"></label>
 </div>
+
 
 
 <h1 id="orthographic-pathing">Orthographic Pathing</h1>
-
 <p>I&rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there. The geometry of cubes led me to want to make paths that only took cardinal axes one at a time. It does this by joining every vertex and its next neighbor by two intermediate points that lie on each axis independently.</p>
+<p>
 
-<p><div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/cube-shuffle/cube-shuffle-01.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
-<div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/cube-shuffle/cube-shuffle-01.jpg"></label>
-</div>
+
+
+
+
+
+
+  
+
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/cube-shuffle/cube-shuffle-02.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+  <label for="lightbox-toggle01">
+    <img src="/project-media/cube-shuffle/cube-shuffle-01.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle01" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/cube-shuffle/cube-shuffle-02.jpg"></label>
+  <label for="lightbox-toggle01">
+    <img src="/project-media/cube-shuffle/cube-shuffle-01.jpg"></label>
 </div>
-</p>
 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle02">
+    <img src="/project-media/cube-shuffle/cube-shuffle-02.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle02" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle02">
+    <img src="/project-media/cube-shuffle/cube-shuffle-02.jpg"></label>
+</div>
+
+
+</p>
 <p>It turns out there are multiple orders to do this in, so I added the order parameter to include every axis order, as well as a &ldquo;Min/Max&rdquo; order that chose the shortest/longest axis first.</p>
-
 <h1 id="edge-walking">Edge Walking</h1>
-
 <p>Once the paths are generated, I needed a way to traverse them. Any Houdini-user should be shouting  &ldquo;Carve SOP!!&rdquo; by now. Normally I would too, but Carve disregards actual path length, so short paths take just as much time as longer paths. This led me to create yet another tool that walks along paths and creates a &ldquo;position&rdquo; point at that relative or absolute distance along that path.</p>
-
 <p>You can also enable a velocity based motion which keeps objects animating in parallel moving at the same speed regardless of their path length. The only problem is that it&rsquo;s a simple functional solution and doesn&rsquo;t account for changing velocities. I may add that in the future.</p>
+<p>
 
-<p><div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/cube-shuffle/cube-shuffle-03.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
-<div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/cube-shuffle/cube-shuffle-03.jpg"></label>
-</div>
+
+
+
+
+
+
+  
+
 
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/project-media/cube-shuffle/cube-shuffle-04.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle4" />
+  <label for="lightbox-toggle03">
+    <img src="/project-media/cube-shuffle/cube-shuffle-03.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle03" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle4"><img src="/project-media/cube-shuffle/cube-shuffle-04.jpg"></label>
+  <label for="lightbox-toggle03">
+    <img src="/project-media/cube-shuffle/cube-shuffle-03.jpg"></label>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle04">
+    <img src="/project-media/cube-shuffle/cube-shuffle-04.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle4" id="lightbox-toggle04" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle04">
+    <img src="/project-media/cube-shuffle/cube-shuffle-04.jpg"></label>
+</div>
+
+
 </p>
-
 <h1 id="textures">Textures</h1>
-
 <p>The tile texture was generated -mostly- procedurally in Filter Forge. Rather than making a complex parametric and randomizable tile generator, I sort of had ideas of what I wanted for this particular ornate pattern, and just accomplished it with procedural tools. I was working at a lower level to adjust settings instead of exposing every parameter to a more organized system.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/project-media/cube-shuffle/cube-shuffle-06.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle6" id="lightbox-toggle6" />
+  <label for="lightbox-toggle06">
+    <img src="/project-media/cube-shuffle/cube-shuffle-06.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle6" id="lightbox-toggle06" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle6"><img src="/project-media/cube-shuffle/cube-shuffle-06.jpg"></label>
+  <label for="lightbox-toggle06">
+    <img src="/project-media/cube-shuffle/cube-shuffle-06.jpg"></label>
 </div>
+
 
 
 <p>This is the only texture I used in the whole project. I was able to use transforms and image processing to get the most out of it.</p>
@@ -188,10 +274,11 @@
 
   </div>
 
-  <div id="return-bottom">
-    <a href="http://bluevisual.tv/">Return to Project Grid</a>
-</div>
-
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
 
 </div>
 

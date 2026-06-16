@@ -1,99 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Art on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/art/</link>
-    <description>Recent content in Art on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Art on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/art/</link>
+    <description>Recent content in Art on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Oct 2018 21:50:42 -0800</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/art/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://bluevisual.tv/tags/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SideTrip Lamps</title>
-      <link>http://bluevisual.tv/personal/sidetriplamps/</link>
+      <link>https://bluevisual.tv/personal/sidetriplamps/</link>
       <pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/sidetriplamps/</guid>
-      <description>&amp;ldquo;SideTrip is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&amp;rdquo; — Project Director
-It&amp;rsquo;s a project directed by my friend Yuya Takeda where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.</description>
+      <guid>https://bluevisual.tv/personal/sidetriplamps/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://skybase.xyz/sidetrip&#34;&gt;SideTrip&lt;/a&gt; is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&amp;rdquo; — Project Director&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a project directed by my friend &lt;a href=&#34;http://skybase.xyz&#34;&gt;Yuya Takeda&lt;/a&gt; where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hilbert Stairs</title>
-      <link>http://bluevisual.tv/personal/hilbert/</link>
+      <link>https://bluevisual.tv/personal/hilbert/</link>
       <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hilbert/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before. I took an interest to it and created it in various 2D forms until I wanted to try doing it in 3D. Houdini&amp;rsquo;s loopable node-graph system made it very simple and natural to set up.&lt;/p&gt;</description>
+      <guid>https://bluevisual.tv/personal/hilbert/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cube Shuffle</title>
-      <link>http://bluevisual.tv/personal/cube-shuffle/</link>
+      <link>https://bluevisual.tv/personal/cube-shuffle/</link>
       <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/cube-shuffle/</guid>
-      <description>This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.
-Orthographic Pathing I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there.</description>
+      <guid>https://bluevisual.tv/personal/cube-shuffle/</guid>
+      <description>&lt;p&gt;This was one of my first forrays into Houdini and VEX, as the whole concept of open manipulatable data was so exciting (spoiler: it still is). I wanted to sort of &amp;ldquo;atomize&amp;rdquo; an object, and the reassemble it in a different order.&lt;/p&gt;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/257441986?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/cube-shuffle/cube-shuffle-05.jpg&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&lt;/div&gt;&#xD;&#xA;&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle05&#34; /&gt;&#xD;&#xA;&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/cube-shuffle/cube-shuffle-05.jpg&#34;&gt;&lt;/label&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;orthographic-pathing&#34;&gt;Orthographic Pathing&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m always attracted to cubes, so that was the first shape I decided to try it with, and it grew from there. The geometry of cubes led me to want to make paths that only took cardinal axes one at a time. It does this by joining every vertex and its next neighbor by two intermediate points that lie on each axis independently.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Transit</title>
-      <link>http://bluevisual.tv/personal/transit/</link>
+      <link>https://bluevisual.tv/personal/transit/</link>
       <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/transit/</guid>
+      <guid>https://bluevisual.tv/personal/transit/</guid>
       <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Giant</title>
-      <link>http://bluevisual.tv/personal/giant/</link>
-      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/giant/</guid>
-      <description>A procedural gas giant generator engineered in Filter Forge.
-</description>
-    </item>
-    
-    <item>
-      <title>Hypercube</title>
-      <link>http://bluevisual.tv/personal/hypercube/</link>
-      <pubDate>Sun, 02 Mar 2014 10:37:44 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/hypercube/</guid>
-      <description>&lt;p&gt;Inspired by &lt;a href=&#34;http://twistedsifter.com/2013/12/light-bending-cube-of-one-way-mirrors-numen-for-use/&#34;&gt;a project&lt;/a&gt; someone had done where they put 6 one-way mirrors together to form a internally-reflecting cube, lit with fluorescent tubes inside. I wanted to see if I could do it in 3D, so I did.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Polygatures</title>
-      <link>http://bluevisual.tv/personal/polygatures/</link>
-      <pubDate>Wed, 02 Oct 2013 10:37:52 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/polygatures/</guid>
-      <description>&lt;p&gt;I think most artists experiment with minimalism at least once in their careers. I know I have on multiple occasions. In this exercise, I wanted to minimize personality and human facial recognition. While I could do this with made up features and randomly generated people, I thought the most interested way would be to do them of my friends, like caricatures, hence the project&amp;rsquo;s title.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Stargaze</title>
-      <link>http://bluevisual.tv/personal/stargaze/</link>
-      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/stargaze/</guid>
-      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pyramid Fractal</title>
-      <link>http://bluevisual.tv/personal/pyramidfractal/</link>
-      <pubDate>Wed, 02 Jan 2013 10:38:25 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/pyramidfractal/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve always been interested in mathematics, which led to an early interest in fractals, which are mathematical self-similar shapes and formulas. A well-known one is the Mandelbrot fractal. A key characteristic of fractals is that if you look at a smaller part of the whole, you will see the same same structures at completely different scales.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - Oura Ring 4</title>
+      <meta property="og:title" content="Blue Visual - Oura Ring 4" />
+      <meta name="description" content="Overview
+Framestore approached me to do some procedural volumetric aurora for their latest project for Oura Ring on the Sphere in Vegas...."/>
+      <meta property="og:description" content="Overview
+Framestore approached me to do some procedural volumetric aurora for their latest project for Oura Ring on the Sphere in Vegas...." />
+      <link rel="canonical" href="https://bluevisual.tv/work/oura_ring_4/" />
+      <meta property="og:url" content="https://bluevisual.tv/work/oura_ring_4/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/oura_ring_4-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
+
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <div class="thumbnail">
+    
+    
+    <div class="image" style="background-image: url('/project-media/oura_ring_4/oura_ring_4-thumb.jpg');" ></div>
+    
+  </div>
+
+  <div class="info">
+    <div class="title">Oura Ring 4</div>
+    <div class="subtitle">
+      
+        for Oura @ Framestore —
+      
+
+      
+        
+          Nov 2024
+        
+      
+    </div>
+    <div class="tools">
+      <span class="title">Tools: </span><span class="tool">Houdini</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/projection-mapping"><div>projection mapping</div></a><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/framestore"><div>framestore</div></a></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#overview">Overview</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#aurora">Aurora</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#custom-preview-tool">Custom Preview Tool</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#render-wrangling">Render Wrangling</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      <h1 id="overview">Overview</h1>
+<p>Framestore approached me to do some procedural volumetric aurora for their latest project for <a href="https://ouraring.com">Oura Ring</a> on the <a href="https://www.thesphere.com">Sphere</a> in Vegas.</p>
+
+
+
+
+
+
+
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/oura_ring_4/framestore_ouraring4_aerial.mp4" />
+  </video></div>
+
+
+
+<p>I have known about projection mapping for some time but had only done one previous project involving it, which didn&rsquo;t present too many technical challenges apart from a cyclindrical-perspective camera. In contrast, this project helped me understand and face a deeper set of challenges for 360 mapping onto a sphere.</p>
+<h1 id="aurora">Aurora</h1>
+<p>The aurora was fully procedural and involved intuitive art-directable controls, like a single simple spline for location and shape, and then had layers of duplication and noise for a more realistic and dynamic feeling.</p>
+
+
+
+
+
+
+
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/oura_ring_4/sphere_oura_auroratests_5up_v015.mp4" />
+  </video></div>
+
+
+
+<p>In addition to the volumetric aurora, there was also a digital dot matrix effect that accompanied it. While not shown in this next viewport preview, the final effect did have a subtle motion and flow to the grid. I rendered it as a separate pass with different attributes applied to the Red, Green, and Blue channels so that compositing could do interesting things with it that they saw fit.</p>
+
+
+
+
+
+
+
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/oura_ring_4/oura_Aurora_v011_kw.mp4" />
+  </video></div>
+
+
+
+<h1 id="custom-preview-tool">Custom Preview Tool</h1>
+<p>One of the unique challenges of this project was getting a clear idea of how the auroras I was creating would look on the final sphere. What most other people were doing was doing preview renders out of the spherical rendering camera and then importing it into an After Effects comp to see different views of it (pictured above). The problem was, this was way too slow for me to iterate and hit notes with.</p>
+<p>My solution was to create a custom visualizer inside Houdini itself. I just created a sphere with a decent number of points (80k or so) and raytrace along outwards to essentially &ldquo;render&rdquo; the volumetric aurora to the points, and apply a simple color ramp to it to approximate the final render colors. This let me and the art directors see things quickly and give informed notes.</p>
+
+
+
+
+
+
+
+
+
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle06c8faae6f7dbfa7">
+    <img src="/project-media/oura_ring_4/oura_ring_4_viewport_01.png">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle06c8faae6f7dbfa7" id="lightbox-toggle06c8faae6f7dbfa7" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle06c8faae6f7dbfa7">
+    <img src="/project-media/oura_ring_4/oura_ring_4_viewport_01.png"></label>
+</div>
+
+
+
+<h1 id="render-wrangling">Render Wrangling</h1>
+<p>After the aurora effects were done and my contract was closed, I was brought back on for a bit of time to help deal with render wrangling for various materials and states of the ring in different scenes and ensure efficiency.</p>
+<p>I set up a simple but effective HDA to allow animation of a few key controls that allowed us to work at a higher abstract level instead of worrying about the details of tiny things like checkboxes deep in material networks, object render flags, file paths, etc.</p>
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/projection-mapping">
+          projection mapping
+        </a>
+        <a href="/tags/houdini">
+          houdini
+        </a>
+        <a href="/tags/framestore">
+          framestore
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

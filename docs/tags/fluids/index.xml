@@ -1,35 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fluids on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/fluids/</link>
-    <description>Recent content in Fluids on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Fluids on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/fluids/</link>
+    <description>Recent content in Fluids on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Nov 2021 23:11:07 -0700</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/fluids/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Jan 2026 17:18:00 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/fluids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can&#39;t Live There</title>
+      <link>https://bluevisual.tv/work/homescom-cantlivethere/</link>
+      <pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/homescom-cantlivethere/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;I was hired by &lt;a href=&#34;https://www.framestore.com&#34;&gt;Framestore&lt;/a&gt; to help them out with a Superbowl spot for &lt;a href=&#34;https://www.homes.com&#34;&gt;Homes.com&lt;/a&gt;. I did the ketchup and sparks for the space station shot, and snow for a Mt. Everest shot which I believe ended up getting cut from the final spot, sadly.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/homescom-cantlivethere/homescom_cant_live_there_full.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;space-station&#34;&gt;Space Station&lt;/h1&gt;&#xA;&lt;p&gt;The ketchup simulation part came from a tracked ketchup bottle and emitted flip particles throughout the shot that blobbed up together. It connects the rest of the ketchup stream that is exists before the shot starts. One could pre-roll the sim if they needed to, but since we never see it emitted, I figured I would generate it procedurally with a spline and some realistic scattering of particles onto it. This allowed it to be easily art-directable and require no sim times. Over the duration of the shot, the particles stretch apart to simulate drifting in microgravity. Luckily, the drift is slow enough to also not require a simulation to solve.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/homescom-cantlivethere/homescom_cantlivethere_web.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7up Spots</title>
+      <link>https://bluevisual.tv/work/7up-spot/</link>
+      <pubDate>Sat, 11 Feb 2023 00:19:31 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/7up-spot/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.&lt;/p&gt;&#xA;&lt;h1 id=&#34;fizz-simulations&#34;&gt;Fizz Simulations&lt;/h1&gt;&#xA;&lt;p&gt;The exterior fizz simulations were done by advecting a POPs simulation with a smoke solver simulation to generate fluid forces which helped give the fizz a sense of underlying flow and cohesion.&lt;/p&gt;&#xA;&lt;p&gt;I also lightly used POP Fluids to ensure particles didn&amp;rsquo;t interpenetrate and were able to bunch up in areas of high concentrations. Had the spot been much more focused on the details of the fizz, I might have merged bubbles to form larger ones, but it wasn&amp;rsquo;t necessary for this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moxy Hotel Billboard</title>
+      <link>https://bluevisual.tv/work/moxy-hotel-billboard/</link>
+      <pubDate>Sun, 11 Dec 2022 00:21:45 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/moxy-hotel-billboard/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;The ask for this project was to create two animations for a wrapped building-mounted billboard. One of these videos was to be a forced-perspective empty room that fills up with a beverage.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/moxy-hotel-billboard/moxy-hotel-billboard-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;&#xA;&lt;p&gt;All animation of interior objects and ice cubes was done manually by another artist and converted into a pair of surface and velocity VDBs in order to influence and advect the simulation.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Highland Park Spots</title>
-      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <link>https://bluevisual.tv/work/highland-park-whiskey/</link>
       <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
-      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
-I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+      <guid>https://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.&lt;/p&gt;&#xA;&lt;p&gt;I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Paint Tests</title>
-      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <link>https://bluevisual.tv/personal/paint-tests/</link>
       <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
-      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
-Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+      <guid>https://bluevisual.tv/personal/paint-tests/</guid>
+      <description>&lt;p&gt;This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.&lt;/p&gt;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/255840349?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;dynamics&#34;&gt;Dynamics&lt;/h1&gt;&#xA;&lt;p&gt;This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

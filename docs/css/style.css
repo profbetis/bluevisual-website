@@ -2,11 +2,31 @@
 /***  META  ***/
 /*******/
 
+:root{
+  --accent: #00ccff;
+  --accent-bright: #66ffff;
+  --accent-subtle: #606060;
+  --accent-mid: #808080;
+  --accent-white: #fff;
+
+  --text-brightish: #f0f0f0;
+  --text-base: #d0d0d0;
+  --text-darkish: #c0c0c0;
+  --text-dim: #a0a0a0;
+
+  --surface-dimmer: #343434;
+  --surface-dim: #303030;
+  --surface-base: #383838;
+  --surface-darkish: #202020;
+  --surface-dark: #181818;
+  --surface-darker: #101010;
+}
+
 html{
 }
 html, body{
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   padding: 0;
   margin: 0;
 
@@ -18,12 +38,12 @@ html, body{
 }
 
 body{
-  background-color: #383838;
-  color: #d0d0d0;
+  background-color: var(--surface-base);
+  color: var(--text-base);
 }
 
 a{
-  color: #0cf;
+  color: var(--accent);
 	text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -38,7 +58,7 @@ h1, h2{
   margin: 0;
   text-align: center;
   letter-spacing: 0.05em;
-  color: #c0c0c0;
+  color: var(--text-darkish);
 }
 
 h1{
@@ -58,7 +78,7 @@ p{
 }
 
 hr{
-  border-color: #606060;
+  border-color: var(--accent-subtle);
   margin: 4rem 0;
 }
 
@@ -67,8 +87,8 @@ input{
 }
 
 code{
-  color: #c0c0c0;
-  background-color: #101010;
+  color: var(--text-darkish);
+  background-color: var(--surface-darker);
   padding: 0em 0.5em;
   margin: 0em 0.25em;
 }
@@ -84,9 +104,11 @@ code{
 
 #header{
   display: block;
-  margin: 50px auto;
+  margin: 48px auto;
   position: relative;
+  
   width: 400px;
+  overflow: hidden;
 }
 
 @media (max-width: 1000px){
@@ -95,6 +117,68 @@ code{
   }
 }
 
+#header img{
+  width: 100%;
+}
+
+
+
+/*******/
+/***  PROJECT RETURN ***/
+/*******/
+#return{
+  font-size: 18px;
+  position: fixed;
+  height: 48px;
+  width: 9em;
+  left: -6em;
+  top: 54px;
+  text-align: right;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  background-color: var(--surface-darkish);
+  outline: 1px solid var(--surface-base);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+  z-index: 50;
+}
+#return:hover{
+  left: 0em;
+  outline: 1px solid var(--accent);
+  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
+}
+#return span{
+  position: absolute;
+  line-height: 48px;
+  left: 1.5em;
+  color: var(--text-dim);
+  white-space: pre;
+}
+#return:hover span{
+  color: var(--accent-white);
+}
+
+
+
+/*******/
+/***  CLIENT PORTAL ***/
+/*******/
+#client-portal{
+  font-size: 18px;
+  position: absolute;
+  top: 54px;
+  right: 0px;
+  width: 9em;
+  height: 48px;
+  line-height: 48px;
+  color: var(--text-base);
+  background-color: var(--surface-darkish);
+  outline: 1px solid var(--surface-base);
+  transition: outline-color 0.2s ease, color 0.2s ease;
+}
+#client-portal:hover{
+  outline-color: var(--accent);
+  color: var(--text-brightish);
+}
 
 
 /*******/
@@ -121,7 +205,7 @@ code{
   font-family: 'Source Sans Pro', sans-serif;
   top: -34px;
   left: -34px;
-  color: #c0c0c0;
+  color: var(--text-darkish);
 }
 #kev{
   outline: 1px solid #000 !important;
@@ -133,7 +217,7 @@ code{
   transform: translateX(-12px) rotate(45deg);
   margin-bottom: -38px;
   /* margin-top: 12px; */
-  outline: 12px solid #202020 !important;
+  outline: 12px solid var(--surface-darkish) !important;
 }
 #kev .tile-content{
   position: absolute !important;
@@ -156,12 +240,12 @@ code{
   top: 0;
   left: 0;
   z-index: -1;
-  background-color: #202020;
+  background-color: var(--surface-darkish);
   transform: rotate(0deg);
 }
 #nav svg{
   display: block;
-  fill: #606060;
+  fill: var(--text-darkish);
 }
 
 #email svg{
@@ -181,12 +265,12 @@ code{
 #email span{
   position: absolute;
   display: block;
-  color: #808080;
+  color: var(--accent-mid);
   width: 100%;
   top: 160px;
 }
 #email a:hover ~ svg{
-  fill: #fff;
+  fill: var(--accent-white);
   transition: fill 0.15s ease;
 }
 
@@ -196,6 +280,7 @@ code{
   height: 200px;
   top: 34px;
   left: 34px;
+  background-color: var(--surface-base);
 }
 #social-array a{
   position: absolute;
@@ -203,10 +288,10 @@ code{
   display: block;
   width: 99px;
   height: 99px;
-  outline: 1px solid #202020;
+  outline: 1px solid var(--surface-darkish);
   border: none;
   outline-offset: -1px;
-  background: #202020;
+  background: var(--surface-darkish);
   transition: all 0.3s ease;
 }
 #social-array a:nth-child(2){
@@ -221,7 +306,7 @@ code{
 }
 
 #social-array a:hover{
-  outline: 1px solid #0cf;
+  outline: 1px solid var(--accent);
   transition: all 0.2s ease;
   overflow: hidden;
 }
@@ -231,12 +316,11 @@ code{
   margin: auto;
   left: 12%;
   top: 12%;
-  fill: #808080;
   width: 55%;
   transition: all 0.3s ease;
 }
 #social-array a:hover svg{
-  fill: #fff;
+  fill: var(--accent-white);
   transition: all 0.2s ease;
 }
 #social-array a span{
@@ -248,11 +332,11 @@ code{
   top: 58%;
   margin: auto;
   font-size: 1em;
-  color: #808080;
+  color: var(--accent-mid);
   transition: all 0.5s ease;
 }
 #social-array a:hover span{
-  color: #fff;
+  color: var(--accent-white);
   transition: all 0.15s ease;
 }
 
@@ -263,11 +347,11 @@ code{
 /*******/
 
 #reel{
-  border: 1px solid #383838;
+  border: 1px solid var(--surface-base);
   transition: all 0.25s ease;
 }
 #reel:hover{
-  border-color: #0cf;
+  border-color: var(--accent);
   transition: all 0.15s ease;
 }
 #reel .tile-content{
@@ -279,7 +363,7 @@ code{
 }
 
 #reel:hover .tile-content{
-  color: #0cf;
+  color: var(--accent);
   filter: grayscale(0%) contrast(100%) brightness(100%);
   transition: all 0.15s ease;
 }
@@ -294,7 +378,7 @@ code{
   left: -55px;
 }
 #reel:hover div.project-name{
-  color: #0cf;
+  color: var(--accent);
 }
 
 #reel-container iframe{
@@ -341,15 +425,16 @@ code{
   text-align: center;
   line-height: normal;
 
+  background-color: var(--surface-darkish);
   background-position: center;
   transform-origin: center center;
   transform: rotate(45deg);
-  color: #909090;
-  outline: 1px solid #383838;
+  outline: 1px solid var(--surface-base);
 
   visibility: visible;
 
   transition: all 0.3s ease;
+  transition: left 0s !important;
 }
 
 /***  LINK ICON TILE  ***/
@@ -359,12 +444,12 @@ code{
   margin: auto;
   left: 14%;
   top: 14%;
-  fill: #808080;
+  fill: var(--accent-mid);
   width: 55%;
   transition: all 0.3s ease;
 }
 .project-tile.link.icon a:hover svg{
-  fill: #fff !important;
+  fill: var(--accent-white) !important;
   transition: all 0.2s ease;
 }
 .project-tile.link.icon .text{
@@ -376,11 +461,11 @@ code{
   top: 64%;
   margin: auto;
   font-size: 1em;
-  color: #808080;
+  color: var(--accent-mid);
   transition: all 0.5s ease;
 }
 .project-tile.link.icon a:hover .text{
-  color: #fff !important;
+  color: var(--accent-white) !important;
   transition: all 0.15s ease;
 }
 
@@ -457,17 +542,16 @@ form .project-tile{
 }
 
 .project-tile.link{
-  background-color: #202020;
-  font-weight: 300;
-  outline: 1px solid #383838;
+  font-weight: 400;
+  outline: 1px solid var(--surface-base);
   transition: all 0.3s ease;
 }
 .project-tile.link:hover{
-  outline: 1px solid #0cf;
+  outline: 1px solid var(--accent);
   transition: all 0.3s ease;
 }
 .project-tile.link:hover a{
-  color: #0cf;
+  color: var(--accent);
 }
 .project-tile.link a{
   font-size: 1.1rem;
@@ -477,7 +561,7 @@ form .project-tile{
   height: 100%;
 }
 .project-tile.link:not(:hover) a{
-  color: #a0a0a0;
+  color: var(--text-dim);
   transition: color 0.2s ease;
 }
 .project-tile.link div{
@@ -509,14 +593,14 @@ form .project-tile{
 }
 
 .project-tile.extra{
-  background: #383838;
-  outline: 1px dashed #606060;
+  background: var(--surface-base);
+  outline: 1px dashed var(--accent-subtle);
   outline-offset: -1px;
 }
 
 .project-tile.extra-small{
-  background: #383838;
-  outline: 1px dashed #606060;
+  background: var(--surface-base);
+  outline: 1px dashed var(--accent-subtle);
   outline-offset: -1px;
   width: 100px;
   height: 100px;
@@ -552,7 +636,7 @@ form .project-tile{
 }
 
 .project-tile:hover{
-  outline: 1px solid #0cf;
+  outline: 1px solid var(--accent);
 }
 .project-tile:hover .project-thumb{
   filter: grayscale(100%) contrast(60%) brightness(30%) !important;
@@ -563,7 +647,7 @@ form .project-tile{
   text-align: center;
 }
 .project-name{
-  color: #e0e0e0;
+  color: var(--text-brightish);
   position: absolute;
   padding: 0.25em 0.5em;
   top: calc(50% - 0.85em);
@@ -572,7 +656,7 @@ form .project-tile{
   line-height: 1rem;
   font-size: 1rem;
   white-space: nowrap;
-  font-weight: 300;
+  font-weight: 400;
   z-index: 10;
   pointer-events: none;
   opacity: 0;
@@ -581,22 +665,22 @@ form .project-tile{
 .project-tile:hover .project-name{
   /* background-color: rgba(0,0,0,0.8); */
   opacity: 1.0;
-  color: #fff;
+  color: var(--accent-white);
   top: calc(50% - 1.4em);
   left: -2.4em;
   transition: all 0.3s ease-out;
 }
 .project-tile .project-name a{
-  color: #e0e0e0;
+  color: var(--text-brightish);
   pointer-events: auto;
   transition: all 0.2s ease;
 }
 .project-tile:hover .project-name>a{
-  color: #0cf;
+  color: var(--accent);
 }
 
 .project-name .project-tags{
-  color: #c0c0c0;
+  color: var(--text-darkish);
   font-size: 0.6em;
   font-weight: 500;
   opacity: 0;
@@ -620,7 +704,7 @@ form .project-tile{
 }
 .project-tile:hover .project-active{
   opacity: 1.0;
-  color: #0cf;
+  color: var(--accent);
   background: rgba(0,0,0,0.7);
   transition: all 0.15s ease;
 }
@@ -642,7 +726,7 @@ form .project-tile{
 
 .project-info .project-tags{
   font-family: 'Source Sans Pro', sans-serif;
-  color: #ffffff;
+  color: var(--accent-white);
   transition: all 0.4s cubic-bezier(0.25, 1.000, 0.600, 1.000);
   z-index: 7;
 }
@@ -654,12 +738,12 @@ form .project-tile{
   color: inherit;
 }
 .project-tags a:hover{
-  color: #0cf;
+  color: var(--accent);
 }
 
 .project-tools{
   bottom: 1em;
-  color: #a0a0a0;
+  color: var(--text-base);
   z-index: 5;
 }
 .project-tile:hover .project-tools{
@@ -669,7 +753,7 @@ form .project-tile{
 }
 
 .project-date{
-  color: #808080;
+  color: var(--text-brightish);
   bottom: 1em;
   z-index: 4;
 }
@@ -692,21 +776,24 @@ form .project-tile{
 }
 
 .content{
-  margin-top: 2em;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .content p:not(:empty),
 .content ol, .content ul{
   line-height: 1.6em;
-  background: #282828;
-  padding: 1em;
-  margin: 1.5rem 0;
+  background: var(--surface-darkish);
+  padding: 2em;
+}
+
+.content > p, .content > div:not(.project-tile){
+  margin-bottom: 12px;
+  margin-top: 0;
 }
 
 .content h1, .content h2, .content h3{
-  margin-top: 1.5rem;
-  color: #f0f0f0;
+  margin-bottom: 32px;
+  color: var(--text-brightish);
   font-weight: 200;
   text-align: center;
 }
@@ -723,7 +810,7 @@ form .project-tile{
   width: 50%;
   height: 1px;
   content: '\a0';
-  background-color: #606060;
+  background-color: var(--accent-subtle);
 }
 .content h1:before,
 .content h2:before {
@@ -737,20 +824,20 @@ form .project-tile{
 }
 
 .content h1{
-  font-size: 2.5rem;
-  margin-top: 4rem;
+  font-size: 3em;
+  margin-top: 1em;
 }
 .content h2{
-  font-size: 1.5rem;
-  margin-top: 3rem;
+  font-size: 1.5em;
+  margin-top: 1.5em;
   font-weight: 300;
-  color: #c0c0c0;
+  color: var(--text-darkish);
 }
 .content h3{ font-size: 1.2rem; }
 
 .content p.note{
   font-style: italic;
-  color: #808080;
+  color: var(--accent-mid);
   padding: 0.25em 1em;
 }
 
@@ -762,14 +849,13 @@ form .project-tile{
 }
 
 .content .project-image{
-  margin: 2em 0;
   background-size: cover;
 }
 .content .project-image img, .content .project-image video{
   display: block;
   width: 100%;
   height: auto;
-  outline: 0px solid #181818;
+  outline: 0px solid var(--surface-dark);
   transition: all 0.3s cubic-bezier(0.25, 1.000, 0.600, 1.000);
 }
 .content .project-image img:hover, .content .project-image video:hover{
@@ -781,8 +867,8 @@ form .project-tile{
   text-align: center;
   font-size: 0.9em;
   font-weight: 400;
-  background: #282828;
-  color: #a0a0a0;
+  background: var(--surface-darkish);
+  color: var(--text-dim);
   padding: 0.5em;
 }
 .content .project-image .caption,
@@ -817,22 +903,19 @@ form .project-tile{
 }
 
 .lightbox img{
-  max-width: 85vw;
-  max-height: 85vh;
+  max-width: 94vw;
+  max-height: 94vh;
   position: relative;
-  outline: 1px solid #404040;
+  outline: 16px solid var(--surface-darker);
   transition: outline 0.2s ease;
   cursor: zoom-out;
-}
-.lightbox img:hover{
-  outline: 1px solid #0cf;
 }
 
 .content .lightbox .caption{
   text-align: center;
   font-weight: 300;
   background: none;
-  color: #e0e0e0;
+  color: var(--text-brightish);
   font-size: 1.1em;
 }
 
@@ -873,8 +956,8 @@ input:not(:checked) + div.lightbox{
   width: 100%;
   height: 540px;
   line-height: 540px;
-  color: rgba(222, 222, 222, 1.0);
-  outline: 0px solid #181818;
+  color: var(--text-brightish);
+  outline: 0px solid var(--surface-dark);
   font-size: 3em;
   font-weight: 300;
   z-index: 30;
@@ -883,7 +966,7 @@ input:not(:checked) + div.lightbox{
 .content > .iframe-container:hover > .announcement{
   z-index: 0;
   color: rgba(222, 222, 222, 0.0);
-  outline: 1px solid #808080;
+  outline: 1px solid var(--accent-mid);
 }
 .content > .iframe-container iframe{
   position: absolute;
@@ -913,21 +996,23 @@ input:not(:checked) + div.lightbox{
 }
 
 .proj-toc{
-  /*background: #282828;*/
   top: 0;
   right: 0;
   text-align: center;
   width: 100%;
+  /* background-color: var(--surface-darkish); */
+  padding: 1em 0em;
+  margin: 1em 0em;
 }
 
 .proj-toc h2{
-  font-size: 0.8rem;
   font-weight: 300;
-  color: #808080;
+  font-size: 1.1em;
+  color: var(--accent-mid);
+  margin-bottom: 0.2rem;
 }
 
 .proj-toc h3{
-  margin: 0;
   display: inline;
 }
 
@@ -936,87 +1021,46 @@ input:not(:checked) + div.lightbox{
   font-size: 1.0rem;
   padding: 0.25em 0.5em;
   margin: 0.25em 0.75em 0em 0.75em;
-  /*background: #282828;*/
-  color: #c0c0c0;
+  background: var(--surface-dim);
+  color: var(--text-darkish);
   transition: 0.3s all ease;
 }
 
 .proj-toc a:hover{
-  /*background: #181818;*/
-  color: #fff;
+  background: var(--surface-dark);
+  color: var(--accent-white);
   transition: 0.3s all ease;
 }
 
 .proj-toc .separator{
-  color: #606060;
+  color: var(--accent-subtle);
 }
 
 .content #related{
-  margin-top: 4rem;
+  margin-top: 8rem;
 }
 
-#return{
-  font-size: 15px;
-  position: fixed;
-  height: 4em;
-  width: 11em;
-  left: -7em;
-  top: 4em;
-  text-align: right;
-  font-family: 'Work Sans', sans-serif;
-  font-weight: 300;
-  background-color: #181818;
-  outline: 1px solid #181818;
-  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-  z-index: 50;
-}
-#return:hover{
-  left: -1em;
-  outline: 1px solid #0cf;
-  transition: all 0.5s cubic-bezier(0.25, 1.000, 0.600, 1.000);
-}
-#return span{
-  position: absolute;
-  line-height: 4em;
-  left: 3em;
-  color: #a0a0a0;
-  white-space: pre;
-}
-#return:hover span{
-  color: #fff;
-}
-
-#return-bottom{
-  margin-top: 1.5rem;
-  margin-bottom: 9rem;
-  height: 12rem;
-  line-height: 12rem;
-  background: #282828;
+#return-bottom div{
+  margin-bottom: 1rem;
+  height: 10rem;
+  line-height: 10rem;
+  background: var(--surface-darkish);
   width: 100%;
-  display: block;
+  display: inline-block;
 
-  outline: 1px solid #383838;
+  outline: 1px solid var(--surface-base);
 
   text-align: center;
   font-size: 2.5rem;
   font-family: 'Work Sans', sans-serif;
   font-weight: 300;
-
-  transition: outline 0.3s ease;
+  
+  color: var(--accent-mid);
+  transition: all 0.15s ease;
 }
-#return-bottom:hover{
-  outline-color: #0cf;
-  transition: outline 0.15s ease;
-}
-
-#return-bottom a{
-  display: block;
-  width: 100%;
-  height: 100%;
-  color: #808080;
-}
-#return-bottom a:hover{
-  color: #0cf;
+#return-bottom div:hover{
+  color: var(--accent);
+  outline-color: var(--accent);
 }
 
 
@@ -1031,12 +1075,12 @@ input:not(:checked) + div.lightbox{
   font-family: 'Work Sans', sans-serif;
   font-size: 2.5em;
   font-weight: 100;
-  background: #282828;
+  background: var(--surface-darkish);
 }
 
 #other-tags,
 #related {
-  background: #282828;
+  background: var(--surface-darkish);
   padding: 1em;
 }
 
@@ -1046,29 +1090,29 @@ input:not(:checked) + div.lightbox{
 }
 
 #other-tags a,
-#related a {
-  color: #a0a0a0;
-  display: inline;
-  background: #181818;
-  margin-right: 0.25em;
-  margin-bottom: 0.5em;
-  padding: 0.25em 0.5em;
+#related a,
+.tag{
+  display: inline-block;
+  background: var(--surface-darker);
+  padding: 0.25em 0.75em;
+  margin: 0.2em 0.2em;
   transition: all 0.3s ease;
   vertical-align: middle;
-  line-height: 2.25em;
+  line-height: initial;
+  border-radius: 32px;
 }
 #related a {
-  margin: 0.5em;
-  color: #e0e0e0;
+  color: var(--text-brightish);
 }
 #related a + a{
   margin-left: 0;
 }
 
 #other-tags a:hover,
-#related a:hover {
-  background: #0cf;
-  color: #fff;
+#related a:hover,
+.tag:hover{
+  background: var(--accent);
+  color: var(--accent-white);
   transition: all 0.15s ease;
 }
 
@@ -1083,15 +1127,13 @@ input:not(:checked) + div.lightbox{
 /*******/
 .header{
   position: relative;
-  background: #282828;
-  margin: 1.5rem 0;
+  background: var(--surface-darkish);
+  margin: 1em 0;
   height: 160px;
   text-align: left;
 }
-.header:hover{
-}
 
-.header > a{
+.header .thumbnail{
   display: block;
   float: left;
 }
@@ -1100,54 +1142,44 @@ input:not(:checked) + div.lightbox{
   height: 136px;
   margin: 12px;
   background-size: cover;
-  outline: 1px solid #282828;
-  transition: all 0.3s ease;
-}
-.header .image:hover{
-  outline: 1px solid #0cf;
-  transition: all 0.2s ease;
 }
 
 .header .info{
-  color: #a0a0a0;
+  color: var(--text-dim);
   margin-left: 160px;
   margin-right: 1em;
   padding-top: 12px;
   font-size: 0.8em;
 }
-.header .info .title a{
+.header .info .title{
   font-family: 'Work Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.8rem;
   font-weight: 300;
-  color: #c0c0c0;
+  color: var(--text-darkish);
   white-space: nowrap;
 }
 .header .info .title a:hover{
-  color: #0cf;
+  color: var(--accent);
 }
 
 .header .info .subtitle{
-  color: #808080;
-  margin-bottom: 0.5rem;
-  font-size: 0.7rem;
+  color: var(--text-dim);
+  margin-bottom: 0.25em;
+  font-size: 0.8rem;
 }
-.header .info .tags > div, .header .info .tags > a,
-.header .info .tools > div{
-  display: inline-block;
-  background: #181818;
-  margin-right: 0.5em;
-  margin-bottom: 0.5em;
-  padding: 0.25em 0.5em;
-  transition: all 0.3s ease;
+
+.header .tools .title,
+.header .tags .title{
+  font-size: 18px;
+  font-weight: 400;
 }
-.header .info div > div:first-of-type{
-  color: #c0c0c0;
-  background: #101010;
+
+.header .tools .tool{
+  font-size: 18px;
 }
-.header .info .tags a {
-}
-.header .info .tags a:hover{
-  background: #0cf;
-  color: #fff;
+
+.header .tags .tag{
+  font-size: 18px;
+  color: var(--accent-white);
 }

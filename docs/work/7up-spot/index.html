@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    
+    <meta property="og:site_name" content="Blue Visual" />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="robots" content="noodp"/>
+
+    
+
+      <title>Blue Visual - 7up Spots</title>
+      <meta property="og:title" content="Blue Visual - 7up Spots" />
+      <meta name="description" content="Overview
+Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.
+Fizz..."/>
+      <meta property="og:description" content="Overview
+Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.
+Fizz..." />
+      <link rel="canonical" href="https://bluevisual.tv/work/7up-spot/" />
+      <meta property="og:url" content="https://bluevisual.tv/work/7up-spot/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/7up-spot-thumb.jpg" />
+
+    
+    
+  </head>
+
+  <body>
+
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
+
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
+</a>
+
+<div class="project">
+
+
+  
+
+
+<div class="header">
+  <div class="thumbnail">
+    
+    
+    <div class="image" style="background-image: url('/project-media/7up-spot/7up-spot-thumb.jpg');" ></div>
+    
+  </div>
+
+  <div class="info">
+    <div class="title">7up Spots</div>
+    <div class="subtitle">
+      
+        for Pepsi Co. @ Buck —
+      
+
+      
+        
+          Feb 2023
+        
+      
+    </div>
+    <div class="tools">
+      <span class="title">Tools: </span><span class="tool">Houdini</span>,&nbsp;<span class="tool">POPs</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/dynamics"><div>dynamics</div></a><a class="tag" href="/tags/particles"><div>particles</div></a><a class="tag" href="/tags/fluids"><div>fluids</div></a><a class="tag" href="/tags/buck"><div>buck</div></a></div>
+  </div>
+</div>
+
+
+  
+    <div class="proj-toc">
+      <h2>Project Sections</h2>
+      
+        
+        <h3><a href="#overview">Overview</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#fizz-simulations">Fizz Simulations</a></h3>
+      
+        <span class="separator"> / </span>
+        <h3><a href="#carbonation-simulations">Carbonation Simulations</a></h3>
+      
+    </div>
+  
+
+  <div class="content">
+
+    
+
+    
+      <h1 id="overview">Overview</h1>
+<p>Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.</p>
+<h1 id="fizz-simulations">Fizz Simulations</h1>
+<p>The exterior fizz simulations were done by advecting a POPs simulation with a smoke solver simulation to generate fluid forces which helped give the fizz a sense of underlying flow and cohesion.</p>
+<p>I also lightly used POP Fluids to ensure particles didn&rsquo;t interpenetrate and were able to bunch up in areas of high concentrations. Had the spot been much more focused on the details of the fizz, I might have merged bubbles to form larger ones, but it wasn&rsquo;t necessary for this.</p>
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-01.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-02.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-03.mp4" />
+  </video></div>
+
+
+
+<h1 id="carbonation-simulations">Carbonation Simulations</h1>
+<p>The carbonation simulations were a bit different and didn&rsquo;t require a driving sister simulation for advection. They were driven using an upwards gravity/buoyancy force, a POP Wind node for some turblence, POP Fluids to allow the bubbles to bunch up at the surface, and bounded by an inverted SDF of the bottle geometry.</p>
+<p>To improve interactivity of working, the bottle SDF was calculated high res at a static rest frame and then transformed with the animation to be able to give fast and accurate subframe collision data to the sim.</p>
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-04.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-05.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-06.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-07.mp4" />
+  </video></div>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="/project-media/7up-spot/7up-spot-video-08.mp4" />
+  </video></div>
+
+
+
+
+    
+
+    <div id="related">
+      <span>Find other</span>
+        
+        <a href="/tags/houdini">
+          houdini
+        </a>
+        <a href="/tags/dynamics">
+          dynamics
+        </a>
+        <a href="/tags/particles">
+          particles
+        </a>
+        <a href="/tags/fluids">
+          fluids
+        </a>
+        <a href="/tags/buck">
+          buck
+        </a>projects<span>, or look in the
+        <a href="/tags/">
+          Tag Cloud
+        </a>
+      </span>
+    </div>
+
+  </div>
+
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
+
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44698112-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </body>
+</html>
+

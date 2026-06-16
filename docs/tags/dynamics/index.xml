@@ -1,101 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dynamics on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/dynamics/</link>
-    <description>Recent content in Dynamics on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Dynamics on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/dynamics/</link>
+    <description>Recent content in Dynamics on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 May 2022 00:25:43 -0700</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Dec 2025 17:17:38 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jolin Tsai Tour</title>
+      <link>https://bluevisual.tv/work/js-pleasure/</link>
+      <pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/js-pleasure/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://seeyoulater.la&#34;&gt;See You Later&lt;/a&gt; took on a massive project for &lt;a href=&#34;https://en.wikipedia.org/wiki/Jolin_Tsai&#34;&gt;Jolin Tsai&lt;/a&gt; to fully 3D animate and render content for a 200 foot wide by 45 foot tall 4-section screen for her &lt;a href=&#34;https://en.wikipedia.org/wiki/Pleasure_World_Tour&#34;&gt;Pleasure Tour&lt;/a&gt; shows, which first debuted at the Taipei Dome in Taiwan.&lt;/p&gt;&#xA;&lt;p&gt;The album centers on the concept of the seven deadly sins, exploring multiple dimensions of desire, portraying it as both an inherent human instinct and a driving force toward transcendence through pleasure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alien: Earth</title>
+      <link>https://bluevisual.tv/work/alien-earth/</link>
+      <pubDate>Wed, 27 Mar 2024 17:09:35 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/alien-earth/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Like &lt;a href=&#34;https://bluevisual.tv/work/shogun&#34;&gt;Shogun&lt;/a&gt;, FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn&amp;rsquo;t do any work on the show itself, I did some things for the marketing materials, including simulations and visual exploration.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/alien-earth/fx-alienearth-web.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;FX Teaser trailer for Alien: Earth&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;saliva&#34;&gt;Saliva&lt;/h1&gt;&#xA;&lt;p&gt;It felt really cool to be able to do some saliva simulations for the famous xenomorph.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shogun</title>
+      <link>https://bluevisual.tv/work/shogun/</link>
+      <pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/shogun/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Like &lt;a href=&#34;https://bluevisual.tv/work/alien-earth&#34;&gt;Alien: Earth&lt;/a&gt;, FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn&amp;rsquo;t do any work on the show itself, I did some things for the marketing materials, including simulations, renders, and tool development.&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe width=&#34;960&#34; height=&#34;540&#34; src=&#34;https://www.youtube.com/embed/dz9Ijf_PXlI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;maps&#34;&gt;Maps&lt;/h1&gt;&#xA;&lt;p&gt;A live map at FX Network can be found &lt;a href=&#34;https://www.fxnetworks.com/shogun-japan-map&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The clouds started as an asset pack, that needed to be scattered and placed strategically, roughed up with other volumetric procedurals, and then given life through procedural volumetric animation, and to explore the appropriate material development and lighting for the context.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/shogun/shogun-maps.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Essentia Spot</title>
+      <link>https://bluevisual.tv/work/essentia-spot/</link>
+      <pubDate>Tue, 14 Mar 2023 10:46:10 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/essentia-spot/</guid>
+      <description>&lt;p&gt;FLIP simulations for a short Essentia spot we were tasked with at Buck.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/essentia-spot/essentia-spot-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;splash&#34;&gt;Splash&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle01&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/essentia-spot/essentia-spot-01.jpg&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&lt;/div&gt;&#xD;&#xA;&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle1&#34; id=&#34;lightbox-toggle01&#34; /&gt;&#xD;&#xA;&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle01&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/essentia-spot/essentia-spot-01.jpg&#34;&gt;&lt;/label&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;I used a custom SOP microsolver to improve and give more elegant surface-tension dynamics.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/essentia-spot/essentia-spot-video-02.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;A visualization for an alternate splash. The colors represent particle travel distance.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;air-bubble&#34;&gt;Air Bubble&lt;/h1&gt;&#xA;&lt;p&gt;I also did procedural dynamics for the air bubble inside the bottle which turned into a trickier process than I originally anticipated.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7up Spots</title>
+      <link>https://bluevisual.tv/work/7up-spot/</link>
+      <pubDate>Sat, 11 Feb 2023 00:19:31 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/7up-spot/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.&lt;/p&gt;&#xA;&lt;h1 id=&#34;fizz-simulations&#34;&gt;Fizz Simulations&lt;/h1&gt;&#xA;&lt;p&gt;The exterior fizz simulations were done by advecting a POPs simulation with a smoke solver simulation to generate fluid forces which helped give the fizz a sense of underlying flow and cohesion.&lt;/p&gt;&#xA;&lt;p&gt;I also lightly used POP Fluids to ensure particles didn&amp;rsquo;t interpenetrate and were able to bunch up in areas of high concentrations. Had the spot been much more focused on the details of the fizz, I might have merged bubbles to form larger ones, but it wasn&amp;rsquo;t necessary for this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moxy Hotel Billboard</title>
+      <link>https://bluevisual.tv/work/moxy-hotel-billboard/</link>
+      <pubDate>Sun, 11 Dec 2022 00:21:45 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/moxy-hotel-billboard/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;The ask for this project was to create two animations for a wrapped building-mounted billboard. One of these videos was to be a forced-perspective empty room that fills up with a beverage.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/moxy-hotel-billboard/moxy-hotel-billboard-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;simulation&#34;&gt;Simulation&lt;/h1&gt;&#xA;&lt;p&gt;All animation of interior objects and ice cubes was done manually by another artist and converted into a pair of surface and velocity VDBs in order to influence and advect the simulation.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta Connect 2022</title>
-      <link>http://bluevisual.tv/work/meta-connect-2022/</link>
+      <link>https://bluevisual.tv/work/meta-connect-2022/</link>
       <pubDate>Wed, 11 May 2022 00:25:43 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/meta-connect-2022/</guid>
-      <description>Overview BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.
-You can find BUCK&amp;rsquo;s project page for this here.
-Lookdev Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects.</description>
+      <guid>https://bluevisual.tv/work/meta-connect-2022/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;BUCK was hired by Meta to create graphics for their annual 2022 Connect conference. I was brought on early to help with 3D design and lookdev of certain effects for the project.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/meta-connect-2022/meta-connect-2022-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;You can find BUCK&amp;rsquo;s project page for this &lt;a href=&#34;https://buck.co/work/meta-connect-22&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;lookdev&#34;&gt;Lookdev&lt;/h1&gt;&#xA;&lt;p&gt;Early on in lookdev, we were trying to create something unique and interesting that had life. We explored many concepts but ultimately landed on projected light across physical, grounded objects. I did R&amp;amp;D with simulations of fingerpainting and ripples emanating from that across the surface of the object, but ultimately were not used.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Brawlidays 2021</title>
-      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <link>https://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
       <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
-      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
-An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+      <guid>https://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/brawlstars-brawlidays-2021/brawlstars-brawlidays-2021-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;An exciting moment that releases the snow into the scene.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe width=&#34;960&#34; height=&#34;540&#34; src=&#34;https://www.youtube.com/embed/GVWLG1Z9B1Y&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;snow-explosion&#34;&gt;Snow Explosion&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/brawlstars-brawlidays-2021/brawlstars-brawlidays-2021-video-02.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;Snow explosion fx in viewport.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths. I was able to shape and distort these ballistic paths to better match notes about shape and size of the explosion without needing to worry about the physics of creating such shapes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Highland Park Spots</title>
-      <link>http://bluevisual.tv/work/highland-park-whiskey/</link>
+      <link>https://bluevisual.tv/work/highland-park-whiskey/</link>
       <pubDate>Mon, 29 Nov 2021 23:11:07 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/highland-park-whiskey/</guid>
-      <description>Overview For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.
-I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.</description>
+      <guid>https://bluevisual.tv/work/highland-park-whiskey/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;For this project, I worked with Buck&amp;rsquo;s Amsterdam office to create a series of tantilizing spots to showcase their 10, 12, and 18-year whiskies.&lt;/p&gt;&#xA;&lt;p&gt;I was brought on very early on the project to oversee the creation of the primary effect of the commercials. I had to make sure the simulated effect was efficient enough to work with in a reasonable fashion to be able to iterate on quickly, as well as be able to send to the render farm and get final render results in a reasonable time frame.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Arcane Worlds 2021</title>
-      <link>http://bluevisual.tv/work/arcane-worlds-2021/</link>
+      <link>https://bluevisual.tv/work/arcane-worlds-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:25:24 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/arcane-worlds-2021/</guid>
-      <description>Overview BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.
-I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.
-A trimmed version of the Arcane Worlds 2021 Opening.Watch the full video on YouTube here.
-Volumetrics The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.</description>
+      <guid>https://bluevisual.tv/work/arcane-worlds-2021/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.&lt;/p&gt;&#xA;&lt;p&gt;I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/arcane-worlds-2021/arcane-worlds-2021-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;A trimmed version of the Arcane Worlds 2021 Opening.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Watch the full video on YouTube &lt;a href=&#34;https://www.youtube.com/watch?v=1OzoFq4Q3_c&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;volumetrics&#34;&gt;Volumetrics&lt;/h1&gt;&#xA;&lt;p&gt;The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Truly Spots</title>
-      <link>http://bluevisual.tv/work/truly-spots/</link>
+      <link>https://bluevisual.tv/work/truly-spots/</link>
       <pubDate>Mon, 14 Dec 2020 00:16:39 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/truly-spots/</guid>
-      <description>Overview Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.
-Droplet Simulation In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.
-One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh.</description>
+      <guid>https://bluevisual.tv/work/truly-spots/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-02.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;droplet-simulation&#34;&gt;Droplet Simulation&lt;/h1&gt;&#xA;&lt;p&gt;In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-03.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh. When simulating, I used a POP network for the physics, but had to transfer that motion to a mesh. The flattened droplet shapes once moved away from the can surface naturally had to morph into spherical shapes, so I calculated the volume per droplet and morphed it into a spherical shape of the same volume, to preserve mass.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Office Social</title>
-      <link>http://bluevisual.tv/work/microsoft-office-social/</link>
+      <link>https://bluevisual.tv/work/microsoft-office-social/</link>
       <pubDate>Sun, 15 Dec 2019 22:18:21 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/microsoft-office-social/</guid>
-      <description>Overview In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.
-I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.
-You can find the link to Buck&amp;rsquo;s project page here.</description>
+      <guid>https://bluevisual.tv/work/microsoft-office-social/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;In this project, Microsoft asked us to explore creative, eye-catching, tactile, looping videos to promote their soon-to-be-released office suite that had been redesigned for mobile use.&lt;/p&gt;&#xA;&lt;p&gt;I was tasked with some of the trickier effects that we had chosen to do, the main two being a balloon inflation and popping simulation, and a glass surface constructed from melting multi-colored glass beads.&lt;/p&gt;&#xA;&lt;p&gt;You can find the link to Buck&amp;rsquo;s project page &lt;a href=&#34;https://buck.co/work/microsoft-app&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Paint Tests</title>
-      <link>http://bluevisual.tv/personal/paint-tests/</link>
+      <link>https://bluevisual.tv/personal/paint-tests/</link>
       <pubDate>Sun, 18 Feb 2018 20:29:07 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/paint-tests/</guid>
-      <description>This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.
-Dynamics This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.</description>
+      <guid>https://bluevisual.tv/personal/paint-tests/</guid>
+      <description>&lt;p&gt;This was a test I did of spilling paint on something. I originally planned for it to be distinct layers of colors on top of one another, but it naturally developed into the smoothly evolving change of one paint color to another.&lt;/p&gt;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/255840349?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;dynamics&#34;&gt;Dynamics&lt;/h1&gt;&#xA;&lt;p&gt;This was one of my first serious forrays into FLIP simulations, and I learned a lot about fluid meshing, reseeding, and FLIP sources. This amount of simulation was probably overkill looking back, as the fluid mesh was much denser than the surface tension allowed detail for, and I could have gotten a similar blobby look from subdividing during render for a lighter alembic file.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>We Are Boats</title>
-      <link>http://bluevisual.tv/work/weareboats/</link>
+      <link>https://bluevisual.tv/work/weareboats/</link>
       <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/weareboats/</guid>
-      <description>We Are Boats is a film by Zombot Pictures about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.
-I handled all the visual effects for the film. All shots were done at 4k.
-Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.</description>
+      <guid>https://bluevisual.tv/work/weareboats/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt5664222/&#34;&gt;We Are Boats&lt;/a&gt; is a film by &lt;a href=&#34;http://www.zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/weareboats/weareboats-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;I handled all the visual effects for the film. All shots were done at 4k.&lt;/p&gt;&#xA;&lt;p&gt;Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

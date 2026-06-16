@@ -1,48 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Particles on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/particles/</link>
-    <description>Recent content in Particles on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Particles on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/particles/</link>
+    <description>Recent content in Particles on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 13:20:51 -0700</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/particles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Feb 2023 00:19:31 -0700</lastBuildDate>
+    <atom:link href="https://bluevisual.tv/tags/particles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>7up Spots</title>
+      <link>https://bluevisual.tv/work/7up-spot/</link>
+      <pubDate>Sat, 11 Feb 2023 00:19:31 -0700</pubDate>
+      <guid>https://bluevisual.tv/work/7up-spot/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Buck was hired to create new 7up spots for TV. I was tasked with a majority of the bubble and fizz dynamics for the spots.&lt;/p&gt;&#xA;&lt;h1 id=&#34;fizz-simulations&#34;&gt;Fizz Simulations&lt;/h1&gt;&#xA;&lt;p&gt;The exterior fizz simulations were done by advecting a POPs simulation with a smoke solver simulation to generate fluid forces which helped give the fizz a sense of underlying flow and cohesion.&lt;/p&gt;&#xA;&lt;p&gt;I also lightly used POP Fluids to ensure particles didn&amp;rsquo;t interpenetrate and were able to bunch up in areas of high concentrations. Had the spot been much more focused on the details of the fizz, I might have merged bubbles to form larger ones, but it wasn&amp;rsquo;t necessary for this.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Brawlidays 2021</title>
-      <link>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
+      <link>https://bluevisual.tv/work/brawlstars-brawlidays-2021/</link>
       <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
-      <description>Overview Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.
-An exciting moment that releases the snow into the scene.Snow Explosion Snow explosion fx in viewport.For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths.</description>
+      <guid>https://bluevisual.tv/work/brawlstars-brawlidays-2021/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Supercell hired Buck to create an entirely 3D animation to advertise their new holiday skins for the winter holidays. I was tasked with creating various snow effects for the animation.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/brawlstars-brawlidays-2021/brawlstars-brawlidays-2021-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;An exciting moment that releases the snow into the scene.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe width=&#34;960&#34; height=&#34;540&#34; src=&#34;https://www.youtube.com/embed/GVWLG1Z9B1Y&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;snow-explosion&#34;&gt;Snow Explosion&lt;/h1&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/brawlstars-brawlidays-2021/brawlstars-brawlidays-2021-video-02.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;Snow explosion fx in viewport.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;For the snow explosion, I employed a few different experimental techniques to assemble it. The base of the simulation actually starts as procedurally generated ballistic paths. I was able to shape and distort these ballistic paths to better match notes about shape and size of the explosion without needing to worry about the physics of creating such shapes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Arcane Worlds 2021</title>
-      <link>http://bluevisual.tv/work/arcane-worlds-2021/</link>
+      <link>https://bluevisual.tv/work/arcane-worlds-2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:25:24 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/arcane-worlds-2021/</guid>
-      <description>Overview BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.
-I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.
-A trimmed version of the Arcane Worlds 2021 Opening.Watch the full video on YouTube here.
-Volumetrics The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.</description>
+      <guid>https://bluevisual.tv/work/arcane-worlds-2021/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;BUCK was hired to assist with VFX and CGI for the Arcane Worlds 2021 Opening.&lt;/p&gt;&#xA;&lt;p&gt;I worked closely with the lead on this project to provide all the volumetric and particle effects for the scene.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/arcane-worlds-2021/arcane-worlds-2021-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;div class=&#34;caption&#34;&gt;A trimmed version of the Arcane Worlds 2021 Opening.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Watch the full video on YouTube &lt;a href=&#34;https://www.youtube.com/watch?v=1OzoFq4Q3_c&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;volumetrics&#34;&gt;Volumetrics&lt;/h1&gt;&#xA;&lt;p&gt;The clouds are primarily procedural and time-independent, requiring no simulation, and a very simple and art-directable input.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Truly Spots</title>
-      <link>http://bluevisual.tv/work/truly-spots/</link>
+      <link>https://bluevisual.tv/work/truly-spots/</link>
       <pubDate>Mon, 14 Dec 2020 00:16:39 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/work/truly-spots/</guid>
-      <description>Overview Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.
-Droplet Simulation In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.
-One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh.</description>
+      <guid>https://bluevisual.tv/work/truly-spots/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Buck was hired to do some mind-bendingly fun spots for Truly&amp;rsquo;s new flavors. I was brought on in the middle of production to handle the dynamics for certain shots.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-02.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h1 id=&#34;droplet-simulation&#34;&gt;Droplet Simulation&lt;/h1&gt;&#xA;&lt;p&gt;In this shot, the droplets were needed to splash away from the can and be gone where the fruits had touched the can.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/truly-spots/truly-spots-video-03.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;One of the difficulties in this ask was that the droplets on the can were already baked in as a static mesh. When simulating, I used a POP network for the physics, but had to transfer that motion to a mesh. The flattened droplet shapes once moved away from the can surface naturally had to morph into spherical shapes, so I calculated the volume per droplet and morphed it into a spherical shape of the same volume, to preserve mass.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

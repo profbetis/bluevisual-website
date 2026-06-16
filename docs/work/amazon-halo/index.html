@@ -20,11 +20,23 @@
 
       <title>Blue Visual - Amazon Halo</title>
       <meta property="og:title" content="Blue Visual - Amazon Halo" />
-      <meta name="description" content="In this project, I was tasked with doing some rain effects for the Amazon Halo commercial. Rain One of the asks was for a particular..."/>
-      <meta property="og:description" content="In this project, I was tasked with doing some rain effects for the Amazon Halo commercial. Rain One of the asks was for a particular..." />
-      <link rel="canonical" href="http://bluevisual.tv/work/amazon-halo/" />
-      <meta property="og:url" content="http://bluevisual.tv/work/amazon-halo/" />
-      <meta property="og:image" content="http://bluevisual.tv//images/amazon-halo-thumb.jpg" />
+      <meta name="description" content="In this project, I was tasked with doing some rain effects for the Amazon Halo commercial.
+
+  
+  
+
+Rain
+One of the asks was for a..."/>
+      <meta property="og:description" content="In this project, I was tasked with doing some rain effects for the Amazon Halo commercial.
+
+  
+  
+
+Rain
+One of the asks was for a..." />
+      <link rel="canonical" href="https://bluevisual.tv/work/amazon-halo/" />
+      <meta property="og:url" content="https://bluevisual.tv/work/amazon-halo/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/amazon-halo-thumb.jpg" />
 
     
     
@@ -32,11 +44,14 @@
 
   <body>
 
-<a href="/"> <img src="/header.svg" id="header"> </a>
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
 
-
-<a href="http://bluevisual.tv/" id="return">
-  <span>Return        &lt;</span>
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
 </a>
 
 <div class="project">
@@ -46,12 +61,15 @@
 
 
 <div class="header">
-  <a href="http://bluevisual.tv/work/amazon-halo/">
+  <div class="thumbnail">
+    
+    
     <div class="image" style="background-image: url('/project-media/amazon-halo/amazon-halo-thumb.jpg');" ></div>
-  </a>
+    
+  </div>
 
   <div class="info">
-    <div class="title"><a href="http://bluevisual.tv/work/amazon-halo/">Amazon Halo</a></div>
+    <div class="title">Amazon Halo</div>
     <div class="subtitle">
       
         for Amazon @ BUCK —
@@ -63,10 +81,10 @@
         
       
     </div>
-    <div class="tags">
-      <div>Tags</div><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/fx"><div>fx</div></a><a href="/tags/buck"><div>buck</div></a></div>
     <div class="tools">
-      <div>Tools</div><div>Houdini</div><div>VEX</div></div>
+      <span class="title">Tools: </span><span class="tool">Houdini</span>,&nbsp;<span class="tool">VEX</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/fx"><div>fx</div></a><a class="tag" href="/tags/buck"><div>buck</div></a></div>
   </div>
 </div>
 
@@ -89,56 +107,68 @@
     
 
     
-      
-
-<p>In this project, I was tasked with doing some rain effects for the Amazon Halo commercial.
+      <p>In this project, I was tasked with doing some rain effects for the Amazon Halo commercial.
 <div class="vimeo-container project-image">
   <iframe width="960" height="540" src="https://www.youtube.com/embed/VRmBd51hfdI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
   </iframe></div>
 </p>
-
 <h1 id="rain">Rain</h1>
-
 <p>One of the asks was for a particular droplet splash that hits the product. It needed to be able to be timed precisely and generate physically accurate secondary droplets. Because I hate simulating things, I decided I would design a procedural system for this that was seamless with the background rain.</p>
-
 <p>The tool I made for this created two distinct pathways, one before the impact point, and one after for each of the secondary droplets, which needed to be parabolic instead of linear.</p>
+
+
+
+
+
+
+
+  
+
 
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    
-      <source src="/project-media/amazon-halo/amazon-halo-video-01.mp4" />
-    
-  </video>
-  
-</div>
+    <source src="/project-media/amazon-halo/amazon-halo-video-01.mp4" />
+  </video></div>
+
 
 
 <p>A similar rain system was made for the wider angle scene rain, just with less control over impact timing. Because it was procedural, a big obstacle I faced was needing to be able to have the rain stop on command. Simply reducing the raindrops of the system would result in raindrops disappearing mid-fall, so I had to come up with a way to have the rain drops complete their animation after the setting had been changed.</p>
 
+
+
+
+
+
+
+  
+
+
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    
-      <source src="/project-media/amazon-halo/amazon-halo-video-02.mp4" />
-    
-  </video>
-  
-</div>
+    <source src="/project-media/amazon-halo/amazon-halo-video-02.mp4" />
+  </video></div>
+
 
 
 <h1 id="ripples">Ripples</h1>
-
 <p>The ripples were a separate but similar system that allowed for a number of ripples to be animating at once across a surface. These ripples too needed to be choked without cutting off ripples mid-animation.</p>
-
 <p>To avoid close-but-separate puddles from sharing ripples that wouldn&rsquo;t have been able to propagate in real life, I temporarily shifted each puddle to a distant location in space where the ripples took place, then moved them back to their original locations before export.</p>
+
+
+
+
+
+
+
+  
+
 
 <div class="project-image">
   <video width="960" height="540" autoplay loop muted controls>
-    
-      <source src="/project-media/amazon-halo/amazon-halo-video-03.mp4" />
-    
-  </video>
-  
-</div>
+    <source src="/project-media/amazon-halo/amazon-halo-video-03.mp4" />
+  </video></div>
+
+
 
 
     
@@ -163,10 +193,11 @@
 
   </div>
 
-  <div id="return-bottom">
-    <a href="http://bluevisual.tv/">Return to Project Grid</a>
-</div>
-
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
 
 </div>
 

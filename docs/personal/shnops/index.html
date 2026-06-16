@@ -24,9 +24,9 @@
 It stands for Simple Houdini..."/>
       <meta property="og:description" content="SHNOPs (visit the repo!) is an open-source toolset designed in and to use with SideFX&rsquo;s Houdini.
 It stands for Simple Houdini..." />
-      <link rel="canonical" href="http://bluevisual.tv/personal/shnops/" />
-      <meta property="og:url" content="http://bluevisual.tv/personal/shnops/" />
-      <meta property="og:image" content="http://bluevisual.tv//images/shnops-thumb.jpg" />
+      <link rel="canonical" href="https://bluevisual.tv/personal/shnops/" />
+      <meta property="og:url" content="https://bluevisual.tv/personal/shnops/" />
+      <meta property="og:image" content="https://bluevisual.tv//images/shnops-thumb.jpg" />
 
     
     
@@ -34,11 +34,14 @@ It stands for Simple Houdini..." />
 
   <body>
 
-<a href="/"> <img src="/header.svg" id="header"> </a>
+<div id="header">
+    <a href="/">
+        <img src="/images/bvlogo_202605_ondark.svg">
+    </a>
+</div>
 
-
-<a href="http://bluevisual.tv/" id="return">
-  <span>Return        &lt;</span>
+<a href="https://bluevisual.tv/" id="return">
+  <span>Return&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🡨</span>
 </a>
 
 <div class="project">
@@ -48,12 +51,15 @@ It stands for Simple Houdini..." />
 
 
 <div class="header">
-  <a href="http://bluevisual.tv/personal/shnops/">
+  <div class="thumbnail">
+    
+    
     <div class="image" style="background-image: url('/project-media/shnops/shnops-thumb.jpg');" ></div>
-  </a>
+    
+  </div>
 
   <div class="info">
-    <div class="title"><a href="http://bluevisual.tv/personal/shnops/">SHNOPs Toolset</a></div>
+    <div class="title">SHNOPs Toolset</div>
     <div class="subtitle">
       
 
@@ -63,10 +69,10 @@ It stands for Simple Houdini..." />
         
       
     </div>
-    <div class="tags">
-      <div>Tags</div><a href="/tags/houdini"><div>houdini</div></a><a href="/tags/tool"><div>tool</div></a></div>
     <div class="tools">
-      <div>Tools</div><div>Houdini</div></div>
+      <span class="title">Tools: </span><span class="tool">Houdini</span></div>
+    <div class="tags">
+      <span class="title">Tags: </span><a class="tag" href="/tags/houdini"><div>houdini</div></a><a class="tag" href="/tags/tool"><div>tool</div></a></div>
   </div>
 </div>
 
@@ -86,48 +92,83 @@ It stands for Simple Houdini..." />
     
 
     
-      
-
-<p><a href="https://github.com/profbetis/SHNOPs">SHNOPs</a> (visit the repo!) is an open-source toolset designed in and to use with SideFX&rsquo;s Houdini.</p>
-
+      <p><a href="https://github.com/profbetis/SHNOPs">SHNOPs</a> (visit the repo!) is an open-source toolset designed in and to use with SideFX&rsquo;s Houdini.</p>
 <p>It stands for Simple Houdini Number OPerators. Its purpose is to provide a simple and cohesive framework to manipulate and analyze datasets into meaningful and interesting geometric respresentations.</p>
-
 <p>I was originally inspired to create this toolset when I had data of my own that I wanted to visualize and analyze myself instead of relying on another program that could do it differently or not offer the tools I wanted.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/shnops/shnops-01.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle1" />
+  <label for="lightbox-toggle01">
+    <img src="/project-media/shnops/shnops-01.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle1" id="lightbox-toggle01" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle1"><img src="/project-media/shnops/shnops-01.jpg"></label>
+  <label for="lightbox-toggle01">
+    <img src="/project-media/shnops/shnops-01.jpg"></label>
 </div>
+
 
 
 <h1 id="process">Process</h1>
-
 <p>The general process is to have a data source, process/filter it, run some analyses, and plot it. Each stage has tools designed for that process.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/shnops/shnops-02.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle2" />
+  <label for="lightbox-toggle02">
+    <img src="/project-media/shnops/shnops-02.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle2" id="lightbox-toggle02" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle2"><img src="/project-media/shnops/shnops-02.jpg"></label>
+  <label for="lightbox-toggle02">
+    <img src="/project-media/shnops/shnops-02.jpg"></label>
 </div>
+
 
 
 <p>Sourcing usually brings in a CSV file, or lets you generate datasets to manipulate, either for testing purposes or just for fun.</p>
-
 <p>Processing is designed to (ethically) manipulate datasets. This includes filters for removing entries that are duplicated, fall outside a threshold, or don&rsquo;t match a certain value. Transforming is also a process, for example turning a 0-1 value into a better representative range.</p>
-
 <p>Analysis tools create new data from existing data, like integrating a dataset, fourier transforming it, or calculating a &ldquo;velocity&rdquo;.</p>
-
 <p>Plotting is the final stage, and is meant to create geometry from your dataset in different forms, whichever is the most interesting-looking, or most appropriate to visualize it in.</p>
 
+
+
+
+
+
+
+
+  
+
+
 <div class="project-image" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/shnops/shnops-03.jpg"></label></div>
-<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle3" />
+  <label for="lightbox-toggle03">
+    <img src="/project-media/shnops/shnops-03.jpg">
+  </label></div>
+<input type="checkbox" name="lightbox-toggle3" id="lightbox-toggle03" />
 <div class="lightbox" oncontextmenu="return false;">
-  <label for="lightbox-toggle3"><img src="/project-media/shnops/shnops-03.jpg"></label>
+  <label for="lightbox-toggle03">
+    <img src="/project-media/shnops/shnops-03.jpg"></label>
 </div>
+
+
 
 
     
@@ -149,10 +190,11 @@ It stands for Simple Houdini..." />
 
   </div>
 
-  <div id="return-bottom">
-    <a href="http://bluevisual.tv/">Return to Project Grid</a>
-</div>
-
+  <a id="return-bottom" href="https://bluevisual.tv/">
+    <div>
+        Return to Project Grid
+    </div>
+</a>
 
 </div>
 

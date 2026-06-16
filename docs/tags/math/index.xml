@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Math on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/math/</link>
-    <description>Recent content in Math on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Math on Blue Visual Website v04</title>
+    <link>https://bluevisual.tv/tags/math/</link>
+    <description>Recent content in Math on Blue Visual Website v04</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Feb 2020 20:21:53 -0700</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/math/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://bluevisual.tv/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cellular Automata Playground</title>
-      <link>http://bluevisual.tv/personal/ca-playground/</link>
+      <link>https://bluevisual.tv/personal/ca-playground/</link>
       <pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/ca-playground/</guid>
-      <description>Overview Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of Conway&amp;rsquo;s Game of Life. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.
-In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better.</description>
+      <guid>https://bluevisual.tv/personal/ca-playground/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of &lt;a href=&#34;https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s Game of Life&lt;/a&gt;. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.&lt;/p&gt;&#xA;&lt;p&gt;In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better. The inspiration took me down many deep rabbit-holes and late nights bleary eyed wondering how to fix something or implementing a new feature.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
