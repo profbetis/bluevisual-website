@@ -1,43 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>2d on Blue Visual v03</title>
-    <link>http://bluevisual.tv/tags/2d/</link>
-    <description>Recent content in 2d on Blue Visual v03</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jul 2016 14:10:06 -0800</lastBuildDate>
-    
-	<atom:link href="http://bluevisual.tv/tags/2d/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Guardiome</title>
-      <link>http://bluevisual.tv/work/guardiome/</link>
-      <pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
-      
-      <guid>http://bluevisual.tv/work/guardiome/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more. I am now the Chief Creative Officer at Guardiome.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Giant</title>
-      <link>http://bluevisual.tv/personal/giant/</link>
-      <pubDate>Mon, 02 Feb 2015 10:37:04 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/giant/</guid>
-      <description>A procedural gas giant generator engineered in Filter Forge.
-</description>
-    </item>
-    
-    <item>
-      <title>Stargaze</title>
-      <link>http://bluevisual.tv/personal/stargaze/</link>
-      <pubDate>Thu, 02 May 2013 10:38:00 -0400</pubDate>
-      
-      <guid>http://bluevisual.tv/personal/stargaze/</guid>
-      <description>&lt;p&gt;Being a photographer, I love experimenting with time and light, and I also personally love space and the night sky, so naturally a great way to bring all of those things together is by doing long exposure star trails.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
