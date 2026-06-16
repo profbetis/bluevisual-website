@@ -1,0 +1,12 @@
+{{ $filename := .Get 0 }}
+{{ $caption := .Get 1 }}
+{{ $has_caption := gt (len .Params) 1 }}
+
+{{ $src_url := delimit (slice "/images/" $filename) "" }}
+
+<div class="project-image">
+  <img src="{{ $src_url }}">
+  {{- if $has_caption -}}
+  <div class="caption">{{- $caption -}}</div>
+  {{- end -}}
+</div>

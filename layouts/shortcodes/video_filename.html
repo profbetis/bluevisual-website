@@ -1,0 +1,20 @@
+{{ $filename := .Get 0 }}
+{{ $caption := .Get 1 }}
+{{ $has_caption := gt (len .Params) 1 }}
+
+{{ with .Page.File }}
+
+{{ $src_url := "" }}
+{{ $src_url = delimit (slice "/project-media/" .BaseFileName "/" $filename) "" }}
+
+<div class="project-image">
+  <video width="960" height="540" autoplay loop muted controls>
+    <source src="{{ $src_url }}" />
+  </video>
+
+  {{- if $has_caption -}}
+    <div class="caption">{{- $caption -}}</div>
+  {{- end -}}
+</div>
+
+{{ end }}

@@ -9,7 +9,7 @@ active = false
 draft = false
 +++
 # Overview
-FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn't do any work on the show itself, I did some things for the marketing materials, including simulations and visual exploration.
+Like [Shogun](/work/shogun), FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn't do any work on the show itself, I did some things for the marketing materials, including simulations and visual exploration.
 {{< video_filename "fx-alienearth-web.mp4" "FX Teaser trailer for Alien: Earth" >}}
 # Saliva
 It felt really cool to be able to do some saliva simulations for the famous xenomorph.

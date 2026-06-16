@@ -1,0 +1,30 @@
+{{ $filename := .Get 0 }}
+{{ $hash := hash.XxHash $filename }}
+{{ $caption := .Get 1 }}
+{{ $has_caption := gt (len .Params) 1 }}
+
+{{ with .Page.File }}
+
+{{ $src_url := "" }}
+{{ $src_url = delimit (slice "/project-media/" .BaseFileName "/" $filename) "" }}
+
+<div class="project-image" oncontextmenu="return false;">
+  <label for="lightbox-toggle{{ $hash }}">
+    <img src="{{ $src_url }}">
+  </label>
+  {{- if $has_caption -}}
+  <div class="caption">{{- $caption -}}</div>
+  {{- end -}}
+</div>
+<input type="checkbox" name="lightbox-toggle{{ $hash }}" id="lightbox-toggle{{ $hash }}" />
+<div class="lightbox" oncontextmenu="return false;">
+  <label for="lightbox-toggle{{ $hash }}">
+    <img src="{{ $src_url }}">
+
+    {{- if $has_caption -}}
+    <div class="caption">{{- $caption -}}</div>
+    {{- end -}}
+  </label>
+</div>
+
+{{ end }}

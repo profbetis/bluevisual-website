@@ -1,5 +1,5 @@
 +++
-title = "Jolin Tsai Tour FX"
+title = "Jolin Tsai Tour"
 tags = ["projection mapping", "dynamics", "music", "houdini"]
 date = 2025-12-26T17:17:38-07:00
 client = "Jolin Tsai @ See You Later"

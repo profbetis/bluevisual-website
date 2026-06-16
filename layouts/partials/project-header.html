@@ -24,17 +24,18 @@
         {{ end }}
       {{end}}
     </div>
-    <div class="tags">
-      <div>Tags</div>
-      {{- range $index, $el := .Params.tags -}}
-        <a href="/tags/{{ . | urlize }}"><div>{{ . }}</div></a>
-      {{- end -}}
-    </div>
     <div class="tools">
-      <div>Tools</div>
+      <span class="title">Tools: </span>
         {{- range $index, $el := .Params.tools -}}
-          <div>{{ . }}</div>
+        {{- if gt $index 0 -}},&nbsp;{{- end -}}
+          <span class="tool">{{ . }}</span>
         {{- end -}}
+    </div>
+    <div class="tags">
+      <span class="title">Tags: </span>
+      {{- range $index, $el := .Params.tags -}}
+        <a class="tag" href="/tags/{{ . | urlize }}"><div>{{ . }}</div></a>
+      {{- end -}}
     </div>
   </div>
 </div>
