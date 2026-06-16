@@ -7,4 +7,7 @@ Hi! I'm Kevin. I specialize in parametric and procedural systems for 3D, typical
 
 I find a lot of creative inspiration from the physical world around me, as well as a way to intimately understand the processes and effects I am often tasked with simulating, controlling, and extending into a production environment.
 
-<!-- {{< image_filename_generic "justkev-012_small.jpg" "me!" >}} -->
+Above all else, I like creating systems, tools, and solving interesting problems that require creative thinking.
+
+<!-- {{< image_filename_generic "justkev-012_small.jpg" >}} -->
+<!-- {{< image_filename_generic "Studio_Session-030.jpg" >}} -->
