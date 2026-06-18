@@ -1,0 +1,23 @@
+<div class="prevnext-proj-container">
+      {{ with .Next }}
+        <a href="{{ .RelPermalink }}">
+          <div class="arrow left">🡠</div>
+          <div class="proj-label right">{{.Title}}</div>
+        </a>
+      {{ else }}
+        <a class="none">
+          <div class="next-proj none">Be the next project!</div>
+        </a>
+      {{ end }}
+
+      {{ with .Prev }}
+        <a href="{{ .RelPermalink }}">
+          <div class="arrow right">🡢</div>
+          <div class="proj-label left">{{.Title}}</div>
+        </a>
+      {{ else }}
+        <a class="none">
+          <div class="prev-proj none">Go look at newer stuff!</div>
+        </a>
+      {{ end }}
+</div>

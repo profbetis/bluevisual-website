@@ -4,8 +4,10 @@
 {{ partial "return-top" . }}
 <div class="project">
 
+  {{ partial "prevnext-proj" . }}
 
   {{ partial "project-header" . }}
+
 
   {{ if .Params.sections }}
     <div class="proj-toc">
@@ -29,23 +31,13 @@
       {{ .Content }}
     {{ end }}
 
-    <div id="related">
-      <span>Find other</span>
-        {{ range $index, $el := .Params.tags }}
-        <a href="/tags/{{ . | urlize }}">
-          {{ . }}
-        </a>
-      {{- end -}}
-      projects<span>, or look in the
-        <a href="/tags/">
-          Tag Cloud
-        </a>
-      </span>
-    </div>
-
   </div>
-
+  
+  {{ partial "related-and-tags" . }}
+  {{ partial "prevnext-proj" . }}
   {{ partial "return-bottom" . }}
+
+  
 
 </div>
 

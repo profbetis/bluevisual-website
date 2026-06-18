@@ -776,6 +776,7 @@ form .project-tile{
 }
 
 .content{
+  margin-bottom: 6rem;
   font-size: 18px;
 }
 
@@ -1036,10 +1037,59 @@ input:not(:checked) + div.lightbox{
   color: var(--accent-subtle);
 }
 
-.content #related{
-  margin-top: 8rem;
+
+/* PREVIOUS AND NEXT PROJECT BUTTONS */
+.prevnext-proj-container{
+  display: flex;
+  gap: 0.5em;
+  margin: 0.5em 0;
+  /* font-size: 85%; */
 }
 
+.prevnext-proj-container a{
+  width: 100%;
+  background-color: var(--surface-darkish);
+  /* vertical-align: middle; */
+  padding: 0.5em 0;
+  outline: 1px solid var(--surface-base);
+  transition: outline-color 0.2s ease;
+}
+.prevnext-proj-container a:not(.none):hover{
+  outline-color: var(--accent);
+}
+
+.prevnext-proj-container a div,
+.prevnext-proj-container div {
+  height: 1em;
+  line-height: 100%;
+}
+.prevnext-proj-container .arrow{
+  width: 2em;
+  position: absolute;
+}
+.prevnext-proj-container .proj-label{
+  width: 100%;
+}
+.prevnext-proj-container .arrow.left{
+  left: 0.25em;
+}
+.prevnext-proj-container .arrow.right{
+  right: 0.25em;
+}
+
+.prevnext-proj-container .none{
+  color: var(--accent-mid);
+  background-color: var(--surface-dim);
+  user-select: none;
+}
+
+/* RELATED TAGS */
+#related{
+  margin: 0.5em 0em;
+}
+
+
+/* RETURN BOTTOM BUTTON */
 #return-bottom div{
   margin-bottom: 1rem;
   height: 10rem;
@@ -1128,7 +1178,7 @@ input:not(:checked) + div.lightbox{
 .header{
   position: relative;
   background: var(--surface-darkish);
-  margin: 1em 0;
+  margin: 0.5em 0;
   height: 160px;
   text-align: left;
 }
