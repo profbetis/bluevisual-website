@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Concept on Blue Visual Website v04</title>
-    <link>https://bluevisual.tv/tags/concept/</link>
+    <link>http://localhost:1313/tags/concept/</link>
     <description>Recent content in Concept on Blue Visual Website v04</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Sep 2017 18:24:03 -0400</lastBuildDate>
-    <atom:link href="https://bluevisual.tv/tags/concept/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/concept/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hilbert Stairs</title>
-      <link>https://bluevisual.tv/personal/hilbert/</link>
+      <link>http://localhost:1313/personal/hilbert/</link>
       <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
-      <guid>https://bluevisual.tv/personal/hilbert/</guid>
+      <guid>http://localhost:1313/personal/hilbert/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Hilbert_curve&#34;&gt;Hilbert Curve&lt;/a&gt; is a space-filling fractal curve. It has many computer science applications and I&amp;rsquo;ve run across its algorithm in the programs I use before.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Transit</title>
-      <link>https://bluevisual.tv/personal/transit/</link>
+      <link>http://localhost:1313/personal/transit/</link>
       <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
-      <guid>https://bluevisual.tv/personal/transit/</guid>
+      <guid>http://localhost:1313/personal/transit/</guid>
       <description>&lt;p&gt;Transit (as it&amp;rsquo;s currently called) is a project that&amp;rsquo;s been conceptual for a few years now but is finally coming to fruition now that VR is an available medium (and a perfect one at that!). There is no objective except relaxing and enjoying the worlds you&amp;rsquo;re in, it&amp;rsquo;s just a concept about experiencing beautiful places and things.&lt;/p&gt;</description>
     </item>
   </channel>
