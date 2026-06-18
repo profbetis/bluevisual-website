@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ue5 on Blue Visual Website v04</title>
-    <link>http://localhost:1313/tags/ue5/</link>
+    <link>https://bluevisual.tv/tags/ue5/</link>
     <description>Recent content in Ue5 on Blue Visual Website v04</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 17:16:48 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ue5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bluevisual.tv/tags/ue5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shogun</title>
-      <link>http://localhost:1313/work/shogun/</link>
+      <link>https://bluevisual.tv/work/shogun/</link>
       <pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
-      <guid>http://localhost:1313/work/shogun/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Like &lt;a href=&#34;http://localhost:1313/work/alien-earth&#34;&gt;Alien: Earth&lt;/a&gt;, FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn&amp;rsquo;t do any work on the show itself, I did some things for the marketing materials, including simulations, renders, and tool development.&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe width=&#34;960&#34; height=&#34;540&#34; src=&#34;https://www.youtube.com/embed/dz9Ijf_PXlI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;maps&#34;&gt;Maps&lt;/h1&gt;&#xA;&lt;p&gt;A live map at FX Network can be found &lt;a href=&#34;https://www.fxnetworks.com/shogun-japan-map&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The clouds started as an asset pack, that needed to be scattered and placed strategically, roughed up with other volumetric procedurals, and then given life through procedural volumetric animation, and to explore the appropriate material development and lighting for the context.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;http://localhost:1313/project-media/shogun/shogun-maps.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
+      <guid>https://bluevisual.tv/work/shogun/</guid>
+      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Like &lt;a href=&#34;https://bluevisual.tv/work/alien-earth&#34;&gt;Alien: Earth&lt;/a&gt;, FX Network does the promotional materials for their shows, separate from the effects crew for the shows. So while I didn&amp;rsquo;t do any work on the show itself, I did some things for the marketing materials, including simulations, renders, and tool development.&#xA;&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe width=&#34;960&#34; height=&#34;540&#34; src=&#34;https://www.youtube.com/embed/dz9Ijf_PXlI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;/div&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;h1 id=&#34;maps&#34;&gt;Maps&lt;/h1&gt;&#xA;&lt;p&gt;A live map at FX Network can be found &lt;a href=&#34;https://www.fxnetworks.com/shogun-japan-map&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The clouds started as an asset pack, that needed to be scattered and placed strategically, roughed up with other volumetric procedurals, and then given life through procedural volumetric animation, and to explore the appropriate material development and lighting for the context.&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/shogun/shogun-maps.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
