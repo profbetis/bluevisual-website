@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Branding on Blue Visual Website v04</title>
+		<link>http://localhost:1313/tags/branding/</link>
+		<description>Recent content in Branding on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 16 Sep 2018 00:44:59 -0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/branding/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dappest Branding</title>
+				<link>http://localhost:1313/work/_archive/dappest/</link>
+				<pubDate>Sun, 16 Sep 2018 00:44:59 -0800</pubDate>
+				<guid>http://localhost:1313/work/_archive/dappest/</guid>
+				<description>&lt;p&gt;Dappest is a blockchain startup whose creator I worked with at &lt;a href=&#34;http://bluevisual.tv/work/guardiome/&#34;&gt;Guardiome&lt;/a&gt;. They brought me onboard to create their branding, business cards, and create other graphical elements for the web app&amp;rsquo;s interface.&lt;/p&gt;&#xA;&lt;p&gt;Dappest is best described as &amp;ldquo;Yelp for DApps&amp;rdquo; in that it&amp;rsquo;s a community-driven ranking and commenting platform but focuses on DApps.&lt;/p&gt;&#xA;&lt;h1 id=&#34;branding&#34;&gt;Branding&lt;/h1&gt;&#xA;&lt;p&gt;The early stages of branding were very exploratory as the identity of the company was still being formed. The first idea was that of an award necklace in the shape of a &amp;ldquo;D&amp;rdquo; for Dappest, but quickly converged on a crown which we thought looked approachable and meaningful.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Guardiome</title>
+				<link>http://localhost:1313/work/_archive/guardiome/</link>
+				<pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
+				<guid>http://localhost:1313/work/_archive/guardiome/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

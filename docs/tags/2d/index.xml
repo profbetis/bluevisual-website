@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>2d on Blue Visual Website v04</title>
+		<link>http://localhost:1313/tags/2d/</link>
+		<description>Recent content in 2d on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 03 Jul 2016 14:10:06 -0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Guardiome</title>
+				<link>http://localhost:1313/work/_archive/guardiome/</link>
+				<pubDate>Sun, 03 Jul 2016 14:10:06 -0800</pubDate>
+				<guid>http://localhost:1313/work/_archive/guardiome/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.guardiome.com&#34;&gt;Guardiome&lt;/a&gt; is a genomics company that gives people easy access to their genome. I worked with them to design branding, the website and its graphics, product renders, and much more.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Asus Vivobook</title>
+				<link>http://localhost:1313/work/_archive/asusvivo/</link>
+				<pubDate>Fri, 12 Apr 2013 01:28:42 -0500</pubDate>
+				<guid>http://localhost:1313/work/_archive/asusvivo/</guid>
+				<description>&lt;p&gt;For this project, we needed to composite a screen onto a laptop that an actor was interacting with. Another artist was contracted to rotoscope and track the screens, while my job was to create an animatable replica of the Windows 8 interface as well as other apps like Outlook, Skype, and the default picture viewer. These fake apps had to be dynamic, as I would be adjusting and tweaking animations and content throughout the project.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Modeling on Blue Visual Website v04</title>
-    <link>https://bluevisual.tv/tags/modeling/</link>
-    <description>Recent content in Modeling on Blue Visual Website v04</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 20 Dec 2018 13:37:18 -0800</lastBuildDate>
-    <atom:link href="https://bluevisual.tv/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Organic Bracelet</title>
-      <link>https://bluevisual.tv/work/organic-bracelet/</link>
-      <pubDate>Thu, 20 Dec 2018 13:37:18 -0800</pubDate>
-      <guid>https://bluevisual.tv/work/organic-bracelet/</guid>
-      <description>&lt;p&gt;As an introductory project for working with &lt;a href=&#34;https://aryse.com/&#34;&gt;ARYSE&lt;/a&gt;, they wanted to create a bracelet using less material, and an interesting design that showcased their identity as a company. They are looking into experimental and generative design techniques for their products.&lt;/p&gt;&#xA;&lt;p&gt;For this first project, they just wanted a bracelet for promotional material. This let me explore what the pipeline would be like with them and to start building some techniques and tools that would work well for future projects.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SideTrip Lamps</title>
-      <link>https://bluevisual.tv/personal/sidetriplamps/</link>
-      <pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
-      <guid>https://bluevisual.tv/personal/sidetriplamps/</guid>
-      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://skybase.xyz/sidetrip&#34;&gt;SideTrip&lt;/a&gt; is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&amp;rdquo; — Project Director&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a project directed by my friend &lt;a href=&#34;http://skybase.xyz&#34;&gt;Yuya Takeda&lt;/a&gt; where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Modeling on Blue Visual Website v04</title>
+		<link>https://bluevisual.tv/tags/modeling/</link>
+		<description>Recent content in Modeling on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 20 Dec 2018 13:37:18 -0800</lastBuildDate>
+		
+			<atom:link href="https://bluevisual.tv/tags/modeling/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Organic Bracelet</title>
+				<link>https://bluevisual.tv/work/organic-bracelet/</link>
+				<pubDate>Thu, 20 Dec 2018 13:37:18 -0800</pubDate>
+				<guid>https://bluevisual.tv/work/organic-bracelet/</guid>
+				<description>&lt;p&gt;As an introductory project for working with &lt;a href=&#34;https://aryse.com/&#34;&gt;ARYSE&lt;/a&gt;, they wanted to create a bracelet using less material, and an interesting design that showcased their identity as a company. They are looking into experimental and generative design techniques for their products.&lt;/p&gt;&#xA;&lt;p&gt;For this first project, they just wanted a bracelet for promotional material. This let me explore what the pipeline would be like with them and to start building some techniques and tools that would work well for future projects.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SideTrip Lamps</title>
+				<link>https://bluevisual.tv/personal/sidetriplamps/</link>
+				<pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
+				<guid>https://bluevisual.tv/personal/sidetriplamps/</guid>
+				<description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://skybase.xyz/sidetrip&#34;&gt;SideTrip&lt;/a&gt; is a series of paintings focused on two characters: Azure, a boy and Alex, the God of Hiding who travel in a lonely universe of everything and nothing. The two characters explore various worlds shaped by emotion, idea, and philosophy.&amp;rdquo; — Project Director&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a project directed by my friend &lt;a href=&#34;http://skybase.xyz&#34;&gt;Yuya Takeda&lt;/a&gt; where he frequently gets 3D artists to contribute to scenes. For this scene we were asked to contribute intricate designs in the style of turkish mosaic lamps.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

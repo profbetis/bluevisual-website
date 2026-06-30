@@ -1,215 +1,220 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Blue Visual Website v04</title>
-    <link>https://bluevisual.tv/tags/</link>
-    <description>Recent content in Tags on Blue Visual Website v04</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Jan 2026 17:18:00 -0700</lastBuildDate>
-    <atom:link href="https://bluevisual.tv/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fluids</title>
-      <link>https://bluevisual.tv/tags/fluids/</link>
-      <pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/fluids/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Framestore</title>
-      <link>https://bluevisual.tv/tags/framestore/</link>
-      <pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/framestore/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Houdini</title>
-      <link>https://bluevisual.tv/tags/houdini/</link>
-      <pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/houdini/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Procedural</title>
-      <link>https://bluevisual.tv/tags/procedural/</link>
-      <pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/procedural/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dynamics</title>
-      <link>https://bluevisual.tv/tags/dynamics/</link>
-      <pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/dynamics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Music</title>
-      <link>https://bluevisual.tv/tags/music/</link>
-      <pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Projection Mapping</title>
-      <link>https://bluevisual.tv/tags/projection-mapping/</link>
-      <pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/projection-mapping/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://bluevisual.tv/tags/teaching/</link>
-      <pubDate>Tue, 07 Oct 2025 13:01:11 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rendering</title>
-      <link>https://bluevisual.tv/tags/rendering/</link>
-      <pubDate>Tue, 27 May 2025 17:17:25 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/rendering/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Karma</title>
-      <link>https://bluevisual.tv/tags/karma/</link>
-      <pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/karma/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Study</title>
-      <link>https://bluevisual.tv/tags/study/</link>
-      <pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/study/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lookdev</title>
-      <link>https://bluevisual.tv/tags/lookdev/</link>
-      <pubDate>Wed, 27 Mar 2024 17:09:35 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/lookdev/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://bluevisual.tv/tags/python/</link>
-      <pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ue5</title>
-      <link>https://bluevisual.tv/tags/ue5/</link>
-      <pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/ue5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vellum</title>
-      <link>https://bluevisual.tv/tags/vellum/</link>
-      <pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/vellum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Buck</title>
-      <link>https://bluevisual.tv/tags/buck/</link>
-      <pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/buck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tool</title>
-      <link>https://bluevisual.tv/tags/tool/</link>
-      <pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/tool/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fx</title>
-      <link>https://bluevisual.tv/tags/fx/</link>
-      <pubDate>Tue, 14 Mar 2023 10:46:10 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/fx/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Particles</title>
-      <link>https://bluevisual.tv/tags/particles/</link>
-      <pubDate>Sat, 11 Feb 2023 00:19:31 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/particles/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Volumetrics</title>
-      <link>https://bluevisual.tv/tags/volumetrics/</link>
-      <pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/volumetrics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Math</title>
-      <link>https://bluevisual.tv/tags/math/</link>
-      <pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/math/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Modeling</title>
-      <link>https://bluevisual.tv/tags/modeling/</link>
-      <pubDate>Thu, 20 Dec 2018 13:37:18 -0800</pubDate>
-      <guid>https://bluevisual.tv/tags/modeling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Art</title>
-      <link>https://bluevisual.tv/tags/art/</link>
-      <pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
-      <guid>https://bluevisual.tv/tags/art/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Concept</title>
-      <link>https://bluevisual.tv/tags/concept/</link>
-      <pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
-      <guid>https://bluevisual.tv/tags/concept/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Film</title>
-      <link>https://bluevisual.tv/tags/film/</link>
-      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/film/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vfx</title>
-      <link>https://bluevisual.tv/tags/vfx/</link>
-      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
-      <guid>https://bluevisual.tv/tags/vfx/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Animation</title>
-      <link>https://bluevisual.tv/tags/animation/</link>
-      <pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
-      <guid>https://bluevisual.tv/tags/animation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>UE4</title>
-      <link>https://bluevisual.tv/tags/ue4/</link>
-      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
-      <guid>https://bluevisual.tv/tags/ue4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>VR</title>
-      <link>https://bluevisual.tv/tags/vr/</link>
-      <pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
-      <guid>https://bluevisual.tv/tags/vr/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Blue Visual Website v04</title>
+		<link>https://bluevisual.tv/tags/</link>
+		<description>Recent content in Tags on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Jan 2026 17:18:00 -0700</lastBuildDate>
+		
+			<atom:link href="https://bluevisual.tv/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Fluids</title>
+				<link>https://bluevisual.tv/tags/fluids/</link>
+				<pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/fluids/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Framestore</title>
+				<link>https://bluevisual.tv/tags/framestore/</link>
+				<pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/framestore/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Houdini</title>
+				<link>https://bluevisual.tv/tags/houdini/</link>
+				<pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/houdini/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Procedural</title>
+				<link>https://bluevisual.tv/tags/procedural/</link>
+				<pubDate>Tue, 27 Jan 2026 17:18:00 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/procedural/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dynamics</title>
+				<link>https://bluevisual.tv/tags/dynamics/</link>
+				<pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/dynamics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Music</title>
+				<link>https://bluevisual.tv/tags/music/</link>
+				<pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/music/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Projection Mapping</title>
+				<link>https://bluevisual.tv/tags/projection-mapping/</link>
+				<pubDate>Fri, 26 Dec 2025 17:17:38 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/projection-mapping/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Teaching</title>
+				<link>https://bluevisual.tv/tags/teaching/</link>
+				<pubDate>Tue, 07 Oct 2025 13:01:11 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/teaching/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rendering</title>
+				<link>https://bluevisual.tv/tags/rendering/</link>
+				<pubDate>Tue, 27 May 2025 17:17:25 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/rendering/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Karma</title>
+				<link>https://bluevisual.tv/tags/karma/</link>
+				<pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/karma/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Study</title>
+				<link>https://bluevisual.tv/tags/study/</link>
+				<pubDate>Sun, 04 May 2025 15:13:17 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/study/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lookdev</title>
+				<link>https://bluevisual.tv/tags/lookdev/</link>
+				<pubDate>Wed, 27 Mar 2024 17:09:35 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/lookdev/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Python</title>
+				<link>https://bluevisual.tv/tags/python/</link>
+				<pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/python/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ue5</title>
+				<link>https://bluevisual.tv/tags/ue5/</link>
+				<pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/ue5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vellum</title>
+				<link>https://bluevisual.tv/tags/vellum/</link>
+				<pubDate>Tue, 01 Aug 2023 17:16:48 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/vellum/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Buck</title>
+				<link>https://bluevisual.tv/tags/buck/</link>
+				<pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/buck/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tool</title>
+				<link>https://bluevisual.tv/tags/tool/</link>
+				<pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/tool/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fx</title>
+				<link>https://bluevisual.tv/tags/fx/</link>
+				<pubDate>Tue, 14 Mar 2023 10:46:10 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/fx/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Particles</title>
+				<link>https://bluevisual.tv/tags/particles/</link>
+				<pubDate>Sat, 11 Feb 2023 00:19:31 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/particles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Volumetrics</title>
+				<link>https://bluevisual.tv/tags/volumetrics/</link>
+				<pubDate>Wed, 08 Dec 2021 13:20:51 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/volumetrics/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Math</title>
+				<link>https://bluevisual.tv/tags/math/</link>
+				<pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/math/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Modeling</title>
+				<link>https://bluevisual.tv/tags/modeling/</link>
+				<pubDate>Thu, 20 Dec 2018 13:37:18 -0800</pubDate>
+				<guid>https://bluevisual.tv/tags/modeling/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Art</title>
+				<link>https://bluevisual.tv/tags/art/</link>
+				<pubDate>Tue, 30 Oct 2018 21:50:42 -0800</pubDate>
+				<guid>https://bluevisual.tv/tags/art/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Concept</title>
+				<link>https://bluevisual.tv/tags/concept/</link>
+				<pubDate>Thu, 28 Sep 2017 18:24:03 -0400</pubDate>
+				<guid>https://bluevisual.tv/tags/concept/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Film</title>
+				<link>https://bluevisual.tv/tags/film/</link>
+				<pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/film/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Vfx</title>
+				<link>https://bluevisual.tv/tags/vfx/</link>
+				<pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+				<guid>https://bluevisual.tv/tags/vfx/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Animation</title>
+				<link>https://bluevisual.tv/tags/animation/</link>
+				<pubDate>Wed, 22 Mar 2017 13:38:17 -0800</pubDate>
+				<guid>https://bluevisual.tv/tags/animation/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UE4</title>
+				<link>https://bluevisual.tv/tags/ue4/</link>
+				<pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
+				<guid>https://bluevisual.tv/tags/ue4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>VR</title>
+				<link>https://bluevisual.tv/tags/vr/</link>
+				<pubDate>Wed, 02 Mar 2016 10:36:54 -0400</pubDate>
+				<guid>https://bluevisual.tv/tags/vr/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

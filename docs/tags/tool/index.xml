@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tool on Blue Visual Website v04</title>
-    <link>https://bluevisual.tv/tags/tool/</link>
-    <description>Recent content in Tool on Blue Visual Website v04</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Apr 2023 00:25:45 -0700</lastBuildDate>
-    <atom:link href="https://bluevisual.tv/tags/tool/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>BUCK Houdini Pipeline</title>
-      <link>https://bluevisual.tv/work/buck-tooling/</link>
-      <pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
-      <guid>https://bluevisual.tv/work/buck-tooling/</guid>
-      <description>&lt;h1 id=&#34;pipeline&#34;&gt;Pipeline&lt;/h1&gt;&#xA;&lt;p&gt;When I was first hired at Buck in 2019, one of the things I expressed interest in and that they wanted was tools to make using Houdini easier. Before I started my work, Buck had no Houdini pipeline. I established a global HSITE and turned it into a git-based respository which allowed me to make changes which propagated across all the studios around the globe.&lt;/p&gt;&#xA;&lt;p&gt;I converted any the local &amp;lsquo;houdini.env&amp;rsquo; files that artists had in their documents folder into a robust global package system. Switching to the package system also let me debug any pipeline issues easily, as well as work from a local development branch of the pipeline, and switch to the live version easily to verify my changes worked.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cellular Automata Playground</title>
-      <link>https://bluevisual.tv/personal/ca-playground/</link>
-      <pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
-      <guid>https://bluevisual.tv/personal/ca-playground/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of &lt;a href=&#34;https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s Game of Life&lt;/a&gt;. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.&lt;/p&gt;&#xA;&lt;p&gt;In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better. The inspiration took me down many deep rabbit-holes and late nights bleary eyed wondering how to fix something or implementing a new feature.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Edgewalker</title>
-      <link>https://bluevisual.tv/personal/edgewalker/</link>
-      <pubDate>Tue, 20 Nov 2018 14:10:36 -0800</pubDate>
-      <guid>https://bluevisual.tv/personal/edgewalker/</guid>
-      <description>&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/301523437?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;An example project that uses the output of the edgewalker.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h1&gt;&#xA;&lt;p&gt;The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/edgewalker/edgewalker-05.jpg&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle05&#34; /&gt;&#xD;&#xA;&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/edgewalker/edgewalker-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.&lt;/div&gt;&lt;/label&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don&amp;rsquo;t avoid current edges and have many merges or splits.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SHNOPs Toolset</title>
-      <link>https://bluevisual.tv/personal/shnops/</link>
-      <pubDate>Thu, 27 Sep 2018 21:18:39 -0800</pubDate>
-      <guid>https://bluevisual.tv/personal/shnops/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/profbetis/SHNOPs&#34;&gt;SHNOPs&lt;/a&gt; (visit the repo!) is an open-source toolset designed in and to use with SideFX&amp;rsquo;s Houdini.&lt;/p&gt;&#xA;&lt;p&gt;It stands for Simple Houdini Number OPerators. Its purpose is to provide a simple and cohesive framework to manipulate and analyze datasets into meaningful and interesting geometric respresentations.&lt;/p&gt;&#xA;&lt;p&gt;I was originally inspired to create this toolset when I had data of my own that I wanted to visualize and analyze myself instead of relying on another program that could do it differently or not offer the tools I wanted.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tool on Blue Visual Website v04</title>
+		<link>https://bluevisual.tv/tags/tool/</link>
+		<description>Recent content in Tool on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 10 Apr 2023 00:25:45 -0700</lastBuildDate>
+		
+			<atom:link href="https://bluevisual.tv/tags/tool/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>BUCK Houdini Pipeline</title>
+				<link>https://bluevisual.tv/work/buck-tooling/</link>
+				<pubDate>Mon, 10 Apr 2023 00:25:45 -0700</pubDate>
+				<guid>https://bluevisual.tv/work/buck-tooling/</guid>
+				<description>&lt;h1 id=&#34;pipeline&#34;&gt;Pipeline&lt;/h1&gt;&#xA;&lt;p&gt;When I was first hired at Buck in 2019, one of the things I expressed interest in and that they wanted was tools to make using Houdini easier. Before I started my work, Buck had no Houdini pipeline. I established a global HSITE and turned it into a git-based respository which allowed me to make changes which propagated across all the studios around the globe.&lt;/p&gt;&#xA;&lt;p&gt;I converted any the local &amp;lsquo;houdini.env&amp;rsquo; files that artists had in their documents folder into a robust global package system. Switching to the package system also let me debug any pipeline issues easily, as well as work from a local development branch of the pipeline, and switch to the live version easily to verify my changes worked.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Cellular Automata Playground</title>
+				<link>https://bluevisual.tv/personal/ca-playground/</link>
+				<pubDate>Sun, 16 Feb 2020 20:21:53 -0700</pubDate>
+				<guid>https://bluevisual.tv/personal/ca-playground/</guid>
+				<description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;Cellular Automata has always fascinated me, and as a teenager I even programmed some recreations of &lt;a href=&#34;https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s Game of Life&lt;/a&gt;. After getting into Houdini and seeing some beautiful rules or patterns, I wanted a way to play around with rules and create my own artworks.&lt;/p&gt;&#xA;&lt;p&gt;In particular, I was inspired by the concept of multiple rules on a singular canvas. I had seen someone implement this concept poorly, and I wanted to do it better. The inspiration took me down many deep rabbit-holes and late nights bleary eyed wondering how to fix something or implementing a new feature.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Edgewalker</title>
+				<link>https://bluevisual.tv/personal/edgewalker/</link>
+				<pubDate>Tue, 20 Nov 2018 14:10:36 -0800</pubDate>
+				<guid>https://bluevisual.tv/personal/edgewalker/</guid>
+				<description>&lt;div class=&#34;vimeo-container project-image&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;//player.vimeo.com/video/301523437?title=0&amp;byline=0&amp;portrait=0&amp;color=00ccff&#34; width=&#34;960&#34; height=&#34;540&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&#xD;&#xA;  &lt;/iframe&gt;&lt;div class=&#34;caption&#34;&gt;An example project that uses the output of the edgewalker.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;h1 id=&#34;algorithm&#34;&gt;Algorithm&lt;/h1&gt;&#xA;&lt;p&gt;The Edgewalker tool starts at a group of points, and walks along edges to neighboring points to create an edge group or polyline.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/edgewalker/edgewalker-05.jpg&#34;&gt;&#xD;&#xA;  &lt;/label&gt;&lt;div class=&#34;caption&#34;&gt;A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.&lt;/div&gt;&lt;/div&gt;&#xD;&#xA;&lt;input type=&#34;checkbox&#34; name=&#34;lightbox-toggle5&#34; id=&#34;lightbox-toggle05&#34; /&gt;&#xD;&#xA;&lt;div class=&#34;lightbox&#34; oncontextmenu=&#34;return false;&#34;&gt;&#xD;&#xA;  &lt;label for=&#34;lightbox-toggle05&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://bluevisual.tv/project-media/edgewalker/edgewalker-05.jpg&#34;&gt;&lt;div class=&#34;caption&#34;&gt;A progression of snapshots of the algorithm. A frame is skipped between each stage for demonstration purposes.&lt;/div&gt;&lt;/label&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;While the look can seem similar to the Find Shortest Path SOP or perhaps Edge Network, those nodes don&amp;rsquo;t avoid current edges and have many merges or splits.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>SHNOPs Toolset</title>
+				<link>https://bluevisual.tv/personal/shnops/</link>
+				<pubDate>Thu, 27 Sep 2018 21:18:39 -0800</pubDate>
+				<guid>https://bluevisual.tv/personal/shnops/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://github.com/profbetis/SHNOPs&#34;&gt;SHNOPs&lt;/a&gt; (visit the repo!) is an open-source toolset designed in and to use with SideFX&amp;rsquo;s Houdini.&lt;/p&gt;&#xA;&lt;p&gt;It stands for Simple Houdini Number OPerators. Its purpose is to provide a simple and cohesive framework to manipulate and analyze datasets into meaningful and interesting geometric respresentations.&lt;/p&gt;&#xA;&lt;p&gt;I was originally inspired to create this toolset when I had data of my own that I wanted to visualize and analyze myself instead of relying on another program that could do it differently or not offer the tools I wanted.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

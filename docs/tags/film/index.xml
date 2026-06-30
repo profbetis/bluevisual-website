@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Film on Blue Visual Website v04</title>
-    <link>https://bluevisual.tv/tags/film/</link>
-    <description>Recent content in Film on Blue Visual Website v04</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 Aug 2017 19:22:44 -0700</lastBuildDate>
-    <atom:link href="https://bluevisual.tv/tags/film/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>We Are Boats</title>
-      <link>https://bluevisual.tv/work/weareboats/</link>
-      <pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
-      <guid>https://bluevisual.tv/work/weareboats/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt5664222/&#34;&gt;We Are Boats&lt;/a&gt; is a film by &lt;a href=&#34;http://www.zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/weareboats/weareboats-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;I handled all the visual effects for the film. All shots were done at 4k.&lt;/p&gt;&#xA;&lt;p&gt;Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Film on Blue Visual Website v04</title>
+		<link>https://bluevisual.tv/tags/film/</link>
+		<description>Recent content in Film on Blue Visual Website v04</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Aug 2017 19:22:44 -0700</lastBuildDate>
+		
+			<atom:link href="https://bluevisual.tv/tags/film/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>We Are Boats</title>
+				<link>https://bluevisual.tv/work/weareboats/</link>
+				<pubDate>Wed, 23 Aug 2017 19:22:44 -0700</pubDate>
+				<guid>https://bluevisual.tv/work/weareboats/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;http://www.imdb.com/title/tt5664222/&#34;&gt;We Are Boats&lt;/a&gt; is a film by &lt;a href=&#34;http://www.zombotpictures.com&#34;&gt;Zombot Pictures&lt;/a&gt; about love, death, and soul-searching. It was a part of the 2017 Sundance Film Festival.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;project-image&#34;&gt;&#xD;&#xA;  &lt;video width=&#34;960&#34; height=&#34;540&#34; autoplay loop muted controls&gt;&#xD;&#xA;    &lt;source src=&#34;https://bluevisual.tv/project-media/weareboats/weareboats-video-01.mp4&#34; /&gt;&#xD;&#xA;  &lt;/video&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;I handled all the visual effects for the film. All shots were done at 4k.&lt;/p&gt;&#xA;&lt;p&gt;Scenes included characters disappearing, camera tracking and 3D background substituion, dynamics and smoke simulation, layered matte painting and animation, compositing background elements, removing camera moire, replacing signage, phone screens, and television screens, blemish removal, and camera rig removal.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
