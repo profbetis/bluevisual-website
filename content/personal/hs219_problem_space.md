@@ -7,19 +7,17 @@ active = false
 peak = false
 draft = false
 +++
-When it first opened, [Houdini.School](http://www.houdini.school/)'s founder Deborah reached out to me to have me make a class. I was very busy at the time for many months but eventually in 2022 I was able to set aside some time to create a small syllabus and a cohesive theme enough to create a course for.
-
-Another course I offer is the [Procedural Animation](/personal/houdinischool-procedural-animation) course.
+[HS219 Problem Space](https://www.houdini.school/courses/hs-219-problem-space) is my first [Houdini.School](https://www.houdini.school/) course. When it first opened, Deborah the founder reached out to me to have me make a class. I was very busy at the time for many months but eventually in 2022 I was able to set aside some time to create a small syllabus and a cohesive theme enough to finally create it. I would later go on to create [HS241: Procedural Animation](/personal/hs241_procedural_animation) in 2024.
 
 {{< image 1 >}}
 
 {{< video 1 "Teaser for the course">}}
 
-[Problem Space](https://www.houdini.school/courses/hs-219-problem-space) is an atypical course more about concepts and thinking strategies rather than focused on a particular tutorial for an effect. I call this approach solving things in "problem space" since you fundamentally change the logic of the problem in order to more easily solve it.
+Problem Space is an atypical course more about concepts and thinking strategies rather than focused on a particular tutorial for an effect. I call this approach solving things in "problem space" since you fundamentally change the logic of the problem in order to more easily solve it.
 
 In the first part of the course, I introduce the idea of swapping vector attributes temporarily with the position attribute in order visualize certain things such as UVs or color in world space.
 
-We also use this concept to use the Clip SOP to clip in attribute-space smoothly instead of the originally planar style it operates in.
+We also use this concept to use the Clip SOP to clip in attribute-space smoothly instead of the originally planar style it operates in. While the newest versions of Houdini include this functionality stock in the Clip SOP, at the time it was a fun little solve to such a problem.
 
 {{< image 2 >}}
 

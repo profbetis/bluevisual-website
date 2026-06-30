@@ -9,7 +9,7 @@ sections = ["Course Overview", "Session 1", "Session 2", "Session 3", "Promotion
 +++
 
 
-[HS-241: Procedural Animation](https://www.houdini.school/courses/hs-241-procedural-animation) is my second Houdini course (the first being [Problem Space](/personal/houdinischool-course-01)), this time focusing on procedural animation. While Houdini is known most for its strengths as a dynamics and simulation engine, much can be done with math, expressions, and attributes to efficiently define parametic and procedural animations to geometry.
+[HS-241 Procedural Animation](https://www.houdini.school/courses/hs-241-procedural-animation) is my second Houdini course (the first being [Problem Space](/personal/hs219_problem_space)), this time focusing on procedural animation. While Houdini is known most for its strengths as a dynamics and simulation engine, much can be done with math, expressions, and attributes to efficiently define parametic and procedural animations to geometry.
 
 A lot of concepts I find particularly fascinating and use regularly in professional environments are built live, discussed, and come together to bring a unified understanding of the concepts of time and data.
 

@@ -11,7 +11,7 @@ draft = false
 reel = true
 +++
 In this project, I was tasked with doing some rain effects for the Amazon Halo commercial.
-{{< youtube VRmBd51hfdI 540>}}
+{{< video_filename "amazon-halo-spot.mp4" >}}
 
 # Rain
 One of the asks was for a particular droplet splash that hits the product. It needed to be able to be timed precisely and generate physically accurate secondary droplets. Because I hate simulating things, I decided I would design a procedural system for this that was seamless with the background rain.
