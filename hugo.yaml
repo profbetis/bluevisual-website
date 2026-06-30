@@ -1,6 +1,6 @@
 baseurl: https://bluevisual.tv/
 
-languageCode: en-us
+locale: en-us
 
 title: Blue Visual Website v04
 
@@ -8,17 +8,15 @@ publishdir: docs
 
 module:
   mounts:
-  - files:
-    - '! docs/*'
-    source: content
+  - source: content
     target: content
-    excludeFiles:
-      - "work/_archive/*"
-      - "personal/_archive/*"
+    files:
+    - '! docs/*'
+    - '! **/_archive/*'
   - source: static
     target: static
-    excludeFiles:
-      - "project-media/_archive/*"
+    files:
+      - '! **/_archive/*'
   - source: assets
     target: assets
   - source: layouts
